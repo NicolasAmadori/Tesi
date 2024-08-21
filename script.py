@@ -22,12 +22,13 @@ import gc
 
 from llm import LLMGraphTransformer
 
-def getHuggingFaceModel(modelId = "microsoft/Phi-3-mini-128k-instruct"):
+def getHuggingFaceModel(model_id = "microsoft/Phi-3-mini-128k-instruct"):
     # model_id = "microsoft/Phi-3-mini-4k-instruct"
-    tokenizer = AutoTokenizer.from_pretrained(modelId)
+    # model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
 
     model = AutoModelForCausalLM.from_pretrained(
-        modelId,
+        model_id,
         load_in_4bit=True,
         device_map="cuda",
         trust_remote_code = True #Added for Phi-3-mini-128k
@@ -93,7 +94,7 @@ if __name__ == '__main__':
     os.environ["NEO4J_PASSWORD"]="gUxckYtBrObmia7f1ByzOp_0H4GPlW6-wZha7TofvEI"
     os.environ["AURA_INSTANCEID"]="6743dae3"
     os.environ["AURA_INSTANCENAME"]="Instance01"
-    
+
     graph = Neo4jGraph()
 
     llm = getHuggingFaceModel()
