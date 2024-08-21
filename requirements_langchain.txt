@@ -1,0 +1,8 @@
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-text-splitters==0.0.1
+langchainhub==0.1.15
+langchain_experimental==0.0.58
+docx2txt==0.8
+pypdf==4.2.0
