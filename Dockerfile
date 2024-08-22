@@ -29,10 +29,9 @@ COPY requirements_langchain.txt .
 # Install dependencies from requirements.txt
 RUN pip3 install --no-cache-dir -r requirements_base.txt
 RUN pip3 install --no-cache-dir -r requirements_langchain.txt
-RUN pip3 install --no-cache-dir -r requirements_milvus.txt
 
 RUN pip3 install setuptools==69.5.1
-RUN pip3 install flash_attn==2.5.8 --no-build-isolation
+# RUN pip3 install flash_attn==2.5.8 --no-build-isolation
 
 
 # Milvus

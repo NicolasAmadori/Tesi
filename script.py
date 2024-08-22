@@ -5,7 +5,6 @@ from langchain_community.graphs import Neo4jGraph
 from langchain.chains import LLMChain
 from transformers import AutoTokenizer, pipeline, AutoModelForCausalLM
 import torch
-from google.colab import userdata
 
 from langchain_core.messages import (
     HumanMessage,
@@ -45,24 +44,24 @@ def getHuggingFaceModel(model_id = "microsoft/Phi-3-mini-128k-instruct"):
     return llm
 
 def getDocuments(path):
-    # text = """
-    # Marie Curie, born in 1867, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
-    # She was the first woman to win a Nobel Prize, the first person to win a Nobel Prize twice, and the only person to win a Nobel Prize in two scientific fields.
-    # Her husband, Pierre Curie, was a co-winner of her first Nobel Prize, making them the first-ever married couple to win the Nobel Prize and launching the Curie family legacy of five Nobel Prizes.
-    # She was, in 1906, the first woman to become a professor at the University of Paris.
-    # """
-    # documents = [Document(page_content=text)]
-
+    text = """
+    Marie Curie, born in 1867, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+    She was the first woman to win a Nobel Prize, the first person to win a Nobel Prize twice, and the only person to win a Nobel Prize in two scientific fields.
+    Her husband, Pierre Curie, was a co-winner of her first Nobel Prize, making them the first-ever married couple to win the Nobel Prize and launching the Curie family legacy of five Nobel Prizes.
+    She was, in 1906, the first woman to become a professor at the University of Paris.
+    """
+    documents = [Document(page_content=text)]
+    return documents
     documents = []
     for root, dirs, files in os.walk(path):
         for file in files:
             file_path = os.path.join(root, file)
             content = ""
             try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
             except Exception as e:
-            print(f"Errore nella lettura di {file_path}: {e}")
+                print(f"Errore nella lettura di {file_path}: {e}")
 
             documents.append(Document(
                 page_content=content,
@@ -101,5 +100,6 @@ if __name__ == '__main__':
     llm_transformer = LLMGraphTransformer(llm=llm)
 
     documents = getDocuments("path")
+    
     generated_graph = generateGraph(documents[:5])
     graph.add_graph_documents(generated_graph)
