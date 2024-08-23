@@ -390,6 +390,8 @@ def create_unstructured_prompt(
         "{examples}\n"
         "For the following text, extract entities and relations as "
         "in the provided example."
+        "IMPORTANT NOTE: You are NOT forced to use just the entity types and relationships that you find in the examples,"
+        " instead, it will be very good if you are able to generate new relation and entity types"
         "{format_instructions}\nText: {input}",
     ]
     human_prompt_string = "\n".join(filter(None, human_string_parts))
@@ -862,7 +864,9 @@ class LLMGraphTransformer:
               for rel in upper_rel:
                 if not isinstance(rel, dict):
                   continue
-                if "head" not in rel: continue
+                if "head" not in rel or "head_type" not in rel or "tail" not in rel or "tail_type" not in rel:
+                    print(f"This relationships is not correct: {rel}")
+                    continue
                 # Nodes need to be deduplicated using a set
                 nodes_set.add((rel["head"], rel["head_type"]))
                 nodes_set.add((rel["tail"], rel["tail_type"]))

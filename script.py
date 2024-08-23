@@ -21,16 +21,19 @@ import gc
 
 from llm import LLMGraphTransformer
 
-def getHuggingFaceModel(model_id = "microsoft/Phi-3-mini-128k-instruct"):
+from langchain_core.prompts import PromptTemplate
+
+def getHuggingFaceModel(model_id, hf_token):
+    # model_id = "microsoft/Phi-3-mini-128k-instruct"
     # model_id = "microsoft/Phi-3-mini-4k-instruct"
-    # model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    tokenizer = AutoTokenizer.from_pretrained(model_id, use_auth_token = hf_token)
 
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
         load_in_4bit=True,
         device_map="cuda",
-        trust_remote_code = True #Added for Phi-3-mini-128k
+        trust_remote_code = True, #Added for Phi-3-mini-128k
+        use_auth_token = hf_token
         #attn_implementation="flash_attention_2", # if you have an ampere GPU (RTX3090 OK, T4(Colab) NON OK)
     )
     pipe = pipeline("text-generation",
@@ -38,20 +41,16 @@ def getHuggingFaceModel(model_id = "microsoft/Phi-3-mini-128k-instruct"):
                     tokenizer=tokenizer,
                     max_new_tokens=1024,
                     top_k=50,
-                    temperature=0.1)
+                    temperature=0.1,
+                    return_full_text = False)
     llm = HuggingFacePipeline(pipeline=pipe,
                             pipeline_kwargs={"return_full_text": False}) # <----- IMPORTANT !!!
     return llm
 
 def getDocuments(path):
-    text = """
-    Marie Curie, born in 1867, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
-    She was the first woman to win a Nobel Prize, the first person to win a Nobel Prize twice, and the only person to win a Nobel Prize in two scientific fields.
-    Her husband, Pierre Curie, was a co-winner of her first Nobel Prize, making them the first-ever married couple to win the Nobel Prize and launching the Curie family legacy of five Nobel Prizes.
-    She was, in 1906, the first woman to become a professor at the University of Paris.
-    """
-    documents = [Document(page_content=text)]
-    return documents
+    if not os.path.exists(path):
+        print("Path do not exist")
+        return []
     documents = []
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -87,19 +86,73 @@ def generateGraph(documents):
     
     return total_graph_documents
 
+def cleanMarkup(llm, text):
+    template = """
+    You are given a markup text. Your task is to remove any unnecessary or non-informative parts, such as:
+    - Tags, unless they contain useful content.
+    - Repeated phrases or sections.
+    - Decorative characters or symbols.
+    - Empty lines or spaces.
+
+    Please leave informative links.
+
+    Output only the cleaned text, without any additional explanation or markup.
+
+    {text}
+    """
+
+    prompt = PromptTemplate.from_template(template)
+
+    chain = prompt | llm
+
+    return chain.invoke({"text": text})   
+
+def cleanDocuments(llm, documents):
+    # output_directory = "workspace/cleaned_documents"
+    # os.makedirs(output_directory, exist_ok=True)
+    i = 0
+    for d in documents:
+        i+=1
+        print(f"Cleaning the document number: {i}/{len(documents)}")
+        d.page_content = cleanMarkup(llm, d.page_content)
+        # output_path = os.path.join(output_directory, f"{d.metadata['title']}.txt")
+        # with open(output_path, "w") as file:
+        #     file.write(cleaned_text)
+    return documents
+
 if __name__ == '__main__':
-    os.environ["NEO4J_URI"]="neo4j+s://6743dae3.databases.neo4j.io"
-    os.environ["NEO4J_USERNAME"]="neo4j"
-    os.environ["NEO4J_PASSWORD"]="gUxckYtBrObmia7f1ByzOp_0H4GPlW6-wZha7TofvEI"
-    os.environ["AURA_INSTANCEID"]="6743dae3"
-    os.environ["AURA_INSTANCENAME"]="Instance01"
-
-    graph = Neo4jGraph()
-
-    llm = getHuggingFaceModel()
-    llm_transformer = LLMGraphTransformer(llm=llm)
-
-    documents = getDocuments("path")
     
-    generated_graph = generateGraph(documents[:5])
-    graph.add_graph_documents(generated_graph)
+    from neo4j.debug import watch
+    watch("neo4j")
+
+    HF_TOKEN = "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"
+    # os.environ["NEO4J_URI"]="neo4j+s://6743dae3.databases.neo4j.io"
+    # os.environ["NEO4J_USERNAME"]="neo4j"
+    # os.environ["NEO4J_PASSWORD"]="gUxckYtBrObmia7f1ByzOp_0H4GPlW6-wZha7TofvEI"
+    # os.environ["AURA_INSTANCEID"]="6743dae3"
+    # os.environ["AURA_INSTANCENAME"]="Instance01"
+
+    graph = Neo4jGraph(url= "neo4j+s://6743dae3.databases.neo4j.io", username="neo4j", password="gUxckYtBrObmia7f1ByzOp_0H4GPlW6-wZha7TofvEI")
+    print("\n1. Neo4j Graph Created.\n")
+
+    llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
+    print("\n2. Model downloaded.\n")
+
+    llm_transformer = LLMGraphTransformer(llm=llm)
+    print("\n3. Graph Transformer initialized.\n")
+
+    documents = getDocuments("/workspace/crawl")
+    print(f"\n4. {len(documents)} Documents read.\n")
+
+    documents = cleanDocuments(llm, documents)
+    print(f"\n5. Documents cleaned.\n")
+    
+    generated_graph = generateGraph(documents[:])
+    print("\n6. Graph Generated.\n")
+
+    try:
+        graph.add_graph_documents(generated_graph)
+    except Exception as e:
+        print(f"Errore durante l'aggiunta del grafo al db: {e}")
+    else:
+        print("\n7. Graph added to neo4j db.\n")
