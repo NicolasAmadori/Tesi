@@ -1,0 +1,237 @@
+
+    You are given a markup text. Your task is to remove any unnecessary or non-informative parts, such as:
+    - Tags, unless they contain useful content.
+    - Repeated phrases or sections.
+    - Decorative characters or symbols.
+    - Empty lines or spaces.
+
+    Please leave informative links.
+
+    Output only the cleaned text, without any additional explanation or markup.
+
+    https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso
+
+Iscriversi al Corso: requisiti, tempi e modalità — Ingegneria e scienze informatiche - Laurea - Cesena
+================================================
+
+[Condividi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Iscriversi+al+Corso%3A+requisiti%2C+tempi+e+modalit%C3%A0 "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Iscriversi+al+Corso%3A+requisiti%2C+tempi+e+modalit%C3%A0&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Iscriversi%20al%20Corso%3A%20requisiti%2C%20tempi%20e%20modalit%C3%A0%0AIndirizzo%3A%20--href--%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Iscriversi%20al%20Corso%3A%20requisiti%2C%20tempi%20e%20modalit%C3%A0 "Invia ad un amico")
+
+Informazioni generali sui requisiti di accesso
+----------------------------------------------
+
+Requisiti per l'accesso al corso Per essere ammessi al corso di laurea in Ingegneria e Scienze Informatiche, occorre essere in possesso di un… [Leggi di più](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso#)
+
+Requisiti per l'accesso al corso  
+Per essere ammessi al corso di laurea in Ingegneria e Scienze Informatiche, occorre essere in possesso di un diploma di scuola secondaria superiore o di altro titolo di studio conseguito all'estero, riconosciuti idonei secondo la normativa vigente.  
+Sono inoltre richieste le seguenti conoscenze e competenze: una buona cultura generale, capacità di ragionamento logico e di comprensione del testo, una buona conoscenza delle nozioni fondamentali della matematica e delle scienze sperimentali.  
+  
+Le modalità di verifica delle conoscenze richieste per l’accesso sono definite nel Regolamento didattico del Corso di Studio.  
+Se la verifica non è positiva vengono indicati specifici Obblighi Formativi Aggiuntivi (OFA), il cui assolvimento è oggetto di specifica verifica.  
+La relativa modalità di accertamento è indicata nel Regolamento didattico del Corso di Studio.  
+Gli studenti che non assolvano agli OFA entro la data stabilita dagli Organi competenti e comunque entro il primo anno di corso devono ripetere l’iscrizione al medesimo anno.  
+  
+Maggiori dettagli nel Regolamento del Corso di Studio![Image 1: SUA cds](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/++theme++unibotheme.cds/images/logo-SUA.png)
+
+[Leggi meno](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso#)
+
+Bando di ammissione al Corso - Anno Accademico 2024/2025
+--------------------------------------------------------
+
+*   [Bando iscrizione A.A. 2024-2025](https://corsi.unibo.it/s/3424/p/it/iscriversi-al-corso-requisiti-tempi-e-modalita/bandotolc_ingegneria-e-scienze-area-informatica-_a-a-2022-23_rettifica.pdf/@@download/file/BandoTOLC_IngegneriaeScienze/(areainformatica/)_A.A.2024-2025.pdf) \[.pdf 1376Kb\]
+    
+
+Bando per l’ammissione ad anni successivi al primo - A. A. 2024/25
+------------------------------------------------------------------
+
+*   [Bando per l’ammissione ad anni successivi al primo Anno Accademico 2024-25](https://corsi.unibo.it/s/3424/p/it/iscriversi-al-corso-requisiti-tempi-e-modalita/bando-per-titoli_anni-successivi-ingegneria-cesena-con-prot_a-a-2023-24.pdf/@@download/file/Bandopertitoli_annisuccessiviIngegneriaCesena_A.A.2024-25conPROT.pdf) \[.pdf 642Kb\]
+    
+
+****Come iscriverti al Corso****
+--------------------------------
+
+\- Sostieni il TOLC:
+
+Registrati a [www.cisiaonline](https://www.cisiaonline.it/).it e ISCRIVITI al TOLC-I Le date e le modalità con cui è possibile sostenere le prove sono disponibili all’indirizzo https://tolc.cisiaonline.it/calendario.php
+
+ATTENZIONE! Scegli la tipologia di TOLC richiesta dal corso di interesse: **TOLC-I**
+
+Rispetta le date indicate nel bando per sostenere il TOLC-I. Ricorda che dopo aver sostenuto il TOLC-I devi necessariamente iscriverti alla selezione per il corso prescelto.
+
+\-Registrati su STUDENTI ON LINE:
+
+Se non sei in possesso delle credenziali istituzionali dell’Ateneo di Bologna devi collegarti a [Studenti OnLine](https://studenti.unibo.it/sol/welcome.htm) www.studenti.unibo.it e cliccare su REGISTRATI oppure accedi direttamente con le tue credenziali SPID o CIE.
+
+\-Iscriviti alla SELEZIONE per l'accesso al corso:
+
+collegati a [www.studenti.unibo.it](https://studenti.unibo.it/sol/welcome.htm) \- accedi alla sezione “RICHIESTA DI AMMISSIONE - Partecipa alla selezione” - seleziona il concorso denominato _"Ammissione ai corsi di laurea di Ingegneria e ai corsi di laurea di Scienze (area informatica) - TOLC-I_" che trovi nel bando - effettua il pagamento di 20,00 euro (pagamento in nessun caso rimborsabile e valido anche per le successive selezioni).
+
+ATTENZIONE! Il bando prevede 2 selezioni:
+
+I selezione (TOLC-I sostenuto tra il 01/01/2023 e il 29 aprile 2024): Iscrizioni dal 04/03/2024 al 30/04/2024 ore 13:00.
+
+La graduatoria della I selezione sarà pubblicata il 06 maggio 2024.
+
+II selezione (TOLC-I sostenuto tra il 01/01/2023 e il 12 luglio 2024): Iscrizioni dal 02/05/2024 al 15/07/2023 ore 13:00.
+
+La graduatoria della II selezione sarà pubblicata il 17 luglio 2024.
+
+Verifica le regole nel Bando poiché sono differenti in ciascuna selezione.
+
+Controlla le graduatorie che verranno pubblicate su www.studenti.unibo.it
+
+Se risulti VINCITORE devi procedere alla IMMATRICOLAZIONE secondo le modalità ed i termini perentori indicati nel Bando pena l'esclusione dalla procedura.
+
+Se nella I Selezione non risulti vincitore  e risulti IDONEO avendo raggiunto il punteggio minimo pari a 18/50, puoi esprimere INTERESSE PER IL RECUPERO su [www.studenti.unibo.it](https://studenti.unibo.it/sol/welcome.htm) (vedi Sezioni 4.5 e 4.6 del Bando dove puoi vedere anche le modalità per la II Selezione).
+
+Leggi con attenzione il bando di ammissione per l'anno accademico 2024/25 pubblicato in questa pagina web per conoscere le modalità e le scadenze per candidarti alle selezioni e per immatricolarti.
+
+**Quale titolo di studio serve**
+
+E' necessario il possesso di uno dei seguenti titoli:
+
+\- diploma di maturità quinquennale (E' possibile iscriversi alla selezione ed eventualmente al corso di studi anche in mancanza del diploma di scuola secondaria superiore, che va tuttavia conseguito entro il 30 dicembre 2024, pena la decadenza dall'immatricolazione);
+
+\- diploma di maturità quadriennale con anno integrativo. Nel caso in cui il diploma sia rilasciato da istituti che non prevedevano l'anno integrativo, contatta la Segreteria studenti;
+
+\- titolo estero valido: [consulta le informazioni specifiche prima di procedere](http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/iscriversi-corso-laurea-o-laurea-magistrale-a-ciclo-unico-con-titolo-estero).
+
+Se sei un **cittadino non-UE residente all’estero** puoi partecipare solo alla II selezione, leggi le [informazioni specifiche](http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/studenti-non-ue-residenti-estero-contingenti-preiscrizione-visto-prova-lingua-italiana).
+
+E' considerato valido solo l'esito dell'ultimo TOLC-I sostenuto entro i tempi indicati nel Bando.
+
+Le selezioni non prevedono ulteriori prove o test ma l'iscrizione alla selezione senza aver sostenuto il TOLC-I nei tempi previsti dal bando non è ritenuta valida.
+
+Puoi partecipare alle selezioni dell'A.A. 2024/2025 con un TOLC-I sostenuto dal **1 gennaio 2023.**
+
+**Se non sei rientrato nei posti utili dopo le procedure di recupero puoi iscriverti alla SELEZIONE STRAORDINARIA:** iscrizione (con TOLC-I sostenuto nel periodo dal 01-01-2023 al 18 settembre 2024) **dal 10 al 19 settembre 2024 alle ore 13.00** (vedi avviso ad inizio pagina).
+
+**Ammissione ad anni successivi al primo**
+------------------------------------------
+
+Nell'anno accademico 2024-25 gli studenti che avendo già maturato crediti formativi universitari (CFU) in precedente carriera universitaria a seguito di:
+
+· Trasferimento da altra università;
+
+· Passaggio da altro corso di studi dell’Alma Mater Studiorum – Università di Bologna;
+
+· Laurea precedente;
+
+· Singole attività formative;
+
+· Rinuncia agli studi;
+
+· Decadenza;
+
+· Studi all’estero (laurea o percorso di studi non completato),
+
+possiedono i requisiti per iscriversi ad anni successivi al primo e devono attenersi alle indicazioni del relativo 'Bando di ammissione ad anni successivi al primo' pubblicato in questa pagina.
+
+Tasse e importi
+---------------
+
+L'importo delle tasse è calcolato in base all’attestazione ISEE 2024 per prestazioni agevolate di diritto allo studio. È previsto l’esonero totale per le matricole con ISEE minore o uguale a 27.000 €. Oltre la soglia il calcolo viene fatto in misura progressiva.
+
+L'attestazione ISEE deve essere inserita, anche se non hai fatto l'iscrizione al Corso, **entro il 30 ottobre 2024 ore 18:00** (o entro il 15 novembre 2024 ore 18:00 con una mora di 100 €) accedendo ai [Servizi online di ER-GO](https://servizionline.er-go.it/domande2/ "https://servizionline.er-go.it/domande2/"), altrimenti dovrai versare l'importo massimo.
+
+Se sei uno **studente internazionale**, verifica come viene calcolato l'importo delle tasse a seconda del Paese da cui provieni e da dove la tua famiglia ha redditi e patrimoni.
+
+[Consulta tutte le informazioni su Tasse ed esoneri.](https://www.unibo.it/it/studiare/iscrizioni-tasse-e-altre-procedure/lauree-e-lauree-magistrali/tasse-e-contributi)
+
+Immatricolazione
+----------------
+
+Dopo aver compiuto tutti i passi previsti per la verifica dei requisiti potrai immatricolarti accedendo a  [Studenti Online](https://studenti.unibo.it/sol/welcome.htm):
+
+1.  compila la domanda di immatricolazione inserendo i dati richiesti e una fototessera in formato digitale;
+2.  effettua il pagamento della prima rata delle tasse;
+3.  segui le [indicazioni per completare la procedura](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/completa-procedura-immatricolazione) che potresti trovare su Studenti Online in base al tuo profilo.
+
+  
+
+### TOLC: Date 2024
+
+*   [Date TOLC-I 2024](https://tolc.cisiaonline.it/calendario.php?tolc=ingegneria&date=tutte)
+    
+
+### TOLC-I
+
+*   [TOLC: cos'è e come si svolge](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/tolc-cos-e-e-come-si-svolge)
+    
+
+### Devi sostenere il TOLC e hai bisogno di ripassare gli argomenti di matematica?
+
+*   [Devi sostenere il TOLC e hai bisogno di ripassare gli argomenti di matematica?](https://almaorienta.unibo.it/it/almamathematica)Partecipa ai webinar gratuiti di AlmaMathematica dove tutor e docenti ti aiuteranno a svolgere esercizi utili
+    
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso#)
+
+ 
+
+[](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso# "Torna su")
+    
+
+
+
+**Output:**
+
+Iscriversi al Corso: requisiti, tempi e modalità — Ingegneria e scienze informatiche - Laurea - Cesena
+
+Requisiti per l'accesso al corso
+
+*   Diploma di scuola secondaria superiore o di altro titolo di studio conseguito all'estero, riconosciuto idoneo secondo la normativa vigente.
+*   Buona cultura generale, capacità di ragionamento logico e di comprensione del testo, buona conoscenza delle nozioni fondamentali della matematica e delle scienze sperimentali.
+
+Modalità di verifica delle conoscenze richieste per l'accesso
+
+*   La verifica non è positiva vengono indicati specifici Obblighi Formativi Aggiuntivi (OFA), il cui assolvimento è oggetto di specifica verifica.
+
+Informazioni generali sui requisiti di accesso
+
+*   Per essere ammessi al corso di laurea in Ingegneria e Scienze Informatiche, occorre essere in possesso di un diploma di scuola secondaria superiore o di altro titolo di studio conseguito all'estero, riconosciuto idoneo secondo la normativa vigente.
+*   Sono inoltre richieste le seguenti conoscenze e competenze: una buona cultura generale, capacità di ragionamento logico e di comprensione del testo, una buona conoscenza delle nozioni fondamentali della matematica e delle scienze sperimentali.
+
+Bando di ammissione al Corso - Anno Accademico 2024/2025
+
+*   [Bando iscrizione A.A. 2024-2025](https://corsi.unibo.it/s/3424/p/it/iscriversi-al-corso-requisiti-tempi-e-modalita/bandotolc_ingegneria-e-scienze-area-informatica-_a-a-2022-23_rettifica.pdf/@@download/file/BandoTOLC_IngegneriaeScienze/(areainformatica/)_A.A.2024-2025.pdf) [pdf 1376Kb]
+*   [Bando per l’ammissione ad anni successivi al primo - A. A. 2024/25](https://corsi.unibo.it/s/3424/p/it/iscriversi-al-corso-requisiti-tempi-e-modalita/bando-per-titoli_anni-successivi-ingegneria-cesena-con-prot_a-a-2023-24.pdf/@@download/file/Bandopertitoli_annisuccessiviIngegneriaCesena_A.A.2024-25conPROT.pdf) [pdf 642Kb]
+
+Come iscriverti al Corso
+
+*   Sostieni il TOLC: Registrati a [www.cisiaonline.it](https://www.cisiaonline.it/) e ISCRIVITI al TOLC-I.
+*   Registrati su STUDENTI ON LINE: Se non sei in possesso delle credenziali istituzionali dell’Ateneo di Bologna devi collegarti a [Studenti OnLine](https://studenti.unibo.it/sol/welcome.htm) www.studenti.unibo.it e cliccare su REGISTRATI oppure accedi direttamente con le tue credenziali SPID o CIE.
+*   Iscriviti alla SELEZIONE per l'accesso al corso: Collegati a [www.studenti.unibo.it](https://studenti.unibo.it/sol/welcome.htm) - accedi alla sezione “RICHIESTA DI AMMISSIONE - Partecipa alla selezione” - seleziona il concorso denominato _"Ammissione ai corsi di laurea di Ingegneria e ai corsi di laurea di Scienze (area informatica) - TOLC-I_" che trovi nel bando - effettua il pagamento di 20,00 euro (pagamento in nessun caso rimborsabile e valido anche per le successive selezioni).
+
+Tasse e importi
+
+*   L'importo delle tasse è calcolato in base all’attestazione ISEE 2024 per prestazioni agevolate di diritto allo studio. È previsto l’esonero totale per le matricole con ISEE minore o uguale a 27.000 €. Oltre la soglia il calcolo viene fatto in misura progressiva.
+*   L'attestazione ISEE deve essere inserita, anche se non hai fatto l'iscrizione

@@ -1,0 +1,116 @@
+
+    You are given a markup text. Your task is to remove any unnecessary or non-informative parts, such as:
+    - Tags, unless they contain useful content.
+    - Repeated phrases or sections.
+    - Decorative characters or symbols.
+    - Empty lines or spaces.
+
+    Please leave informative links.
+
+    Output only the cleaned text, without any additional explanation or markup.
+
+    https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea
+
+Calcolo del voto di laurea — Ingegneria e scienze informatiche - Laurea - Cesena
+==========================
+
+Per l'attribuzione della votazione finale dell'esame di Laurea, il voto di partenza presentato alla commissione di laurea è dato:
+
+[Condividi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Calcolo+del+voto+di+laurea "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Calcolo+del+voto+di+laurea&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Calcolo%20del%20voto%20di%20laurea%0AIndirizzo%3A%20--href--%0ATesto%3A%20Per%20l%27attribuzione%20della%20votazione%20finale%20dell%27esame%20di%20Laurea%2C%20il%20voto%20di%20partenza%20presentato%20alla%20commissione%20di%20laurea%20%C3%A8%20dato%3A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Calcolo%20del%20voto%20di%20laurea "Invia ad un amico")
+
+\- dalla media ponderata di tutti gli esami con voto in trentesimi sostenuti nel piano di studio (le idoneità non rientrano nella media e se vengono sostenuti esami in sovrannumero questi fanno media insieme a tutti gli altri esami), la media in trentesimi deve poi essere proporzionata in cento decimi;
+
+\- non ci sono bonus per studenti che si laureano in corso;
+
+\- le lodi non rientrano nel calcolo della media di laurea di partenza, ma vengono prese in considerazione a discrezione della commissione di laurea che può visualizzare tutta la carriera del laureando;
+
+alla media di partenza in cento decimi vengono sommati i punti acquisiti dalla preparazione e discussione della prova finale e attribuiti allo studente dalla commissione di laurea ([vedi linee guida](https://corsi.unibo.it/Laurea/IngegneriaScienzeInformatiche/Documents/Linee%20guida%20tesi%208615.pdf)).
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea#)
+
+ 
+
+[](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea# "Torna su")
+    
+
+
+
+Calcolo del voto di laurea — Ingegneria e scienze informatiche - Laurea - Cesena
+==========================
+
+Per l'attribuzione della votazione finale dell'esame di Laurea, il voto di partenza presentato alla commissione di laurea è dato:
+
+*   dalla media ponderata di tutti gli esami con voto in trentesimi sostenuti nel piano di studio (le idoneità non rientrano nella media e se vengono sostenuti esami in sovrannumero questi fanno media insieme a tutti gli altri esami), la media in trentesimi deve poi essere proporzionata in cento decimi;
+
+*   non ci sono bonus per studenti che si laureano in corso;
+
+*   le lodi non rientrano nel calcolo della media di laurea di partenza, ma vengono prese in considerazione a discrezione della commissione di laurea che può visualizzare tutta la carriera del laureando;
+
+alla media di partenza in cento decimi vengono sommati i punti acquisiti dalla preparazione e discussione della prova finale e attribuiti allo studente dalla commissione di laurea ([vedi linee guida](https://corsi.unibo.it/Laurea/IngegneriaScienzeInformatiche/Documents/Linee%20guida%20tesi%208615.pdf)).
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea#)
+
+ 
+
+[](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea# "Torna su")
+    
+
+
+
+Calcolo del voto di laurea — Ingegneria e scienze informatiche - Laurea - Cesena
+==========================
