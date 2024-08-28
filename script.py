@@ -44,7 +44,7 @@ def getHuggingFaceModel(model_id, hf_token):
                     max_new_tokens=1024,
                     top_k=50,
                     temperature=0.1,
-                    return_full_text = True)
+                    return_full_text = False)
     llm = HuggingFacePipeline(pipeline=pipe,
                             pipeline_kwargs={"return_full_text": False}) # <----- IMPORTANT !!!
     return llm
@@ -134,18 +134,68 @@ def test_neo4j_connection(graph):
         print(f"Errore durante la verifica della connessione al db Neo4j: {e}")
         return False
 
-def save_graph_to_file(generated_graph):
-    current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
-    
-    file_name = f"generated_graph_{current_time}.txt"
-    
+def save_graph_to_file(generated_graph, file_name=None):
+    file_path = f"workspace/generated_graphs"
+    if file_name:
+        file_path += f"/{file_name}.txt"
+    else:
+        current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
+        file_path += f"/generated_graph_{current_time}.txt"
+
     try:
-        with open(file_name, 'w', encoding='utf-8') as f:
+        with open(file_path, 'w', encoding='utf-8') as f:
             for graph_document in generated_graph:
                 f.write(str(graph_document) + '\n')
-        print(f"Graph successfully saved to {file_name}")
+        print(f"Graph successfully saved to {file_path}")
     except Exception as e:
         print(f"Error while saving the graph to file: {e}")
+
+def generateGraph(llm, text):
+    import json_repair
+
+    template = """
+    You are a top-tier algorithm designed for extracting information in structured formats to build a knowledge graph.
+    Your task is to identify the entities and relations requested with the user prompt from a given text.
+    You must generate the output in a JSON format containing a list 'with JSON objects.
+    Each object should have the keys: head, ''head_type, relation, tail, and tail_type.
+    The head 'key must contain the text of the extracted entity with one of the types from the provided list in the user prompt.
+    Attempt to extract as many entities and relations as you can.
+    Maintain Entity Consistency: When extracting entities, it's vital to ensure 'consistency.
+    If an entity, such as John Doe, is mentioned multiple 'times in the text but is referred to by different names or pronouns '(e.g., Joe, he), always use the most complete identifier for 'that entity.
+    The knowledge graph should be coherent and easily understandable, so maintaining consistency in entity references is crucial.
+
+    IMPORTANT NOTES:\n- Don't add any explanation and text.
+
+    {text}
+    """
+
+    prompt = PromptTemplate.from_template(template)
+
+    chain = prompt | llm
+    llm_output = chain.invoke({"text": text})  
+    return json_repair.loads(llm_output)
+
+def scrivi_json_in_file(json_data, percorso):
+    import json
+    if not os.path.exists(percorso):
+        os.makedirs(percorso)
+    
+    for i, data in enumerate(json_data):
+        nome_file = f"json_{i+1}.json"
+        percorso_completo = os.path.join(percorso, nome_file)
+        
+        with open(percorso_completo, 'w', encoding='utf-8') as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
+
+def saveTextToFiles(texts, path):
+    if not os.path.exists(path):
+        os.makedirs(path)
+    
+    for i, testo in enumerate(texts):
+        nome_file = f"text_{i+1}.txt"
+        percorso_completo = os.path.join(path, nome_file)
+        with open(percorso_completo, 'w', encoding='utf-8') as file:
+            file.write(testo)
 
 if __name__ == '__main__':
     watch("neo4j")
@@ -160,9 +210,9 @@ if __name__ == '__main__':
     os.environ["AURA_INSTANCEID"]="bbef2ff2"
     os.environ["AURA_INSTANCENAME"]="Instance01"
 
-    graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
-    print("\n1. Neo4j Graph Created.\n")
-    print(f"Risultato test: {test_neo4j_connection(graph)}")
+    # graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
+    # print("\n1. Neo4j Graph Created.\n")
+    # print(f"Risultato test: {test_neo4j_connection(graph)}")
 
     llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
     print("\n2. Model downloaded.\n")
@@ -170,11 +220,11 @@ if __name__ == '__main__':
     llm_transformer = LLMGraphTransformer(llm=llm)
     print("\n3. Graph Transformer initialized.\n")
 
-    documents = getDocuments("/workspace/crawl")
-    print(f"\n4. {len(documents)} Documents read.\n")
+    # documents = getDocuments("/workspace/crawl")
+    # print(f"\n4. {len(documents)} Documents read.\n")
 
-    cleaned_documents = cleanDocuments(llm, documents, create_files=True)
-    print(f"\n5. Documents cleaned.\n")
+    # cleaned_documents = cleanDocuments(llm, documents, create_files=True)
+    # print(f"\n5. Documents cleaned.\n")
     
     # generated_graph = generateGraph(cleaned_documents)
     # print("\n6. Graph Generated.\n")
@@ -186,3 +236,9 @@ if __name__ == '__main__':
     #     print(f"Errore durante l'aggiunta del grafo al db: {e}")
     # else:
     #     print("\n7. Graph added to neo4j db.\n")
+
+    ##Testing
+
+    cleaned_documents = getDocuments("/workspace/cleaned_documents")
+    graphs = [generateGraph(llm, d.page_content) for d in cleaned_documents]
+    scrivi_json_in_file(graphs, "workspace/generated_graphs")

@@ -1,0 +1,145 @@
+[
+    [
+        {
+            "head": "Università di Bologna",
+            "head_type": "University",
+            "relation": "located_in",
+            "tail": "Bologna",
+            "tail_type": "City"
+        },
+        {
+            "head": "ALMA MATER STUDIORUM",
+            "head_type": "Organization",
+            "relation": "owns",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Ingegneria e Scienze Informatiche",
+            "head_type": "Field of Study",
+            "relation": "taught_at",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Cesena",
+            "head_type": "City",
+            "relation": "located_in",
+            "tail": "Ingegneria e Scienze Informatiche",
+            "tail_type": "Field of Study"
+        },
+        {
+            "head": "Facebook",
+            "head_type": "Social Media Platform",
+            "relation": "followed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "LinkedIn",
+            "head_type": "Social Media Platform",
+            "relation": "followed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Instagram",
+            "head_type": "Social Media Platform",
+            "relation": "followed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "YouTube",
+            "head_type": "Video Sharing Platform",
+            "relation": "followed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Telegram",
+            "head_type": "Messaging App",
+            "relation": "used_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "myUniBo",
+            "head_type": "Mobile App",
+            "relation": "developed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "myAlmaOrienta",
+            "head_type": "Mobile App",
+            "relation": "developed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "App Job Placement",
+            "head_type": "Mobile App",
+            "relation": "developed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "App Alumni",
+            "head_type": "Mobile App",
+            "relation": "developed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        }
+    ],
+    [
+        {
+            "head": "Università di Bologna",
+            "head_type": "University",
+            "relation": "located_in",
+            "tail": "Bologna",
+            "tail_type": "City"
+        },
+        {
+            "head": "ALMA MATER STUDIORUM",
+            "head_type": "Organization",
+            "relation": "owns",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Ingegneria e Scienze Informatiche",
+            "head_type": "Field of Study",
+            "relation": "taught_at",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Cesena",
+            "head_type": "City",
+            "relation": "located_in",
+            "tail": "Ingegneria e Scienze Informatiche",
+            "tail_type": "Field of Study"
+        },
+        {
+            "head": "Facebook",
+            "head_type": "Social Media Platform",
+            "relation": "followed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "LinkedIn",
+            "head_type": "Social Media Platform",
+            "relation": "followed_by",
+            "tail": "Università di Bologna",
+            "tail_type": "University"
+        },
+        {
+            "head": "Instagram",
+            "head_type": "Social Media Platform",
+            "relation": "followed_by",
+            "tail": "Università"
+        }
+    ]
+]

@@ -1,0 +1,151 @@
+
+
+
+
+Output:
+[
+    {
+        "head": "Calcolo del voto di laurea",
+        "head_type": "article",
+        "relation": "is_about",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Ingegneria e scienze informatiche",
+        "head_type": "field_of_study",
+        "relation": "is_about",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Cesena",
+        "head_type": "location",
+        "relation": "is_location",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Università di Bologna",
+        "head_type": "organization",
+        "relation": "is_affiliated_with",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "ALMA MATER STUDIORUM",
+        "head_type": "organization",
+        "relation": "is_affiliated_with",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Via Zamboni, 33",
+        "head_type": "location",
+        "relation": "is_location",
+        "tail": "Università di Bologna",
+        "tail_type": "organization"
+    },
+    {
+        "head": "Privacy",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Note legali",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Informazioni sul sito e accessibilità",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Impostazioni cookie",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    }
+]    
+
+
+
+Output in JSON format:
+[
+    {
+        "head": "Calcolo del voto di laurea",
+        "head_type": "article",
+        "relation": "is_about",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Ingegneria e scienze informatiche",
+        "head_type": "field_of_study",
+        "relation": "is_about",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Cesena",
+        "head_type": "location",
+        "relation": "is_location",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Università di Bologna",
+        "head_type": "organization",
+        "relation": "is_affiliated_with",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "ALMA MATER STUDIORUM",
+        "head_type": "organization",
+        "relation": "is_affiliated_with",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Via Zamboni, 33",
+        "head_type": "location",
+        "relation": "is_location",
+        "tail": "Università di Bologna",
+        "tail_type": "organization"
+    },
+    {
+        "head": "Privacy",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Note legali",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Informazioni sul sito e accessibilità",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type": "academic_program"
+    },
+    {
+        "head": "Impostazioni cookie",
+        "head_type": "topic",
+        "relation": "is_related_to",
+        "tail": "Laurea",
+        "tail_type

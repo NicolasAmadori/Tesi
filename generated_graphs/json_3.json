@@ -1,0 +1,44 @@
+[
+    {
+        "head": "Diploma di scuola secondaria superiore",
+        "head_type": "Entity",
+        "relation": "Requisito",
+        "tail": "accesso al corso",
+        "tail_type": "Entity"
+    },
+    {
+        "head": "Buona cultura generale",
+        "head_type": "Entity",
+        "relation": "Requisito",
+        "tail": "accesso al corso",
+        "tail_type": "Entity"
+    },
+    {
+        "head": "Capacità di ragionamento logico",
+        "head_type": "Entity",
+        "relation": "Requisito",
+        "tail": "accesso al corso",
+        "tail_type": "Entity"
+    },
+    {
+        "head": "Buona conoscenza delle nozioni fondamentali",
+        "head_type": "Entity",
+        "relation": "Requisito",
+        "tail": "accesso al corso",
+        "tail_type": "Entity"
+    },
+    {
+        "head": "Regolamento didattico del Corso di Studio",
+        "head_type": "Entity",
+        "relation": "Modalità di verifica",
+        "tail": "accesso al corso",
+        "tail_type": "Entity"
+    },
+    {
+        "head": "Bando di ammissione al Corso",
+        "head_type": "Entity",
+        "relation": "Modalità di verifica",
+        "tail": "accesso al corso",
+        "tail_type": "Entity"
+    }
+]
