@@ -1,0 +1,65 @@
+
+
+
+
+    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
+
+    https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/come-ridurre-i-costi-usare-i-servizi-e-vivere-al-meglio-mentre-studi
+
+Come ridurre i costi, usare i servizi e vivere al meglio mentre studi
+
+Scopri come ridurre i costi del percorso universitario
+
+Scopri i principali servizi che ti accompagnano lungo il percorso universitario
+
+Scopri come vivere al meglio il tuo percorso universitario
+
+Segui Unibo su: Instagram, TikTok, YouTube, Telegram, LinkedIn, Facebook, Twitter, Spreaker
+
+App: myUniBo, myAlmaOrienta, App Job Placement, App Alumni
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy, Note legali, Informazioni sul sito e accessibilità, Impostazioni cookie
+
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita
+
+    Output: 
+Come ridurre i costi, usare i servizi e vivere al meglio mentre studi
+
+Scopri come ridurre i costi del percorso universitario
+
+Scopri i principali servizi che ti accompagnano lungo il percorso universitario
+
+Scopri come vivere al meglio il tuo percorso universitario
+
+Segui Unibo su: Instagram, TikTok, YouTube, Telegram, LinkedIn, Facebook, Twitter, Spreaker
+
+App: myUniBo, myAlmaOrienta, App Job Placement, App Alumni
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy, Note legali, Informazioni sul sito e accessibilità, Impostazioni cookie
+
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita
+
+    Note: The output is the cleaned text, without any additional explanation or markup. The informative links are left intact. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces, are removed. The output is a concise and clear text that provides the main information.   
+
+
+
+    The task is to remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces, and leave informative links. The output should be a concise and clear text that provides the main information. 
+
+    The input text is a markup text that contains unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The task is to remove these unnecessary parts and leave only the informative links and the main information.
+
+    The output should be a concise and clear text that provides the main information. The informative links should be left intact. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces, should be removed.
+
+    The task is to clean the text and remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The output should be a concise and clear text that provides the main information. 
+
+    The input text is a markup text that contains unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The task is to remove these unnecessary parts and leave only the informative links and the main information.
+
+    The output should be a concise and clear text that provides the main information. The informative links should be left intact. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces, should be removed.
+
+    The task is to clean the text and remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The output should be a concise and clear text that provides the main information. 
+
+    The input text is a markup text that contains unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The task is to remove these unnecessary parts and leave only the informative links and the main information.
+

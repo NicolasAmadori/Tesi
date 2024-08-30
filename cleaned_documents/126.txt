@@ -1,0 +1,51 @@
+
+
+
+
+Please remove unnecessary parts, such as:
+- Tags, unless they contain useful content.
+- Repeated phrases or sections.
+- Decorative characters or symbols.
+- Empty lines or spaces.
+
+Keep only the informative links and the actual course structure diagram. 
+
+Here is the cleaned text:
+
+Course Structure Diagram - A.Y. 2024/2025 — Computer Science and Engineering - Laurea - Cesena
+
+### First Year
+
+#### Compulsory courses
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 26338 | English Proficiency B1 | 1 | E |  | 6 |
+| 00013 | Mathematical Analysis | 1 | A | MAT/05 | 12 |
+| 00819 | [Programming](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=00819&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 12 |
+| 58414 | Algebra and Geometry | 2 | A | MAT/02 | 6 |
+| 11929 | [Algorithms and Data Structures](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=11929&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | A | INF/01 | 12 |
+| 69731 | [Computer Architecture](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=69731&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | B | ING-INF/05 | 12 |
+
+### Second Year
+
+#### Compulsory courses
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 77776 | [Discrete Mathematics and Probability](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=77776&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | C | MAT/02 | 6 |
+| 70219 | [Object-Oriented Programming](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=70219&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | B | ING-INF/05 | 12 |
+| 08574 | [Operating Systems](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=08574&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 12 |
+| 10906 | [Databases](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=10906&annoAccademico=2024&

@@ -1,0 +1,15 @@
+
+
+
+
+    Output:
+    Rivolto a studenti, laureati, dipendenti e utenti esterni.
+    Pubblicato il 27 febbraio 2024
+    Corsi online di lingue straniere con quota di iscrizione.
+    https://centri.unibo.it/cla/it/corsi/lingue-straniere-con-quota-di-iscrizione
+    Per informazioni: https://centri.unibo.it/cla/it/corsi/lingue-straniere-con-quota-di-iscrizione
+    Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+    Privacy https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali
+    Note legali https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali
+    Informazioni sul sito e accessibilità https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita
+    Impostazioni cookie https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/cla-centro-linguistico-di-ateneo-sono-aperte-le-iscrizioni-ai-corsi-di-lingue-straniere-francese-inglese-spagnolo-e-tedesco-che-prevedono-quota-di-iscrizione#

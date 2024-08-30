@@ -1,0 +1,72 @@
+
+
+
+
+Output:
+```
+La sede
+La sede- cortile interno
+La sede all'interno
+Aula Magna
+La biblioteca
+I laboratori
+[Pausa](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche#) [Play](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche#)
+Esplora il Corso
+Open day
+Tipo di corso Laurea
+Sede didattica Cesena
+Lingua Italiano
+Tipo di accesso Numero programmato - TOLC-I
+Classe di corso L-8 - INGEGNERIA DELL'INFORMAZIONE  L-31 - SCIENZE E TECNOLOGIE INFORMATICHE  
+Coordinatore Franco Callegati
+Dipartimento Informatica - Scienza e Ingegneria - DISI
+Insegnamenti Il piano didattico
+I più visti
+Orario delle lezioni
+Appelli d'esame
+Elenco Docenti
+Studenti Online
+Bacheca
+Masterclass "Generative AI for everyday life and academic research"
+Pubblicati i primi orari delle lezioni
+Concorso per premi nell’ambito della settimana della sicurezza 2024
+Un alloggio per studiare all'università?
+È online il bando ER.GO - Azienda regionale per il diritto agli studi superiori
+Bando AlmaCert – contributo per certificazioni linguistiche internazionali
+Vai alla bacheca
+In Evidenza
+Materiale orientamento
+Presentazione del corso
+Tour Virtuale del Campus di Cesena
+Eventi di orientamento per le scuole superiori
+Università & Aziende
+La qualità del Corso
+Borse di studio
+Esperienze all'estero
+Cerchi un'informazione? Hai un dubbio? Il tutor del Corso ti aiuterà durante il tuo percorso universitario.
+Unibomagazine
+Unibostore
+Equità, diversità e inclusione
+Podcast Università di Bologna
+Segui il corso su:
+Seguici su Facebook
+Seguici su Linkedin
+Segui Unibo su:
+Seguici su Instagram
+Seguici su TikTok
+Seguici su YouTube
+Seguici su Telegram
+Seguici su LinkedIn
+Seguici su Facebook
+Seguici su Twitter
+Seguici su Spreaker
+App:
+myUniBo
+myAlmaOrienta
+App Job Placement
+App Alumni
+```
+
+
+
+Note: The output is a cleaned version of the markup text, removing unnecessary parts, tags, and decorative characters. The informative links are left intact. The output is a single block of text, without any additional explanation or markup.

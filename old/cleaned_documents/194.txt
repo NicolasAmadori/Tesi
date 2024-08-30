@@ -1,0 +1,28 @@
+
+
+
+
+Output:
+```
+La presente pagina riassume le diverse modalità di collaborazione tra Aziende o Enti Pubblici e i CdL in Ingegneria e Scienze Informatiche di Cesena. Riportiamo di seguito una classificazione delle possibili forme di collaborazione.
+
+Collaborazione con docenti e gruppi di ricerca
+
+Partecipazione congiunta a progetti di ricerca/innovazione
+
+La collaborazione è tra l’azienda e i ricercatori. Le parti concordano di partecipare congiuntamente a bandi di ricerca/innovazione a livello locale, regionale o internazionale.
+
+Collaborazione con studenti
+
+Tesi magistrale in Azienda
+
+Gli studenti possono, a loro discrezione, svolgere la propria tesi di Laurea in azienda. La durata di questa attività varia da 2 a 4 mesi. Il numero di studenti che svolgono tesi magistrali in azienda è limitato e le probabilità di trovare candidati per il tema proposto sono limitate.
+
+Pubblicazione di offerte di lavoro
+
+Il servizio di Job Placement consente di inserire offerte di lavoro e consultare i CV dei laureati.
+```
+
+
+
+Note: The output is the cleaned text, without any additional explanation or markup. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces, have been removed. The informative links have been left intact. The output is a concise summary of the collaboration between companies or public entities and the Master's degree programs in Engineering and Computer Science at the University of Bologna.

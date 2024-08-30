@@ -1,0 +1,61 @@
+
+
+
+
+Output:
+
+Computer Science and Engineering - Laurea - Cesena
+================================
+
+*   [The Course is held in Italian. Go to website](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)
+
+*   Programme type Laurea (First cycle degree/Bachelor - 180 ECTS)
+    
+*   Place of teaching Cesena
+    
+*   Language Italian
+    
+*   Type of access Restricted access - TOLC-I
+    
+*   Degree Programme Class L-8 - Information technology engineering  
+    L-31 - Computer Science 
+    
+*   Degree Programme Director [Franco Callegati](https://www.unibo.it/uniboweb/Utils/sitowebpersonale.aspx?MAT=30946&lang=en)
+    
+*   Department [Computer Science and Engineering - DISI](http://www.cse.unibo.it/en)
+    
+*   Learning activities [Course structure diagram](https://corsi.unibo.it/1cycle/ComputerScienceEngineering/course-structure-diagram)
+
+In conformity with the ministerial decree on degree class objectives, the teaching programme aims to give graduates both a sound theoretical, technological and methodological grounding, and some precise operative skills acquired through working on set projects, whether group-based or individual, that form an integral partof the training.
+
+Graduates will possess:  
+\- a gamut of competences and skills in the various ICT areas of use indesigning, developing and managing ICT systems and networks, regardless of the specific applicative domain;  
+\- mastery of the mathematical tools needed for formal modelling, analysis,evaluation, design and implementation of systems;  
+\- a certain degree of independence in assimilating various cutting-edge topicsin the graduates' own field of study;  
+\- an ability to think up and defend arguments both in a work group and whenworking on their own;  
+\- practice in gathering and interpreting experimental data with which to testthe effectiveness and efficiency of information systems;  
+\- effective use of written and oral English, as well as Italian, both in the graduates' special field and for exchange of general information;  
+\- the ability to do bibliographical research, making use of data banks and information networks;  
+\- the skills needed to pursue their studies to the next level with a high degree of autonomy.
+
+To meet this brief, the degree programme lays on:
+
+\- training activities designed to teach basic mathematics and the essentials of the main ICT areas (including programming languages, algorithms, operative systems, databases and information systems, computer networks, web systems,virtualisation techniques, machine learning techniques for AI applications, software engineering);
+
+\- laboratory projects to practise programming and design methods;
+
+\- English language teachingand practice.
+
+Admission requirements  
+Admission to the first cycle degree programme in Computer Science and Engineering requires possession of a secondary school diploma awarded after five years of study or a foreign qualification recognised as suitable in accordance with current regulations.  
+Additionally, skills and competencies in the following areas are required: good general knowledge and ability to reason logically and understand written texts; good basic knowledge of mathematics and the experimental sciences.
+
+The methods for verifying the knowledge required for admission are defined in the degree programme teaching regulations.  
+If the assessment is not positive, additional learning requirements will be specified (OFA), the fulfilment of which is subject to specific assessment.
+
+The relevant testing method is also set out in the degree programme teaching regulations.  
+Students who do not complete the additional learning requirements by the date established by the competent bodies and, in any case, by the end of the first year of the degree programme must repeat enrolment in the same year.
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/en/university/privacy-policy-and-legal-notes/privacy-policy/information-note-on-the-processing-of-personal-data) [Legal notes](https://www.unibo.it/en/university/privacy-policy-and-legal-notes/legal-notes) [About the website and accessibility information](https://corsi.unibo.it/1cycle/ComputerScienceEngineering/about-the-website-and-accessibility-information) [Cookie settings](https://corsi.unibo.it/1cycle/ComputerScienceEngineering#)

@@ -1,0 +1,168 @@
+
+
+
+
+**Output:**
+
+The cleaned text is:
+
+Laurea Magistrale in Ingegneria e scienze informatiche
+
+Docenti
+=======
+
+Alessandro Bevilacqua
+---------------------
+
+Ricercatore confermato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/alessandro.bevilacqua)
+
+Marco Boschetti
+--------------
+
+Professore associato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/marco.boschetti)
+
+Mario Bravetti
+--------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/mario.bravetti)
+
+Franco Callegati
+----------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/franco.callegati)
+
+Antonella Carbonaro
+-------------------
+
+Professoressa associata confermata
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/antonella.carbonaro)
+
+Walter Cerroni
+--------------
+
+Professore associato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/walter.cerroni)
+
+Giovanni Ciatto
+---------------
+
+Ricercatore a tempo determinato tipo a) (junior)
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/giovanni.ciatto)
+
+Chiara Contoli
+--------------
+
+Ricercatrice a tempo determinato di altro ateneo
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/chiara.contoli)
+
+Raffaele Corrado
+----------------
+
+Professore associato confermato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/raffaele.corrado)
+
+Gabriele D'Angelo
+-----------------
+
+Ricercatore confermato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/g.dangelo)
+
+Matteo Ferrara
+--------------
+
+Professore associato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/matteo.ferrara)
+
+Guido Fioretti
+--------------
+
+Professore associato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/guido.fioretti)
+
+Davide Maltoni
+--------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/davide.maltoni)
+
+Vittorio Maniezzo
+-----------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/vittorio.maniezzo)
+
+Andrea Omicini
+--------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/andrea.omicini)
+
+Rebecca Levy Orelli
+-------------------
+
+Professoressa associata
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/rebecca.orelli)
+
+Giovanni Pau
+------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/giovanni.pau)
+
+Andrea Pia
+----------
+
+Professore a contratto
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/andrea.pia)
+
+Danilo Pianini
+--------------
+
+Ricercatore a tempo determinato tipo b) (senior)
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/danilo.pianini)
+
+Alessandro Ricci
+----------------
+
+Professore associato
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/a.ricci)
+
+Marco Tartagni
+--------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/marco.tartagni)
+
+Mirko Viroli
+------------
+
+Professore ordinario
+
+[Vai al sito del docente](https://www.unibo.it/sitoweb/mirko.viroli)
+
+Note: The output is a cleaned version of the original text, removing unnecessary parts, such as tags, repeated phrases, and decorative characters. The text is formatted to be easy to read, with each professor's information on a new line. The links to their websites are preserved.

@@ -1,0 +1,27 @@
+
+
+
+
+**Sessioni d’esame e altre informazioni**
+
+Per avere informazioni per sostenere esami consulta: [ESAMI](https://www.unibo.it/it/ateneo/covid-19-misure-adottate-da-alma-mater/lezioni-esami-tirocini)
+
+Per ciascun insegnamento vengono fissati almeno sei appelli nel corso dell'anno.
+
+*   Consulta il [Calendario didattico](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/calendario-didattico-del-corso-di-studio)
+
+[Leggi meno](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/appelli#)
+
+Per verificare gli esami che puoi sostenere in base al tuo piano di studi e per iscriverti agli appelli, accedi ad [AlmaEsami](https://almaesami.unibo.it/almaesami/welcome.htm) o scarica la app [MyUnibo.](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo)
+
+### [69867 APPLICAZIONI E SERVIZI WEB MIRRI SILVIA](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 14:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>15 maggio 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.7 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [30376 BUSINESS INTELLIGENCE RIZZI STEFANO](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 11:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>05 giugno 2024</span> al <span>13 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.3 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>La prova consisterà in una prova di laboratorio (durata 30 minuti) e in una prova scritta (durata 90 minuti). Durante entrambe le prove sarà espressamente vietato consultare libri e appunti.&nbsp;Il testo della prova scritta si compone di una parte progettuale, che richiede di risolvere due esercizi di progettazione concettuale e logica di data warehouse, e di una parte teorica che include alcune domande sui contenuti dell'intero corso. La prova di laboratorio richiederà di eseguire il setup di un cubo su PowerBI e di eseguire una query OLAP sul cubo.</td></tr></tbody></table>
+
+### [95628 BUSINESS MODELS NIELSEN JENS CHRISTIAN](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">05 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>21 agosto 2024</span> al <span>29 agosto 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</
