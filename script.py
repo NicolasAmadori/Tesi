@@ -135,6 +135,7 @@ def test_neo4j_connection(graph):
         return False
 
 def save_graph_to_file(generated_graph, file_name=None):
+    import datetime
     file_path = f"workspace/generated_graphs"
     if file_name:
         file_path += f"/{file_name}.txt"
@@ -175,6 +176,77 @@ def generateGraph(llm, text):
     llm_output = chain.invoke({"text": text})  
     return json_repair.loads(llm_output)
 
+# def convertJsonToNodes(json_array):
+#     from langchain_community.graphs.graph_document import GraphDocument, Node, Relationship
+
+#     nodes_set = set()
+#     relationships = []
+    
+#     for rel in json_array:
+#         if not isinstance(rel, dict) or "head" not in rel or "head_type" not in rel or "tail" not in rel or "tail_type" not in rel:
+#             print(f"This relationships is not correct: {rel}")
+#             continue
+#         # print(rel["head"])
+#         # print(rel["head_type"])
+#         # print(rel["tail"])
+#         # print(rel["tail_type"])
+#         nodes_set.add((rel["head"], rel["head_type"]))
+#         nodes_set.add((rel["tail"], rel["tail_type"]))
+
+#         source_node = Node(id=rel["head"], type=rel["head_type"])
+#         target_node = Node(id=rel["tail"], type=rel["tail_type"])
+#         relationships.append(
+#             Relationship(
+#                 source=source_node, target=target_node, type=rel["relation"]
+#             )
+#         )
+#     nodes = [Node(id=el[0], type=el[1]) for el in list(nodes_set)]
+#     return GraphDocument(
+#         nodes=nodes,
+#         relationships=relationships,
+#         source=Document(
+#             page_content="Test",
+#             metadata={"source": "Test"}
+#         )
+#     )
+
+def convertJsonToNodes(json_array):
+    from langchain_community.graphs.graph_document import GraphDocument, Node, Relationship
+
+    nodes_dict = {}
+    relationships = []
+
+    for rel in json_array:
+        if not isinstance(rel, dict) or "head" not in rel or "head_type" not in rel or "tail" not in rel or "tail_type" not in rel:
+            print(f"This relationship is not correct: {rel}")
+            continue
+
+        source_key = (rel["head"], rel["head_type"])
+        if source_key not in nodes_dict:
+            nodes_dict[source_key] = Node(id=rel["head"], type=rel["head_type"])
+        source_node = nodes_dict[source_key]
+
+        target_key = (rel["tail"], rel["tail_type"])
+        if target_key not in nodes_dict:
+            nodes_dict[target_key] = Node(id=rel["tail"], type=rel["tail_type"])
+        target_node = nodes_dict[target_key]
+
+        relationships.append(
+            Relationship(
+                source=source_node, target=target_node, type=rel["relation"]
+            )
+        )
+
+    return GraphDocument(
+        nodes=list(nodes_dict.values()),
+        relationships=relationships,
+        source=Document(
+            page_content="Test",
+            metadata={"source": "Test"}
+        )
+    )
+
+
 def scrivi_json_in_file(json_data, percorso):
     import json
     if not os.path.exists(percorso):
@@ -197,6 +269,34 @@ def saveTextToFiles(texts, path):
         with open(percorso_completo, 'w', encoding='utf-8') as file:
             file.write(testo)
 
+def readJsonsFile(path):
+    import json
+    vettore_json = []
+
+    for filename in os.listdir(path):
+        filepath = os.path.join(path, filename)
+
+        if os.path.isfile(filepath) and filename.endswith('.json'):
+            with open(filepath, 'r', encoding='utf-8') as file:
+                data = json.load(file)
+                vettore_json.append(data)
+
+    return vettore_json
+    
+def flatAndFilterJson(input_list):
+    flat_jsons = []
+    for el in input_list:
+        if isinstance(el, list):
+            flat_jsons.extend(flatAndFilterJson(el))
+        else:
+            if not isinstance(el, dict) or "head" not in el or "head_type" not in el or "tail" not in el or "tail_type" not in el:
+                continue
+            else:
+                if el["head"] is None or el["head_type"] is None or el["tail"] is None or el["tail_type"] is None:
+                    continue
+                flat_jsons.append(el)
+    return flat_jsons
+
 if __name__ == '__main__':
     watch("neo4j")
 
@@ -214,11 +314,11 @@ if __name__ == '__main__':
     # print("\n1. Neo4j Graph Created.\n")
     # print(f"Risultato test: {test_neo4j_connection(graph)}")
 
-    llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
-    print("\n2. Model downloaded.\n")
+    # llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
+    # print("\n2. Model downloaded.\n")
 
-    llm_transformer = LLMGraphTransformer(llm=llm)
-    print("\n3. Graph Transformer initialized.\n")
+    # llm_transformer = LLMGraphTransformer(llm=llm)
+    # print("\n3. Graph Transformer initialized.\n")
 
     # documents = getDocuments("/workspace/crawl")
     # print(f"\n4. {len(documents)} Documents read.\n")
@@ -237,8 +337,56 @@ if __name__ == '__main__':
     # else:
     #     print("\n7. Graph added to neo4j db.\n")
 
-    ##Testing
+    ##Testing #1
+    # step = 1
 
-    cleaned_documents = getDocuments("/workspace/cleaned_documents")
-    graphs = [generateGraph(llm, d.page_content) for d in cleaned_documents]
-    scrivi_json_in_file(graphs, "workspace/generated_graphs")
+    # print(f"\nStep #{step}\n"); step+=1
+    # llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
+
+    # print(f"\nStep #{step}\n"); step+=1
+    # cleaned_documents = getDocuments("/workspace/cleaned_documents")
+
+    # print(f"\nStep #{step}\n"); step+=1
+    # graphs = [generateGraph(llm, d.page_content) for d in cleaned_documents]
+
+    # print(f"\nStep #{step}\n"); step+=1
+    # graphDocument = convertJsonToNodes(graphs)
+
+    # print(f"\nStep #{step}\n"); step+=1
+    # graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
+    # save_graph_to_file(graphDocument)
+    # try:
+    #     graph.add_graph_documents(graphDocument)
+    # except Exception as e:
+    #     print(f"Errore durante l'aggiunta del grafo al db: {e}")
+    # else:
+    #     print("\n7. Graph added to neo4j db.\n")
+
+
+    ##Testing #2
+    step = 1
+
+    # print(f"\nStep #{step}\n"); step+=1
+    # llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
+
+    print(f"\nStep #{step}\n"); step+=1
+    graph_json_files = readJsonsFile("/workspace/generated_graphs_2")
+
+    print(f"\nStep #{step}\n"); step+=1
+    jsons = flatAndFilterJson(graph_json_files)
+
+    print(f"\nStep #{step}\n"); step+=1
+    graph_document = convertJsonToNodes(jsons)
+    # print(graph_document.relationships)
+    # for r in graph_document.nodes:
+    #     print(r)
+    #     print(r.source == None)
+
+    print(f"\nStep #{step}\n"); step+=1
+    graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
+    try:
+        graph.add_graph_documents([graph_document])
+    except Exception as e:
+        print(f"Errore durante l'aggiunta del grafo al db: {e} {type(e)}")
+    else:
+        print("\n7. Graph added to neo4j db.\n")
