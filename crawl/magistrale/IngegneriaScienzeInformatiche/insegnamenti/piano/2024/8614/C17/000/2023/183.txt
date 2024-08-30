@@ -1,0 +1,146 @@
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/C17/000/2023
+
+Insegnamenti: piano didattico - A.A. 2024/2025 — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+=====================================================================================
+
+[Condividi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/C17/000/2023#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Insegnamenti%3A+piano+didattico "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Insegnamenti%3A+piano+didattico&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Insegnamenti%3A%20piano%20didattico%0AIndirizzo%3A%20--href--%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Insegnamenti%3A%20piano%20didattico "Invia ad un amico")
+
+This curriculum offers two tracks: one local and one in partnership with EIT Digital Master School: https://masterschool.eitdigital.eu/embedded-systems  
+The study plans has some differences between the two tracks that are highlighted below. Additionally, students of the EIT track spend the second here in a partner University abroad.
+
+### Primo Anno di Corso
+
+#### Compulsory courses
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 87474 | [DISTRIBUTED SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=87474&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 96859 | [EMBEDDED SYSTEMS AND INTERNET OF THINGS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96859&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 95622 | FUNDAMENTALS OF MANAGEMENT AND ORGANIZATION (I.C) | 1 |  |  |  |
+|  | 79252  [FUNDAMENTALS OF MANAGEMENT](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=79252&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | C | SECS-P/10 | 6 |
+|  | 96101  [ORGANIZATION, TEAMS AND DIGITAL LEADERSHIP](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96101&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | C | SECS-P/10 | 6 |
+| 95631 | [MACHINE LEARNING AND DATA MINING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95631&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 93470 | [CYBERSECURITY](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=93470&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 93669 | [INTELLIGENT SYSTEMS ENGINEERING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=93669&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 96995 | PROGRAMMABLE NETWORKING | 2 | B | ING-INF/05 | 6 |
+
+#### Elective Courses (6 CFU)
+
+##### Students enrolled within the EIT Agreement must choose the teaching activity “Fundamentals of Accounting”, whereas the students not enrolled within the agreement can choose among: the teaching activities indicated below, the ones listed in the 2nd-year lists "Elective courses" or "Elective courses of the guided choice" and all the activities included in the University courses catalogue.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 95626 | [FUNDAMENTALS OF ACCOUNTING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95626&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | D | SECS-P/07 | 6 |
+
+#### Elective Courses of the guided choice (6 CFU)
+
+##### Students enrolled within the EIT Agreement must choose the teaching activity “Applications of Digital Innovation”, whereas the students not enrolled within the agreement must choose the teaching activity “Industry 4.0”.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 96858 | APPLICATIONS OF DIGITAL INNOVATION  
+Composed of: EIT Summer School - (4 ECTS) & EIT lab. - (2 ECTS) | 2 | F |  | 6 |
+| 95639 | INDUSTRY 4.0 | 2 | F | ING-INF/05 | 6 |
+
+### Secondo Anno di Corso
+
+#### Elective Courses (6 - 12 CFU)
+
+##### Students enrolled within the EIT Agreement must choose the teaching activity “Entrepreneurship”, whereas the students not enrolled within the agreement can choose between the teaching activities indicated below, the ones listed as “Elective Courses of the guided choice” below and among those included in the University courses catalogue.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| B5722 | [EMBEDDED SENSORS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B5722&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | D | ING-INF/05 | 6 |
+| 37388 | [ENTREPRENEURSHIP](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=37388&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | D | SECS-P/08 | 6 |
+| 95637 | [EU LAW OF ALGORITHM](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95637&annoAccademico=2024&codiceCorso=5815&single=True&search=True) | 1 | D | IUS/07 | 6 |
+| 96098 | [MARKETING, SALES AND PLATFORMS FOR THE DIGITAL AGE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96098&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | D | SECS-P/08 | 6 |
+| 95640 | [INNOVATION STRATEGY](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95640&annoAccademico=2024&codiceCorso=5815&single=True&search=True) | 2 | D | SECS-P/08 | 6 |
+
+#### Elective Courses of the guided choice (24 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 81932 | [BIG DATA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81932&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 96994 | [SMART VEHICULAR-SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96994&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0010 | [SOFTWARE ARCHITECTURE AND PLATFORMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0010&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0011 | [SOFTWARE PROCESS ENGINEERING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0011&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0009 | [ADVANCED SOFTWARE MODELLING AND DESIGN](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0009&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 91411 | [INTELLIGENT ROBOTIC SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=91411&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 95638 | [OPERATIONAL ANALYTICS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95638&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+
+#### Final examination (30 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 96895 | FINAL EXAMINATION (30 CFU) | 2 | E |  | 30 |
+| 93935 | FINAL EXAMINATION (6 CFU) | 2 | E |  | 6 |
+| 96896 | FINAL EXAMINATION PREPARATION ABROAD | 2 | E |  | 24 |
+| 97366 | INTERNSHIP ABROAD FOR THE FINAL EXAMINATION PREPARATION | 2 | E |  | 24 |
+| 97367 | INTERNSHIP FOR THE FINAL EXAMINATION PREPARATION | 2 | E |  | 24 |
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/C17/000/2023#)
+
+ 
+
+[](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/C17/000/2023# "Torna su")

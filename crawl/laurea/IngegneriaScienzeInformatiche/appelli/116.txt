@@ -1,0 +1,162 @@
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli
+
+Appelli d'esame — Ingegneria e scienze informatiche - Laurea - Cesena
+===============
+
+Tutti gli appelli ALGEBRA E GEOMETRIA ALGORITMI E STRUTTURE DATI ALGORITMI NUMERICI ANALISI MATEMATICA ARCHITETTURE DEGLI ELABORATORI BASI DI DATI BASI DI DATI AVANZATE COMPUTER GRAPHICS FISICA FONDAMENTI DI ELABORAZIONE DI IMMAGINI HIGH-PERFORMANCE COMPUTING INGEGNERIA DEL SOFTWARE INGEGNERIA DEL SOFTWARE LABORATORIO DI BASI DI DATI MATEMATICA DISCRETA E PROBABILITÀ METODI NUMERICI PROGRAMMAZIONE PROGRAMMAZIONE AD OGGETTI PROGRAMMAZIONE DI APPLICAZIONI DATA INTENSIVE PROGRAMMAZIONE DI SISTEMI MOBILE SISTEMI OPERATIVI SYSTEMS INTEGRATION TECNOLOGIE WEB VIRTUALIZZAZIONE E INTEGRAZIONE DI SISTEMI VISIONE ARTIFICIALE
+
+[Condividi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Appelli+d%27esame "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Appelli+d%27esame&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Appelli%20d%27esame%0AIndirizzo%3A%20--href--%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Appelli%20d%27esame "Invia ad un amico")
+
+**Sessioni d’esame e altre informazioni**
+
+Per avere informazioni per sostenere esami  consulta: ESAMI Per ciascun insegnamento vengono fissati almeno sei… [Leggi di più](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+Per avere informazioni per sostenere esami  consulta: [ESAMI](https://www.unibo.it/it/ateneo/covid-19-misure-adottate-da-alma-mater/lezioni-esami-tirocini)
+
+Per ciascun insegnamento vengono fissati almeno sei appelli nel corso dell'anno.
+
+Consulta il [calendario didattico](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calendario-didattico-del-corso-di-studio) del Corso di Studio
+
+[Leggi meno](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+Per verificare gli esami che puoi sostenere in base al tuo piano di studi e per iscriverti agli appelli, accedi ad [AlmaEsami](https://almaesami.unibo.it/almaesami/welcome.htm) o scarica la app [MyUnibo.](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo)
+
+### [58414 ALGEBRA E GEOMETRIA MOCI LUCA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">02 settembre 2024 ore 14:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>18 agosto 2024</span> al <span>31 agosto 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula Magna 3.4 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">04 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>20 agosto 2024</span> al <span>03 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.5 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [11929 ALGORITMI E STRUTTURE DATI MANIEZZO VITTORIO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">04 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>20 agosto 2024</span> al <span>02 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 3.7</td></tr><tr><th>Note:</th><td>Ricordarsi di coseguire l'idoneità del laboratorio prima di presentarsi allo scritto</td></tr></tbody></table>
+
+### [11929 ALGORITMI E STRUTTURE DATI MARGARA LUCIANO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">05 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>21 agosto 2024</span> al <span>03 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.9</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 10:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>01 settembre 2024</span> al <span>13 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.9</td></tr></tbody></table>
+
+### [70224 ALGORITMI NUMERICI LAZZARO DAMIANA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>05 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 2.2 (Vela) Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 12:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>05 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 2.2 (Vela) Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [00013 ANALISI MATEMATICA CICOGNANI MASSIMO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">03 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>16 luglio 2024</span> al <span>01 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.3 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [69731 ARCHITETTURE DEGLI ELABORATORI CAPPELLI RAFFAELE](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">17 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>07 giugno 2024</span> al <span>10 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 3.7</td></tr></tbody></table>
+
+### [69731 ARCHITETTURE DEGLI ELABORATORI MALTONI DAVIDE](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">17 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>10 giugno 2024</span> al <span>10 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 3.7</td></tr><tr><th>Note:</th><td>Necessario aver consegnato (con successo) elaborati sul sito entro la data indicata dal prof. Ferrara.</td></tr></tbody></table>
+
+### [10906 BASI DI DATI FRANCO ANNALISA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">29 agosto 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>14 marzo 2024</span> al <span>27 agosto 2024</span></td></tr><tr><th>Tipo prova:</th><td>Altro</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 4.2 (CAD) Piano secondo (livello 4) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">30 agosto 2024 ore 10:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>14 marzo 2024</span> al <span>28 agosto 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.12 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>10 giugno 2024</span> al <span>14 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Altro</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 4.2 (CAD) Piano secondo (livello 4) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">17 settembre 2024 ore 10:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>10 giugno 2024</span> al <span>15 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.12 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [84339 BASI DI DATI AVANZATE GOLFARELLI MATTEO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>08 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.3 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [70090 COMPUTER GRAPHICS LAZZARO DAMIANA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">12 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>28 agosto 2024</span> al <span>10 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.4 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [00405 FISICA GUIDUCCI LUIGI](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">02 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>04 luglio 2024</span> al <span>31 agosto 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.12 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>27 agosto 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Altro - Iscrizione per verbalizzare</td></tr><tr><th>Luogo:</th><td>Vedi note</td></tr><tr><th>Note:</th><td>Iscrizione a questa prova per confermare il voto dello scritto - non occorrerà fare altro.</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>07 settembre 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.3 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [35504 FONDAMENTI DI ELABORAZIONE DI IMMAGINI CAPPELLI RAFFAELE](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>10 giugno 2024</span> al <span>11 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.6 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [72778 HIGH-PERFORMANCE COMPUTING MARZOLLA MORENO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">04 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>25 luglio 2024</span> al <span>01 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.1 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>L'esame si svolgerà in presenza tramite la piattaforma EOL (Esami Online).</td></tr></tbody></table>
+
+### [66858 INGEGNERIA DEL SOFTWARE RIZZI STEFANO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>05 giugno 2024</span> al <span>13 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.3 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>La prova a quiz si terrà (in presenza) utilizzando EOL, e avrà una durata di 20 minuti. Al termine si terrà la prova scritta, durata 40 minuti. Per superare la prova occorre conseguire un punteggio sufficiente sia nella parte a quiz sia in quella scritta.</td></tr></tbody></table>
+
+### [09032 INGEGNERIA DEL SOFTWARE RIZZI STEFANO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>05 giugno 2024</span> al <span>13 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.3 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>La prova a quiz si terrà (in presenza) utilizzando EOL, e avrà una durata di 20 minuti. Al termine si terrà la prova scritta, durata 40 minuti. Per superare la prova occorre conseguire un punteggio sufficiente sia nella parte a quiz sia in quella scritta.</td></tr></tbody></table>
+
+### [25815 LABORATORIO DI BASI DI DATI GOLFARELLI MATTEO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 14:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>08 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.3 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [77776 MATEMATICA DISCRETA E PROBABILITÀ CASELLI FABRIZIO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">09 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>01 luglio 2024</span> al <span>07 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.12 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">13 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>29 agosto 2024</span> al <span>11 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.4 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [66736 METODI NUMERICI LAZZARO DAMIANA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>05 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 2.2 (Vela) Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 12:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>05 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 2.2 (Vela) Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [00819 PROGRAMMAZIONE CARBONARO ANTONELLA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">13 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>29 agosto 2024</span> al <span>11 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 4.2 (CAD) Piano secondo (livello 4) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [00819 PROGRAMMAZIONE GIRAU ROBERTO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">10 settembre 2024 ore 15:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>26 agosto 2024</span> al <span>08 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 2.2 (Vela) Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>Per potersi iscrivere è necessario aver ottenuto i punteggi minimi previsti per gli elaborati.</td></tr></tbody></table>
+
+*   1
+*   [2](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20)
+*   [Successivi 8 elementi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20)
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli#)
+
+ 
+
+[](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli# "Torna su")

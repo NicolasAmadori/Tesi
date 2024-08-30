@@ -1,0 +1,69 @@
+https://corsi.unibo.it/magistrale/IntelligentEmbeddedSystems/informazioni-sul-sito-e-accessibilita
+
+Informazioni sul sito e accessibilità — Intelligent Embedded Systems - Curriculum - Cesena
+=====================================
+
+Come è stato realizzato e da chi viene gestito e presidiato il sito web di Corso di studi
+
+[Condividi](https://corsi.unibo.it/magistrale/IntelligentEmbeddedSystems/informazioni-sul-sito-e-accessibilita#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Informazioni+sul+sito+e+accessibilit%C3%A0 "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Informazioni+sul+sito+e+accessibilit%C3%A0&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Informazioni%20sul%20sito%20e%20accessibilit%C3%A0%0AIndirizzo%3A%20--href--%0ATesto%3A%20Come%20%C3%A8%20stato%20realizzato%20e%20da%20chi%20viene%20gestito%20e%20presidiato%20il%20sito%20web%20di%20Corso%20di%20studi&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Informazioni%20sul%20sito%20e%20accessibilit%C3%A0 "Invia ad un amico")
+
+Gestione e aggiornamento dei contenuti
+--------------------------------------
+
+L’aggiornamento del sito è a cura di una **redazione web del corso**.
+
+_Nota:_ Questa università ha da tempo avviato un importante lavoro di **sensibilizzazione ai fini del contrasto agli stereotipi di genere**. In quest’ottica si è deciso di **dare** **maggiore visibilità linguistica alle differenze**. Quando nei siti web dell'Università di Bologna, unicamente a scopo di semplificazione, è usato il maschile, la forma è da intendersi riferita in maniera inclusiva a tutte le persone che operano nell’ambito della comunità accademica.
+
+### Progetto e sviluppo del sito 
+
+Il sito di Corso di Studi dell'Università di Bologna è stato realizzato sulla piattaforma Open Source Plone.
+
+La progettazione e lo sviluppo sono a cura del Settore Portale d'Ateneo – Artec e del Settore tecnologie web - Cesia.
+
+### Immagini
+
+Dove non diversamente esplicitato le immagini fanno parte della banca dati immagini di Ateneo presidiata da Settore Comunicazione di Ateneo.
+
+Accessibilità
+-------------
+
+Un sito è accessibile quando permette di accedere facilmente ai contenuti e ai servizi che offre, indipendentemente dalle disabilità psicofisiche, dalle dotazioni tecniche di cui dispone l'utente e dal contesto in cui opera.
+
+Questo sito è stato realizzato secondo le disposizioni normative vigenti in tema di accessibilità dei siti web e con la tecnica del Responsive Web Design per la consultazione anche da dispositivi mobili.
+
+[Dichiarazione di accessibilità](https://form.agid.gov.it/view/38808e7f-ca0f-4c6f-bc78-485abab746bd/)
+
+### Segnalazioni sull'accessibilità
+
+Nonostante le verifiche, non è sempre possibile garantire la completa accessibilità del sito. Vi preghiamo di segnalarci difficoltà riscontrate nell'accesso alle informazioni e ai servizi scrivendo a [accessibile@unibo.it](mailto:accessibile@unibo.it).
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IntelligentEmbeddedSystems/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IntelligentEmbeddedSystems/informazioni-sul-sito-e-accessibilita#)
+
+ 
+
+[](https://corsi.unibo.it/magistrale/IntelligentEmbeddedSystems/informazioni-sul-sito-e-accessibilita# "Torna su")

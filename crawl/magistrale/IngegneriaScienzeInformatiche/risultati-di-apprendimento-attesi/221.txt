@@ -1,0 +1,152 @@
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/risultati-di-apprendimento-attesi
+
+Risultati di apprendimento attesi — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+=================================
+
+[Condividi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/risultati-di-apprendimento-attesi#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Risultati+di+apprendimento+attesi "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Risultati+di+apprendimento+attesi&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Risultati%20di%20apprendimento%20attesi%0AIndirizzo%3A%20--href--%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Risultati%20di%20apprendimento%20attesi "Invia ad un amico")
+
+**CONOSCENZA E CAPACITÀ DI COMPRENSIONE:**AREA DI APPRENDIMENTO: COMPETENZE SPECIALISTICHE INFORMATICHE TRASVERSALI
+
+Il laureato magistrale:  
+• conosce i principali modelli computazionali per la progettazione e l'analisi di sistemi informatici;  
+• conosce i vari paradigmi di programmazione, incluso quello orientato agli oggetti, funzionale e logico;  
+• comprende le connessioni esistenti fra i linguaggio di programmazione e i modelli computazionali utilizzabili per l'analisi delle sue proprietà;  
+• conosce le principali metodologie per lo sviluppo di progetti software;  
+• conosce le tecniche base dell'Intelligenza Artificiale, quali le reti neurali, le ricerche sub-ottime, e i sistemi a vincoli;  
+• conosce gli aspetti base dei sistemi distribuiti, come tolleranza ai guasti, sincronizzazione, comunicazione e coordinazione;  
+• sa comprende e collocare i modelli avanzati di distribuzione e di comportamento intelligente;  
+• conosce i principali metodi ed algoritmi per il problem solving sia di tipo generale sia in contesti applicativi specifici  
+  
+  
+AREA DI APPRENDIMENTO: ANALISI, PROGETTAZIONE E GESTIONE DI SISTEMI INFORMATIVI, WEB E DI RETE
+
+Il laureato magistrale:  
+• conosce le problematiche di gestione, organizzazione e pianificazione dei Sistemi Informativi, con competenze di carattere organizzativo e manageriale;  
+• conosce le principali tecniche di Data Mining e Text Mining, e le relative metodologie di gestione e sviluppo;  
+• conosce le principali tecniche per la costruzione di applicazioni Web client e server side;  
+• conosce i concetti, gli standard e i linguaggi che costituiscono l'architettura del Semantic Web, le tecnologie e i modelli per la rappresentazione di metadati e ontologie e le modalità con cui differenti risorse possono essere integrate e utilizzate;  
+• conosce i principi di base della sicurezza informatica ed è in grado di individuare le principali problematiche di sicurezza dei calcolatori e delle reti;  
+• conosce i principali protocolli ed algoritmi utilizzati per il trasporto e l'instradamento dei dati in Internet nonché le tecniche di base utilizzate per il dimensionamento ed il progetto delle reti di telecomunicazioni.  
+  
+  
+AREA DI APPRENDIMENTO: PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI SISTEMI EMBEDDED E INFRASTRUTTURE
+
+Il laureato magistrale:  
+• conosce le modalità principali di lavoro cooperativoper l'analisi e lo sviluppo dei sistemi software  
+• comprende quale metodologie di sviluppo disistemi e progetti sia preferibile in uno scenario specifico;  
+• conosce i principali paradigmi computazionali, imodelli, le tecnologie e i metodi per la costruzione di sistemi autonomi;  
+• conosce i principali modelli, metodi,architetture e strumenti per la programmazione di agenti robotici dotati disignificative capacità computazionali e cognitive;  
+• conosce i principali aspetti relativi allaprogettazione di sistemi e applicazioni ICT emergenti, con particolareriferimento a quei sistemi che per la loro complessità richiedono intrinsechecaratteristiche di adattatività;  
+• ha le conosce di base di tecnologie, metodi estrumenti per la progettazione e lo sviluppo di applicazioni software perservizi in contesti di città digitali, con particolare riferimento alletecnologie mobili;  
+• conosce le nozioni e gli strumenti per losviluppo di sistemi automatici per la localizzazione e il riconoscimento dioggetti a partire da immagini digitali;  
+• conosce e sa applicare tecniche avanzate per l'elaborazionee l'analisi di immagini e sequenze video;
+
+• conosce le basi dei modelli business;
+
+• conosce le basi del design delle organizzazioni, e di come costruire,gestire e motivare il lavoro di team di sviluppo.
+
+  
+**CAPACITÀ DI APPLICARE CONOSCENZA E COMPRENSIONE:**AREA DI APPRENDIMENTO: COMPETENZE SPECIALISTICHE INFORMATICHE TRASVERSALI
+
+Il laureato magistrale:  
+• sa sviluppare metodi per la soluzione di problemi, promuove l'uso di tecnologie avanzate per la modellazione e lo sviluppo di applicazioni;  
+• sa utilizzare i principali ambienti di programmazione e le regole della programmazione strutturata, a oggetti, funzionale e logica per lo sviluppo di applicazioni complesse;  
+• sviluppa nuove tecniche operative e strumenti di ausilio alla progettazione, curandone i risvolti connessi ad una concreta applicazione;  
+• è in grado di progettare sistemi basati sulla conoscenza per la soluzione, mediante tecniche di intelligenza artificiale, di problemi complessi;  
+• è in grado di applicare i principali metodi ed algoritmi di ottimizzazione per la risoluzione di problemi applicativi;  
+• sa organizzare e pianificare le attività individuali e di gruppo connesse alla realizzazione, al collaudo, alla verifica delle prestazioni di sistemi software, curandone l'eventuale revisione e messa a punto di soluzioni prototipali;  
+• sa impostare, gestire e certificare processi di produzione del software basati su lavoro cooperativo.  
+  
+  
+AREA DI APPRENDIMENTO: ANALISI, PROGETTAZIONE E GESTIONE DI SISTEMI INFORMATIVI, WEB E DI RETE
+
+Il laureato magistrale:  
+• sa realizzare Sistemi Informativi (anche attraverso la reingegnerizzazione di processi), in accordo a predefinite specifiche funzionali, vincoli di sistema e linee guida progettuali;  
+• è in grado di partecipare a studi di fattibilità e a progetti di Business Process Reengineering che coinvolgano il sistema informativo aziendale;  
+• è in grado di partecipare a progetti di integrazione delle basi di dati e di Master Data Management;  
+• sa utilizzare strumenti commerciali e/o open source per l'analisi e interpretazione di Data Mining;  
+• sa progettare e sviluppare un sistema di supporto alle decisioni in contesti aziendali reali, intesi come estensioni verticali di un sistema informativo aziendale;  
+• è in grado di effettuare l'analisi e il progetto di sistemi dove la sicurezza sia un elemento essenziale e strutturale;  
+• è in grado di analizzare il comportamento di connessioni di rete e valutarne le prestazioni, sa eseguire configurazioni di base per i principali protocolli di routing;  
+• è in grado di sviluppare, attraverso l'uso di strumenti avanzati di programmazione: siti Web basati su tecnologie web client side e server side, Rich Internet Applications e servizi Web;  
+• è in grado di organizzare, integrare, gestire e reperire risorse che il Semantic Web mettono a disposizione.  
+  
+AREA DI APPRENDIMENTO: PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI SISTEMI EMBEDDED E INFRASTRUTTURE
+
+Il laureato magistrale:  
+• sa progettare un sistema costituito da uno o piùdispositivi fisici che elabora informazioni acquisite dall'ambiente e agisconosu di esso in modo autonomo;  
+• sa realizzare strumenti specifici per ilsupporto a metodologie di sviluppo di sistemi e progetti software in specificiscenari applicativi;  
+• sa analizzare, progettare, e sviluppare sistemisoftware adattativi per applicazioni embedded e ICT;  
+• sa progettare e realizzare sistemi di visioneartificiale per la soluzione di problematiche reali nei diversi settori applicativi,per scopi industriali o scientifici;  
+• sa promuovere processi aziendali di innovazionetecnologica, fondati su risultati di attività sperimentali e di ricerca;  
+• sa progettare complesse architetturehardware/software avvalendosi di processori e componenti avanzati;
+
+• saapplicare le basi dei modelli di business e di design dell'organizzazione allosviluppo di sistemi informatici e infrastrutture.
+
+  
+**AUTONOMIA DI GIUDIZIO (MAKING JUDGEMENTS)**Il laureato magistrale:  
+\- ha capacità di discernimento/giudizio/valutazione delle tecnologie informatiche innovative di medio e lungo termine, ed è quindi in grado di valutare criticamente i limiti delle attuali metodologie e tecnologie informatiche e di individuare le direzioni da seguire per il loro superamento;  
+\- ha capacità di analisi e di sintesi (in senso generale);  
+\- possiede abilità logico deduttive generiche non legate direttamente al contesto informatico (capacità di ragionamento).  
+\- è capace di indagare criticamente, sia mediante tecniche di analisi che prove sperimentali, la qualità strutturale e le prestazioni di complessi applicazioni informatiche, accertandone la rispondenza alle specifiche di progetto ed il livello di conformità a standard de jure o de facto, individuando eventuali problematiche e proponendo strategie correttive per il loro superamento;  
+\- è capace di focalizzare i contributi essenziali di relazioni tecniche presentate o redatte da interlocutori, e di estrapolare da essi gli aspetti qualificanti ed innovativi;  
+\- è capace di comprendere articoli pubblicati nella letteratura tecnico/scientifica e di procedere alla formulazione di un giudizio autonomo sulla loro rilevanza e implicazione;  
+\- è capace di reperire e consultare, anche via web, le principali fonti bibliografiche, le proposte di standardizzazione emergenti a livello nazionale o internazionale, e la normativa riguardante la certificazione di prodotti e sistemi di interesse industriale.  
+  
+Le abilità di autonomia di giudizio sopraelencate sono raggiunte attraverso la partecipazione ad attività formative organizzate nell'ambito dei settori disciplinari caratterizzanti INF/01 e ING-INF/05, e ad ulteriori attività formative che includono tirocini/tesi in aziende o laboratori specifici e la preparazione della prova finale. La verifica dell'acquisizione dell'autonomia di giudizio avviene tramite la valutazione degli insegnamenti, in particolare di quelli che prevedono un'attività progettuale nell'ambito delle discipline informatiche.
+
+  
+**ABILITÀ COMUNICATIVE (COMMUNICATION SKILLS)**Il laureato magistrale:  
+\- sa presentare materiali e argomentazioni scientifiche oralmente o per iscritto ad un pubblico  
+informato;  
+\- è capace di comunicare in modo efficiente ed efficace in lingua italiana o inglese, in forma scritta e orale, problematiche, idee, soluzioni, informazioni di natura tecnica a interlocutori specialisti e non specialisti;  
+\- è capace di redigere relazioni tecniche sulle attività svolte e di presentarne sinteticamente i risultati salienti in discussioni collegiali;  
+\- è capace di inserirsi e coordinare proficuamente team di gestione, progettazione, collaudo e verifica delle prestazioni di sistemi, processi e applicazioni informatiche, motivando le proprie decisioni o le proprie scelte;  
+\- è capace di scrivere articoli di natura tecnico/scientifica.  
+Le abilità di comunicazione sopraelencate sono raggiunte attraverso la partecipazione ad attività formative organizzate negli ambiti caratterizzanti e ad ulteriori attività formative che includono tirocini/tesi in aziende o laboratori specifici e la preparazione della prova finale. Le metodologie di insegnamento utilizzate comprendono la partecipazione ad esercitazioni in aula o in laboratorio, lo svolgimento di progetti di gruppo e lo studio personale guidato. La verifica del raggiungimento dei risultati di apprendimento avviene principalmente attraverso lo svolgimento di prove d'esame scritte o orali e la discussione di progetti, anche mediante l'ausilio di strumenti multimediali e presentazioni al computer. La prova di verifica di Ateneo della conoscenza di lingua inglese completa l'accertamento dell'acquisizione delle abilità comunicative.
+
+  
+**CAPACITÀ DI APPRENDIMENTO (LEARNING SKILLS)**Il laureato magistrale:  
+\- è capace di lavorare in modo autonomo;  
+\- è capace di mantenersi aggiornato su metodi, tecniche e strumenti orientati all'analisi dei requisiti, alla modellazione e progettazione, al collaudo e messa a punto, all'ottimizzazione delle prestazioni di sistemi e applicazioni informatiche;  
+\- è capace di promuovere l'evoluzione delle tecnologie informatiche e di identificare nuove necessità di informazione e formazione;  
+\- è capace di intraprendere, con un elevato grado di autonomia, studi più avanzati in ogni settore dell'Informativa e dell'Ingegneria dell'Informazione;  
+\- ha raggiunto uno standard di conoscenza e competenza che gli consente un accesso proficuo alle lezioni o ai programmi dei corsi del dottorato di ricerca.  
+  
+Le capacità di apprendimento sono conseguite nel percorso di studio nel suo complesso, con particolare riguardo allo studio individuale previsto, alla preparazione di progetti individuali, e all'attività svolta per la preparazione della prova finale.  
+La capacità di apprendimento viene accertata attraverso forme di verifica continua durante le attività formative, incluse l'attività di tutorato nello svolgimento di progetti e la valutazione della capacità di autoapprendimento maturata durante lo svolgimento dell'attività relativa alla prova finale.
+
+### Archivio
+
+Anno accademico A.A. 2024/2025 A.A. 2023/2024 A.A. 2022/2023 A.A. 2021/2022 A.A. 2020/2021 A.A. 2019/2020 A.A. 2018/2019 A.A. 2017/2018 A.A. 2016/2017 A.A. 2015/2016 A.A. 2014/2015 A.A. 2013/2014 A.A. 2012/2013 Vai
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/risultati-di-apprendimento-attesi#)
+
+ 
+
+[](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/risultati-di-apprendimento-attesi# "Torna su")

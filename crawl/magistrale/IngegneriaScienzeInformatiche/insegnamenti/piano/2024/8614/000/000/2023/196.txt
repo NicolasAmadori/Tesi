@@ -1,0 +1,148 @@
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/000/000/2023
+
+Insegnamenti: piano didattico - A.A. 2024/2025 — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+==========================================================================================
+
+[Condividi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/000/000/2023#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Insegnamenti%3A+piano+didattico "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Insegnamenti%3A+piano+didattico&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Insegnamenti%3A%20piano%20didattico%0AIndirizzo%3A%20--href--%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Insegnamenti%3A%20piano%20didattico "Invia ad un amico")
+
+### Primo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 87474 | [DISTRIBUTED SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=87474&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 26337 | IDONEITA' LINGUA INGLESE B - 2 | 1 | F |  | 6 |
+| 81609 | [LINGUAGGI, COMPILATORI E MODELLI COMPUTAZIONALI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81609&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | C | INF/01 | 12 |
+| 81610 | [MACHINE LEARNING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81610&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 09679 | [SISTEMI INFORMATIVI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=09679&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 93470 | [CYBERSECURITY](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=93470&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 81892 | SVILUPPO DEI SISTEMI SOFTWARE (C.I.) | 2 |  |  |  |
+|  | 81612  [PARADIGMI DI PROGRAMMAZIONE E SVILUPPO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81612&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+|  | 17628  [PROGRAMMAZIONE CONCORRENTE E DISTRIBUITA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=17628&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+
+### Secondo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 69867 | [APPLICAZIONI E SERVIZI WEB](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=69867&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+
+#### Attività per la scelta guidata per 24 cfu (24 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 81932 | [BIG DATA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81932&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 30376 | [BUSINESS INTELLIGENCE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=30376&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 40720 | [DATA MINING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=40720&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0010 | [SOFTWARE ARCHITECTURE AND PLATFORMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0010&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0011 | [SOFTWARE PROCESS ENGINEERING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0011&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 29443 | [VISIONE ARTIFICIALE E RICONOSCIMENTO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=29443&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0009 | [ADVANCED SOFTWARE MODELLING AND DESIGN](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0009&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 91411 | [INTELLIGENT ROBOTIC SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=91411&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 93669 | [INTELLIGENT SYSTEMS ENGINEERING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=93669&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 95638 | [OPERATIONAL ANALYTICS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95638&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 73435 | [PROJECT MANAGEMENT](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=73435&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 42500 | [WEB SEMANTICO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=42500&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | INF/01 | 6 |
+
+#### Attività per la scelta libera (12 - 24 CFU)
+
+##### Il corso di laurea magistrale propone tutti gli esami indicati nella scelta guidata e gli esami sottoelencati. Lo studente può scegliere anche tra tutti gli esami attivati in altri corsi di laurea magistrale dell'Ateneo, solo nel caso in cui la scelta ricada su insegnamenti attivi in corsi di laurea triennali dell'Ateneo, la stessa deve essere sottoposta ad approvazione da parte della Commissione Pratiche Studenti che ne valuterà la congruenza con il piano formativo complessivo.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 72521 | [INSTRADAMENTO E TRASPORTO IN INTERNET](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=72521&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | D | ING-INF/03 | 6 |
+| 90074 | [SMART VEHICULAR SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=90074&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | D | INF/01 | 6 |
+| 93668 | ANALISI DI IMMAGINI 3D E SISTEMI DI COMPUTER VISION - non attivo per l'anno  2024/2025 | 2 | D | ING-INF/05 | 6 |
+| 91250 | [DEEP LEARNING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=91250&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | D | ING-INF/05 | 6 |
+| 93667 | LABORATORY OF NETWORK PROGRAMMABILITY AND AUTOMATION | 2 | D | ING-INF/03 | 6 |
+
+#### Prova finale (24 CFU)
+
+##### Lo studente deve scegliere uno dei seguenti gruppi. Lo studente che opta per il gruppo B integra la prova finale da 6 CFU con un'altra attività fra quelle elencate.
+
+##### Gruppo A (massimo 24 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 17268 | PROVA FINALE | 2 | E |  | 24 |
+
+##### Gruppo B (massimo 24 CFU)
+
+##### Lo studente che opta per il gruppo B integra la prova finale da 6 CFU con un'altra attività fra quelle elencate.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 35199 | PROVA FINALE | 2 | E |  | 6 |
+
+###### Lo studente deve integrare la prova finale da 6 CFU con un'altra attività fra quelle elencate (massimo 18 CFU)
+
+<table><tbody><tr><td class="code">81355</td><td class="title">PREPARAZIONE PROVA FINALE ALL'ESTERO</td><td class="info">2</td><td class="info">E</td><td class="ssd"></td><td class="info">18</td></tr><tr><td class="code">81959</td><td class="title">TIROCINIO ALL'ESTERO IN PREPARAZIONE DELLA PROVA FINALE</td><td class="info">2</td><td class="info">E</td><td class="ssd"></td><td class="info">18</td></tr><tr><td class="code">70441</td><td class="title">TIROCINIO IN PREPARAZIONE DELLA PROVA FINALE</td><td class="info">2</td><td class="info">E</td><td class="ssd"></td><td class="info">18</td></tr></tbody></table>
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/000/000/2023#)
+
+ 
+
+[](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/000/000/2023# "Torna su")
