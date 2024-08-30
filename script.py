@@ -297,7 +297,7 @@ if __name__ == '__main__':
     llm_transformer = LLMGraphTransformer(llm=llm)
     print(f"\nStep #{step} Graph Transformer initialized.\n"); step+=1
 
-    documents = getDocuments("/workspace/crawl")[:100]
+    documents = getDocuments("/workspace/crawl")[100:]
     print(f"\nStep #{step} Documents read.\n"); step+=1
 
     cleaned_documents = cleanDocuments(llm, documents, create_files=True)
