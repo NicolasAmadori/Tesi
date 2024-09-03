@@ -353,29 +353,29 @@ if __name__ == '__main__':
 
 
     ##Testing - Load already generated jsons from files
-    step = 1
+    # step = 1
 
-    print(f"\nStep #{step}\n"); step+=1
-    graph_json_files = readJsonsFile("/workspace/generated_graphs")
-    print(len(graph_json_files))
+    # print(f"\nStep #{step}\n"); step+=1
+    # graph_json_files = readJsonsFile("/workspace/generated_graphs")
+    # print(len(graph_json_files))
 
-    print(f"\nStep #{step}\n"); step+=1
-    jsons = flatAndFilterJson(graph_json_files)
+    # print(f"\nStep #{step}\n"); step+=1
+    # jsons = flatAndFilterJson(graph_json_files)
 
-    print(f"\nStep #{step}\n"); step+=1
-    graph_document = convertJsonToNodes(jsons)
-    # for n in graph_document.nodes:
-    #     # print(n)
-    #     # print(n.id == "null")
-    #     if n.id == "null" or n.id=="" or n.type=="":
-    #         print(n)
-    #         # print("############################")
+    # print(f"\nStep #{step}\n"); step+=1
+    # graph_document = convertJsonToNodes(jsons)
+    # # for n in graph_document.nodes:
+    # #     # print(n)
+    # #     # print(n.id == "null")
+    # #     if n.id == "null" or n.id=="" or n.type=="":
+    # #         print(n)
+    # #         # print("############################")
 
-    print(f"\nStep #{step}\n"); step+=1
-    graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
-    try:
-        graph.add_graph_documents([graph_document])
-    except Exception as e:
-        print(f"Errore durante l'aggiunta del grafo al db: {e} {type(e)}")
-    else:
-        print("\n7. Graph added to neo4j db.\n")
+    # print(f"\nStep #{step}\n"); step+=1
+    # graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
+    # try:
+    #     graph.add_graph_documents([graph_document])
+    # except Exception as e:
+    #     print(f"Errore durante l'aggiunta del grafo al db: {e} {type(e)}")
+    # else:
+    #     print("\n7. Graph added to neo4j db.\n")
