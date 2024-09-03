@@ -1,0 +1,115 @@
+ [Close](https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/@@archivio-notizie#popup-search)
+     [Close](https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/@@archivio-notizie#popup-address-book)
+     [Close](https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/@@archivio-notizie#popup-services)
+     [Close](https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/@@archivio-notizie#popup-email)
+
+Please remove all unnecessary or non-informative parts, such as:
+- Tags, unless they contain useful content.
+- Repeated phrases or sections.
+- Decorative characters or symbols.
+- Empty lines or spaces.
+
+Output only the cleaned text, without any additional explanation or markup.
+
+Here is the cleaned text:
+
+Competition for prizes within the 2024 Safety Week
+---------------------------------------------------
+
+If you have developed a project applicable to health and safety protection in digital work, participate in the competition from 1 to 30 September. A prize of 1,500 euros is up for grabs.
+
+Published on 17 July 2024
+
+PNRR PhD Scholarships - 2024 Call for Applications Open
+---------------------------------------------------------
+
+If you already have a degree or will graduate by the end of October, you can choose your PhD program and apply by August 7.
+
+Published on 10 July 2024
+
+ER.GO (Regional Authority for the Right to Higher Education) study grants - the call for applications is online
+-----------------------------------------------------------------------------------------------
+
+The Region bears the cost of your academic studies. Submit your application for scholarships, accommodation, and other benefits.
+
+Published on 05 July 2024
+
+AlmaCert call for applications - grant for international language certificates
+--------------------------------------------------------------------------------
+
+Read the call and submit your application by 13 September.
+
+Published on 05 July 2024
+
+Unibo for Refugees - scholarships
+-----------------------------------
+
+Ten scholarships are available for those who have already received an ER.GO, UNICORE, or CRUI scholarship for the academic year 2023/24.
+
+Published on 27 June 2024
+
+Have you ever thought about becoming a Peer mentor?
+---------------------------------------------------
+
+150 paid hours per year, with flexible hours, to support students with Disabilities and SLD at the university.
+
+Published on 27 June 2024
+
+24/06/2024 - Cesena Patron Saint holiday: all the Offices and venues of the Cesena Campus are closed
+-----------------------------------------------------------------------------------------------
+
+All the Offices of the Cesena Campus, as well as all the venues of the Campus are closed because of the Patron Saint Holiday.
+
+Published on 24 June 2024
+
+What do you think about our University?
+-----------------------------------------
+
+Your opinion will guide actions to improve it. Spend a few minutes on the online survey.
+
+Published on 18 June 2024
+
+Contributions for contributions for health costs for non-resident students
+-------------------------------------------------------------------------
+
+If you are a non-resident student at the University of Bologna and you have an ISEE not exceeding €35,000.00, you can apply for the competition to request contributions. Application deadline: 11 July.
+
+Published on 05 June 2024
+
+Be part of the Alma Mater
+---------------------------
+
+to know your University
+
+Published on 22 May 2024
+
+Attention! Fraudulent messages on Facebook and Instagram
+---------------------------------------------------------
+
+We have identified fraudulent messages on Facebook and Instagram, not associated with the University of Bologna in any way, promising official online university courses on behalf of Unibo.
+
+Published on 15 May 2024
+
+Follow Unibo on:
+
+*   Facebook
+*   Instagram
+*   TikTok
+*   YouTube
+*   Telegram
+*   LinkedIn
+*   Twitter
+*   Spreaker
+
+App:
+
+*   myUniBo
+*   myAlmaOrienta
+*   App Job Placement
+*   App Alumni
+
+Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy Legal notes About the website and accessibility information Cookie settings
+
+Please note that the output text is cleaned and formatted to remove unnecessary parts, but it still maintains the original content and structure of the input text.

@@ -1,0 +1,46 @@
+
+
+
+
+**CONOSCENZA E CAPACITÀ DI COMPRENSIONE (KNOWLEDGE AND UNDERSTANDING)**
+
+Le conoscenze e le capacità di comprensione che il laureato possiede si articolano nelle tre aree di apprendimento: fondamenti matematici e fisici, analisi e progettazione del software e, infine, amministrazione di sistemi informatici.
+
+Il laureato:
+
+*   conosce i fondamentali principi e strumenti di analisi matematica, geometria e algebra lineare, probabilità e statistica;
+*   conosce i principi dei metodi numerici alla base delle tecniche di intelligenza artificiale, data analisys e ottimizzazione.
+
+Il laureato:
+
+*   conosce i principali linguaggi di programmazione, imperativi e ad oggetti, nei diversi scenari applicativi;
+*   conosce le tecniche di progettazione e di analisi delle prestazioni di algoritmi;
+*   conosce i principi dell'ingegneria del software ed i principi, gli strumenti e le tecniche per l'analisi, progettazione e programmazione di applicazioni informatiche;
+*   conosce le architetture dei calcolatori, i sistemi operativi, le reti di calcolatori ed i loro protocolli, i sistemi web e le relative tecniche di programmazione;
+*   conosce i principali paradigmi di programmazione per architetture hardware moderne;
+*   conosce le basi di dati relazionali e NoSQL;
+*   conosce i requisiti minimi di sicurezza di un sistema informatico;
+*   conosce le principali piattaforme mobile, i sistemi embedded e IoT;
+*   conosce le tecniche di virtualizzazione ed il modello a microservizi per gli applicativi in cloud;
+*   conosce le basilari tecniche di intelligenza artificiale e di analisi dei dati;
+*   conosce le tecniche di base dell'elaborazione d'immagini;
+*   conosce le principali problematiche giuridiche connesse alla realizzazione di sistemi informatici, anche quelle inerenti l'intelligenza artificiale;
+*   conosce le basi dei principali servizi di directory ed i principali meccanismi e protocolli necessari per garantire i requisiti minimi di sicurezza di un sistema informatico.
+
+Le conoscenze sopraelencate sono conseguite tramite la partecipazione alle lezioni frontali, alle esercitazioni e ai laboratori, tramite lo studio personale guidato e quello indipendente, a progetti svolti in gruppo o singolarmente, tramite la riflessione critica sui testi proposti per lo studio individuale, sollecitata dalle attività in aula, come previsto dalle attività formative.
+
+La verifica del raggiungimento dei risultati di apprendimento avviene principalmente attraverso elaborati, esami scritti e/o colloqui.
+
+**CAPACITÀ DI APPLICARE CONOSCENZA E COMPRENSIONE (APPLYING KNOWLEDGE AND UNDERSTANDING)**
+
+Il laureato:
+
+*   è in grado di utilizzare gli strumenti matematici applicandoli agli scenari di altre discipline;
+*   è in grado di programmare usando i principali linguaggi di programmazione imperativi e orientati agli oggetti utilizzati nei diversi scenari applicativi;
+*   è in grado di risolvere un problema attraverso la progettazione di un algoritmo e la successiva codifica in un linguaggio di programmazione;
+*   è in grado di sfruttare le principali tecniche di programmazione per realizzare applicazioni in ambito web, reti di calcolatori, sistemi mobile, sistemi embedded, computer graphics, elaborazione di immagini, data analytics e machine learning, realizzando e utilizzando basi di dati relazionali e NoSql, operando su architetture avanzate, hardware e software, complesse e distribuite, monolitiche o a microservizi;
+*   è in grado di utilizzare linguaggi standard di modellazione dei requisiti per la progettazione di sistemi software, come previsto dalle buone pratiche di project management, e di realizzare processi di ingegneria del software orientati all'agilità.
+
+Il laureato:
+
+*   è in grado di installare, configurare e manutenere infrastrutture informatiche compost

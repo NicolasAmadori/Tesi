@@ -1,0 +1,57 @@
+
+
+
+
+    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text, without any additional explanation or markup.
+
+Here is the cleaned text:
+
+Programme — Intelligent Embedded Systems
+
+Profile
+-------
+
+Choose track: local or EIT Digital Master School
+Course Structure Diagram
+Overview
+Faculty
+Prospects
+Programme aims
+Expected learning outcomes
+
+Organisation and quality assurance
+Degree Programme Quality Assurance System
+Student administration offices
+Student representatives
+Programme Quality: facts and figures
+Classrooms, labs and libraries
+Degree Programme Director and Board
+Degree Programme Tutor
+
+Regulations
+Degree Programme Teaching Regulations
+Student Regulations
+
+Follow Unibo on:
+Facebook
+Twitter
+LinkedIn
+Instagram
+TikTok
+YouTube
+Telegram
+
+App:
+myUniBo
+myAlmaOrienta
+App Job Placement
+App Alumni
+
+Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy
+Legal notes
+About the website and accessibility information
+Cookie settings
+
+Note: The cleaned text is a summary of the original text, focusing on the main points and removing unnecessary parts. The output is a concise and easy-to-read text, without any additional explanation or markup.

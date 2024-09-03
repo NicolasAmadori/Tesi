@@ -2,29 +2,16 @@
 
 
 
-Output:
-Cambia il calcolo della media di laurea per i laureandi in possesso di carriera pregressa. A partire dalla prima sessione di laurea dell’Anno Accademico 2015/2016 saranno introdotte novità riguardo al calcolo della media di laurea per i laureandi in possesso di carriera pregressa (seconda laurea, rinuncia, decadenza). Conformemente alla linea dell’Ateneo, saranno esclusi dal calcolo della media i voti delle attività riconosciute da precedenti carriere già chiuse (lauree, rinunce e decadenze), fatta eccezione per le singole attività formative conseguite nell’ambito dello stesso corso di studio in cui si consegue il titolo finale (i cosiddetti ‘esami singoli’). 
-Segui Unibo su: [Seguici su Instagram](https://www.instagram.com/unibo/) [Seguici su TikTok](https://www.tiktok.com/@joinunibo) [Seguici su YouTube](https://www.youtube.com/user/UniBologna) [Seguici su Telegram](https://t.me/Unibo_Official) [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901) [Seguici su Facebook](https://www.facebook.com/unibo.it) [Seguici su Twitter](http://www.twitter.com/Unibo) [Seguici su Spreaker](https://www.spreaker.com/user/unibo) App: [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo) [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta) [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo) [App Alumni](https://site.unibo.it/alumni-association/it) 
-©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376 
-[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/calcolo-della-media-di-laurea-per-laureandi-con-carriera-pregressa-seconda-laurea-rinuncia-decadenza#) 
-[](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/calcolo-della-media-di-laurea-per-laureandi-con-carriera-pregressa-seconda-laurea-rinuncia-decadenza# "Torna su") 
-    
+Cleaned text:
 
+Cambia il calcolo della media di laurea per i laureandi in possesso di carriera pregressa (seconda laurea, rinuncia, decadenza) — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
 
+A partire dalla prima sessione di laurea dell’Anno Accademico 2015/2016 saranno introdotte novità riguardo al calcolo della media di laurea per i laureandi in possesso di carriera pregressa (seconda laurea, rinuncia, decadenza).
 
-Note: 
-- The output is the cleaned text, without any additional explanation or markup.
-- The links are left intact, as they are informative and useful.
-- The unnecessary or non-informative parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces, are removed. 
-- The text is reformatted to improve readability. 
-- The output is a single block of text, without any headings or subheadings. 
-- The links are not formatted as links, but rather as plain text. 
-- The output is a single block of text, without any indentation or formatting. 
-- The output is a single block of text, without any line breaks or paragraph breaks. 
-- The output is a single block of text, without any punctuation or capitalization. 
-- The output is a single block of text, without any special characters or symbols. 
-- The output is a single block of text, without any formatting or styling. 
-- The output is a single block of text, without any images or multimedia. 
-- The output is a single block of text, without any tables or charts. 
-- The output is a single block of text, without any footnotes or endnotes. 
-- The output is a single block of text, without any
+Conformemente alla linea dell’Ateneo, saranno esclusi dal calcolo della media i voti delle attività riconosciute da precedenti carriere già chiuse (lauree, rinunce e decadenze), fatta eccezione per le singole attività formative conseguite nell’ambito dello stesso corso di studio in cui si consegue il titolo finale (i cosiddetti ‘esami singoli’).
+
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/calcolo-della-media-di-laurea-per-laureandi-con-carriera-pregressa-seconda-laurea-rinuncia-decadenza
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/calcolo-della-media-di-laurea-per-laureandi-con-carriera-pregressa-seconda-laurea-rinuncia-decadenza#)

@@ -1,0 +1,48 @@
+
+
+
+
+    Output:
+    Ingegneria e scienze informatiche - Laurea - Cesena
+    Modifiche di ordinamento al corso di laurea in Ingegneria e Scienze Informatiche
+
+Il nuovo Ordinamento Didattico del CdL in Ingegneria e scienze informatiche
+
+11/15/2023
+
+Il Corso di Laurea forma un informatico che coniughi cultura scientifica e mentalità ingegneristica ad una competenza specifica nella progettazione di sistemi software e nella loro amministrazione sistemistica.
+
+L’ordinamento didattico del corso di laurea descrive la struttura del corso, le figure professionali formate e gli obiettivi formativi, senza però entrare nello specifico dettaglio dei singoli insegnamenti. Negli ultimi anni sono emerse tre macro-esigenze:
+
+1. La specializzazione verso lo sviluppo del software è stata via via aumentata, introducendo esami opzionali in aree emergenti del software e riducendo le parti su hardware e informatica teorica. Questa modifica nel contenuto degli insegnamenti non è stata però riportata nell’ordinamento didattico, che perciò risultava un po’ datato e necessitava di essere aggiornato.
+
+2. Nell’ultima consultazione delle parti sociali, effettuata a marzo 2022 in occasione del riesame ciclico, numerose aziende hanno suggerito di effettuare alcune modifiche all’ordinamento:
+
+*   potenziare le competenze in certi ambiti emergenti, in particolare: intelligenza artificiale, virtualizzazione e sviluppo in cloud, applicazioni mobile. Va sottolineato che molti di questi argomenti sono già proposti in alcuni insegnamenti opzionali, ma non risultano nell’ordinamento didattico;
+*   aumentare le competenze di Project Management;
+*   sviluppare competenze trasversali per sapere come si lavora in team.
+
+3\. Infine, negli ultimi due anni è cambiato il contesto, diversi corsi di laurea magistrali richiedono ora per l’accesso le conoscenze di lingua inglese di livello B2 e ormai le scuole superiori forniscono competenze di inglese a livello B1. Il Consiglio di corso di laurea ha perciò deciso di trasformare l’insegnamento al primo anno di Inglese da B1 a B2. Questo comporta che gli studenti non dovranno più scegliere come esame opzionale Inglese B2 ma potranno sfruttare un esame opzionale in più per approfondire tematiche informatiche.
+
+Sulla base di queste tre tipologie di esigenze, il Consiglio di Corso di Laurea ha prodotto il nuovo ordinamento, che lascia invariata la struttura del CdL ma recepisce le modifiche puntuali sopra descritte.
+
+Mediante questa **Consultazione delle parti sociali**, il Consiglio di corso di laurea vuole conoscere il parere di aziende e associazioni di categoria riguardo al nuovo ordinamento didattico del Corso di Laurea in Ingegneria e Scienze Informatiche, per valutare l’impatto del corso di studio sul territorio e ricevere eventuali suggerimenti per azioni future volte a migliorare la collaborazione e la qualità dei propri laureati.
+
+Obiettivi formativi
+
+*   [Obiettivi formativi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/ordinamento-a-a-2024-25/obiettiviformativi.pdf/@@download/file/ObiettiviFormativi.pdf)
+    
+    \[.pdf 151Kb \]
+    
+
+Figure professionali
+
+*   [Figure professionali](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/ordinamento-a-a-2024-25/figureprofessionali.pdf/@@download/file/FigureProfessionali.pdf)
+    
+    \[.pdf 105Kb \]
+    
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https

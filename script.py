@@ -116,7 +116,7 @@ def cleanMarkup(llm, text):
 
 def cleanDocuments(llm, documents, create_files=False):
     if create_files:
-        output_directory = "workspace/cleaned_documents"
+        output_directory = "cleaned_documents"
         os.makedirs(output_directory, exist_ok=True)
     i = 0
     for d in documents:
@@ -139,7 +139,7 @@ def test_neo4j_connection(graph):
 
 def save_graph_to_file(generated_graph, file_name=None):
     import datetime
-    file_path = f"workspace/generated_graphs"
+    file_path = f"generated_graphs"
     if file_name:
         file_path += f"/{file_name}.txt"
     else:
@@ -156,7 +156,7 @@ def save_graph_to_file(generated_graph, file_name=None):
 
 def generateGraph(llm, text, create_files=False):
     if create_files:
-        output_directory = "workspace/generated_graphs"
+        output_directory = "generated_graphs"
         os.makedirs(output_directory, exist_ok=True)
 
     template = """
@@ -192,9 +192,13 @@ def convertJsonToNodes(json_array):
     nodes_dict = {}
     relationships = []
 
-    for rel in json_array:
+    for i, rel in enumerate(json_array):
+        print(i)
         if not isinstance(rel, dict) or "head" not in rel or "head_type" not in rel or "tail" not in rel or "tail_type" not in rel:
             print(f"This relationship is not correct: {rel}")
+            continue
+
+        if isinstance(rel["head"], list) or isinstance(rel["head_type"], list) or isinstance(rel["tail"], list) or isinstance(rel["tail_type"], list):
             continue
 
         source_key = (rel["head"], rel["head_type"])
@@ -289,22 +293,22 @@ if __name__ == '__main__':
     os.environ["AURA_INSTANCEID"]="bbef2ff2"
     os.environ["AURA_INSTANCENAME"]="Instance01"
 
-    step = 1
+    # step = 1
 
-    llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
-    print(f"\nStep #{step} Model downloaded.\n"); step+=1
+    # llm = getHuggingFaceModel(model_id="meta-llama/Meta-Llama-3-8B-Instruct", hf_token = HF_TOKEN)
+    # print(f"\nStep #{step} Model downloaded.\n"); step+=1
 
-    llm_transformer = LLMGraphTransformer(llm=llm)
-    print(f"\nStep #{step} Graph Transformer initialized.\n"); step+=1
+    # llm_transformer = LLMGraphTransformer(llm=llm)
+    # print(f"\nStep #{step} Graph Transformer initialized.\n"); step+=1
 
-    documents = getDocuments("/workspace/crawl")[100:]
-    print(f"\nStep #{step} Documents read.\n"); step+=1
+    # documents = getDocuments("/workspace/crawl")[150:250]
+    # print(f"\nStep #{step} Documents read.\n"); step+=1
 
-    cleaned_documents = cleanDocuments(llm, documents, create_files=True)
-    print(f"\nStep #{step} Documents cleaned.\n"); step+=1
+    # cleaned_documents = cleanDocuments(llm, documents, create_files=True)
+    # print(f"\nStep #{step} Documents cleaned.\n"); step+=1
     
-    graph_json = [generateGraph(llm, d.page_content, create_files=True) for d in cleaned_documents]
-    print(f"\nStep #{step} Graph Generated.\n"); step+=1
+    # graph_json = [generateGraph(llm, d.page_content, create_files=True) for d in cleaned_documents]
+    # print(f"\nStep #{step} Graph Generated.\n"); step+=1
 
     # jsons = flatAndFilterJson(graph_json)
     # print(f"\nStep #{step} Json array filtered and flattened. \n"); step+=1
@@ -349,28 +353,29 @@ if __name__ == '__main__':
 
 
     ##Testing - Load already generated jsons from files
-    # step = 1
+    step = 1
 
-    # print(f"\nStep #{step}\n"); step+=1
-    # graph_json_files = readJsonsFile("/workspace/generated_graphs")
+    print(f"\nStep #{step}\n"); step+=1
+    graph_json_files = readJsonsFile("/workspace/generated_graphs")
+    print(len(graph_json_files))
 
-    # print(f"\nStep #{step}\n"); step+=1
-    # jsons = flatAndFilterJson(graph_json_files)
+    print(f"\nStep #{step}\n"); step+=1
+    jsons = flatAndFilterJson(graph_json_files)
 
-    # print(f"\nStep #{step}\n"); step+=1
-    # graph_document = convertJsonToNodes(jsons)
-    # # for n in graph_document.nodes:
-    # #     # print(n)
-    # #     # print(n.id == "null")
-    # #     if n.id == "null" or n.id=="" or n.type=="":
-    # #         print(n)
-    # #         # print("############################")
+    print(f"\nStep #{step}\n"); step+=1
+    graph_document = convertJsonToNodes(jsons)
+    # for n in graph_document.nodes:
+    #     # print(n)
+    #     # print(n.id == "null")
+    #     if n.id == "null" or n.id=="" or n.type=="":
+    #         print(n)
+    #         # print("############################")
 
-    # print(f"\nStep #{step}\n"); step+=1
-    # graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
-    # try:
-    #     graph.add_graph_documents([graph_document])
-    # except Exception as e:
-    #     print(f"Errore durante l'aggiunta del grafo al db: {e} {type(e)}")
-    # else:
-    #     print("\n7. Graph added to neo4j db.\n")
+    print(f"\nStep #{step}\n"); step+=1
+    graph = Neo4jGraph(url= "neo4j+s://bbef2ff2.databases.neo4j.io", username="neo4j", password="fdZslu0qGuZhCiR9pasipKRR-iLDgz9AMp8KVS9Uf2s")
+    try:
+        graph.add_graph_documents([graph_document])
+    except Exception as e:
+        print(f"Errore durante l'aggiunta del grafo al db: {e} {type(e)}")
+    else:
+        print("\n7. Graph added to neo4j db.\n")

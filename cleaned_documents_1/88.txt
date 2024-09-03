@@ -1,0 +1,57 @@
+
+
+
+
+Please clean the text and remove any unnecessary or non-informative parts, such as:
+    - Tags, unless they contain useful content.
+    - Repeated phrases or sections.
+    - Decorative characters or symbols.
+    - Empty lines or spaces.
+
+Output only the cleaned text, without any additional explanation or markup.
+
+Here is the cleaned text:
+
+Course Structure Diagram - A.Y. 2024/2025 — Computer Science and Engineering - Laurea Magistrale - Cesena
+
+First Year
+
+Compulsory courses
+
+| Course | Type | Period | Credits |
+| --- | --- | --- | --- |
+| Distributed Systems | B | 1 | 6 |
+| Embedded Systems and Internet of Things | B | 1 | 6 |
+| Fundamentals of Management and Organization |  | 1 |  |
+| Fundamentals of Accounting | D | 1 | 6 |
+| Machine Learning and Data Mining | B | 1 | 6 |
+| Cybersecurity | B | 2 | 6 |
+| Intelligent Systems Engineering | B | 2 | 6 |
+| Programmable Networking | B | 2 | 6 |
+
+Elective Courses (6 CFU)
+
+| Course | Type | Period | Credits |
+| --- | --- | --- | --- |
+| Fundamentals of Accounting | D | 1 | 6 |
+| Industry 4.0 | F | 2 | 6 |
+
+Second Year
+
+Elective Courses (6-12 CFU)
+
+| Course | Type | Period | Credits |
+| --- | --- | --- | --- |
+| EMBEDDED SENSORS | D | 1 | 6 |
+| Entrepreneurship | D | 1 | 6 |
+| Eu Law of Algorithm | D | 1 | 6 |
+| Marketing, Sales and Platforms in the Digital Age | D | 1 | 6 |
+| Innovation Strategy | D | 2 | 6 |
+
+Final Examination (30 CFU)
+
+| Course | Type | Period | Credits |
+| --- | --- | --- | --- |
+| Final Examination | E | 2 | 30 |
+
+Note: The cleaned text only includes the essential information and removes any unnecessary or non-informative parts. The output is a concise and organized version of the original text.

@@ -1,0 +1,91 @@
+
+
+
+
+Output:
+```
+Laurea Magistrale - Ingegneria e Scienze Informatiche - Cesena
+=================================
+
+Masterclass "Generative AI for everyday life and academic research" - Iscriviti per partecipare dal 9 al 10 settembre
+Pubblicati i primi orari delle lezioni - Dai un'occhiata e comincia a immaginare le tue giornate all'Università
+Concorso per premi nell’ambito della settimana della sicurezza 2024 - Se hai sviluppato un progetto applicabile alla tutela della salute e sicurezza nel lavoro digitale, partecipa al concorso dal 1 al 30 settembre. In palio 1.500 euro.
+
+Esplora il Corso - [Esplora il Corso](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/esplora-il-corso)
+Open day - [Open day](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/openday)
+
+Tipo di corso Laurea Magistrale
+Sede didattica Cesena
+Lingua Inglese, Italiano
+Tipo di accesso Libero con verifica dell’adeguatezza della preparazione
+Classe di corso LM-18 - INFORMATICA  LM-32 - INGEGNERIA INFORMATICA
+Coordinatore [Mirko Viroli](https://www.unibo.it/uniboweb/Utils/sitowebpersonale.aspx?MAT=35642&lang=it)
+Dipartimento [Informatica - Scienza e Ingegneria - DISI](http://www.informatica.unibo.it/it)
+Insegnamenti [Curricula: i percorsi previsti](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti)
+
+Scegli il tuo percorso di studi
+-------------------------------
+
+*   Ingegneria e scienze informatiche
+*   CURRICULUM INTELLIGENT EMBEDDED SYSTEMS
+
+I più visti
+-----------
+
+Orario delle lezioni
+Appelli d'esame
+Elenco Docenti
+Studenti Online
+
+Bacheca
+-------
+
+Masterclass "Generative AI for everyday life and academic research"
+Iscriviti per partecipare dal 9 al 10 settembre
+Pubblicati i primi orari delle lezioni
+Concorso per premi nell’ambito della settimana della sicurezza 2024
+Un alloggio per studiare all'università?
+Borse di dottorato di ricerca PNRR - aperto il bando 2024
+È online il bando ER.GO - Azienda regionale per il diritto agli studi superiori
+
+Vai alla bacheca
+-----------
+
+La qualità del Corso
+Esperienze all'estero
+Cerchi un'informazione? Hai un dubbio? Il tutor del Corso ti aiuterà durante il tuo percorso universitario.
+
+Segui Unibo su:
+Instagram
+TikTok
+YouTube
+Telegram
+Linkedin
+Facebook
+Twitter
+Spreaker
+
+App:
+myUniBo
+myAlmaOrienta
+App Job Placement
+App Alumni
+
+Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy
+Note legali
+Informazioni sul sito e accessibilità
+Impostazioni cookie
+```
+
+
+
+Note:
+- Removed unnecessary tags and sections.
+- Removed repeated phrases and sections.
+- Removed decorative characters and symbols.
+- Removed empty lines and spaces.
+- Left informative links.
+- Removed unnecessary information and focused on the main content.
+- Reformatted the text to make it easier to read and understand.

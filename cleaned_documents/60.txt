@@ -11,10 +11,10 @@ Se sei iscritto al primo anno, parti con il piede giusto! L’ingresso all'Unive
 
 Alcuni buoni motivi per frequentare le lezioni:
 
-1.  La guida e il supporto di un docente sono fondamentali per arricchire e completare l’apprendimento. Imparare non vuol dire studiare passivamente ma far emergere le nostre potenzialità attraverso l’interazione.
-2.  Durante tutto il percorso formativo cresciamo, miglioriamo e costruiamo i nostri progetti attraverso il confronto con altre persone. Potrai collaborare con i compagni di corso, organizzare gruppi di studio, confrontare appunti sulle varie materie d'esame, condividere esperienze e strategie per preparare gli esami. Un’opportunità preziosa che vale la pena cogliere.
-3.  Mentre siamo in aula stiamo già studiando, così ci prepariamo senza perdere mai il ritmo!
-4.  Per gli insegnamenti di carattere pratico come laboratori è fondamentale essere presenti e attivi in prima persona.
+1. La guida e il supporto di un docente sono fondamentali per arricchire e completare l’apprendimento. Imparare non vuol dire studiare passivamente ma far emergere le nostre potenzialità attraverso l’interazione.
+2. Durante tutto il percorso formativo cresciamo, miglioriamo e costruiamo i nostri progetti attraverso il confronto con altre persone. Potrai collaborare con i compagni di corso, organizzare gruppi di studio, confrontare appunti sulle varie materie d'esame, condividere esperienze e strategie per preparare gli esami. Un’opportunità preziosa che vale la pena cogliere.
+3. Mentre siamo in aula stiamo già studiando, così ci prepariamo senza perdere mai il ritmo!
+4. Per gli insegnamenti di carattere pratico come laboratori è fondamentale essere presenti e attivi in prima persona.
 
 Se sei uno studente con particolari esigenze personali, consulta le informazioni sul [prolungamento della durata degli studi (percorso flessibile)](http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/prolungamento-durata-studi-percorso-flessibile).
 
@@ -38,4 +38,4 @@ App:
 
 ©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
 
-[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale

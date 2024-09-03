@@ -1,0 +1,25 @@
+
+
+
+
+    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
+
+    Here is the cleaned text:
+
+Hai un’idea che potrebbe diventare startup? Ancora pochi giorni per presentare la tua idea alla Call for StartUp. Hai tempo fino al 31 gennaio 2024
+
+Pubblicato il 17 gennaio 2024
+
+Iscriversi all’università: dai test di ammissione alle strategie di studio. Tutto quello che devi conoscere sull’università. Ne parliamo online alle Giornate dell’Orientamento il 27 e 28 febbraio.
+
+Pubblicato il 05 febbraio 2024
+
+Il Bando Erasmus+ Mobilità per studio 2024/25 è online. Consulta il bando, il calendario delle scadenze e l’elenco dei posti scambio. Scadenza: 8 febbraio
+
+Pubblicato il 09 gennaio 2024
+
+https://site.unibo.it/idea/it/la-nostra-idea/attivita-e-iniziative/call-for-start-up
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/iscriversi-all-universita-dai-testi-di-ammissione-alle-strategie-di-studio
+https://www.unibo.it/it/internazionale/studiare-all-estero/erasmus/come-partecipare
+
+    Note: The cleaned text is a summary of the original text, focusing on the most important information and removing unnecessary parts. The links are left intact, as they provide additional information and resources. The cleaned text is written in a concise and clear manner, making it easy to understand and follow.

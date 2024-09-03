@@ -3,4 +3,36 @@
 
 
 Output:
-La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale. La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale. Per laurearti devi proporre un argomento di tesi a un professore, scelto fra i docenti del tuo Corso, che valuterà la congruità della tua proposta in relazione al piano di studi. Dovrai dimostrare di essere in grado di costruire una bibliografia di base sull'argomento, di sintetizzarla e rielaborarla in forma saggistica, nel rispetto delle norme redazionali. Le norme redazionali di base per la stesura della tesi: lunghezza dell’elaborato compresa fra le 50.000 e le 100.000 battute (spazi inclusi); font Times New Roman o Arial; corpo del testo di 12 o 13 punti (le note vanno in corpo 10); margini destro-sinistro e superiore-inferiore di 2,5 cm; interlinea 1,5 cm. I criteri per la valutazione della tesi sono: originalità dell'argomento; correttezza metodologica; livello di approfondimento; adeguatezza della scrittura e redazione dell'elaborato; capacità espositiva e di presentazione dell'elaborato. La Commissione di laurea, tenuto conto della discussione della tesi e del tuo curriculum, deciderà il voto finale che sarà proclamato in sede di sedute di laurea. La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale. La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale. Per laurearti devi proporre un argomento di tesi a un professore, scelto fra i docenti del tuo Corso, che valuterà la congruità della tua proposta in relazione al piano di studi. Dovrai dimostrare di essere in grado di costruire una bibliografia di base sull'argomento, di sintetizzarla e rielaborarla in forma saggistica, nel rispetto delle norme redazionali. Le norme redazionali di base per la stesura della tesi: lunghezza dell’elaborato compresa fra le 50.000 e le 100.000 battute (spazi inclusi); font Times New Roman o Arial; corpo del testo di 12 o 13 punti (le note vanno in corpo 10); margini destro-sinistro e superiore-inferiore di 2,5 cm; interlinea 1,5 cm. I criteri per la valutazione della tesi sono: originalità dell'argomento; correttezza metodologica; livello di approfondimento; adeguatezza della scrittura e redazione dell'elaborato; capacità espositiva e di presentazione dell'elaborato. La Commissione di laurea, tenuto conto della discussione della tesi e del tuo curriculum, deciderà il voto finale che sarà proclamato in sede di sedute di laurea. La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale. La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale. Per laurearti devi proporre un argomento di tesi a un professore, scelto fra i docenti del tuo Corso, che valuterà la congruità della tua proposta in relazione al piano di studi. Dovrai dimostrare di essere in grado di costruire una bibliografia di base sull'argomento, di sintetizzarla e rielaborarla in forma saggistica, nel rispetto delle norme redazionali. Le norme redazionali di base per la stesura della tesi: lunghezza dell’elaborato compresa fra le 50.000 e le 100.000 battute (spazi inclusi); font Times New Roman o Arial; corpo del testo di 12 o 13 punti (le note vanno in corpo 10); margini destro-sinistro e superiore-inferiore
+Redazione della tesi e voto finale — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+La scelta dell’argomento e le norme redazionali per la stesura della tesi per la prova finale.
+Scelta e proposta dell'argomento
+Per laurearti devi proporre un argomento di tesi a un professore, scelto fra i docenti del tuo Corso, che valuterà la congruità della tua proposta in relazione al piano di studi.
+Dovrai dimostrare di essere in grado di costruire una bibliografia di base sull'argomento, di sintetizzarla e rielaborarla in forma saggistica, nel rispetto delle norme redazionali.
+Norme redazionali
+lunghezza dell’elaborato compresa fra le 50.000 e le 100.000 battute (spazi inclusi);
+font Times New Roman o Arial;
+corpo del testo di 12 o 13 punti (le note vanno in corpo 10);
+marginii destro-sinistro e superiore-inferiore di 2,5 cm;
+interlinea 1,5 cm.
+Voto finale e commissione
+In caso di esito positivo dell’esame di laurea, il punteggio è ottenuto come somma del punteggio base (la media dei voti conseguiti espressa in centodecimi e arrotondata all’intero) e il voto della tesi di laurea (espresso nel range da 0 a 8 punti, e anch'essa arrotondata all'intero). Un voto superiore a 6 punti potrà essere dato solo previa indicazione al coordinatore del Corso di Studio, da parte del relatore ed entro 30 giorni dalla discussione, di un contro-relatore. Quest'ultimo fornirà in anticipo alla Commissione di Laurea un giudizio sull'attività di Tesi che ne certifichi la qualità. Nel caso non sia presente alla discussione, tale giudizio indichi anche la sua proposta di punteggio.
+Per l'opportuna valutazione della tesi si auspica (compatibilmente con esigenze logistiche) che:
+· alla presentazione di laurea sia fornito un tempo non inferiore a 20 minuti (inclusa discussione)
+· il numero di membri della commissione sia non inferiore a 3, si auspica che siano 4;
+Per la definizione dell’incremento sul punteggio di base si distinguono tre diverse tipologie di tesi. Al fine di far convergere il giudizio della Commissione saranno utilizzate le seguenti griglie di valutazione che il relatore dovrà sottoporre in fase di
+presentazione del laureando, dipendentemente dalla tipologia di tesi:
+· Tesi di rassegna o compilativa (massimo 4 punti)
+· Tesi di progetto (massimo 7 punti)
+· Tesi di ricerca (massimo 8 punti)
+La Commissione di laurea valuterà il tuo percorso nel complesso: tesi, curriculum degli studi compiuti, eventuali trasferimenti da altro Corso.
+I criteri per la valutazione della tesi sono:
+*   originalità dell'argomento
+*   correttezza metodologica
+*   livello di approfondimento
+*   adeguatezza della scrittura e redazione dell'elaborato
+*   capacità espositiva e di presentazione dell'elaborato.
+La Commissione di laurea, tenuto conto della discussione della tesi e del tuo curriculum, deciderà il voto finale che sarà proclamato in sede di sedute di laurea.
+REDAZIONE DELLA TESI IN LINGUA INGLESE
+Il Consiglio di corso di studio ha deliberato che lo studente che voglia redigere la tesi in lingua inglese lo possa fare, senza più richiedere autorizzazione al Consiglio di corso di studio.
+Lo studente dovrà comunque richiedere l'autorizzazione al proprio relatore. Il relatore qualora non avesse esplicitamente dato il consenso allo studente o ritenesse che non ci siano i requisiti linguistici per redigere un elaborato di tesi, potrebbe non approvare il titolo della tesi o l’elaborato finale.
+C

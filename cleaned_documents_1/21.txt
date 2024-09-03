@@ -1,0 +1,100 @@
+
+
+
+
+    Please clean the text and remove any unnecessary or non-informative parts, such as:
+    - Tags, unless they contain useful content.
+    - Repeated phrases or sections.
+    - Decorative characters or symbols.
+    - Empty lines or spaces.
+
+    Output only the cleaned text, without any additional explanation or markup.
+
+    https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/choose-track-local-or-eit-digital-master-school
+
+Choose track: local or EIT Digital Master School — Intelligent Embedded Systems - Curriculum - Cesena
+
+The curriculum Intelligent Embedded Systems offers two different track which have different admission processes and deadlines. For the details on admissions, refer to the dedicated page.
+
+In the local track, students attend both years at the University of Bologna.
+
+In the EIT Digital Master School track, after the first year in the University of Bologna, students attend the second year in one of the other partner universities in another European country.
+
+### Intelligent Embedded Systems - local track
+
+In the local track, students can attend both the first and second year in the University of Bologna.
+
+Nonetheless, students will be able to apply to the mobility programme offered to students of the University of Bologna (Erasmus+, Overseas, preparation of thesis abroad...).
+
+The admission process and tuition fees are managed directly by the University.
+
+### Intelligent Embedded Systems – EIT Digital Master School track
+
+This version of the curriculum in Intelligent Embedded Systems is part of the EIT Digital Master School. The European Institute of Innovation and Technology (EIT) is an independent EU body created to increase Europe’s ability to innovate by nurturing entrepreneurial talents. The EIT Digital is the branch of the EIT focusing on Digital innovation.
+
+The program offers a two-year education, the first at the University of Bologna, the second in a University of choice in Budapest, Stockholm, Tallin or Turku.
+
+The curriculum is technically focused on Intelligent Embedded System, but also includes a minor of 30 CFUs covering topics in digital innovation and entrepreneurship.
+
+The first year at the University of Bologna aims at offering a full understanding of the most recent trends in software engineering for embedded systems, including example of applications. The second year may be chosen to be more software or hardware-oriented and offers a specialisation and a graduation project. The graduation project includes an internship at a company or a research institute and results in a Master thesis with a strong innovation and entrepreneurship dimension.
+
+Part of the curriculum is the EIT Digital Summer School, a two-week programme held at several locations in Europe, in relation to five areas with major societal and industrial challenges and business opportunities: Digital Cities, Digital Industry, Digital Wellbeing, Digital Tech, and Digital Finance.
+
+The EIT Digital Master School enables the students to engage with academic, research and industrial partners across Europe. As a student, you will have the opportunity to collaborate with the EIT industrial partners and bring innovation to the market as part of your Innovation and Entrepreneurship studies.
+
+Programme structure (EIT track)
+
+The programme is structured as follows:
+
+1st (entry) year at the University of Bologna (Cesena and Forlì Campus): common courses;
+2nd (exit) year abroad, one university at student's choice among selected institutions (Budapest, Turku, Stockholm, Tallin): specialisation.
+
+At the end of the programme, students will obtain a double degree from the two universities as well as an EIT certificate.
+
+The detailed programme structure is available here.
+
+Follow Unibo on:
+
+* Facebook
+* LinkedIn
+* Twitter
+* Instagram
+* TikTok
+* YouTube
+* Telegram
+
+App:
+
+* myUniBo
+* myAlmaOrienta
+* App Job Placement
+* App Alumni
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy Legal notes About the website and accessibility information Cookie settings
+
+ 
+
+Torna su
+
+    Output: 
+Choose track: local or EIT Digital Master School — Intelligent Embedded Systems - Curriculum - Cesena
+
+The curriculum Intelligent Embedded Systems offers two different track which have different admission processes and deadlines. For the details on admissions, refer to the dedicated page.
+
+In the local track, students attend both years at the University of Bologna.
+
+In the EIT Digital Master School track, after the first year in the University of Bologna, students attend the second year in one of the other partner universities in another European country.
+
+### Intelligent Embedded Systems - local track
+
+In the local track, students can attend both the first and second year in the University of Bologna.
+
+Nonetheless, students will be able to apply to the mobility programme offered to students of the University of Bologna (Erasmus+, Overseas, preparation of thesis abroad...).
+
+The admission process and tuition fees are managed directly by the University.
+
+### Intelligent Embedded Systems – EIT Digital Master School track
+
+This

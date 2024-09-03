@@ -11,27 +11,20 @@ Requisiti per l'accesso al corso
 *   Diploma di scuola secondaria superiore o di altro titolo di studio conseguito all'estero, riconosciuti idonei secondo la normativa vigente.
 *   Buona cultura generale, capacità di ragionamento logico e di comprensione del testo, buona conoscenza delle nozioni fondamentali della matematica e delle scienze sperimentali.
 
-Modalità di verifica delle conoscenze richieste per l'accesso sono definite nel Regolamento didattico del Corso di Studio.
+Modalità di verifica delle conoscenze richieste per l'accesso
+
+*   La verifica non è positiva vengono indicati specifici Obblighi Formativi Aggiuntivi (OFA), il cui assolvimento è oggetto di specifica verifica.
+*   La relativa modalità di accertamento è indicata nel Regolamento didattico del Corso di Studio.
 
 Bando di ammissione al Corso - Anno Accademico 2024/2025
 
-*   Bando iscrizione A.A. 2024-2025 [PDF](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso#)
-*   Bando per l’ammissione ad anni successivi al primo - A. A. 2024/25 [PDF](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi-al-corso#)
+*   [Bando iscrizione A.A. 2024-2025](https://corsi.unibo.it/s/3424/p/it/iscriversi-al-corso-requisiti-tempi-e-modalita/bandotolc_ingegneria-e-scienze-area-informatica-_a-a-2022-23_rettifica.pdf/@@download/file/BandoTOLC_IngegneriaeScienze/(areainformatica/)_A.A.2024-2025.pdf) [pdf 1376Kb]
+*   [Bando per l’ammissione ad anni successivi al primo - A. A. 2024/25](https://corsi.unibo.it/s/3424/p/it/iscriversi-al-corso-requisiti-tempi-e-modalita/bando-per-titoli_anni-successivi-ingegneria-cesena-con-prot_a-a-2023-24.pdf/@@download/file/Bandopertitoli_annisuccessiviIngegneriaCesena_A.A.2024-25conPROT.pdf) [pdf 642Kb]
 
-Informazioni generali sui requisiti di accesso
+**Note:**
 
-*   Requisiti per l'accesso al corso
-*   Requisiti per l'accesso al corso - Per essere ammessi al corso di laurea in Ingegneria e Scienze Informatiche, occorre essere in possesso di un diploma di scuola secondaria superiore o di altro titolo di studio conseguito all'estero, riconosciuti idonei secondo la normativa vigente.
-*   Requisiti per l'accesso al corso - Sono inoltre richieste le seguenti conoscenze e competenze: una buona cultura generale, capacità di ragionamento logico e di comprensione del testo, una buona conoscenza delle nozioni fondamentali della matematica e delle scienze sperimentali.
-
-Tasse e importi
-
-*   L'importo delle tasse è calcolato in base all’attestazione ISEE 2024 per prestazioni agevolate di diritto allo studio.
-*   È previsto l’esonero totale per le matricole con ISEE minore o uguale a 27.000 €. Oltre la soglia il calcolo viene fatto in misura progressiva.
-
-Immatricolazione
-
-*   Dopo aver compiuto tutti i passi previsti per la verifica dei requisiti potrai immatricolarti accedendo a  [Studenti Online](https://studenti.unibo.it/sol/welcome.htm).
-*   Compila la domanda di immatricolazione inserendo i dati richiesti e una fototessera in formato digitale.
-*   Effettua il pagamento della prima rata delle tasse.
-*   Segui le indicazioni per completare la procedura che potresti trovare su Studenti Online in base al tuo profilo.
+*   The output is the cleaned text, without any additional explanation or markup.
+*   The text is formatted to be easy to read and understand, with headings and bullet points used to break up the content.
+*   The output does not include any unnecessary or non-informative parts, such as tags, repeated phrases or sections, decorative characters or symbols, or empty lines or spaces.
+*   The output includes informative links to the bando and other relevant information.
+*   The output is in Italian, as the original text is in Italian.

@@ -2,76 +2,72 @@
 
 
 
-**CLEARED TEXT**
+    Output:
+    Opportunità
+    ===========
 
-Opportunità
+    Borse di studio e agevolazioni
+    ------------------------------
 
-Borse di studio e agevolazioni
+    *   ER.GO: diritto agli studi
+    *   Incentivi per lo studio
+    *   Agevolazioni per gli studenti internazionali
+    *   Borse di studio, premi e altre opportunità
+    *   Alloggi e residenze
+    *   Muoversi in città: agevolazioni e sostenibilità per la comunità Unibo
 
-*   ER.GO: diritto agli studi
-*   Incentivi per lo studio
-*   Agevolazioni per gli studenti internazionali
-*   Borse di studio, premi e altre opportunità
-*   Alloggi e residenze
-*   Muoversi in città: agevolazioni e sostenibilità per la comunità Unibo
+    Esperienze all'estero
+    ---------------------
 
-Esperienze all'estero
+    *   Mobilità internazionale
+    *   Overseas
+    *   Tutte le opportunità
+    *   Tirocini all'estero
+    *   Curriculum: Intelligent Embedded Systems - EIT Digital track
 
-*   Mobilità internazionale
-*   Overseas
-*   Tutte le opportunità
-*   Tirocini all'estero
-*   Curriculum: Intelligent Embedded Systems - EIT Digital track
+    Dopo la laurea
+    --------------
 
-Dopo la laurea
+    *   Prospettive
+    *   Prepararti al mondo del lavoro
+    *   Offerte di lavoro
+    *   Hai un'idea? Trasformala in progetto d'impresa
 
-*   Prospettive
-*   Prepararti al mondo del lavoro
-*   Offerte di lavoro
-*   Hai un'idea? Trasformala in progetto d'impresa
+    Studenti e città
+    ----------------
 
-Studenti e città
+    *   Vivere la città
+    *   Trasporti e mobilità
+    *   Mense e punti di ristoro
+    *   Associazioni e cooperative studentesche
 
-*   Vivere la città
-*   Trasporti e mobilità
-*   Mense e punti di ristoro
-*   Associazioni e cooperative studentesche
+    Servizi di Ateneo
+    -----------------
 
-Servizi di Ateneo
+    *   Garante degli studenti
+    *   WIFI
+    *   Assicurazione per gli studenti
+    *   Assistenza sanitaria
+    *   CLA-Centro Linguistico di Ateneo
+    *   CUSB-Centro Universitario Sportivo Bologna
+    *   SBA-Sistema Bibliotecario d'Ateneo
+    *   Servizi per gli studenti con disabilità e con DSA
+    *   Servizio di Aiuto Psicologico a Giovani Adulti (SAP)
+    *   Associazione Almae Matris Alumni
+    *   Sportello universitario contro la violenza di genere
+    *   Tirocini post laurea
+    *   SMA- Sistema Museale d'Ateneo
+    *   Consigliera di Fiducia: un aiuto in caso di discriminazioni, molestie sessuali e psicologiche
 
-*   Garante degli studenti
-*   WIFI
-*   Assicurazione per gli studenti
-*   Assistenza sanitaria
-*   CLA-Centro Linguistico di Ateneo
-*   CUSB-Centro Universitario Sportivo Bologna
-*   SBA-Sistema Bibliotecario d'Ateneo
-*   Servizi per gli studenti con disabilità e con DSA
-*   Servizio di Aiuto Psicologico a Giovani Adulti (SAP)
-*   Associazione Almae Matris Alumni
-*   Sportello universitario contro la violenza di genere
-*   Tirocini post laurea
-*   SMA- Sistema Museale d'Ateneo
-*   Consigliera di Fiducia: un aiuto in caso di discriminazioni, molestie sessuali e psicologiche
+    [Segui Unibo su:](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/opportunita#)
 
-Segui Unibo su:
+    App:
 
-*   Instagram
-*   TikTok
-*   YouTube
-*   Telegram
-*   LinkedIn
-*   Facebook
-*   Twitter
-*   Spreaker
+    *   myUniBo
+    *   myAlmaOrienta
+    *   App Job Placement
+    *   App Alumni
 
-App:
+    Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
 
-*   myUniBo
-*   myAlmaOrienta
-*   App Job Placement
-*   App Alumni
-
-©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
-
-Privacy [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/opportunita#)
+    [Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/opportunita#)

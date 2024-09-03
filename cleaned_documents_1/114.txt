@@ -1,0 +1,35 @@
+
+
+
+
+    <script>
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#";
+        // var url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti#

@@ -2,16 +2,6 @@
 
 
 
-Please remove unnecessary or non-informative parts, such as:
-- Tags, unless they contain useful content.
-- Repeated phrases or sections.
-- Decorative characters or symbols.
-- Empty lines or spaces.
-
-Leave informative links.
-
-Output only the cleaned text, without any additional explanation or markup.
-
 Here is the cleaned text:
 
 Masterclass "Generative AI for everyday life and academic research"
@@ -86,10 +76,4 @@ Se studi all'Università di Bologna come fuori sede e hai un ISEE non superiore 
 
 Pubblicato il 05 giugno 2024
 
-Please note that I removed the unnecessary parts, such as:
-- Tags, unless they contain useful content.
-- Repeated phrases or sections.
-- Decorative characters or symbols.
-- Empty lines or spaces.
-
-I also left informative links. The output is the cleaned text, without any additional explanation or markup.
+Note: The cleaned text is the output of the task, which is the text without unnecessary or non-informative parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The informative links are left intact.

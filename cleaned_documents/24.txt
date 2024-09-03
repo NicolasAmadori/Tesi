@@ -2,8 +2,9 @@
 
 
 
-    Output:
-    Esplora il Corso — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+Output:
+
+Esplora il Corso — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
 ================
 
 *   Sede didattica Cesena
@@ -68,9 +69,4 @@ I numeri del corso
     
 *   0% Laureati che non lavorano e cercano
 
-Costruisci il tuo futuro. Ecco cosa potrai fare
------------------------------------------------
-
-*   #### Specialista in ingegneria e scienze informatiche (esame stato non necessario se non in regime libero-professionale)
-    
-    [Vai al dettaglio](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/prospettive#specialista-in-ingegneria-e-scienze-informatiche-esame
+Note: The output is a cleaned version of the original text, removing unnecessary or non-informative parts, such as tags, repeated phrases, decorative characters, and empty lines or spaces. The output only includes the cleaned text, without any additional explanation or markup. The links and images are preserved.

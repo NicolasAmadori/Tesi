@@ -1,0 +1,60 @@
+
+
+
+
+Output:
+```
+Per tutelarti sui luoghi di studio e ricerca
+
+Che cosa è
+----------
+
+Si tratta di corsi di formazione sulla salute e sicurezza nei luoghi di lavoro previsti dal Decreto Legislativo 81/2008.
+
+A chi è rivolta
+---------------
+
+A tutti gli studenti che, durante il percorso di studio, svolgono un tirocinio, la tesi o un'attività in un laboratorio di qualsiasi tipo.
+
+Riconoscimento della formazione pregressa
+-----------------------------------------
+
+L’Ateneo riconosce valida:
+
+*   la **Formazione generale** (Modulo 1) svolta presso l’Ateneo di Bologna o altro ente
+*   la **Formazione specifica** (Moduli 2, 3, 4) **solo se l'hai già svolta all’interno dell’Università di Bologna**, per la medesima categoria di rischio e nell’ambito del periodo quinquennale di validità.
+
+Moduli previsti dal Corso
+-------------------------
+
+[Modulo 1 - Formazione Generale](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/formazione-obbligatoria-su-sicurezza-e-salute#)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   **Durata:** 4 ore
+*   **Quando si svolge**: sempre disponibile online
+*   **Lingua**: italiano
+*   **Test finale**: quiz a risposta multipla
+*   **Certificazione**: una volta superato il test potrai scaricare il certificato, in italiano o in inglese
+*   **Validità**: permanente
+
+[Modulo 2 – Formazione specifica rischio basso](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/formazione-obbligatoria-su-sicurezza-e-salute#)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   **Durata**: 4 ore
+*   **Quando si svolge**: sempre disponibile online
+*   **Lingua**: italiano
+*   **Test finale**: quiz a risposta multipla
+*   **Certificazione**: una volta superato il test potrai scaricare il certificato, in italiano o in inglese
+*   **Validità**: 5 anni
+
+Contatti
+--------
+
+\- Invia il certificato per il riconoscimento della formazione pregressa a : [mauro.zanuccoli@unibo.it](mailto:mauro.zanuccoli@unibo.it)
+
+\- Chiedi informazioni sulle iscrizioni ai Moduli: [campuscesena.didattica.isa@unibo](mailto:mauro.zanuccoli@unibo.it)
+```
+
+
+
+Note: I removed unnecessary parts, such as the Facebook, Twitter, and LinkedIn buttons, as well as the decorative characters and symbols. I also removed the repeated phrases and sections, and left only the informative links. The output is a cleaned text that only contains the necessary information.

@@ -1,0 +1,1 @@
+[{"head": "Universit\u00e0 di Bologna", "head_type": "University", "relation": "located_in", "tail": "Bologna", "tail_type": "City"}, {"head": "Cesena", "head_type": "City", "relation": "located_in", "tail": "Campus di Cesena", "tail_type": "Campus"}, {"head": "San Giovanni", "head_type": "Saint", "relation": "patron_of", "tail": "Cesena", "tail_type": "City"}]

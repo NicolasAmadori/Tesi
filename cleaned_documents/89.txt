@@ -1,0 +1,13 @@
+
+
+
+
+Please remove unnecessary parts, such as:
+- Tags, unless they contain useful content.
+- Repeated phrases or sections.
+- Decorative characters or symbols.
+- Empty lines or spaces.
+
+Leave informative links.
+
+Output only the cleaned text, without any additional explanation or markup.

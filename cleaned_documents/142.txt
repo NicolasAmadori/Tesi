@@ -1,0 +1,42 @@
+
+
+
+
+    [![Image 12: Logo Università di Bologna](https://www.unibo.it/it/++theme++unibotheme.portale/img/header/sigillo1x_xl.png?v=2)](https://www.unibo.it/it "Università di Bologna")
+
+Menu
+
+*   [Home](https://www.unibo.it/it)
+*   [Ateneo](https://www.unibo.it/it/ateneo) Apri sottomenu Ateneo
+    
+    *   [Chi siamo](https://www.unibo.it/it/ateneo/chi-siamo)
+    *   [Organizzazione e sedi](https://www.unibo.it/it/ateneo/organizzazione-e-sedi)
+    *   [Dimensione internazionale](https://www.unibo.it/it/ateneo/dimensione-internazionale)
+    *   [Gare di appalto e di vendita](https://www.unibo.it/it/ateneo/gare-appalto-e-vendita)
+    *   [Lavora con noi](https://www.unibo.it/it/ateneo/lavora-con-noi)
+    *   [Assicurazione qualità](https://www.unibo.it/it/ateneo/assicurazione-qualita)
+    
+*   [Studiare](https://www.unibo.it/it/studiare) Apri sottomenu Studiare
+    
+    *   [Guida alla scelta del corso](https://www.unibo.it/it/studiare/guida-alla-scelta-del-corso)
+    *   [Lauree e lauree magistrali a ciclo unico](https://www.unibo.it/it/studiare/lauree-e-lauree-magistrali-a-ciclo-unico)
+    *   [Lauree magistrali](https://www.unibo.it/it/studiare/lauree-magistrali)
+    *   [Insegnamenti, competenze trasversali, MOOCs](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs)
+    *   [Dottorati, master, specializzazione e formazione avanzata](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione)
+    *   [Borse di studio e agevolazioni](https://www.unibo.it/it/studiare/borse-di-studio-e-agevolazioni)
+    *   [Iscrizioni, tasse e altre procedure](https://www.unibo.it/it/studiare/iscrizioni-tasse-e-altre-procedure)
+    *   [Esperienze internazionali all'estero e all'Unibo](https://www.unibo.it/it/studiare/esperienze-allestero)
+    *   [Verso il mondo del lavoro](https://www.unibo.it/it/studiare/verso-il-mondo-del-lavoro)
+    *   [Vivere l'università e la città](https://www.unibo.it/it/studiare/vivere-luniversita-e-la-citta)
+    
+*   [Ricerca](https://www.unibo.it/it/ricerca) Apri sottomenu Ricerca
+    
+    *   [Novità dalla ricerca](https://www.unibo.it/it/ricerca/novita-dalla-ricerca)
+    *   [I numeri della ricerca](https://www.unibo.it/it/ricerca/i-numeri-della-ricerca-1)
+    *   [Ambiti e progetti di ricerca](https://www.unibo.it/it/ricerca/ambiti-e-progetti-di-ricerca)
+    *   [PNRR: opportunità, aspettative e risultati](https://www.unibo.it/it/ricerca/pnrr-opportunita-aspettative-e-risultati)
+    *   [Organizzazione e infrastrutture di ricerca](https://www.unibo.it/it/ricerca/organizzazione-e-infrastrutture-di-ricerca)
+    *   [Networking per la ricerca](https://www.unibo.it/it/ricerca/networking-per-la-ricerca)
+    *   [Open Science](https://www.unibo.it/it/ricerca/open-science)
+    *   [Fare ricerca all'Unibo](https://www.unibo.it/it/ricerca/fare-ricerca-unibo)
+    *   [La ricerca per la società e per le imprese](https://www.unibo.it/it/ricerca/la-ricerca-per-la-s

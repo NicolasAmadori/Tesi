@@ -4,7 +4,7 @@
 
 **CLEANED TEXT**
 
-Per conseguire la Laurea devi sostenere una prova finale che ha l’obiettivo di verificare il raggiungimento degli obiettivi formativi previsti dal corso.
+Per conseguire la Laurea devi sostenere una prova finale che ha l’obiettivo di verificare il raggiungimento degli obiettivi formativi previsti dal corso. La tesi sarà poi discussa pubblicamente nel corso di un’apposita seduta dinanzi ad una Commissione. La Commissione ti valuterà avendo come riferimento il tuo curriculum. Nel corso della presentazione puoi decidere di esporre il tuo lavoro con l’ausilio di slide e la Commissione potrà porti delle domande di approfondimento su aspetti metodologici, risultati ed eventuali sviluppi del tuo lavoro.
 
 La domanda di laurea è valida per un solo anno accademico. Se lo studente si laurea in un anno accademico successivo dovrà ripresentare domanda di laurea e versare solo l'importo della marca da bollo.
 
@@ -20,12 +20,4 @@ Data appello di laurea Consegna domanda di laurea Consegna tardiva domanda di la
 
 14/03/2025 30/01/2025 13/02/2025 20/02/2025 06/03/2025 10/03/2025 13/03/2025
 
-Vedi anche Presentazione della domanda di laurea Volume PDF e Deposito online dell'elaborato Riprese fotografiche e video durante le sedute di laurea Istruzioni AMS Laurea
-
-Segui Unibo su Seguici su Instagram Seguici su TikTok Seguici su YouTube Seguici su Telegram Seguici su Linkedin Seguici su Facebook Seguici su Twitter Seguici su Spreaker App myUniBo App myAlmaOrienta App Job Placement App Alumni
-
-Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
-
-Privacy Note legali Informazioni sul sito e accessibilità Impostazioni cookie
-
-CLEANED TEXT ENDS HERE.
+Vedi anche [Presentazione della domanda di laurea](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/presentazione-della-domanda-di-laurea) [Volume PDF e Deposito online dell'elaborato](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/volume-pdf-e-deposito-online-dellelaborato) [Riprese fotografiche e video durante le sedute di laurea](https://www.unibo.it/it/studiare/guida-alla-scelta-del-corso/guida-al-percorso-di-studi/prova-finale-e-garanzia-di-originalita/riprese-fotografiche-e-video-durante-le-sedute-di-laurea) [Istruzioni AMS Laurea](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/prova-finale/istruzioni-ita.pdf) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/prova-finale#)

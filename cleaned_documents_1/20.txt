@@ -1,0 +1,70 @@
+
+
+
+
+Please remove unnecessary parts, such as tags, repeated phrases, decorative characters, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
+
+Here is the cleaned text:
+
+Insegnamenti: piano didattico - A.A. 2024/2025 — Ingegneria e scienze informatiche - Laurea - Cesena
+
+### Primo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | tipo | ssd | cfu |
+| --- | --- | --- | --- | --- |
+| 00013 | ANALISI MATEMATICA | A | MAT/05 | 12 |
+| 26338 | IDONEITA' LINGUA INGLESE B - 1 | E |  | 6 |
+| 00819 | PROGRAMMAZIONE | A | INF/01 | 12 |
+| 58414 | ALGEBRA E GEOMETRIA | A | MAT/02 | 6 |
+| 11929 | ALGORITMI E STRUTTURE DATI | A | INF/01 | 12 |
+| 69731 | ARCHITETTURE DEGLI ELABORATORI | B | ING-INF/05 | 12 |
+
+### Secondo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | tipo | ssd | cfu |
+| --- | --- | --- | --- | --- |
+| 77776 | MATEMATICA DISCRETA E PROBABILITÀ | C | MAT/02 | 6 |
+| 70219 | PROGRAMMAZIONE AD OGGETTI | B | ING-INF/05 | 12 |
+| 08574 | SISTEMI OPERATIVI | A | INF/01 | 12 |
+| 10906 | BASI DI DATI | B | ING-INF/05 | 12 |
+| 00405 | FISICA | A | FIS/01 | 6 |
+| 66736 | METODI NUMERICI - non attivo per l'anno 2024/2025 | C | MAT/08 | 6 |
+| 70226 | PROGRAMMAZIONE DI RETI | A | INF/01 | 6 |
+
+### Terzo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | tipo | ssd | cfu |
+| --- | --- | --- | --- | --- |
+| 09032 | INGEGNERIA DEL SOFTWARE | B | ING-INF/05 | 6 |
+| 70218 | RETI DI TELECOMUNICAZIONE | B | ING-INF/03 | 6 |
+| 00884 | RICERCA OPERATIVA | A | MAT/09 | 6 |
+| 41731 | TECNOLOGIE WEB | A | INF/01 | 6 |
+| 15349 | TIROCINIO | F |  | 6 |
+
+#### Esami a libera scelta dello studente: (12 - 24 CFU)
+
+##### Gruppo A (massimo 6 CFU)
+
+|  |  | tipo | ssd | cfu |
+| --- | --- | --- | --- | --- |
+| 17268 | PROVA FINALE | E |  | 6 |
+
+##### Gruppo B (massimo 6 CFU)
+
+|  |  | tipo | ssd | cfu |
+| --- | --- | --- | --- | --- |
+| 81355 | PREPARAZIONE PROVA FINALE ALL'ESTERO | E |  | 3 |
+| 81959 | TIROCINIO ALL'ESTERO IN PREPARAZIONE DELLA PROVA FINALE | E |  | 3 |
+| 70441 | TIROCINIO IN PREPARAZIONE DELLA PROVA FINALE | E |  | 3 |
+| 97061 | PROVA FINALE | E |  | 3 |
+
+Segui il corso su:
+
+* [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+* [Seguici su LinkedIn](https://www.linkedin.com/groups/2029274/)

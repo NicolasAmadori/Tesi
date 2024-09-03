@@ -2,32 +2,18 @@
 
 
 
-    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
+Output:
+Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+Anno Accademico A.A. 2024/2025 A.A. 2023/2024 A.A. 2022/2023 A.A. 2021/2022 A.A. 2020/2021 A.A. 2019/2020 A.A. 2018/2019 A.A. 2017/2018 A.A. 2016/2017 A.A. 2015/2016 A.A. 2014/2015 A.A. 2013/2014 A.A. 2012/2013
 
-    Output:
-    Insegnamenti: piano didattico — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
-    Anno Accademico A.A. 2024/2025 A.A. 2023/2024 A.A. 2022/2023 A.A. 2021/2022 A.A. 2020/2021 A.A. 2019/2020 A.A. 2018/2019 A.A. 2017/2018 A.A. 2016/2017 A.A. 2015/2016 A.A. 2014/2015 A.A. 2013/2014 A.A. 2012/2013
-    Vai
-    [Condividi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti#popup-social "Condividi")
-    Piani disponibili nell'A.A. 2024/2025
-    Guarda il piano didattico che ti interessa, in base all'anno in cui ti sei iscritto.
-    ### CURRICULUM Ingegneria e scienze informatiche
-    [Curriculum Ingegneria e Scienze Informatiche: per studenti immatricolati nell'a.a. 2024-25](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/000/000/2024)
-    [Curriculum Intelligent Embedded Systems: per studenti immatricolati nell'a.a. 2024-25](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8614/C17/000/2024)
-    Segui Unibo su:
-    [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
-    [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
-    [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
-    [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
-    [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
-    [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
-    [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
-    [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
-    App:
-    [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
-    [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
-    [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
-    [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
-    ©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
-    [Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti#) 
-    [](https://corsi.unibo.it/magistrale/IngegneriaScienzeInform
+Piani disponibili nell'A.A. 2024/2025
+CURRICULUM Ingegneria e scienze informatiche
+CURRICULUM INTELLIGENT EMBEDDED SYSTEMS
+
+Segui Unibo su: [Seguici su Instagram](https://www.instagram.com/unibo/) [Seguici su TikTok](https://www.tiktok.com/@joinunibo) [Seguici su YouTube](https://www.youtube.com/user/UniBologna) [Seguici su Telegram](https://t.me/Unibo_Official) [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901) [Seguici su Facebook](https://www.facebook.com/unibo.it) [Seguici su Twitter](http://www.twitter.com/Unibo) [Seguici su Spreaker](https://www.spreaker.com/user/unibo)
+
+App: [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo) [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta) [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo) [App Alumni](https://site.unibo.it/alumni-association/it)
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti#)

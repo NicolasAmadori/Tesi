@@ -1,0 +1,43 @@
+
+
+
+
+Output:
+Tirocinio e tesi in azienda — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+Le offerte di tirocinio e le proposte di tesi che le aziende offrono ai laureandi e laureati del Corso di Laurea
+
+TwinLogix srl
+Tesi in Azienda: GraphQL Model-Driven programming, dalla teoria alla pratica.
+Studiare il ruolo che la tecnologia GraphQL può avere nella metodologia di sviluppo Model-Driven (Model-First). Analizzare un prototipo sviluppato con questa tecnologia e realizzare un generatore di codice, basato su graphql-code-generator per i principali ORM su tecnologia NodeJS.
+
+Requisiti: Proattività e propensione all'approfondimento di temi sia teorici che pratici.
+
+Sede di lavoro: TwinLogix srl, in una delle sue sedi: via Dante di Nanni 50C a Santarcangelo di Romagna (RN) oppure via Piave a Cesena (FC).
+
+Link: www.twinlogix.com
+
+Benefit: Possibilità di usufruire delle strutture aziendali. Rimborso spese di 1000€ totali per il periodo di collaborazione e possibilità di inserimento nel team di sviluppo.
+
+Contatto: Minotti Mattia (mailto:mattia@twinlogix.com) o Paolo Teodorani (mailto:paolo@twinlogix.com). Inoltrare mail di candidatura ad uno dei precedenti indirizzi oppure a info@twinlogix.com
+
+Data di inserimento: 21/11/2019
+
+TwinLogix srl
+Tesi in Azienda: Kotlin-Multiplatform, implementazione e studio di un progetto mobile cross-platform.
+Studiare sia a livello teorico che pratico il livello di efficacia di una soluzione Kotlin-multiplatform applicata ad uno scenario di produzione. Il progetto prevede l'implementazione di due prototipi, uno Android ed uno iOS, con codebase condivisa, persistenza locale del dato, integrazione di servizi RESTful e pattern MVVM.
+
+Requisiti: Proattività e propensione all'approfondimento di temi sia teorici che pratici.
+
+Sede di lavoro: TwinLogix srl, in una delle sue sedi: via Dante di Nanni 50C a Santarcangelo di Romagna (RN) oppure via Piave a Cesena (FC).
+
+Link: www.twinlogix.com
+
+Benefit: Possibilità di usufruire delle strutture aziendali. Rimborso spese di 1000€ totali per il periodo di collaborazione e possibilità di inserimento nel team di sviluppo.
+
+Contatto: Minotti Mattia (mailto:mattia@twinlogix.com) o Paolo Teodorani (mailto:paolo@twinlogix.com). Inoltrare mail di candidatura ad uno dei precedenti indirizzi oppure a info@twinlogix.com
+
+Data di inserimento: 21/11/2019
+
+Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda#)

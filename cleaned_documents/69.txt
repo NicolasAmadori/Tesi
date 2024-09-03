@@ -2,25 +2,22 @@
 
 
 
-    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links.
-
-    Output only the cleaned text, without any additional explanation or markup.
-
-    https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/bando-di-selezione-per-titoli-ed-esami-per-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio
-
-Bando di selezione per titoli ed esami per assegni di tutorato presso il Campus di Cesena per attività di supporto alle procedure di ammissione e alle attività didattiche dei Corsi di Studio — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
-Per studenti iscritti a laurea magistrale e ultimi due anni lauree magistrali a ciclo unico. Scadenza: 8 aprile 2024 ore 13.00
-Pubblicato il 18 marzo 2024
-Per informazioni: [Bando](https://bandi.unibo.it/s/campus-cesena/bando-di-selezione-per-titoli-ed-esami-per-n-8-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio/view)
-Segui Unibo su: [Seguici su Instagram](https://www.instagram.com/unibo/) [Seguici su TikTok](https://www.tiktok.com/@joinunibo) [Seguici su YouTube](https://www.youtube.com/user/UniBologna) [Seguici su Telegram](https://t.me/Unibo_Official) [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901) [Seguici su Facebook](https://www.facebook.com/unibo.it) [Seguici su Twitter](http://www.twitter.com/Unibo) [Seguici su Spreaker](https://www.spreaker.com/user/unibo) App: [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo) [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta) [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo) [App Alumni](https://site.unibo.it/alumni-association/it) 
-©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
-[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/bando-di-selezione-per-titoli-ed-esami-per-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio#) 
- 
-
- 
+    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
 
     Output:
-Bando di selezione per titoli ed esami per assegni di tutorato presso il Campus di Cesena per attività di supporto alle procedure di ammissione e alle attività didattiche dei Corsi di Studio — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
-Per studenti iscritti a laurea magistrale e ultimi due anni lauree magistrali a ciclo unico. Scadenza: 8 aprile 2024 ore 13.00
-Pubblicato il 18 marzo 2024
-Per informazioni: [B
+    Per studenti iscritti a laurea magistrale e ultimi due anni lauree magistrali a ciclo unico. Scadenza: 8 aprile 2024 ore 13.00
+    Pubblicato il 18 marzo 2024
+    Condividi: https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/bando-di-selezione-per-titoli-ed-esami-per-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio
+    Per informazioni: https://bandi.unibo.it/s/campus-cesena/bando-di-selezione-per-titoli-ed-esami-per-n-8-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio/view
+    Segui Unibo su: https://www.instagram.com/unibo/ https://www.tiktok.com/@joinunibo https://www.youtube.com/user/UniBologna https://t.me/Unibo_Official https://www.linkedin.com/edu/school?id=13901 https://www.facebook.com/unibo.it https://www.twitter.com/Unibo https://www.spreaker.com/user/unibo
+    App: https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo https://site.unibo.it/alumni-association/it
+    Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+    Privacy: https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali
+    Note legali: https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali
+    Informazioni sul sito e accessibilità: https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita
+    Impostazioni cookie: https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/bando-di-selezione-per-titoli-ed-esami-per-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio# 
+    Torna su: https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/bando-di-selezione-per-titoli-ed-esami-per-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio# 
+    Per studenti iscritti a laurea magistrale e ultimi due anni lauree magistrali a ciclo unico. Scadenza: 8 aprile 2024 ore 13.00
+    Pubblicato il 18 marzo 2024
+    Condividi: https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/bando-di-selezione-per-titoli-ed-esami-per-assegni-di-tutorato-presso-il-campus-di-cesena-per-attivita-di-supporto-alle-procedure-di-ammissione-e-alle-attivita-didattiche-dei-corsi-di-studio
+    Per informazioni: https://bandi.unibo.it/s/campus-cesena/bando-di-selezione-per-titoli-ed-esami-per-n-8-assegni-di-tutorato-presso-il-campus-di-cesena-per-att

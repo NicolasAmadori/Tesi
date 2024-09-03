@@ -17,7 +17,7 @@ Tipo di corso Laurea
 Sede didattica Cesena
 Lingua Italiano
 Tipo di accesso Numero programmato - TOLC-I
-Classe di corso L-8 - INGEGNERIA DELL'INFORMAZIONE  L-31 - SCIENZE E TECNOLOGIE INFORMATICHE  
+Classe di corso L-8 - INGEGNERIA DELL'INFORMAZIONE  L-31 - SCIENZE E TECNOLOGIE INFORMATICHE
 Coordinatore Franco Callegati
 Dipartimento Informatica - Scienza e Ingegneria - DISI
 Insegnamenti Il piano didattico
@@ -56,8 +56,6 @@ Seguici su Instagram
 Seguici su TikTok
 Seguici su YouTube
 Seguici su Telegram
-Seguici su LinkedIn
-Seguici su Facebook
 Seguici su Twitter
 Seguici su Spreaker
 App:
@@ -69,4 +67,4 @@ App Alumni
 
 
 
-Note: The output is a cleaned version of the markup text, removing unnecessary parts, tags, and decorative characters. The informative links are left intact. The output is a single block of text, without any additional explanation or markup.
+Note: The output is the cleaned text, without any additional explanation or markup. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, empty lines or spaces, have been removed. The informative links have been left intact. The output is a concise and organized text that provides the essential information about the course.

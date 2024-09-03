@@ -2,167 +2,114 @@
 
 
 
-**Output:**
+**CLEANED TEXT**
 
-The cleaned text is:
+Here is the cleaned text:
 
-Laurea Magistrale in Ingegneria e scienze informatiche
-
-Docenti
-=======
+**Docenti**
 
 Alessandro Bevilacqua
----------------------
-
 Ricercatore confermato
 
-[Vai al sito del docente](https://www.unibo.it/sitoweb/alessandro.bevilacqua)
-
-Marco Boschetti
---------------
-
+Marco Antonio Boschetti
 Professore associato
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/marco.boschetti)
 
 Mario Bravetti
---------------
-
 Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/mario.bravetti)
 
 Franco Callegati
-----------------
-
 Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/franco.callegati)
 
 Antonella Carbonaro
--------------------
-
-Professoressa associata confermata
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/antonella.carbonaro)
-
-Walter Cerroni
---------------
-
-Professore associato
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/walter.cerroni)
-
-Giovanni Ciatto
----------------
-
-Ricercatore a tempo determinato tipo a) (junior)
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/giovanni.ciatto)
-
-Chiara Contoli
---------------
-
-Ricercatrice a tempo determinato di altro ateneo
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/chiara.contoli)
-
-Raffaele Corrado
-----------------
-
-Professore associato confermato
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/raffaele.corrado)
-
-Gabriele D'Angelo
------------------
-
-Ricercatore confermato
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/g.dangelo)
-
-Matteo Ferrara
---------------
-
-Professore associato
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/matteo.ferrara)
-
-Guido Fioretti
---------------
-
-Professore associato
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/guido.fioretti)
-
-Davide Maltoni
---------------
-
-Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/davide.maltoni)
-
-Vittorio Maniezzo
------------------
-
-Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/vittorio.maniezzo)
-
-Andrea Omicini
---------------
-
-Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/andrea.omicini)
-
-Rebecca Levy Orelli
--------------------
-
 Professoressa associata
 
-[Vai al sito del docente](https://www.unibo.it/sitoweb/rebecca.orelli)
-
-Giovanni Pau
-------------
-
-Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/giovanni.pau)
-
-Andrea Pia
-----------
-
-Professore a contratto
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/andrea.pia)
-
-Danilo Pianini
---------------
-
-Ricercatore a tempo determinato tipo b) (senior)
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/danilo.pianini)
-
-Alessandro Ricci
-----------------
-
+Walter Cerroni
 Professore associato
 
-[Vai al sito del docente](https://www.unibo.it/sitoweb/a.ricci)
+Giovanni Ciatto
+Ricercatore a tempo determinato tipo a) (junior)
+
+Chiara Contoli
+Ricercatrice a tempo determinato di altro ateneo
+
+Raffaele Corrado
+Professore associato confermato
+
+Gabriele D'Angelo
+Ricercatore confermato
+
+Matteo Ferrara
+Professore associato
+
+Guido Fioretti
+Professore associato
+
+Davide Maltoni
+Professore ordinario
+
+Vittorio Maniezzo
+Professore ordinario
+
+Andrea Melis
+Ricercatore a tempo determinato tipo a) (junior)
+
+Silvia Mirri
+Professoressa associata
+
+Gianluca Moro
+Professore associato
+
+Timothy Sean Jr. O'Connell
+Professore a contratto
+
+Andrea Omicini
+Professore ordinario
+
+Rebecca Levy Orelli
+Professoressa associata
+
+Giovanni Pau
+Professore ordinario
+
+Andrea Pia
+Professore a contratto
+
+Danilo Pianini
+Ricercatore a tempo determinato tipo b) (senior)
+
+Alessandro Ricci
+Professore associato
+
+Stefano Rizzi
+Professore ordinario
+
+Andrea Roli
+Ricercatore confermato
 
 Marco Tartagni
---------------
-
 Professore ordinario
-
-[Vai al sito del docente](https://www.unibo.it/sitoweb/marco.tartagni)
 
 Mirko Viroli
-------------
-
 Professore ordinario
 
-[Vai al sito del docente](https://www.unibo.it/sitoweb/mirko.viroli)
+**AVVISI**
 
-Note: The output is a cleaned version of the original text, removing unnecessary parts, such as tags, repeated phrases, and decorative characters. The text is formatted to be easy to read, with each professor's information on a new line. The links to their websites are preserved.
+*   [TESI DI LAUREA e CONTRATTO](https://www.unibo.it/sitoweb/alessandro.bevilacqua/avvisi/41589d46)
+*   [ESAME ORGANIZZAZIONE AZIENDALE BIANCHI-FIORETTI](https://www.unibo.it/sitoweb/guido.fioretti/avvisi/cd338a85)
+*   [Matheuristics, Algorithms and Implementations](https://www.unibo.it/sitoweb/vittorio.maniezzo/avvisi/f7189bcd)
+*   [In merito agli esami](https://www.unibo.it/sitoweb/a.ricci/avvisi/4fc91732)
+*   [Intelligent Robotic Systems exams](https://www.unibo.it/sitoweb/andrea.roli/avvisi/1c669bc6)
+*   [Tomorrow's lessons 18-10-2023 canceled](https://www.unibo.it/sitoweb/marco.tartagni/avvisi/576ffb61)
+
+**IMAGES**
+
+*   [Image 1](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=552849&IdFoto=6e4bd47a)
+*   [Image 2](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=241135&IdFoto=ad2706a0)
+*   [Image 3](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=345014&IdFoto=b212da9d)
+*   [Image 4](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=237166&IdFoto=52d19fdf)
+*   [Image 5](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=567062&IdFoto=d20b1587)
+*   [Image 6](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=230396&IdFoto=de351292)
+*   [Image 7](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=230249&IdFoto=b3f97fa1)
+*   [Image 8](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=571986&IdFoto=8aca543b)
+*   [Image 9](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=580282&IdFoto=fd1a38bd)
+*   [Image 10](https://www.un

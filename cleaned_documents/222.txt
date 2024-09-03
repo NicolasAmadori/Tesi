@@ -3,9 +3,7 @@
 
 
 Output:
-
 Obiettivi formativi — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
-
 Il Corso di Laurea Magistrale in Ingegneria e scienze informatiche ha l'obiettivo formativo specifico di formare la figura professionale dello Specialista in Ingegneria e Scienze Informatiche, così come riportato anche nell'elenco delle funzioni e delle competenze di tale figura.  
 L'obiettivo specifico del Corso è perseguito attraverso un percorso didattico centrato su tre principali aree di apprendimento, coerenti con le competenze richieste dai profili professionali che si intendono formare a livello di prodotto, di processo e di gestione:  
 1\. Competenze specialistiche informatiche trasversali  

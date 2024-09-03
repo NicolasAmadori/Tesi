@@ -2,30 +2,38 @@
 
 
 
-Cleaned text:
-
-Cosa devo sapere
-----------------
-
-Il nuovo Regolamento per l'uso del Marchio dell'Ateneo ti consente di inserire il marchio sulla copertina e sul frontespizio della prova finale. Ogni altro uso che non rientri in questi è vietato.
-
-Come posso utilizzare il marchio di Ateneo
-------------------------------------------
-
-Se desideri inserire il marchio di Ateneo, dovrai seguire la normativa grafica prevista dal Sistema di Identità, utilizzando il modello copertina e il modello frontespizio che si trovano in allegato.
-
-Questi modelli indicano:
-
-*   la posizione esatta, le dimensioni e il colore del Marchio sul frontespizio
-*   la posizione e la dimensione sulla copertina.
-
-Se la copertina è di colore scuro puoi utilizzare eccezionalmente il marchio in colore oro o argento.
-
-Come inserire le altre informazioni del frontespizio e copertina
-----------------------------------------------------------------
-
-Le altre informazioni come la struttura di appartenenza, la denominazione del corso di studio, titolo della tesi, nome del relatore o della relatrice, del correlatore o della correlatrice e del candidato o della candidata, la sessione di laurea e anno accademico, sono personalizzabili e devono seguire le indicazioni formali fornite dai corsi, dove presenti.
-
-Copia del testo: https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/utilizzo-del-marchio-di-ateneo-nella-prova-finale
-
-Note: The cleaned text is the output of the task, which is the text without unnecessary or non-informative parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. The output only includes the informative content, without any additional explanation or markup. The original text is provided for reference purposes only.
+    Output:
+    Cosa devo sapere
+    Il nuovo Regolamento per l'uso del Marchio dell'Ateneo ti consente di inserire il marchio sulla copertina e sul frontespizio della prova finale. Ogni altro uso che non rientri in questi è vietato.
+    Come posso utilizzare il marchio di Ateneo
+    Se desideri inserire il marchio di Ateneo, dovrai seguire la normativa grafica prevista dal Sistema di Identità, utilizzando il modello copertina e il modello frontespizio che si trovano in allegato.
+    Questi modelli indicano:
+    *   la posizione esatta, le dimensioni e il colore del Marchio sul frontespizio
+    *   la posizione e la dimensione sulla copertina.
+    Se la copertina è di colore scuro puoi utilizzare eccezionalmente il marchio in colore oro o argento.
+    Come inserire le altre informazioni del frontespizio e copertina
+    Le altre informazioni come la struttura di appartenenza, la denominazione del corso di studio, titolo della tesi, nome del relatore o della relatrice, del correlatore o della correlatrice e del candidato o della candidata, la sessione di laurea e anno accademico, sono personalizzabili e devono seguire le indicazioni formali fornite dai corsi, dove presenti.
+    Cosa devo sapere
+    Il nuovo Regolamento per l'uso del Marchio dell'Ateneo ti consente di inserire il marchio sulla copertina e sul frontespizio della prova finale. Ogni altro uso che non rientri in questi è vietato.
+    Come posso utilizzare il marchio di Ateneo
+    Se desideri inserire il marchio di Ateneo, dovrai seguire la normativa grafica prevista dal Sistema di Identità, utilizzando il modello copertina e il modello frontespizio che si trovano in allegato.
+    Questi modelli indicano:
+    *   la posizione esatta, le dimensioni e il colore del Marchio sul frontespizio
+    *   la posizione e la dimensione sulla copertina.
+    Se la copertina è di colore scuro puoi utilizzare eccezionalmente il marchio in colore oro o argento.
+    Come inserire le altre informazioni del frontespizio e copertina
+    Le altre informazioni come la struttura di appartenenza, la denominazione del corso di studio, titolo della tesi, nome del relatore o della relatrice, del correlatore o della correlatrice e del candidato o della candidata, la sessione di laurea e anno accademico, sono personalizzabili e devono seguire le indicazioni formali fornite dai corsi, dove presenti.
+    In evidenza
+    Cosa devo sapere
+    Il nuovo Regolamento per l'uso del Marchio dell'Ateneo ti consente di inserire il marchio sulla copertina e sul frontespizio della prova finale. Ogni altro uso che non rientri in questi è vietato.
+    Come posso utilizzare il marchio di Ateneo
+    Se desideri inserire il marchio di Ateneo, dovrai seguire la normativa grafica prevista dal Sistema di Identità, utilizzando il modello copertina e il modello frontespizio che si trovano in allegato.
+    Questi modelli indicano:
+    *   la posizione esatta, le dimensioni e il colore del Marchio sul frontespizio
+    *   la posizione e la dimensione sulla copertina.
+    Se la copertina è di colore scuro puoi utilizzare eccezionalmente il marchio in colore oro o argento.
+    Come inserire le altre informazioni del frontespizio e copertina
+    Le altre informazioni come la struttura di appartenenza, la denominazione del corso di studio, titolo della tesi, nome del relatore o della relatrice, del correlatore o della correlatrice e del candidato o della candidata, la sessione di laurea e anno accademico, sono personalizzabili e devono seguire le indicazioni formali fornite dai corsi, dove presenti.
+    In evidenza
+    Cosa devo sapere
+    Il nuovo Regolamento per l'uso del Marchio dell'Ateneo ti consente di inserire il marchio sulla copertina e sul frontespizio della prova finale. Ogni altro uso che non rient

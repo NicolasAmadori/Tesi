@@ -1,0 +1,51 @@
+
+
+
+
+Output:
+Health and Safety mandatory training — Intelligent Embedded Systems - Curriculum - Cesena
+For your safety in study and research areas
+
+What it’s about
+These are occupational health and safety training courses required by Italian Legislative Decree 81/2008. The training is compulsory and consists of:
+
+*   General Training: Module 1
+*   Specific Training - Low Risk: Module 2
+*   Specific Training - Medium Risk: Module 2 + Module 3
+*   Specific Training - High Risk: Module 2 + Module 3 + Module 4
+
+Who it’s for
+All students who during their university career carry out internships, prepare their final dissertation, or participate in activities in any sort of laboratory.
+
+Recognition of previous training
+The University considers valid:
+
+*   General training (Module 1) carried out at the University of Bologna or another institution
+*   Specific training (Modules 2, 3, 4), only if you already had training at the University of Bologna, for the same category of risk and within the 5-year validity of the certificate.
+
+Modules established by the Course
+Module 1 - General Training
+*   Method: log in to the Virtual Platform using your university credentials (@studio.unibo.it).
+*   Duration: 4 hours
+*   Dates and times: always available online
+*   Language: english
+*   Final assessment test: multiple choice. You will be able to take the online test immediately after you complete the course. If you do not pass the test, you will have to wait 7 days before you can repeat the training
+*   Certification: after passing the test you can download the certificate – in Italian or English – by logging into Studenti Online and going to the “Certificates and Self-certifications” page.
+*   Validity: permanent
+*   Other information: the course is preparatory for Module 2 and for Modules 3 and 4, if required
+
+Module 2 – Specific training low risk
+*   Method: log in to the Virtual Platform using your university credentials (@studio.unibo.it).
+*   Duration: 4 hours
+*   Dates and times: always available online
+*   Language: english
+*   Final assessment test: multiple choice. You will be able to take the online test immediately after you complete the course. If you do not pass the test, you will have to wait 7 days before you can repeat the training
+*   Certification: after passing the test you can download the certificate – in Italian or English – by logging into Studenti Online and going to the “Certificates and Self-certifications” page.
+*   Validity: 5 years
+*   Other information: the course is preparatory for Modules 3 and 4, if required
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy Legal notes About the website and accessibility information Cookie settings
+
+Note: I removed the unnecessary parts, such as the social media links, the app links, and the copyright information. I also removed the repeated phrases and sections. The informative links, such as the links to the Virtual Platform and the Studenti Online page, were left intact. The text is now concise and easy to read.

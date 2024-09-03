@@ -2,8 +2,8 @@
 
 
 
-Output:
-```
+**CLEANED TEXT**
+
 Tirocinio in preparazione della prova finale
 
 Il tirocinio in preparazione della prova finale è un’attività formativa presente nel piano didattico del corso di studio che consente di acquisire parte dei crediti formativi associati alla Prova finale ed è un’occasione per acquisire competenze pratiche e favorire un primo contatto col mondo del lavoro
@@ -14,34 +14,34 @@ Il tirocinio è attivato sulla base di una convenzione stipulata tra l’Univers
 
 Il Tirocinio è rivolto agli studenti ed è un’attività che deve svolgersi all’interno del percorso di studi.
 
-Il tirocinio non può essere svolto presso una struttura in cui il responsabile legale, il socio o il dirigente responsabile abbia legami di parentela o affinità entro il 2° grado con lo studente richiedente.
-
 **Durata**
 
 Salvo diverse disposizioni normative nazionali o europee, il tirocinio ha di norma una durata pari a 25 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso. Il tirocinio deve concludersi entro 12 mesi dalla data di inizio.
-
-Dopo la conclusione delle ore di tirocinio previste non potrai più accedere alla struttura come tirocinante in quanto non sarai più autorizzato e, quindi, sprovvisto di copertura assicurativa.
 
 **Come scegliere l’azienda o l’ente**
 
 Il tirocinio può essere svolto presso strutture sia interne all’Università sia esterne, in Italia e all’estero. Per scegliere dove svolgere il tirocinio puoi accedere all’applicativo [Tirocini online](https://tirocini-studenti.unibo.it/tirocini/studenti/loginStudenti.htm)
 
-Dalla home page potrai visionare:
+**Come attivare il tirocinio**
 
-*   L'elenco delle **offerte** di tirocinio curriculare proposte dalle strutture convenzionate.
+Puoi presentare richiesta di tirocinio esclusivamente tramite l’applicativo [Tirocini online](https://tirocini-studenti.unibo.it/tirocini/studenti/loginStudenti.htm).
 
-Individuata l'offerta di tuo interesse, potrai presentare richiesta seguendo l'apposita procedura contenuta nel "Manuale tirocinanti" disponibile nel box allegati.
+**Cosa fare al termine del tirocinio**
 
-*   L'elenco delle **strutture**
+Al termine del tirocinio, all’interno dell’applicativo tirocini, dovrai:
 
-Individuata l'azienda di tuo interesse potrai contattarla e verificare l'effettiva disponibilità dell'azienda/ente ad accoglierti come tirocinante. Successivamente potrai presentare richiesta seguendo l'apposita procedura contenuta nel "Manuale tirocinanti" disponibile nel box allegati.
+*   indicare la data di fine tirocinio;
+*   inserire il registro presenze completo di firme;
+*   inserire una breve relazione finale, rispetto alla quale è possibile confrontarsi con il tutor didattico/relatore;
+*   compilare il questionario online.
 
-Qualora avessi preso già accordi con una struttura convenzionata dovrai invitare l’Azienda ad accedere all’applicativo tirocini on-line e caricare per te un’offerta ad personam, come spiegato nel “Manuale tirocinanti” disponibile nel box allegati.
+**Copertura assicurativa**
 
-Se desideri svolgere il tirocinio presso un laboratorio di un Dipartimento universitario devi prendere accordi con un docente afferente a tale laboratorio e seguire l’apposita procedura di autocandidatura interna spiegata nel “Manuale tirocinanti", disponibile nel box allegati.
+L'Università di Bologna ti garantisce la copertura assicurativa contro gli infortuni sul lavoro, nonché per la responsabilità civile, presso compagnie assicurative operanti nel settore. Nel caso di trasferte presso sedi o strutture non indicate nel programma di tirocinio curriculare già approvato, puoi richiedere l’estensione delle coperture assicurative anche durante il tirocinio, purché le trasferte siano comunque coerenti con gli obiettivi del tirocinio e concordate con il referente della struttura ospitante.
 
-Nella richiesta di tirocinio va indicato il nominativo del tutor didattico che deve necessariamente essere il relatore di tesi.
+**IN EVIDENZA**
 
-Se lo desideri puoi proporre una nuova sede di tirocinio non ancora convenzionata con Unibo, a tal fine puoi consultare l'apposita pagina informativa [http://www.unibo.it/it/servizi-e-opportunita/tirocini-e-job-placement/tirocini/convenzioni-e-creazione-offerte-di-tirocinio-per-aziende-ed-enti](http://www.unibo.it/it/servizi-e-opportunita/tirocini-e-job-placement/tirocini/convenzioni-e-creazione-offerte-di-tirocinio-per-aziende-ed-enti).
+**Allegati**
 
-Inoltre, alcune strutture convenzionate hanno scelto di non essere visibili tramite il servizio on-line pertanto non
+*   [Regolamento Generale di Ateneo per lo svolgimento dei Tirocini](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocini-curriculari/regolamento-tirocini-2020-2.pdf)
+*   [Manuale tirocini](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocini-curriculari/manuale-tirocinanti_2022.pdf)

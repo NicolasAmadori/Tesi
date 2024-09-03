@@ -25,7 +25,7 @@ D: Elective learning activity
 E: Final examination and foreign language test  
 S: Stage  
 F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 26338 | English Proficiency B1 | 1 | E |  | 6 |
 | 00013 | Mathematical Analysis | 1 | A | MAT/05 | 12 |
 | 00819 | [Programming](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=00819&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 12 |
@@ -44,8 +44,8 @@ D: Elective learning activity
 E: Final examination and foreign language test  
 S: Stage  
 F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 77776 | [Discrete Mathematics and Probability](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=77776&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | C | MAT/02 | 6 |
 | 70219 | [Object-Oriented Programming](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=70219&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | B | ING-INF/05 | 12 |
 | 08574 | [Operating Systems](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=08574&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 12 |
-| 10906 | [Databases](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=10906&annoAccademico=2024&
+| 10906 | [Databases](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=10906&annoAccademico=2024&codiceCorso

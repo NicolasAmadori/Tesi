@@ -1,0 +1,44 @@
+
+
+
+
+    Remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
+
+    Here is the cleaned text:
+
+Hai un’idea che potrebbe diventare startup? Ancora pochi giorni per presentare la tua idea alla Call for StartUp. Hai tempo fino al 31 gennaio 2024
+
+Pubblicato il 17 gennaio 2024
+
+Iscriversi all’università: dai test di ammissione alle strategie di studio. Tutto quello che devi conoscere sull’università. Ne parliamo online alle Giornate dell’Orientamento il 27 e 28 febbraio.
+
+Pubblicato il 05 febbraio 2024
+
+Il Bando Erasmus+ Mobilità per studio 2024/25 è online. Consulta il bando, il calendario delle scadenze e l’elenco dei posti scambio. Scadenza: 8 febbraio
+
+Pubblicato il 09 gennaio 2024
+
+https://site.unibo.it/idea/it/la-nostra-idea/attivita-e-iniziative/call-for-start-up
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/iscriversi-all-universita-dai-testi-di-ammissione-alle-strategie-di-studio
+https://www.unibo.it/it/internazionale/studiare-all-estero/erasmus/come-partecipare
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/incontro-outgoing-bando-erasmus-studio-2024-2025-venerdi-12-gennaio-ore-13-00
+https://www.unibo.it/it/internazionale/studiare-all-estero/erasmus/come-partecipare
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie?b_start=int=36
+https://www.unibo.it/it/internazionale/studiare-all-estero/erasmus/come-partecipare
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie?b_start=int=24
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie?b_start=int=12
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie?b_start=int=0
+https://www.unibo.it/it/internazionale/studiare-all-estero/erasmus/come-partecipare
+https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo
+https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta
+https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo
+https://site.unibo.it/alumni-association/it
+https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali
+https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie?b_start=int=36# 
+https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo 
+https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta 
+https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo 
+https://site.unibo.it/alumni-association/it 
+https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei

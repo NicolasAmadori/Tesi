@@ -2,15 +2,77 @@
 
 
 
-Output:
-```
-Iscriversi — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
-=============== 
-
-La mia e-mail Studenti https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail/la-mia-e-mail-per-gli-studenti
-La mia e-mail Personale https://mail.unibo.it/
-```
-
-
-
-Note: The output is the cleaned text, without any additional explanation or markup. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, empty lines or spaces, have been removed. The informative links have been left intact. The output is a concise and clear summary of the original text.
+    Output:
+    Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+    Iscriversi — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+    Iscriversi
+    Ammissione
+    Orientamento
+    Come fare per
+    Iscriversi al Corso: requisiti, tempi e modalità
+    Incentivi per lo studio
+    Iscriversi ad anni successivi al primo
+    Tasse: importi ed esoneri
+    Tutor del Corso
+    Servizi di orientamento
+    Open day
+    Frequenza delle lezioni
+    Come ridurre i costi, usare i servizi e vivere al meglio mentre studi
+    Servizi per gli studenti con disabilità e con DSA
+    Come iscriverti a un corso se vieni da un Paese non-UE
+    Trasferirsi da un altro Ateneo
+    Credenziali istituzionali e accesso ai servizi online
+    Passaggio (opzione) al Corso di Nuovo Ordinamento
+    Riconoscimento dei titoli esteri
+    Lasciare e riprendere gli studi
+    Iscriversi agli anni successivi al primo
+    Prolungare la durata degli studi - Studente a tempo parziale
+    Ottenere lo status di studente-atleta
+    Attivare una carriera alias
+    Iscriversi a singole attività formative
+    Abbreviazione di carriera
+    Studenti Online
+    Segui Unibo su: Instagram, TikTok, YouTube, Telegram, LinkedIn, Facebook, Twitter, Spreaker
+    App: myUniBo, myAlmaOrienta, App Job Placement, App Alumni
+    Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+    Privacy, Note legali, Informazioni sul sito e accessibilità, Impostazioni cookie
+    Iscriversi al Corso: requisiti, tempi e modalità
+    Incentivi per lo studio
+    Iscriversi ad anni successivi al primo
+    Tasse: importi ed esoneri
+    Tutor del Corso
+    Servizi di orientamento
+    Open day
+    Frequenza delle lezioni
+    Come ridurre i costi, usare i servizi e vivere al meglio mentre studi
+    Servizi per gli studenti con disabilità e con DSA
+    Come iscriverti a un corso se vieni da un Paese non-UE
+    Trasferirsi da un altro Ateneo
+    Credenziali istituzionali e accesso ai servizi online
+    Passaggio (opzione) al Corso di Nuovo Ordinamento
+    Riconoscimento dei titoli esteri
+    Lasciare e riprendere gli studi
+    Iscriversi agli anni successivi al primo
+    Prolungare la durata degli studi - Studente a tempo parziale
+    Ottenere lo status di studente-atleta
+    Attivare una carriera alias
+    Iscriversi a singole attività formative
+    Abbreviazione di carriera
+    Studenti Online
+    Segui Unibo su: Instagram, TikTok, YouTube, Telegram, LinkedIn, Facebook, Twitter, Spreaker
+    App: myUniBo, myAlmaOrienta, App Job Placement, App Alumni
+    Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+    Privacy, Note legali, Informazioni sul sito e accessibilità, Impostazioni cookie
+    Iscriversi al Corso: requisiti, tempi e modalità
+    Incentivi per lo studio
+    Iscriversi ad anni successivi al primo
+    Tasse: importi ed esoneri
+    Tutor del Corso
+    Servizi di orientamento
+    Open day
+    Frequenza delle lezioni
+    Come ridurre i costi, usare i servizi e vivere al meglio mentre studi
+    Servizi per gli studenti con disabilità e con DSA
+    Come iscriverti a un corso se vieni da un Paese non-UE
+    Trasferirsi da un altro Ateneo
+    C

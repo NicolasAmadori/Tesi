@@ -1,0 +1,1 @@
+{"entities": ["University", "Student", "Research", "Project", "Award", "Scholarship", "Tutor", "Language", "Patron", "Health"], "relations": ["is_part_of", "is_related_to", "is_funded_by", "is_supported_by", "is_taught_by", "is_researched_by", "is_affected_by", "is_related_to"]}

@@ -1,0 +1,45 @@
+
+
+
+
+Output:
+```
+Bacheca
+=======
+
+Notizie
+-------
+
+### [Masterclass "Generative AI for everyday life and academic research"](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/masterclass-generative-ai-for-everyday-life-and-academic-research)
+
+### [Pubblicati i primi orari delle lezioni](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/orario-lezioni)
+
+### [Concorso per premi nell’ambito della settimana della sicurezza 2024](https://centri.unibo.it/tutela-promozione-salute-sicurezza/it/agenda/bando-di-concorso-per-2-premi-nell-ambito-della-settimana-della-sicurezza-2024)
+
+### [Un alloggio per studiare all'università?](https://www.unibo.it/it/notizie-e-eventi/bacheca/un-alloggio-per-studiare-alluniversita)
+
+### [È online il bando ER.GO - Azienda regionale per il diritto agli studi superiori](https://www.unibo.it/it/notizie-e-eventi/bacheca/e-online-il-bando-er-go-azienda-regionale-per-il-diritto-agli-studi-superiori)
+
+### [Bando AlmaCert – contributo per certificazioni linguistiche internazionali](https://bandi.unibo.it/s/cla/bando-almacert_2024)
+
+### [Premi di studio Unibo for Refugees](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/premi-di-studio-unibo-for-refugees)
+
+### [Idoneità linguistica - date dei prossimi appelli](https://centri.unibo.it/cla/it/idoneita-linguistica)
+
+### [Far parte dell’Alma Mater](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/far-parte-dell-alma-mater)
+
+### [Novità TOLC 2024/25](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca/novita-tolc-2024-25)
+
+### [International Talents @Unibo](https://www.unibo.it/it/studiare/borse-di-studio-e-agevolazioni/international-talents-borse-di-studio-per-studenti-internazionali-a-a-2024-25)
+
+Eventi
+------
+
+Oggi non ci sono eventi
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+```
+Note: The output is the cleaned text, without any additional explanation or markup. The unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, empty lines or spaces, have been removed. The informative links have been left intact. The output is a concise summary of the original text.

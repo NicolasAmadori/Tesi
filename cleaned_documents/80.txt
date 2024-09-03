@@ -3,8 +3,8 @@
 
 
 Output:
-```
 Bacheca — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+================
 
 Mese Tutti gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre
 
@@ -16,11 +16,9 @@ Scadenza: 2 aprile 2024 ore 13:00
 
 ### [Non hai ancora fatto l'iscrizione alle Giornate dell'Orientamento? Affrettati, da oggi apre l'anteprima dell'evento online](https://open.unibo.it/eventi/orientamento-magistrali-2024)
 
-Puoi visitare gli stand virtuali e consultare il calendario degli eventi che ti interessano.
-
 ### [Borse di studio per preparazione o approfondimento della tesi finale all'estero](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/borse-di-studio-per-preparazione-o-approfondimento-della-tesi-finale-all-estero)
 
-Per iscritti a laurea e laurea magistrale in Ingegneria e Scienze Informatiche e neo-laureati da non più di sei mesi dalla data di scadenza del bando. Scadenza domanda: ore 13 del 13 marzo 2024.
+Scadenza domanda: ore 13 del 13 marzo 2024.
 
 ### [NEXT STEP: Laurea Magistrale! Indicazioni e strategie per la scelta](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/next-step-laurea-magistrale-indicazioni-e-strategie-per-la-scelta)
 
@@ -44,4 +42,8 @@ L'occasione, nell'ambito delle Giornate dell'orientamento, di conoscere da vicin
 
 ### [Intelligent Embedded Systems – EIT Digital Master School track](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/intelligent-embedded-systems-eit-digital-master-school-track)
 
-Consulta le scadenze per l'ammissione al percorso magistrale gestito da EIT Digital. Secondo intake: apertura 12 febbraio 2024 h. 9.00 (CET) - scadenza 11 Aprile 2024 h. 18
+Consulta le scadenze per l'ammissione al percorso magistrale gestito da EIT Digital. Secondo intake: apertura 12 febbraio 2024 h. 9.00 (CET) - scadenza 11 Aprile 2024 h. 18.00 (CEST)
+
+### [Premio “Gianni Bassi”](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca/premio%20gianni-bassi)
+
+Premio di €.2500 per Laureati Triennali in Ingeg

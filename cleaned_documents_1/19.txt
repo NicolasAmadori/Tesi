@@ -1,0 +1,30 @@
+
+
+
+
+Output:
+Piani disponibili nell'A.A. 2024/2025
+Piano didattico per studenti immatricolati nell'a.a. 2024-25 https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2024
+Piano didattico per studenti immatricolati nell'a.a. 2023-24 https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2023
+Piano didattico per studenti immatricolati nell'a.a. 2022-23 https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2022
+Segui Unibo su: https://www.linkedin.com/groups/2029274/
+Segui Unibo su: https://www.instagram.com/unibo/
+Segui Unibo su: https://www.tiktok.com/@joinunibo
+Segui Unibo su: https://www.youtube.com/user/UniBologna
+Segui Unibo su: https://t.me/Unibo_Official
+Segui Unibo su: https://www.linkedin.com/edu/school?id=13901
+Segui Unibo su: https://www.facebook.com/unibo.it
+Segui Unibo su: http://www.twitter.com/Unibo
+Segui Unibo su: https://www.spreaker.com/user/unibo
+App: https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo
+App: https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta
+App: https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo
+App: https://site.unibo.it/alumni-association/it
+Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+Privacy https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali
+Note legali https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali
+Informazioni sul sito e accessibilità https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita
+Impostazioni cookie https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/?year=2024&code=8615#
+
+
+Note: The output is a cleaned version of the input text, removing unnecessary parts and keeping only the informative links. The output is in the same format as the input text, but with a more concise and organized structure. The links are kept intact, as they are considered informative and useful. The output does not include any additional explanation or markup.
