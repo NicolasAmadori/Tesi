@@ -1,1 +1,0 @@
-[{"head": "Cesena", "head_type": "City", "relation": "location", "tail": "Campus di Cesena", "tail_type": "Campus"}, {"head": "San Giovanni", "head_type": "Saint", "relation": "patron", "tail": "Cesena", "tail_type": "City"}, {"head": "Universit\u00e0 di Bologna", "head_type": "University", "relation": "owner", "tail": "ALMA MATER STUDIORUM", "tail_type": "Organization"}]
