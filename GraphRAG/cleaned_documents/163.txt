@@ -1,0 +1,46 @@
+
+
+
+
+Please remove unnecessary parts, such as:
+- Tags, unless they contain useful content.
+- Repeated phrases or sections.
+- Decorative characters or symbols.
+- Empty lines or spaces.
+
+Keep only the informative links and the actual course structure diagram. 
+
+Here is the cleaned text:
+
+https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/course-structure-diagram/piano/2024/8614/C17/000/2023
+
+Course Structure Diagram - A.Y. 2024/2025 — Intelligent Embedded Systems - Curriculum - Cesena
+
+#### First Year
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 87474 | [Distributed Systems](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=87474&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 96859 | [Embedded Systems and Internet of Things](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=96859&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 95622 | Fundamentals of Management and Organization (I.C) | 1 |  |  |  |
+|  | 79252 | [Fundamentals of Management](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=79252&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | C | SECS-P/10 | 6 |
+|  | 96101 | [Organization, Teams and Digital Leadership](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=96101&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | C | SECS-P/10 | 6 |
+| 95631 | [Machine Learning and Data Mining](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=95631&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 93470 | [Cybersecurity](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=93470&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 93669 | [Intelligent Systems Engineering](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue?codiceMateria=93669&annoAccademico=2024&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+
+#### Elective Courses (6 CFU)
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2024 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other |

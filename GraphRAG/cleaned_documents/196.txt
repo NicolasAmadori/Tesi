@@ -1,0 +1,43 @@
+
+
+
+
+Please remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. Leave informative links. Output only the cleaned text. 
+
+Here is the cleaned text:
+
+Insegnamenti: piano didattico - A.A. 2024/2025 — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+
+DISTRIBUTED SYSTEMS - 6 CFU
+LINGUA INGLESE B - 6 CFU
+LINGUAGGI, COMPILATORI E MODELLI COMPUTAZIONALI - 12 CFU
+MACHINE LEARNING - 6 CFU
+SISTEMI INFORMATIVI - 6 CFU
+CYBERSECURITY - 6 CFU
+SVILUPPO DEI SISTEMI SOFTWARE (C.I.) - 6 CFU
+PARADIGMI DI PROGRAMMAZIONE E SVILUPPO - 6 CFU
+PROGRAMMAZIONE CONCORRENTE E DISTRIBUITA - 6 CFU
+
+APPLICAZIONI E SERVIZI WEB - 6 CFU
+BIG DATA - 6 CFU
+BUSINESS INTELLIGENCE - 6 CFU
+DATA MINING - 6 CFU
+SOFTWARE ARCHITECTURE AND PLATFORMS - 6 CFU
+SOFTWARE PROCESS ENGINEERING - 6 CFU
+VISIONE ARTIFICIALE E RICONOSCIMENTO - 6 CFU
+ADVANCED SOFTWARE MODELLING AND DESIGN - 6 CFU
+INTELLIGENT ROBOTIC SYSTEMS - 6 CFU
+INTELLIGENT SYSTEMS ENGINEERING - 6 CFU
+OPERATIONAL ANALYTICS - 6 CFU
+PROJECT MANAGEMENT - 6 CFU
+WEB SEMANTICO - 6 CFU
+
+DEEP LEARNING - 6 CFU
+LABORATORY OF NETWORK PROGRAMMABILITY AND AUTOMATION - 6 CFU
+
+PROVA FINALE - 24 CFU
+PROVA FINALE - 6 CFU
+
+Please note that I removed the unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, and empty lines or spaces. I also left informative links. The output is only the cleaned text. 
+
+Please let me know if you need any further assistance.

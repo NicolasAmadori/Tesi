@@ -1,0 +1,1 @@
+docker run --rm -it --gpus device=$CUDA_VISIBLE_DEVICES -p 57000:57000 -v /home/amadori/Tesi/GraphRAG:/workspace gr_langchain bash

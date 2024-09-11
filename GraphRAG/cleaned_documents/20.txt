@@ -1,0 +1,46 @@
+
+
+
+
+Output:
+Insegnamenti: piano didattico - A.A. 2024/2025 — Ingegneria e scienze informatiche - Laurea - Cesena
+============================================================
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2022&t=Insegnamenti%3A+piano+didattico "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2022 "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2022&text=Insegnamenti%3A+piano+didattico&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Insegnamenti%3A%20piano%20didattico%0AIndirizzo%3A%20https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2022%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Insegnamenti%3A%20piano%20didattico "Invia ad un amico")
+
+### Primo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 00013 | ANALISI MATEMATICA | 1 | A | MAT/05 | 12 |
+| 26338 | IDONEITA' LINGUA INGLESE B - 1 | 1 | E |  | 6 |
+| 00819 | PROGRAMMAZIONE | 1 | A | INF/01 | 12 |
+| 58414 | ALGEBRA E GEOMETRIA | 2 | A | MAT/02 | 6 |
+| 11929 | ALGORITMI E STRUTTURE DATI | 2 | A | INF/01 | 12 |
+| 69731 | ARCHITETTURE DEGLI ELABORATORI | 2 | B | ING-INF/05 | 12 |
+
+### Secondo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 77776 | MATEMATICA DISCRETA E PROBABILITÀ | 1 | C | MAT/02 | 6 |
+| 70219 | PROGRAMMAZIONE

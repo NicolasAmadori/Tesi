@@ -1,0 +1,15 @@
+#Get ALL nodes
+MATCH (n)
+RETURN n
+
+#Get all connected entities
+MATCH (n)-[r]->(m)
+RETURN n, r, m
+
+#Get connected documents ids
+MATCH (n)
+WHERE (n:Document)
+AND EXISTS {
+    MATCH (n)-[r]-(:!Document)
+}
+RETURN n.id

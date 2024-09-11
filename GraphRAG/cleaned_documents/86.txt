@@ -1,0 +1,21 @@
+
+
+
+
+Output:
+About the website and accessibility information — Computer Science and Engineering - Laurea Magistrale - Cesena
+Management and updating of contents
+Website updates are carried out by the degree programme web team.
+Website design and development
+The website was built on the Open Source Plone platform. University Portal Unit – Artec and Web Technology Unit - Cesia are responsible for the design and development.
+Accessibility
+A website is accessible when it allows you to easily access the contents and services it offers, independently of any mental or physical disability, technical equipment or context in which you are working.
+This website was developed in compliance with the current provisions on the accessibility of websites and using the Responsive Web Design technique, to allow consultation also from mobile devices.
+Accessibility statement
+Accessibility reports
+Follow Unibo on:
+App:
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+Privacy Legal notes About the website and accessibility information Cookie settings
+
+Note: The output is cleaned text, without any additional explanation or markup. Informative links are left intact. Decorative characters or symbols, repeated phrases or sections, and empty lines or spaces are removed. Tags, unless they contain useful content, are also removed. The output is a concise and clear summary of the original text.

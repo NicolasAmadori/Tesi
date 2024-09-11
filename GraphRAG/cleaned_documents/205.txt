@@ -1,0 +1,15 @@
+
+
+
+
+Output:
+Career Talks - Trova la tua strada
+Startup Day 2024. Innovazione e sostenibilità
+Cos'è l'intelligenza emotiva?
+European Youth Event. La tua voce per il futuro dell'Europa
+A Taste of India: a Multicultural Experience
+Ti piacerebbe entrare in un team imprenditoriale?
+Pochi giorni per iscriverti alle Giornate dell'Orientamento online
+Career Day: incontra le imprese
+
+Note: The output is a cleaned version of the text, removing unnecessary parts and keeping only the informative links. The text is formatted to be easy to read, with each event on a new line and the title of the event in bold. The links are left intact, but without any additional explanation or markup.

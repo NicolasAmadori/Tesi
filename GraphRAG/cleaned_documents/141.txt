@@ -1,0 +1,75 @@
+
+
+
+
+Output:
+
+Course Structure Diagram - A.Y. 2024/2025 — Computer Science and Engineering - Laurea - Cesena
+
+### First Year
+
+#### Compulsory courses
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- | --- | --- | --- |
+| 26337 | English Proficiency B2 | 1 | E |  | 6 |
+| 00013 | Mathematical Analysis | 1 | A | MAT/05 | 12 |
+| 00819 | Programming | 1 | A | INF/01 | 12 |
+| 58414 | Algebra and Geometry | 2 | A | MAT/02 | 6 |
+| 11929 | Algorithms and Data Structures | 2 | A | INF/01 | 12 |
+| 69731 | Computer Architecture | 2 | B | ING-INF/05 | 12 |
+
+### Second Year
+
+#### Compulsory courses
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- | --- | --- | --- |
+| 77776 | Discrete Mathematics and Probability | 1 | C | MAT/02 | 6 |
+| 70219 | Object-Oriented Programming | 1 | B | ING-INF/05 | 12 |
+| 08574 | Operating Systems | 1 | A | INF/01 | 12 |
+| 10906 | Databases | 2 | B | ING-INF/05 | 12 |
+| 10906 | Physics | 2 | A | FIS/01 | 6 |
+| 70226 | Network Programming | 2 | A | INF/01 | 6 |
+
+### Third Year
+
+#### Compulsory courses
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- | --- | --- | --- |
+| 15349 | Internship | 1 | F |  | 6 |
+| 00884 | Operation Research | 1 | A | MAT/09 | 6 |
+| 09032 | Software Engineering | 1 | B | ING-INF/05 | 6 |
+| 70218 | Telecommunications Networks | 1 | B | ING-INF/03 | 6 |
+
+#### Elective Courses (12 - 24 CFU)
+
+##### The student can choose from the exams listed below, the exams of the guided choice listed above and the teachings present in the University's educational offer.
+
+|  |  | Period? The period in which lectures are held 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | Type? A: Basic learning activities  
+B: Core learning activity  
+C: Related or supplementary learning activity  
+D: Elective learning activity  
+E: Final examination and foreign language test  
+S: Stage  
+F: Other | ssd? Disciplinary-scientific area to which the learning activity belongs | cfu? Credits |
+| --- | --- | --- |

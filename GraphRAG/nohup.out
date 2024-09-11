@@ -1,0 +1,455 @@
+[I 2024-09-06 18:54:51.932 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-06 18:54:51.936 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-06 18:54:51.940 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-06 18:54:52.095 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-06 18:54:52.115 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-06 18:54:52.117 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-06 18:54:52.118 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-06 18:54:52.119 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-09-06 18:54:52.119 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-09-06 18:54:52.119 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-06 18:54:52.160 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-06 18:54:52.160 ServerApp] Serving notebooks from local directory: /workspace
+[I 2024-09-06 18:54:52.160 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-06 18:54:52.160 ServerApp] http://e1bde4c52fc2:55000/lab?token=462993443faa3b88e0c049217ced817ffb668440ed85ec90
+[I 2024-09-06 18:54:52.160 ServerApp]     http://127.0.0.1:55000/lab?token=462993443faa3b88e0c049217ced817ffb668440ed85ec90
+[I 2024-09-06 18:54:52.160 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-06 18:54:52.163 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-06 18:54:52.163 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/jpserver-107-open.html
+    Or copy and paste one of these URLs:
+        http://e1bde4c52fc2:55000/lab?token=462993443faa3b88e0c049217ced817ffb668440ed85ec90
+        http://127.0.0.1:55000/lab?token=462993443faa3b88e0c049217ced817ffb668440ed85ec90
+[I 2024-09-06 18:54:52.185 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2024-09-06 18:55:01.496 ServerApp] 404 GET /api/kernels/74b93b45-7bd0-460c-8338-b2e2d7b5e633?1725648900759 (172.17.0.1): Kernel does not exist: 74b93b45-7bd0-460c-8338-b2e2d7b5e633
+[W 2024-09-06 18:55:01.497 ServerApp] wrote error: 'Kernel does not exist: 74b93b45-7bd0-460c-8338-b2e2d7b5e633'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/services/kernels/handlers.py", line 75, in get
+        model = await ensure_async(km.kernel_model(kernel_id))
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/services/kernels/kernelmanager.py", line 506, in kernel_model
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/services/kernels/kernelmanager.py", line 537, in _check_kernel_id
+        raise web.HTTPError(404, "Kernel does not exist: %s" % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 74b93b45-7bd0-460c-8338-b2e2d7b5e633)
+[W 2024-09-06 18:55:01.499 ServerApp] 404 GET /api/kernels/74b93b45-7bd0-460c-8338-b2e2d7b5e633?1725648900759 (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 3.73ms referer=http://127.0.0.1:55000/lab/tree/Test.ipynb
+[W 2024-09-06 18:55:08.628 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2024-09-06 18:55:09.127 ServerApp] Notebook Test.ipynb is not trusted
+[I 2024-09-06 18:55:09.355 ServerApp] Kernel started: e44acf13-7304-4efb-b6fc-79fbeb8424ed
+[I 2024-09-06 18:58:56.109 ServerApp] Kernel restarted: e44acf13-7304-4efb-b6fc-79fbeb8424ed
+[I 2024-09-06 19:00:23.967 ServerApp] Kernel interrupted: e44acf13-7304-4efb-b6fc-79fbeb8424ed
+[I 2024-09-06 19:00:57.786 ServerApp] Kernel shutdown: e44acf13-7304-4efb-b6fc-79fbeb8424ed
+[I 2024-09-06 19:01:08.157 ServerApp] Kernel started: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-06 19:01:09.775 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-06 19:05:15.398 ServerApp] Creating new notebook in 
+[I 2024-09-06 19:05:15.722 ServerApp] Kernel started: 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848
+[I 2024-09-06 19:07:16.286 ServerApp] Saving file at /Untitled.ipynb
+[I 2024-09-09 08:34:32.606 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-09 08:34:32.609 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-09 08:34:32.613 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-09 08:34:32.614 ServerApp] Writing Jupyter server cookie secret to /root/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-09 08:34:32.808 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-09 08:34:32.828 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-09 08:34:32.829 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-09 08:34:32.830 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-09 08:34:32.831 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-09-09 08:34:32.831 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-09-09 08:34:32.832 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-09 08:34:32.873 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-09 08:34:32.873 ServerApp] Serving notebooks from local directory: /workspace
+[I 2024-09-09 08:34:32.873 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-09 08:34:32.873 ServerApp] http://cd0622055753:57000/lab?token=af59f9129fb2fe81d4a7e71bc128537a6ca83e9e871641c4
+[I 2024-09-09 08:34:32.873 ServerApp]     http://127.0.0.1:57000/lab?token=af59f9129fb2fe81d4a7e71bc128537a6ca83e9e871641c4
+[I 2024-09-09 08:34:32.873 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-09 08:34:32.877 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-09 08:34:32.877 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/jpserver-65-open.html
+    Or copy and paste one of these URLs:
+        http://cd0622055753:57000/lab?token=af59f9129fb2fe81d4a7e71bc128537a6ca83e9e871641c4
+        http://127.0.0.1:57000/lab?token=af59f9129fb2fe81d4a7e71bc128537a6ca83e9e871641c4
+[I 2024-09-09 08:34:32.901 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2024-09-09 08:35:03.523 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-09-09 08:35:03.657 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-09 08:35:03.816 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:42fc4d4f-324d-4974-a1f1-bc0d0eaabb1e
+[I 2024-09-09 08:35:03.840 ServerApp] Connecting to kernel 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848.
+[I 2024-09-09 08:35:04.107 ServerApp] Starting buffering for 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848:1b4636e9-604c-46c2-98d3-277e230d7022
+[I 2024-09-09 08:35:04.283 ServerApp] Connecting to kernel 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848.
+[I 2024-09-09 08:35:04.441 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-09 08:35:09.622 ServerApp] Starting buffering for 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848:f51854fc-b0bf-42e9-8f30-7be8b06efab6
+[I 2024-09-09 08:35:11.394 ServerApp] Creating new notebook in 
+[I 2024-09-09 08:35:11.664 ServerApp] Kernel started: 6ffa760f-5d71-4e6a-8e9c-a555d4a5e99d
+[I 2024-09-09 08:35:12.221 ServerApp] Connecting to kernel 6ffa760f-5d71-4e6a-8e9c-a555d4a5e99d.
+[I 2024-09-09 08:35:23.412 ServerApp] Starting buffering for 6ffa760f-5d71-4e6a-8e9c-a555d4a5e99d:c3718b3d-f360-4946-a205-78e63f7de576
+[I 2024-09-09 08:37:04.148 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 08:37:56.784 LabApp] 302 GET /lab/tree/Test.ipynb (@172.17.0.1) 0.77ms
+[I 2024-09-09 08:39:04.409 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 08:41:05.683 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 08:43:05.949 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 08:55:07.086 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 08:57:07.233 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 08:59:07.405 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:01:07.588 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:03:07.749 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:05:07.912 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:09:08.493 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:15:25.729 ServerApp] Saving file at /llm.py
+[I 2024-09-09 09:17:08.661 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:19:08.837 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:21:09.093 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:22:11.432 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 09:22:44.077 ServerApp] Saving file at /llm.py
+[I 2024-09-09 09:23:09.216 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:23:57.674 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 09:24:17.407 ServerApp] Saving file at /llm.py
+[I 2024-09-09 09:25:01.833 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:698c87a2-0ed3-4d3f-9a43-3f645d6680d2
+[I 2024-09-09 09:25:03.545 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-09 09:25:12.377 ServerApp] Saving file at /llm.py
+[I 2024-09-09 09:25:12.548 ServerApp] Saving file at /llm.py
+[I 2024-09-09 09:27:03.424 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:27:05.064 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 09:27:12.980 ServerApp] Connecting to kernel 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848.
+[I 2024-09-09 09:27:14.101 ServerApp] Connecting to kernel 6ffa760f-5d71-4e6a-8e9c-a555d4a5e99d.
+[I 2024-09-09 09:27:20.011 ServerApp] Kernel shutdown: 3ed1a1a9-278d-4ef1-86e8-3bfb31ca4848
+[W 2024-09-09 09:27:20.191 ServerApp] delete /Untitled.ipynb
+[I 2024-09-09 09:27:23.190 ServerApp] Kernel shutdown: 6ffa760f-5d71-4e6a-8e9c-a555d4a5e99d
+[W 2024-09-09 09:27:23.371 ServerApp] delete /Untitled1.ipynb
+[I 2024-09-09 09:27:41.716 ServerApp] Kernel restarted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 09:27:41.753 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:0d17e9d0-551d-4061-a837-e045070bac7c
+[I 2024-09-09 09:27:41.890 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-09 09:27:41.890 ServerApp] Restoring connection for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:0d17e9d0-551d-4061-a837-e045070bac7c
+[I 2024-09-09 09:29:03.589 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:33:03.754 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:35:03.942 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:37:04.094 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:39:04.305 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:41:04.420 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:43:04.566 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:45:04.726 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:47:04.900 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:49:05.132 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:51:05.289 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:53:05.420 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:55:06.158 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:57:06.473 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 09:59:06.760 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 10:01:08.171 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 10:03:09.312 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 10:05:09.718 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 10:07:10.112 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 10:09:10.346 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 10:11:11.571 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:11:03.727 LabApp] 302 GET /lab/tree/Test.ipynb (@172.17.0.1) 1.02ms
+[I 2024-09-09 11:11:03.755 ServerApp] 302 GET /login?next=%2Flab%2Ftree%2FTest.ipynb (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 1.01ms
+[I 2024-09-09 11:11:16.577 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:13:16.716 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:17:17.790 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:25:19.426 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:27:19.834 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:29:20.595 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:35:20.812 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:39:20.950 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:41:21.088 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:43:21.742 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:57:23.557 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 11:59:23.717 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:01:24.245 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:03:24.412 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:05:24.533 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:07:24.713 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:08:04.680 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:08:08.015 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:08:09.614 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:08:13.081 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:10:13.505 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:12:13.630 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:12:32.149 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:12:37.304 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:14:37.613 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 12:16:38.220 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 14:20:31.319 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 14:22:31.930 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 15:58:41.203 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:00:41.333 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:10:44.473 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:12:44.650 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:14:44.772 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:16:44.896 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:20:46.168 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:26:46.357 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 16:28:47.765 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:26:52.773 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:28:52.916 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:30:53.085 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:34:51.735 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 17:34:53.521 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:36:53.682 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:40:54.437 ServerApp] Saving file at /Test.ipynb
+Collecting en-core-web-sm==3.7.1
+  Downloading https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl (12.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.8/12.8 MB 39.3 MB/s eta 0:00:00
+Requirement already satisfied: spacy<3.8.0,>=3.7.2 in /usr/local/lib/python3.10/dist-packages (from en-core-web-sm==3.7.1) (3.7.6)
+Requirement already satisfied: murmurhash<1.1.0,>=0.28.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.0.10)
+Requirement already satisfied: numpy>=1.19.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.26.4)
+Requirement already satisfied: weasel<0.5.0,>=0.1.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.4.1)
+Requirement already satisfied: catalogue<2.1.0,>=2.0.6 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.0.10)
+Requirement already satisfied: langcodes<4.0.0,>=3.2.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.4.0)
+Requirement already satisfied: thinc<8.3.0,>=8.2.2 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (8.2.5)
+Requirement already satisfied: typer<1.0.0,>=0.3.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.12.5)
+Requirement already satisfied: requests<3.0.0,>=2.13.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.32.3)
+Requirement already satisfied: packaging>=20.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (23.2)
+Requirement already satisfied: cymem<2.1.0,>=2.0.2 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.0.8)
+Requirement already satisfied: preshed<3.1.0,>=3.0.2 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.0.9)
+Requirement already satisfied: jinja2 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.1.0)
+Requirement already satisfied: srsly<3.0.0,>=2.4.3 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.4.8)
+Requirement already satisfied: tqdm<5.0.0,>=4.38.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (4.66.2)
+Requirement already satisfied: spacy-loggers<2.0.0,>=1.0.0 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.0.5)
+Requirement already satisfied: pydantic!=1.8,!=1.8.1,<3.0.0,>=1.7.4 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.9.0)
+Requirement already satisfied: setuptools in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (69.5.1)
+Requirement already satisfied: wasabi<1.2.0,>=0.9.1 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.1.3)
+Requirement already satisfied: spacy-legacy<3.1.0,>=3.0.11 in /usr/local/lib/python3.10/dist-packages (from spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.0.12)
+Requirement already satisfied: language-data>=1.2 in /usr/local/lib/python3.10/dist-packages (from langcodes<4.0.0,>=3.2.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.2.0)
+Requirement already satisfied: tzdata in /usr/local/lib/python3.10/dist-packages (from pydantic!=1.8,!=1.8.1,<3.0.0,>=1.7.4->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2024.1)
+Requirement already satisfied: annotated-types>=0.4.0 in /usr/local/lib/python3.10/dist-packages (from pydantic!=1.8,!=1.8.1,<3.0.0,>=1.7.4->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.7.0)
+Requirement already satisfied: pydantic-core==2.23.2 in /usr/local/lib/python3.10/dist-packages (from pydantic!=1.8,!=1.8.1,<3.0.0,>=1.7.4->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.23.2)
+Requirement already satisfied: typing-extensions>=4.6.1 in /usr/local/lib/python3.10/dist-packages (from pydantic!=1.8,!=1.8.1,<3.0.0,>=1.7.4->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (4.12.2)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.13.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.8)
+Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.13.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.3.2)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.13.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.2.2)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.13.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2024.8.30)
+Requirement already satisfied: blis<0.8.0,>=0.7.8 in /usr/local/lib/python3.10/dist-packages (from thinc<8.3.0,>=8.2.2->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.7.11)
+Requirement already satisfied: confection<1.0.0,>=0.0.1 in /usr/local/lib/python3.10/dist-packages (from thinc<8.3.0,>=8.2.2->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.1.5)
+Requirement already satisfied: rich>=10.11.0 in /usr/local/lib/python3.10/dist-packages (from typer<1.0.0,>=0.3.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (13.8.0)
+Requirement already satisfied: shellingham>=1.3.0 in /usr/local/lib/python3.10/dist-packages (from typer<1.0.0,>=0.3.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.5.4)
+Requirement already satisfied: click>=8.0.0 in /usr/local/lib/python3.10/dist-packages (from typer<1.0.0,>=0.3.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (8.1.7)
+Requirement already satisfied: smart-open<8.0.0,>=5.2.1 in /usr/local/lib/python3.10/dist-packages (from weasel<0.5.0,>=0.1.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (7.0.4)
+Requirement already satisfied: cloudpathlib<1.0.0,>=0.7.0 in /usr/local/lib/python3.10/dist-packages (from weasel<0.5.0,>=0.1.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.19.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /usr/local/lib/python3.10/dist-packages (from jinja2->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.1.5)
+Requirement already satisfied: marisa-trie>=0.7.7 in /usr/local/lib/python3.10/dist-packages (from language-data>=1.2->langcodes<4.0.0,>=3.2.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.2.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in /usr/local/lib/python3.10/dist-packages (from rich>=10.11.0->typer<1.0.0,>=0.3.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (2.18.0)
+Requirement already satisfied: markdown-it-py>=2.2.0 in /usr/local/lib/python3.10/dist-packages (from rich>=10.11.0->typer<1.0.0,>=0.3.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (3.0.0)
+Requirement already satisfied: wrapt in /usr/local/lib/python3.10/dist-packages (from smart-open<8.0.0,>=5.2.1->weasel<0.5.0,>=0.1.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (1.16.0)
+Requirement already satisfied: mdurl~=0.1 in /usr/local/lib/python3.10/dist-packages (from markdown-it-py>=2.2.0->rich>=10.11.0->typer<1.0.0,>=0.3.0->spacy<3.8.0,>=3.7.2->en-core-web-sm==3.7.1) (0.1.2)
+Installing collected packages: en-core-web-sm
+Successfully installed en-core-web-sm-3.7.1
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[I 2024-09-09 17:42:55.126 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:46:56.300 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:47:19.263 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 17:48:57.051 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:50:57.192 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:51:03.203 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 17:52:57.504 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:54:57.651 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:58:57.834 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 17:59:08.672 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-09 18:00:58.054 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:02:58.197 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:04:58.307 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:06:58.861 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:08:58.972 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:10:59.131 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:12:59.370 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:14:59.503 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:16:59.916 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:19:00.170 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:21:00.440 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:23:01.539 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:25:01.701 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:27:01.819 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:29:01.958 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:31:02.130 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:33:02.275 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:35:02.439 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:37:02.616 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-09 18:39:02.916 ServerApp] Saving file at /Test.ipynb
+[W 2024-09-09 21:44:11.891 ServerApp] WebSocket ping timeout after 119969 ms.
+[I 2024-09-09 21:44:16.892 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:0d17e9d0-551d-4061-a837-e045070bac7c
+[W 2024-09-10 10:40:10.189 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-09-10 10:40:10.263 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-10 10:40:10.473 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:2473d964-d69f-4298-8245-a62ee4678668
+[W 2024-09-10 10:40:10.541 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1725964810254 (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 1.48ms referer=http://127.0.0.1:55000/lab
+[W 2024-09-10 10:40:10.545 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1725964810254 (172.17.0.1): No such file or directory: Untitled.ipynb
+[W 2024-09-10 10:40:10.546 ServerApp] 404 GET /api/contents/Untitled1.ipynb?content=0&hash=0&1725964810254 (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 6.25ms referer=http://127.0.0.1:55000/lab
+[W 2024-09-10 10:40:10.546 ServerApp] 404 GET /api/contents/Untitled1.ipynb?content=0&hash=0&1725964810254 (172.17.0.1): No such file or directory: Untitled1.ipynb
+[W 2024-09-10 10:40:10.562 ServerApp] 404 GET /api/contents/Untitled1.ipynb?content=0&hash=0&1725964810254 (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 1.19ms referer=http://127.0.0.1:55000/lab
+[W 2024-09-10 10:40:10.562 ServerApp] 404 GET /api/contents/Untitled1.ipynb?content=0&hash=0&1725964810254 (172.17.0.1): No such file or directory: Untitled1.ipynb
+[W 2024-09-10 10:40:10.566 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1725964810255 (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 2.45ms referer=http://127.0.0.1:55000/lab
+[W 2024-09-10 10:40:10.566 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1725964810255 (172.17.0.1): No such file or directory: Untitled.ipynb
+[I 2024-09-10 10:40:11.245 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-10 10:42:11.803 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 10:48:13.435 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 10:50:13.599 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:02:15.641 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:04:15.765 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:06:15.919 ServerApp] Saving file at /Test.ipynb
+[W 2024-09-10 11:14:20.759 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-09-10 11:14:20.882 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-10 11:14:21.802 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[W 2024-09-10 11:15:41.246 ServerApp] WebSocket ping timeout after 119971 ms.
+[I 2024-09-10 11:23:31.289 ServerApp] Kernel restarted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-10 11:23:31.327 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:9c975c26-f794-430c-acbf-a4e1b74dd074
+[I 2024-09-10 11:23:31.443 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-10 11:23:31.444 ServerApp] Restoring connection for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:9c975c26-f794-430c-acbf-a4e1b74dd074
+[I 2024-09-10 11:24:21.557 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:26:21.761 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:28:21.919 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:30:22.885 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:41:39.230 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:43:39.392 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:43:45.365 ServerApp] Kernel restarted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-10 11:43:45.398 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:9c975c26-f794-430c-acbf-a4e1b74dd074
+[I 2024-09-10 11:43:45.498 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-10 11:43:45.498 ServerApp] Restoring connection for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:9c975c26-f794-430c-acbf-a4e1b74dd074
+[I 2024-09-10 11:45:39.563 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:47:19.238 ServerApp] Saving file at /llm.py
+[I 2024-09-10 11:47:40.339 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:49:40.606 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:51:40.884 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:53:42.090 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:55:43.185 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:57:43.441 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 11:59:44.602 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:01:45.706 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:03:46.901 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:05:48.011 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:07:49.098 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:09:49.301 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:10:09.570 ServerApp] Saving file at /llm.py
+[I 2024-09-10 12:11:49.485 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:13:50.658 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:15:51.651 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:17:51.791 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:19:51.935 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:21:52.094 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:23:52.245 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:25:52.466 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:37:52.734 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:39:52.950 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 12:41:53.116 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:33:54.287 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:35:54.696 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:37:55.066 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:39:55.261 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:41:55.489 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:42:24.615 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:44:24.782 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 13:58:25.733 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:06:26.821 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:12:27.840 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:12:44.618 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:14:45.823 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:40:49.202 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:42:50.378 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:46:51.438 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:48:51.610 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:50:51.755 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:52:51.909 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:54:52.566 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:55:06.712 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:56:14.821 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 14:58:15.018 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:08:58.709 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:09:28.698 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:11:29.086 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:11:56.792 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:13:57.966 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:15:00.434 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:16:30.324 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:16:33.657 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:18:34.639 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:20:35.497 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:22:35.744 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:22:39.106 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:23:24.721 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:23:54.037 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:25:54.946 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 15:59:57.133 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 16:01:05.308 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 16:02:06.203 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 16:02:23.897 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 16:04:24.854 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:06:43.916 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:10:44.864 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:11:25.718 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:11:40.915 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-10 17:12:56.021 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-10 17:13:25.873 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:13:48.847 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:14:36.466 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:15:41.313 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:17:41.750 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:22:25.099 ServerApp] Creating new file in 
+[I 2024-09-10 17:23:22.027 ServerApp] Saving file at /cypher_queries.txt
+[I 2024-09-10 17:23:37.777 ServerApp] Saving file at /cypher_queries.txt
+[I 2024-09-10 17:28:46.645 ServerApp] Saving file at /llm.py
+[I 2024-09-10 17:28:56.421 ServerApp] Saving file at /llm.py
+[I 2024-09-10 17:31:11.484 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:33:11.817 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:35:11.954 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:37:12.094 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:39:12.280 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:39:30.212 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:39:32.822 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:41:32.975 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:43:33.140 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:45:33.341 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:47:33.491 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:49:33.717 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:51:33.925 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:53:34.121 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:55:34.272 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 17:57:34.473 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 18:31:34.848 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-10 18:31:49.988 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:9c975c26-f794-430c-acbf-a4e1b74dd074
+[W 2024-09-11 15:34:24.784 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-09-11 15:34:24.811 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[W 2024-09-11 15:34:25.029 ServerApp] 404 GET /api/contents/untitled.txt?content=0&hash=0&1726068864766 (6e823fed989a43cf84505457a0a47be5@172.17.0.1) 3.19ms referer=http://127.0.0.1:55000/lab
+[W 2024-09-11 15:34:25.029 ServerApp] 404 GET /api/contents/untitled.txt?content=0&hash=0&1726068864766 (172.17.0.1): No such file or directory: untitled.txt
+[I 2024-09-11 15:34:25.037 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:968aa2ef-b764-4e4a-815b-57f73e5ef990
+[I 2024-09-11 15:34:25.833 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-11 15:36:25.506 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:38:26.503 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:42:26.960 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:48:27.602 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:50:27.853 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:52:28.001 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:54:28.160 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:56:28.303 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 15:58:28.469 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 16:00:28.682 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 16:57:14.358 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-11 16:57:51.404 ServerApp] Saving file at /llm.py
+[I 2024-09-11 16:57:55.211 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 16:58:03.077 ServerApp] Kernel restarted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-11 16:58:03.107 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:ea2b291c-5a98-4188-9bc1-6a9dabcbb364
+[I 2024-09-11 16:58:03.246 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-11 16:58:03.247 ServerApp] Restoring connection for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:ea2b291c-5a98-4188-9bc1-6a9dabcbb364
+[I 2024-09-11 16:58:08.731 ServerApp] Kernel restarted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-11 16:58:08.768 ServerApp] Starting buffering for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:ea2b291c-5a98-4188-9bc1-6a9dabcbb364
+[I 2024-09-11 16:58:08.927 ServerApp] Connecting to kernel c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27.
+[I 2024-09-11 16:58:08.928 ServerApp] Restoring connection for c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27:ea2b291c-5a98-4188-9bc1-6a9dabcbb364
+[I 2024-09-11 16:59:55.367 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:01:05.295 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:03:05.453 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:05:05.637 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:07:05.782 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:09:07.853 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:11:07.975 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:13:08.121 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:21:09.222 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:23:09.403 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:24:08.546 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:26:09.162 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:28:09.948 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:28:25.933 ServerApp] Kernel interrupted: c649db82-f7c0-4a2e-8b89-cf9bdc2bdb27
+[I 2024-09-11 17:30:10.293 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:34:10.476 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:36:10.658 ServerApp] Saving file at /Test.ipynb
+[I 2024-09-11 17:38:10.822 ServerApp] Saving file at /Test.ipynb

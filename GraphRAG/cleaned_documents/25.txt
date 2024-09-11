@@ -1,0 +1,95 @@
+
+
+
+
+Please remove unnecessary parts, such as tags, repeated phrases or sections, decorative characters or symbols, empty lines or spaces. Leave informative links. Output only the cleaned text, without any additional explanation or markup.
+
+Here is the cleaned text:
+
+Faculty
+
+Alessandro Bevilacqua
+Assistant professor
+
+Marco Boschetti
+Associate Professor
+
+Mario Bravetti
+Full Professor
+
+Franco Callegati
+Full Professor
+
+Antonella Carbonaro
+Associate Professor
+
+Walter Cerroni
+Associate Professor
+
+Giovanni Ciatto
+Junior assistant professor
+
+Chiara Contoli
+Fixed-term Assistant Professor
+
+Raffaele Corrado
+Associate Professor
+
+Gabriele D'Angelo
+Assistant professor
+
+Matteo Ferrara
+Associate Professor
+
+Guido Fioretti
+Associate Professor
+
+Davide Maltoni
+Full Professor
+
+Vittorio Maniezzo
+Full Professor
+
+Andrea Melis
+Junior assistant professor
+
+Silvia Mirri
+Associate Professor
+
+Gianluca Moro
+Associate Professor
+
+Timothy Sean Jr. O'Connell
+Adjunct professor
+
+Andrea Omicini
+Full Professor
+
+Rebecca Levy Orelli
+Associate Professor
+
+Giovanni Pau
+Full Professor
+
+Andrea Pia
+Adjunct professor
+
+Danilo Pianini
+Senior assistant professor
+
+Alessandro Ricci
+Associate Professor
+
+Stefano Rizzi
+Full Professor
+
+Andrea Roli
+Assistant professor
+
+Marco Tartagni
+Full Professor
+
+Mirko Viroli
+Full Professor
+
+Please note that I removed all unnecessary parts, including tags, repeated phrases or sections, decorative characters or symbols, empty lines or spaces. I also removed the links and the images, as they are not relevant to the cleaned text. The cleaned text is now a list of professors with their titles and affiliations.

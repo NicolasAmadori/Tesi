@@ -1,0 +1,8 @@
+
+
+
+
+Output:
+Periodicamente gli studenti del Corso eleggono i propri rappresentanti per proporre e sostenere le proprie istanze presso il Consiglio di Corso, di cui sono componenti.
+Le modalità di elezione e la durata del mandato sono definiti nell'apposito Regolamento d’Ateneo.
+Nel Consiglio del corso di laurea magistrale in Ingegneria e Scienze Informatiche non è attualmente in carica nessun rappresentante degli studenti.

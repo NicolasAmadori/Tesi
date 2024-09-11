@@ -1,0 +1,235 @@
+
+
+
+
+    </body>
+    </html>
+    """
+
+# Remove unnecessary parts
+text = text.replace("<!--", "").replace("-->", "").replace("<!--", "").replace("-->", "")
+
+# Remove empty lines and spaces
+text = text.replace("\n", "").replace("  ", "").replace(" ", "")
+
+# Remove tags
+text = text.replace("<", "").replace(">", "")
+
+# Remove links
+text = text.replace("https://", "").replace("http://", "")
+
+# Remove images
+text = text.replace("![", "").replace("]", "")
+
+# Remove footnotes
+text = text.replace("[]", "")
+
+# Remove citations
+text = text.replace("[]", "")
+
+# Remove references
+text = text.replace("[]", "")
+
+# Remove tables
+text = text.replace("|", "").replace("||", "")
+
+# Remove lists
+text = text.replace("*", "").replace("  ", "")
+
+# Remove code blocks
+text = text.replace("```", "").replace("```", "")
+
+# Remove comments
+text = text.replace("//", "").replace("/*", "").replace("*/", "")
+
+# Remove special characters
+text = text.replace(":", "").replace(";", "").replace(",", "").replace(".", "")
+
+# Remove whitespace
+text = text.replace(" ", "")
+
+# Remove newline characters
+text = text.replace("\n", "")
+
+# Remove tabs
+text = text.replace("\t", "")
+
+# Remove carriage returns
+text = text.replace("\r", "")
+
+# Remove vertical tabs
+text = text.replace("\v", "")
+
+# Remove form feeds
+text = text.replace("\f", "")
+
+# Remove backslashes
+text = text.replace("\\", "")
+
+# Remove backticks
+text = text.replace("``", "")
+
+# Remove single quotes
+text = text.replace("'", "")
+
+# Remove double quotes
+text = text.replace('"', "")
+
+# Remove angle brackets
+text = text.replace("<", "").replace(">", "")
+
+# Remove ampersands
+text = text.replace("&", "")
+
+# Remove asterisks
+text = text.replace("*", "")
+
+# Remove underscores
+text = text.replace("_", "")
+
+# Remove tildes
+text = text.replace("~", "")
+
+# Remove carets
+text = text.replace("^", "")
+
+# Remove backslashes
+text = text.replace("\\", "")
+
+# Remove pipes
+text = text.replace("|", "")
+
+# Remove parentheses
+text = text.replace("(", "").replace(")", "")
+
+# Remove brackets
+text = text.replace("[", "").replace("]", "")
+
+# Remove curly braces
+text = text.replace("{", "").replace("}", "")
+
+# Remove quotes
+text = text.replace('"', "")
+
+# Remove apostrophes
+text = text.replace("'", "")
+
+# Remove hyphens
+text = text.replace("-", "")
+
+# Remove equals signs
+text = text.replace("=", "")
+
+# Remove plus signs
+text = text.replace("+", "")
+
+# Remove forward slashes
+text = text.replace("/", "")
+
+# Remove backslashes
+text = text.replace("\\", "")
+
+# Remove percent signs
+text = text.replace("%", "")
+
+# Remove dollar signs
+text = text.replace("$", "")
+
+# Remove pound signs
+text = text.replace("#", "")
+
+# Remove commas
+text = text.replace(",", "")
+
+# Remove semicolons
+text = text.replace(";", "")
+
+# Remove colons
+text = text.replace(":", "")
+
+# Remove periods
+text = text.replace(".", "")
+
+# Remove question marks
+text = text.replace("?", "")
+
+# Remove exclamation marks
+text = text.replace("!", "")
+
+# Remove parentheses
+text = text.replace("(", "").replace(")", "")
+
+# Remove brackets
+text = text.replace("[", "").replace("]", "")
+
+# Remove curly braces
+text = text.replace("{", "").replace("}", "")
+
+# Remove quotes
+text = text.replace('"', "")
+
+# Remove apostrophes
+text = text.replace("'", "")
+
+# Remove hyphens
+text = text.replace("-", "")
+
+# Remove equals signs
+text = text.replace("=", "")
+
+# Remove plus signs
+text = text.replace("+", "")
+
+# Remove forward slashes
+text = text.replace("/", "")
+
+# Remove backslashes
+text = text.replace("\\", "")
+
+# Remove percent signs
+text = text.replace("%", "")
+
+# Remove dollar signs
+text = text.replace("$", "")
+
+# Remove pound signs
+text = text.replace("#", "")
+
+# Remove commas
+text = text.replace(",", "")
+
+# Remove semicolons
+text = text.replace(";", "")
+
+# Remove colons
+text = text.replace(":", "")
+
+# Remove periods
+text = text.replace(".", "")
+
+# Remove question marks
+text = text.replace("?", "")
+
+# Remove exclamation marks
+text = text.replace("!", "")
+
+# Remove parentheses
+text = text.replace("(", "").replace(")", "")
+
+# Remove brackets
+text = text.replace("[", "").replace("]", "")
+
+# Remove curly braces
+text = text.replace("{", "").replace("}", "")
+
+# Remove quotes
+text = text.replace('"', "")
+
+# Remove apostrophes
+text = text.replace("'", "")
+
+# Remove hyphens
+text = text.replace("-", "")
+
+# Remove equals signs
+text = text.replace("=",

@@ -1,0 +1,465 @@
+https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/rss.xml
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/rss.xml" />
+    <title>Notice board</title>
+    <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board</link>
+    <description></description>
+
+    <language>it</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Competition for prizes within the 2024 Safety Week</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/competition-for-prizes-within-the-2024-safety-week</link>
+      <description>If you have developed a project applicable to health and safety protection in digital work, participate in the competition from 1 to 30 September. A prize of 1,500 euros is up for grabs.</description>
+      
+      <pubDate>Wed, 17 Jul 2024 09:28:54 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/competition-for-prizes-within-the-2024-safety-week</guid>
+    </item>
+    <item>
+      <title>Looking for a place to stay while studying at the university?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/looking-for-a-place-to-stay-while-studying-at-the-university</link>
+      <description>We know finding accommodation can be tough and time-consuming, but don’t get discouraged. Here are some tips.</description>
+      
+      <pubDate>Thu, 11 Jul 2024 20:04:54 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/looking-for-a-place-to-stay-while-studying-at-the-university</guid>
+    </item>
+    <item>
+      <title>PNRR PhD Scholarships - 2024 Call for Applications Open</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/pnrr-phd-scholarships-2024-call-for-applications-open</link>
+      <description>If you already have a degree or will graduate by the end of October, you can choose your PhD program and apply by August 7.</description>
+      
+      <pubDate>Wed, 10 Jul 2024 14:34:50 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/pnrr-phd-scholarships-2024-call-for-applications-open</guid>
+    </item>
+    <item>
+      <title>ER.GO (Regional Authority for the Right to Higher Education) study grants - the call for applications is online</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/er-go-regional-authority-for-the-right-to-higher-education-study-grants-the-call-for-applications-is-online</link>
+      <description>The Region bears the cost of your academic studies. Submit your application for scholarships, accommodation, and other benefits.</description>
+      
+      <pubDate>Fri, 05 Jul 2024 12:18:27 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/er-go-regional-authority-for-the-right-to-higher-education-study-grants-the-call-for-applications-is-online</guid>
+    </item>
+    <item>
+      <title>AlmaCert call for applications - grant for international language certificates</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/almacert-call-for-applications-grant-for-international-language-certificates</link>
+      <description>Read the call and submit your application by 13 September.</description>
+      
+      <pubDate>Fri, 05 Jul 2024 12:10:57 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/almacert-call-for-applications-grant-for-international-language-certificates</guid>
+    </item>
+    <item>
+      <title>Unibo for Refugees - scholarships</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/unibo-for-refugees-scholarships</link>
+      <description>Ten scholarships are available for those who have already received an ER.GO, UNICORE, or CRUI scholarship for the academic year 2023/24.</description>
+      
+      <pubDate>Thu, 27 Jun 2024 17:09:34 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/unibo-for-refugees-scholarships</guid>
+    </item>
+    <item>
+      <title>Have you ever thought about becoming a Peer mentor?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/have-you-ever-thought-about-becoming-a-peer-mentor</link>
+      <description>150 paid hours per year, with flexible hours, to support students with Disabilities and SLD at the university.</description>
+      
+      <pubDate>Thu, 27 Jun 2024 17:07:54 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/have-you-ever-thought-about-becoming-a-peer-mentor</guid>
+    </item>
+    <item>
+      <title>24/06/2024 - Cesena Patron Saint holiday: all the Offices and venues of the Cesena Campus are closed</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/24-06-2024-cesena-patron-saint-holiday-all-the-offices-and-venues-of-the-cesena-campus-are-closed</link>
+      <description>All the Offices of the Cesena Campus, as well as all the venues of the Campus are closed because of the Patron Saint Holiday.</description>
+      
+      <pubDate>Mon, 24 Jun 2024 12:03:02 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/24-06-2024-cesena-patron-saint-holiday-all-the-offices-and-venues-of-the-cesena-campus-are-closed</guid>
+    </item>
+    <item>
+      <title>What do you think about our University?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/what-do-you-think-about-our-university</link>
+      <description>Your opinion will guide actions to improve it. Spend a few minutes on the online survey.</description>
+      
+      <pubDate>Tue, 18 Jun 2024 12:51:42 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/what-do-you-think-about-our-university</guid>
+    </item>
+    <item>
+      <title>Contributions for contributions for health costs for non-resident students</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/contributions-for-contributions-for-health-costs-for-non-resident-students</link>
+      <description>If you are a non-resident student at the University of Bologna and you have an ISEE not exceeding €35,000.00, you can apply for the competition to request contributions. Application deadline: 11 July.</description>
+      
+      <pubDate>Wed, 05 Jun 2024 17:03:57 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/contributions-for-contributions-for-health-costs-for-non-resident-students</guid>
+    </item>
+    <item>
+      <title>Career Talks - Find Your Path</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/career-talks-find-your-path</link>
+      <description>On June 7, participate in the event to broaden your career perspectives. There will be discussions on career guidance, the value of personal passions, and the importance of networking.</description>
+      
+      <pubDate>Wed, 29 May 2024 10:02:10 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/career-talks-find-your-path</guid>
+    </item>
+    <item>
+      <title>Be part of the Alma Mater</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/be-part-of-the-alma-mater</link>
+      <description>to know your University</description>
+      
+      <pubDate>Wed, 22 May 2024 10:48:52 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/be-part-of-the-alma-mater</guid>
+    </item>
+    <item>
+      <title>Attention! Fraudulent messages on Facebook and Instagram</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/attention-fraudulent-messages-on-facebook-and-instagram</link>
+      <description>We have identified fraudulent messages on Facebook and Instagram, not associated with the University of Bologna in any way, promising official online university courses on behalf of Unibo.</description>
+      
+      <pubDate>Wed, 15 May 2024 16:37:22 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/attention-fraudulent-messages-on-facebook-and-instagram</guid>
+    </item>
+    <item>
+      <title>Cesena Campus closure for next holidays: 25th, 26th of April and 1st of May 2024</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/cesena-campus-closure-for-next-holidays-25th-26th-of-april-and-1st-of-may-2024</link>
+      <description>Because of national holidays, the Cesena Campus will be closed for 3 days</description>
+      
+      <pubDate>Wed, 24 Apr 2024 14:48:58 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/cesena-campus-closure-for-next-holidays-25th-26th-of-april-and-1st-of-may-2024</guid>
+    </item>
+    <item>
+      <title>European elections 2024 - "non-resident" voting</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/european-elections-2024-non-resident-voting</link>
+      <description>For the forthcoming European elections on 8 and 9 June, students residing in a Region other than Emilia-Romagna may apply to their municipality of residence for an "non-resident" vote.</description>
+      
+      <pubDate>Wed, 24 Apr 2024 09:58:32 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/european-elections-2024-non-resident-voting</guid>
+    </item>
+    <item>
+      <title>Are you eager to make new friends and enhance your language abilities?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/are-you-eager-to-make-new-friends-and-enhance-your-language-abilities</link>
+      <description>Come join us for a Language Tandem experience! You'll have the opportunity to connect with various languages and cultures of the globe. Register by 3 June.</description>
+      
+      <pubDate>Wed, 17 Apr 2024 17:30:07 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/are-you-eager-to-make-new-friends-and-enhance-your-language-abilities</guid>
+    </item>
+    <item>
+      <title>International Talents @Unibo - GRE scholarships. Deadline: 30 April</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/international-talents-unibo-gre-scholarships</link>
+      <description>If you have an academic qualification from a non-Italian education system and you wish to enrol in second-cycle degree programmes at the Unibo, participate in the call for applications.</description>
+      
+      <pubDate>Fri, 12 Apr 2024 17:37:47 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/international-talents-unibo-gre-scholarships</guid>
+    </item>
+    <item>
+      <title>Participate in the events of the Service for Students with Disabilities and SLD</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/participate-in-the-events-of-the-service-for-students-with-disabilities-and-sld</link>
+      <description>The meetings are aimed at high school students with SLD who wish to enroll at the University of Bologna.</description>
+      
+      <pubDate>Fri, 12 Apr 2024 17:29:09 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/participate-in-the-events-of-the-service-for-students-with-disabilities-and-sld</guid>
+    </item>
+    <item>
+      <title>Call for applications to Erasmus + mobility for traineeship 2024/25</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-applications-to-erasmus-mobility-for-traineeship-2024-25</link>
+      <description>Would you like to broaden your curriculum by working abroad? Carry out a two/six month paid internship in a European Union country. Apply by 13 May.</description>
+      
+      <pubDate>Mon, 08 Apr 2024 13:57:47 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-applications-to-erasmus-mobility-for-traineeship-2024-25</guid>
+    </item>
+    <item>
+      <title>Easter Holidays 2024</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/easter-holidays-2024</link>
+      <description>Our venue (via dell'Università 50 Campus building, Cesena) and offices will be closed from the 29th of March to the 1st of April 2024</description>
+      
+      <pubDate>Thu, 28 Mar 2024 18:30:51 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/easter-holidays-2024</guid>
+    </item>
+    <item>
+      <title>Some benefits for your free time</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/some-benefits-for-your-free-time</link>
+      <description>If you study at the University of Bologna, you are entitled to discounted tickets for theatre performances, film festivals, museum visits, and much more. Discover all the initiatives.</description>
+      
+      <pubDate>Fri, 22 Mar 2024 13:54:57 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/some-benefits-for-your-free-time</guid>
+    </item>
+    <item>
+      <title>Call for application for 8 "tutor positions": supporting Cesena Campus Teaching Services Office</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-application-for-8-tutor-positions-supporting-cesena-campus-teaching-services-office</link>
+      <description>Deadline: 8th of April 2024, 1.00 P.M. (Italian Local Time)</description>
+      
+      <pubDate>Tue, 19 Mar 2024 15:00:16 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-application-for-8-tutor-positions-supporting-cesena-campus-teaching-services-office</guid>
+    </item>
+    <item>
+      <title>Doing Business: Instructions for Use</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/doing-business-instructions-for-use</link>
+      <description>Join the 8-lesson introductory entrepreneurship course organized in collaboration with AlmaCube. Classes will begin on 25 March. Sign up by 21 March.</description>
+      
+      <pubDate>Mon, 18 Mar 2024 16:55:35 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/doing-business-instructions-for-use</guid>
+    </item>
+    <item>
+      <title>A.Y. 24/25 DISI Master Degree Programmes Open Day</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/a-y-24-25-disi-master-degree-programmes-open-day</link>
+      <description>Presentation of the Master Degree Programmes: "Digital Transformation Management" and "Computer Science and Engineering"</description>
+      
+      <pubDate>Fri, 15 Mar 2024 15:31:06 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/a-y-24-25-disi-master-degree-programmes-open-day</guid>
+    </item>
+    <item>
+      <title>Collegio Superiore: call for applications is online</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/collegio-superiore-call-for-applications-is-online</link>
+      <description>Students who enrol may submit their applications to the Collegio Superiore. Deadline: 15 April.</description>
+      
+      <pubDate>Mon, 11 Mar 2024 14:08:26 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/collegio-superiore-call-for-applications-is-online</guid>
+    </item>
+    <item>
+      <title>Call for applications 2023/24 for interventions in favour of students in difficulty</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-applications-2023-24-for-interventions-in-favour-of-students-in-difficulty</link>
+      <description>Take part in the call if you are studying at Unibo and are experiencing personal, family or economic hardship. Deadline: 25 March.</description>
+      
+      <pubDate>Tue, 27 Feb 2024 12:41:06 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-applications-2023-24-for-interventions-in-favour-of-students-in-difficulty</guid>
+    </item>
+    <item>
+      <title>Online pathway to prepare for the language test</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/online-pathway-to-prepare-for-the-language-test</link>
+      <description>If you have to take a language test the University Language Centre offers you the opportunity to access the self-study material and to be assisted by language tutors.</description>
+      
+      <pubDate>Tue, 27 Feb 2024 12:38:51 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/online-pathway-to-prepare-for-the-language-test</guid>
+    </item>
+    <item>
+      <title>Did you plan to graduate in the March session but need to postpone?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/did-you-plan-to-graduate-in-the-march-session-but-need-to-postpone</link>
+      <description>If you only have the final examination left and intend to graduate by 2024, you may qualify for a fee reduction. Discover how to obtain this benefit and check if you meet the requirements.</description>
+      
+      <pubDate>Tue, 27 Feb 2024 11:42:23 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/did-you-plan-to-graduate-in-the-march-session-but-need-to-postpone</guid>
+    </item>
+    <item>
+      <title>2024/2025 Call for application "Intelligent embedded systems" curriculum - local track is online!</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/2024-2025-call-for-application-intelligent-embedded-systems-curriculum-local-track-is-online</link>
+      <description>Applications are open. Deadline: 2nd of April 2024 h.13.00 (Italian local time)</description>
+      
+      <pubDate>Thu, 22 Feb 2024 12:47:00 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/2024-2025-call-for-application-intelligent-embedded-systems-curriculum-local-track-is-online</guid>
+    </item>
+    <item>
+      <title>Study grants for dissertation abroad</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/study-grants-for-dissertation-abroad</link>
+      <description>Deadline: 13th of March at 1.00 PM (Italian local time)</description>
+      
+      <pubDate>Wed, 21 Feb 2024 14:09:48 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/study-grants-for-dissertation-abroad</guid>
+    </item>
+    <item>
+      <title>"Fondazione Famiglia Tortora" Prize</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/fondazione-famiglia-tortora-prize</link>
+      <description>Students enrolled in the Computer Science and Engineering for the 23/24 academic year are eligible for this call.</description>
+      
+      <pubDate>Wed, 21 Feb 2024 13:10:04 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/fondazione-famiglia-tortora-prize</guid>
+    </item>
+    <item>
+      <title>If you haven't done it yet, register now to our Virtual Fair-Master's! The event preview opens today</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/preview-the-virtual-fair2024-master-s</link>
+      <description>You can start visiting the virtual stands and check the programme of the events you are interested in.</description>
+      
+      <pubDate>Wed, 21 Feb 2024 12:06:34 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/preview-the-virtual-fair2024-master-s</guid>
+    </item>
+    <item>
+      <title>International Talents @Unibo</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/international-talents-unibo</link>
+      <description>Unibo awards 80 scholarships to deserving international students who wish to enrol in degree programmes in the a. y. 2024/25.</description>
+      
+      <pubDate>Fri, 16 Feb 2024 10:21:57 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/international-talents-unibo</guid>
+    </item>
+    <item>
+      <title>Let's talk about PhDs</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/lets-talk-about-phd2024</link>
+      <description>The right opportunity during Virtual Fair - Master's to learn more about how you can advance your education or embark on a research career.</description>
+      
+      <pubDate>Wed, 14 Feb 2024 16:31:33 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/lets-talk-about-phd2024</guid>
+    </item>
+    <item>
+      <title>Are you an international student and want to enrol in this course?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/are-you-an-international-student-and-want-to-enrol-in-this-course</link>
+      <description>During the Virtual Fair, you will have the opportunity to learn how to do it and what you need to know.</description>
+      
+      <pubDate>Fri, 09 Feb 2024 11:32:39 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/are-you-an-international-student-and-want-to-enrol-in-this-course</guid>
+    </item>
+    <item>
+      <title>"Gianni Bassi" Prize</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/gianni-bassi-prize</link>
+      <description>Deadline: 31st of March 2024</description>
+      
+      <pubDate>Mon, 05 Feb 2024 13:38:48 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/gianni-bassi-prize</guid>
+    </item>
+    <item>
+      <title>One more opportunity to turn your idea into a start-up</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/one-more-opportunity-to-turn-your-idea-into-a-start-up</link>
+      <description>Call for StartUp deadline extended to 8 February</description>
+      
+      <pubDate>Mon, 05 Feb 2024 11:31:55 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/one-more-opportunity-to-turn-your-idea-into-a-start-up</guid>
+    </item>
+    <item>
+      <title>Intelligent Embedded Systems – EIT Digital Master School track</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/intelligent-embedded-systems-eit-digital-master-school-track</link>
+      <description>The application deadline for period one is approaching: 8th of February 2024, 18:00 CET</description>
+      
+      <pubDate>Tue, 23 Jan 2024 18:24:30 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/intelligent-embedded-systems-eit-digital-master-school-track</guid>
+    </item>
+    <item>
+      <title>Erasmus + 2024/2025 Infomeeting - Tuesday January 16th 2024 at 12 o'clock ( noon / PM- CEST)</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/erasmus-2024-2025-infomeeting-friday-january-12th-2024-at-1-00-pm-cest</link>
+      <description>Online Meeting</description>
+      
+      <pubDate>Tue, 09 Jan 2024 17:39:25 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/erasmus-2024-2025-infomeeting-friday-january-12th-2024-at-1-00-pm-cest</guid>
+    </item>
+    <item>
+      <title>The Erasmus+ mobility for studies call for applications 2024/25 is now online</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/the-erasmus-mobility-for-studies-call-for-applications-2024-25-is-now-online</link>
+      <description>Read the call for applications, the deadlines and check the exchange vacancies. Deadline: 8 February</description>
+      
+      <pubDate>Tue, 09 Jan 2024 14:10:32 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/the-erasmus-mobility-for-studies-call-for-applications-2024-25-is-now-online</guid>
+    </item>
+    <item>
+      <title>How do you commute to the University? "Passa col Verde": a survey on mobility</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/how-do-you-commute-to-the-university-passa-col-verde-a-survey-on-mobility</link>
+      <description>Assist us in enhancing mobility and transport solutions at your University by completing the questionnaire by 19 December.</description>
+      
+      <pubDate>Wed, 13 Dec 2023 23:20:38 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/how-do-you-commute-to-the-university-passa-col-verde-a-survey-on-mobility</guid>
+    </item>
+    <item>
+      <title>Do you have an idea that could become a startup?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/do-you-have-an-innovative-idea-or-start-up</link>
+      <description>Only a few days left to submit your idea to the Call for StartUp. You have until January 31, 2024.</description>
+      
+      <pubDate>Thu, 18 Jan 2024 11:33:23 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/do-you-have-an-innovative-idea-or-start-up</guid>
+    </item>
+    <item>
+      <title>Share your suggestions on changes to the University's code of ethics</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/share-your-suggestions-on-changes-to-the-university-s-code-of-ethics</link>
+      <description>Participate in the revision of our code of ethics by 31 December to promote a shared vision of fairness, respect for differences, fairness, and integrity.</description>
+      
+      <pubDate>Fri, 01 Dec 2023 14:27:13 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/share-your-suggestions-on-changes-to-the-university-s-code-of-ethics</guid>
+    </item>
+    <item>
+      <title>CBI.ATTRACT. A programme and a scholarship to think about new relationships between technologies and people</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/presentation-of-the-open-innovation-program-cbi-attract</link>
+      <description>Have you ever imagined putting creativity and skills at the service of people, exploring how cutting-edge technology can make a difference? Participate in the call for applications by 5 January 2024.</description>
+      
+      <pubDate>Fri, 15 Dec 2023 00:25:09 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/presentation-of-the-open-innovation-program-cbi-attract</guid>
+    </item>
+    <item>
+      <title>Contributions for personal study and research equipment lost or damaged during the flood in May 2023</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/contributions-for-personal-study-and-research-equipment-lost-or-damaged-during-the-flood-in-may-2023</link>
+      <description>The contributions are intended for those who enrolled in the academic year 2022/23 in a degree programme at the University of Bologna. Application deadline: 21 December.</description>
+      
+      <pubDate>Wed, 15 Nov 2023 18:40:54 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/contributions-for-personal-study-and-research-equipment-lost-or-damaged-during-the-flood-in-may-2023</guid>
+    </item>
+    <item>
+      <title>Call for application: "attività di collaborazione" (student assistant contracts through study grants) - Cesena Campus A.A.23/24</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-application-attivita-di-collaborazione-student-assistant-scholarships-cesena-campus</link>
+      <description>Deadline: 30th November 2023 h.15 (Italian local time)</description>
+      
+      <pubDate>Mon, 06 Nov 2023 17:02:39 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/call-for-application-attivita-di-collaborazione-student-assistant-scholarships-cesena-campus</guid>
+    </item>
+    <item>
+      <title>START Romagna annual pass starting from 50€</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/start-romagna-annual-pass-starting-from-50</link>
+      <description>You can purchase a reduced fare public transport annual personal pass in the cities of Romagna according to your ISEE. You have time until 30 June 2024.</description>
+      
+      <pubDate>Fri, 03 Nov 2023 13:50:31 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/start-romagna-annual-pass-starting-from-50</guid>
+    </item>
+    <item>
+      <title>Field Work 2023-24 call for applications</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/field-work-2023-24-call-for-applications</link>
+      <description>Take part to the new international mobility programme for students which offers the opportunity to spend a period at an NGO or other bodies active in development cooperation. Deadline: 1 December</description>
+      
+      <pubDate>Thu, 02 Nov 2023 13:33:29 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/field-work-2023-24-call-for-applications</guid>
+    </item>
+    <item>
+      <title>ENGINEERING AND COMPUTER SCIENCE AREA | Presentation of the International Master's degree programmes</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/engineering-and-computer-science-area-presentation-of-the-international-master-s-degree-programmes</link>
+      <description>Come meet us at the presentation of the International Master’s degrees in the field of ENGINEERING AND COMPUTER SCIENCE</description>
+      
+      <pubDate>Wed, 18 Oct 2023 17:23:30 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/engineering-and-computer-science-area-presentation-of-the-international-master-s-degree-programmes</guid>
+    </item>
+    <item>
+      <title>Are you studying and working at the same time?</title>
+      
+      <link>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/are-you-studying-and-working-at-the-same-time</link>
+      <description>Fill in the questionnaire and help us find the best solutions and funding to support those who work while studying at Unibo.</description>
+      
+      <pubDate>Tue, 17 Oct 2023 12:56:11 +0200</pubDate>
+      <guid>https://corsi.unibo.it/2cycle/IntelligentEmbeddedSystems/notice-board/are-you-studying-and-working-at-the-same-time</guid>
+    </item>
+  </channel>
+</rss>
