@@ -1,0 +1,1 @@
+docker run -v /home/amadori/Tesi/VectorDb:/workspace --rm --gpus device=$CUDA_VISIBLE_DEVICES -it vectorDb bash
