@@ -1,0 +1,86 @@
+Il corso forma professionisti in grado di progettare, sviluppare e gestire 
+
+sistemi e applicazioni in ambito informatico, fornendo una cultura scientifica 
+
+e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e di strumenti attuali per la realizzazione di soluzioni informatiche, che permettono l’ingresso diretto nel mondo del lavoro. 
+
+Il corso offre agli studenti la possibilità di studiare l’informatica in modo 
+
+completo, approfondendo sia aspetti di tipo matematico/scientifico , sia di tipo progettuale/ingegneristico , con particolare riferimento alle più avanzate 
+
+metodologie di progettazione e realizzazione di sistemi software. 
+
+Il corso di laurea fornisce le competenze teorico-pratiche relative alle principali aree dell’informatica: tecniche di progettazione e programmazione 
+
+del software, dei sistemi operativi, dei sistemi informativi, delle reti di calcolatori, delle infrastrutture web e delle architetture computazionali 
+
+e in cloud. A queste conoscenze di base si aggiungono poi conoscenze approfondite e professionalizzanti in specifici settori dell’informatica che 
+
+preparano i laureati all’ingresso diretto nel mondo del lavoro. Il raggiungimento di questi obiettivi richiede di acquisire una cultura 
+
+scientifica di base nonché un metodo di analisi e di studio scientifici che 
+
+permettano allo studente di costruire autonomamente nuove conoscenze 
+
+al fine di adeguarsi alla continua evoluzione della disciplina e di utilizzare 
+
+metodi innovativi e attrezzature complesse. Il raggiungimento di tali obiettivi 
+
+formativi è reso possibile grazie ad attività formative finalizzate ad acquisire 
+
+conoscenze matematiche di base , oltre a conoscenze fondamentali sulle principali aree dell’informatica (tra le quali linguaggi di programmazione, 
+
+algoritmi, sistemi operativi, basi di dati e sistemi informativi) affiancate ad 
+
+attività progettuali e di laboratorio .
+
+La possibilità di iniziare un percorso di specializzazione verso tematiche di specifico interesse dello studente si apre al terzo anno con un’ ampia scelta di corsi complementari in numerosi ambiti, tra i quali sistemi embedded, 
+
+dispositivi mobili, applicazioni di intelligenza artificiale, sistemi complessi a 
+
+microcomponenti in cloud, diritto dell’informatica. 
+
+Il laureato in Ingegneria e Scienze Informatiche si collocherà facilmente nel mondo del lavoro ma potrà scegliere di proseguire la propria formazione in un 
+
+corso di laurea magistrale. 
+
+3 ANNI I 244 POSTI TOLC - I cisiaonline.it 
+
+# Corso di Laurea 
+
+# Ingegneria e Scienze informatiche 
+
+Matematica (20) Scienze (10) Logica (10) Comprensione verbale (10) Peso: 0.5 1.0 1.25 PIANO DIDATTICO 
+
+Anno 1: ESAMI (CFU) ALGEBRA E GEOMETRIA (6) ALGORITMI E STRUTTURE DATI (12) ANALISI MATEMATICA (12) ARCHITETTURE DEGLI ELABORATORI (12) LINGUA INGLESE B1 (6) PROGRAMMAZIONE (12) BASI DI DATI (12) FISICA (6) PROGRAMMAZIONE AD OGGETTI (12) PROGRAMMAZIONE DI RETI (6) SISTEMI OPERATIVI (12) MATEMATICA DISCRETA E PROBABILITÀ (6) METODI NUMERICI (6) INGEGNERIA DEL SOFTWARE (6) RETI DI TELECOMUNICAZIONE (6) RICERCA OPERATIVA (6) TECNOLOGIE WEB (6) TIROCINIO (6) PROVA FINALE (6) ESAMI A SCELTA LIBERA (24) 
+
+Anno 2: ESAMI (CFU) Anno 3: ESAMI (CFU) Computer graphics 
+
+> Visione Artificiale
+> Informatica e Diritto Basi di Dati Avanzate High-performance computing Programmazione di appl. data intensive Programmazione di sistemi mobile Sistemi Embedded e Internet-of-Things
+> Crittografia
+> Virtualizzazione e integrazione di sistemi
+
+CONTACTS: 
+
+Ingegneria e Scienze Informatiche 
+
+Via dell’Università, 50 - Cesena 
+
+orientamento@isi.polocesena.unibo.it 
+
+# PROSPETTIVE Il mercato dell’informatica è da diversi anni in espansione. Le aziende, in controtendenza rispetto alla congiuntura economica, richiedono un numero di laureati superiore a quelli a disposizione. Siamo nell’era 
+
+della Digital Economy e i sistemi informatici pervadono tutti i livelli della società e della realtà aziendale. Per questo motivo il ruolo e il profilo dei laureati richiesti è sempre più alto e non comprende solo 
+
+competenze tecnologiche ma anche linguistiche, di project management e di problem solving. 
+
+La preparazione di base ad ampio spettro offerta dalla triennale può essere approfondita e ampliata con la laurea magistrale che offre un’elevata specializzazione nei principali settori applicativi dell’informatica. 
+
+www.isi.polocesena.unibo.it 
+
+Informatica Matematica Inglese Fisica Tirocinio Liberi 
+
+Prova finale 
+
+1° 2° 3° anno

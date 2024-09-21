@@ -1,0 +1,102 @@
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20
+
+Appelli d'esame — Ingegneria e scienze informatiche - Laurea - Cesena
+===============
+
+Tutti gli appelli ALGEBRA E GEOMETRIA ALGORITMI E STRUTTURE DATI ALGORITMI NUMERICI ANALISI MATEMATICA ARCHITETTURE DEGLI ELABORATORI BASI DI DATI BASI DI DATI AVANZATE COMPUTER GRAPHICS FISICA FONDAMENTI DI ELABORAZIONE DI IMMAGINI HIGH-PERFORMANCE COMPUTING INGEGNERIA DEL SOFTWARE INGEGNERIA DEL SOFTWARE LABORATORIO DI BASI DI DATI MATEMATICA DISCRETA E PROBABILITÀ METODI NUMERICI PROGRAMMAZIONE PROGRAMMAZIONE AD OGGETTI PROGRAMMAZIONE DI APPLICAZIONI DATA INTENSIVE PROGRAMMAZIONE DI SISTEMI MOBILE SISTEMI OPERATIVI SYSTEMS INTEGRATION TECNOLOGIE WEB VIRTUALIZZAZIONE E INTEGRAZIONE DI SISTEMI VISIONE ARTIFICIALE
+
+[Condividi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Appelli+d%27esame "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Appelli+d%27esame&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Appelli%20d%27esame%0AIndirizzo%3A%20--href--%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Appelli%20d%27esame "Invia ad un amico")
+
+**Sessioni d’esame e altre informazioni**
+
+Per avere informazioni per sostenere esami  consulta: ESAMI Per ciascun insegnamento vengono fissati almeno sei… [Leggi di più](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+Per avere informazioni per sostenere esami  consulta: [ESAMI](https://www.unibo.it/it/ateneo/covid-19-misure-adottate-da-alma-mater/lezioni-esami-tirocini)
+
+Per ciascun insegnamento vengono fissati almeno sei appelli nel corso dell'anno.
+
+Consulta il [calendario didattico](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/calendario-didattico-del-corso-di-studio) del Corso di Studio
+
+[Leggi meno](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+Per verificare gli esami che puoi sostenere in base al tuo piano di studi e per iscriverti agli appelli, accedi ad [AlmaEsami](https://almaesami.unibo.it/almaesami/welcome.htm) o scarica la app [MyUnibo.](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo)
+
+### [70219 PROGRAMMAZIONE AD OGGETTI VIROLI MIRKO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>27 agosto 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Pratico</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 4.2 (CAD) Piano secondo (livello 4) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>L'effettivo inizio della prova per ciascuno sarà comunicato 2-3 giorni prima sul sito virtuale del corso, e potrebbe essere di mattina o pomeriggio. Lo studente che partecipa all'esame è tenuto a conoscerne tutte le regole, pubblicate anch'esse sul sito virtuiale del corso.</td></tr></tbody></table>
+
+### [72796 PROGRAMMAZIONE DI APPLICAZIONI DATA INTENSIVE MORO GIANLUCA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">03 settembre 2024 ore 15:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>19 agosto 2024</span> al <span>01 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.1 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>L'iscrizione alla discussione può essere fatta solo dopo aver inviato il progetto di laboratorio al prof. Pasolini. Il progetto deve essere inviato almeno 5 giorni prima della data fissata per la discussione stessa, vale a dire entro il 28/8/24. La discussione del progetto avviene prima con il prof. Pasolini e poi con il prof. Moro.</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">03 settembre 2024 ore 16:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>19 agosto 2024</span> al <span>01 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.1 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>L'iscrizione alla discussione può essere fatta solo dopo aver inviato il progetto di laboratorio al prof. Pasolini. Il progetto deve essere inviato almeno 5 giorni prima della data fissata per la discussione stessa, vale a dire entro il 28/8/24. La discussione del progetto avviene prima con il prof. Pasolini e poi con il prof. Moro.</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">03 settembre 2024 ore 17:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>19 agosto 2024</span> al <span>01 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.1 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>L'iscrizione alla discussione può essere fatta solo dopo aver inviato il progetto di laboratorio al prof. Pasolini. Il progetto deve essere inviato almeno 5 giorni prima della data fissata per la discussione stessa, vale a dire entro il 28/8/24. La discussione del progetto avviene prima con il prof. Pasolini e poi con il prof. Moro.</td></tr></tbody></table>
+
+### [72787 PROGRAMMAZIONE DI SISTEMI MOBILE PRANDI CATIA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">09 settembre 2024 ore 09:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>23 luglio 2024</span> al <span>02 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.10 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [08574 SISTEMI OPERATIVI GHINI VITTORIO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">04 settembre 2024 ore 10:00</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>20 agosto 2024</span> al <span>02 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Pratico</td></tr><tr><th>Luogo:</th><td>Lab 3.3</td></tr><tr><th>Note:</th><td>ATTENZIONE IMPORTANTE: per effettuare l'esame occorre usare, nei PC del laboratorio, la macchina virtuale (VM) personalizzata con s.o. Lubuntu usata a lezione in lab. Se la VM non esiste o non funziona l'esame non può essere sostenuto. Verificare che la VM esista e funzioni correttamente e, iin caso contrario, AVVISARE il docente ALMENO UNA SETTIMANA PRIMA DELL'ESAME. Nella VM lo studente deve avere installato i pacchetti gcc, make, manpages-posix-dev e un editor (ad es geany). Le istruzioni per l'installazione dei pacchetti sono state presentate a lezione e si trovano nelle slide delle lezioni: slide 18,19 http://www.cs.unibo.it/~ghini/didattica/sistemioperativi/4.1_usareMacchineVirtuali_LabVela.pdf. Il giorno dell'esame NON potranno essere fatte installazioni, quindi preparate la VM per tempo.</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 14:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>27 agosto 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Lab 2.2</td></tr></tbody></table>
+
+### [86733 SYSTEMS INTEGRATION GHINI VITTORIO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 14:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>27 agosto 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Lab 2.2</td></tr></tbody></table>
+
+### [41731 TECNOLOGIE WEB MIRRI SILVIA](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">02 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>14 maggio 2024</span> al <span>31 agosto 2024</span></td></tr><tr><th>Tipo prova:</th><td>Orale</td></tr><tr><th>Luogo:</th><td>Aula 2.10 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr><tr><th>Note:</th><td>La discussione dell'elaborato avverrà in presenza.</td></tr></tbody></table>
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">13 settembre 2024 ore 14:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>14 maggio 2024</span> al <span>06 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Pratico</td></tr><tr><th>Luogo:</th><td>Laboratorio informatico 3.3 Piano primo (livello 3) Ex-Zuccherificio – Edificio 1, Ingresso Via dell’Università 50 Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+### [96642 VIRTUALIZZAZIONE E INTEGRAZIONE DI SISTEMI GHINI VITTORIO](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">11 settembre 2024 ore 14:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>27 agosto 2024</span> al <span>09 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Lab 2.2</td></tr></tbody></table>
+
+### [17634 VISIONE ARTIFICIALE CAPPELLI RAFFAELE](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+<table class="single-item"><tbody><tr><th class="text-secondary">Data e ora:</th><td class="text-secondary">16 settembre 2024 ore 09:30</td></tr><tr><th>Lista iscrizioni:</th><td>aperta dal <span>10 giugno 2024</span> al <span>11 settembre 2024</span></td></tr><tr><th>Tipo prova:</th><td>Scritto</td></tr><tr><th>Luogo:</th><td>Aula 2.6 Piano terra (livello 2) Ex-Zuccherificio – Edificio 1, Ingresso Via Machiavelli Via dell’Università, 50, Cesena</td></tr></tbody></table>
+
+*   [Precedenti 20 elementi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=0)
+*   [1](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=0)
+*   2
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20#)
+
+ 
+
+[](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/appelli?b_start:int=20# "Torna su")

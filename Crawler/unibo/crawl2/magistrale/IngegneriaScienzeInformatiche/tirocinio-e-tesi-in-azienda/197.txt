@@ -1,0 +1,51 @@
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda
+
+Tirocinio e tesi in azienda — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+===========================
+
+Le offerte di tirocinio e le proposte di tesi che le aziende offrono ai laureandi e laureati del Corso di Laurea
+
+[Condividi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=--href--&t=Tirocinio+e+tesi+in+azienda "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=--href-- "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=--href--&text=Tirocinio+e+tesi+in+azienda&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Tirocinio%20e%20tesi%20in%20azienda%0AIndirizzo%3A%20--href--%0ATesto%3A%20Le%20offerte%20di%20tirocinio%20e%20le%20proposte%20di%20tesi%20che%20le%20aziende%20offrono%20ai%20laureandi%20e%20laureati%20del%20Corso%20di%20Laurea&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Tirocinio%20e%20tesi%20in%20azienda "Invia ad un amico")
+
+![Image 1](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda/@@eod.tiles.richtext/ef287695965246a493073897c20039a0/@@images/8bdec730-3499-46be-9809-914c09cc1776.jpeg)
+
+### **TwinLogix srl**
+
+<table><tbody><tr><td><strong>Titolo</strong></td><td>Tesi in Azienda:&nbsp;GraphQL Model-Driven programming, dalla teoria alla pratica.</td></tr><tr><td><strong>Profilo Azienda</strong></td><td><p>TwinLogix srl è una software house estremamente dinamica che, oltre ad innumerevoli progetti e consulenze in ambito informatico, può vantare la paternità di Cassa in Cloud (precedentemente CassaNova), il gestionale POS per tablet iOS e Android leader nel settore in Italia. Il nostro team è composto da ragazzi laureati alla Seconda Facoltà di Ingegneria di Cesena, tutti con età inferiore ai 35 anni. Si tratta quindi di un ambiente giovane e con ottime possibilità di crescita professionale.</p></td></tr><tr><td><b>​Progetto</b></td><td><p>Studiare il ruolo che la tecnologia GraphQL può avere nella metodologia di sviluppo Model-Driven (Model-First). Analizzare un prototipo sviluppato con questa tecnologia e realizzare un generatore di codice, basato su graphql-code-generator per i principali ORM su tecnologia&nbsp;NodeJS.</p></td></tr><tr><td><b>Requisiti</b></td><td><p>Proattività e propensione all'approfondimento di temi sia teorici che pratici.</p></td></tr><tr><td><b>Sede di lavoro</b></td><td><p>TwinLogix srl, in una delle sue sedi: via Dante di Nanni 50C&nbsp;a Santarcangelo di Romagna (RN) oppure via Piave a Cesena (FC).</p></td></tr><tr><td><strong>Link</strong></td><td><a href="http://www.twinlogix.com/">www.twinlogix.com</a></td></tr><tr><td><strong>Benefit</strong></td><td>Possibilità di usufruire delle strutture aziendali. Rimborso spese di 1000€ totali per il periodo di collaborazione e possibilità di inserimento nel team di sviluppo.</td></tr><tr><td><strong>Contatto</strong></td><td>Minotti Mattia (<a href="mailto:mattia@twinlogix.com">mattia@twinlogix.com</a>) o Paolo Teodorani (<a href="mailto:paolo@twinlogix.com">paolo@twinlogix.com</a>). Inoltrare mail di candidatura ad uno dei precedenti indirizzi oppure a&nbsp;<a href="mailto:info@twinlogix.com">info@twinlogix.com</a></td></tr><tr><td><strong>Data di inserimento</strong></td><td>21/11/2019</td></tr></tbody></table>
+
+![Image 2](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda/@@eod.tiles.richtext/843c27f3884d411d881686c054c546e4/@@images/49fe3cd6-0943-4893-9289-512e87bc70a2.jpeg)
+
+### **TwinLogix srl**
+
+<table><tbody><tr><td><strong>Titolo</strong></td><td>Tesi in Azienda:&nbsp;Kotlin-Multiplatform, implementazione e studio di un progetto mobile cross-platform.</td></tr><tr><td><strong>Profilo Azienda</strong></td><td><p>TwinLogix srl è una software house estremamente dinamica che, oltre ad innumerevoli progetti e consulenze in ambito informatico, può vantare la paternità di Cassa in Cloud (precedentemente CassaNova), il gestionale POS per tablet iOS e Android leader nel settore in Italia. Il nostro team è composto da ragazzi laureati alla Seconda Facoltà di Ingegneria di Cesena, tutti con età inferiore ai 35 anni. Si tratta quindi di un ambiente giovane e con ottime possibilità di crescita professionale.</p></td></tr><tr><td><b>​Progetto</b></td><td><p>Studiare sia a livello teorico che pratico il livello di efficacia di una soluzione Kotlin-multiplatform applicata ad uno scenario di produzione. Il progetto prevede l'implementazione di due prototipi, uno Android ed uno iOS, con codebase condivisa, persistenza locale del dato, integrazione di servizi RESTful e pattern MVVM.</p></td></tr><tr><td><b>Requisiti</b></td><td><p>Proattività e propensione all'approfondimento di temi sia teorici che pratici.</p></td></tr><tr><td><b>Sede di lavoro</b></td><td><p>TwinLogix srl, in una delle sue sedi: via Dante di Nanni 50C&nbsp;a Santarcangelo di Romagna (RN) oppure via Piave a Cesena (FC).</p></td></tr><tr><td><strong>Link</strong></td><td><a href="http://www.twinlogix.com/">www.twinlogix.com</a></td></tr><tr><td><strong>Benefit</strong></td><td>Possibilità di usufruire delle strutture aziendali. Rimborso spese di 1000€ totali per il periodo di collaborazione e possibilità di inserimento nel team di sviluppo.</td></tr><tr><td><strong>Contatto</strong></td><td>Minotti Mattia (<a href="mailto:mattia@twinlogix.com">mattia@twinlogix.com</a>) o Paolo Teodorani (<a href="mailto:paolo@twinlogix.com">paolo@twinlogix.com</a>). Inoltrare mail di candidatura ad uno dei precedenti indirizzi oppure a&nbsp;<a href="mailto:info@twinlogix.com">info@twinlogix.com</a></td></tr><tr><td><strong>Data di inserimento</strong></td><td>21/11/2019</td></tr></tbody></table>
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/ "Apre nuova finestra")
+*   [Seguici su TikTok](https://www.tiktok.com/@joinunibo "Apre nuova finestra")
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna "Apre nuova finestra")
+*   [Seguici su Telegram](https://t.me/Unibo_Official "Apre nuova finestra")
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901 "Apre nuova finestra")
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it "Apre nuova finestra")
+*   [Seguici su Twitter](http://www.twitter.com/Unibo "Apre nuova finestra")
+*   [Seguici su Spreaker](https://www.spreaker.com/user/unibo "Apre nuova finestra")
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda#)
+
+ 
+
+[](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/tirocinio-e-tesi-in-azienda# "Torna su")
