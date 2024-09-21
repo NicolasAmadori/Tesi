@@ -1,1 +1,1 @@
-docker run -v /home/amadori/Tesi/VectorDb:/workspace --rm --gpus device=$CUDA_VISIBLE_DEVICES -it reader bash
+docker run -v /home/amadori/Tesi/JinaaiReader:/workspace --rm --gpus device=$CUDA_VISIBLE_DEVICES -it reader bash

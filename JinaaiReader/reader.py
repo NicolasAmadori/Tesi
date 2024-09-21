@@ -1,130 +1,115 @@
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import TextLoader
-from langchain_community.document_loaders import TextLoader
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_experimental.text_splitter import SemanticChunker
-
-from milvus import default_server
-from pymilvus import connections, utility, Collection
-
-import glob
 import os
-from tqdm import tqdm
-import json
-import argparse
-
-import logging
-
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_milvus import Milvus
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from langchain_core.documents import Document
-from uuid import uuid4
+import gc
+import torch
 
-logging.basicConfig(
-    format="%(asctime)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO
-)
-logger = logging.getLogger(__name__)
+import re
+from typing import List
 
-def create_db(data_path: str, 
-              collection_name : str,
-              embedder_model : HuggingFaceEmbeddings,
-              text_splitter : RecursiveCharacterTextSplitter):
-    try:
-        utility.drop_collection(collection_name)
-        logger.info("Dropped previous data")
-    except:
-        pass
-    
-    logger.info("Starting data ingestion")
+#vllm
+from vllm import SamplingParams
+from vllm import LLM
+# from vllm.distributed.parallel_state import destroy_model_parallel, destroy_distributed_environment
 
+def create_prompt(text:str, tokenizer) -> str:
+   messages = [
+    {
+        "role": "user",
+        "content": text
+    },
+   ]
+   return tokenizer.apply_chat_template(
+        messages, tokenize=False, add_generation_prompt=True
+   )
+
+def getDocuments(path) -> List[Document]:
+    if not os.path.exists(path):
+        print("Path do not exist")
+        return []
     documents = []
-    for file in tqdm(glob.glob(os.path.join(data_path, "*"))):
-        if os.path.isdir(file): continue
-        with open(file, 'r') as f:
-            data = f.read()
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            content = ""
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except Exception as e:
+                print(f"Errore nella lettura di {file_path}: {e}")
 
-            metadata = {
-                "source" : "Unibo.it",
-                "user" : "root",
-                "file_name" : file
-            }
-            
-            documents.append(Document(page_content=data, metadata=metadata))
+            documents.append(Document(
+                page_content=content,
+                metadata={"path": file_path,
+                        "file_name": file}))
+    return documents
 
-    logger.info("Creating chunks")
-    docs = text_splitter.split_documents(documents)
+def clearMemory():
+    destroy_model_parallel()
+    destroy_distributed_environment()
+    del llm.llm_engine.model_executor.driver_worker
+    del llm.llm_engine.model_executor
+    del llm
+    gc.collect()
+    torch.cuda.empty_cache()
 
-    logger.info("Embedding data and creating DB at http://milvus-standalone:19530")
-    _ = Milvus.from_documents(
-        docs,
-        embedder_model,
-        connection_args={"uri":  "http://milvus-standalone:19530"}, collection_name=collection_name
-    )
-    logger.info("Completed with success")
+    print(f"cuda memory: {torch.cuda.memory_allocated() // 1024 // 1024}MB")
 
-def create_milvus_db(embedder_model,
-    collection_name = "UniboIngScInf",    
-    data_path = "local/unibo_data",
-    chunk_size = 128,
-    chunk_overlap = 50) -> str:
+def get_sampling_params():
+    top_k = 1 # @param {type:"integer"}
+    temperature = 0 # @param {type:"slider", min:0, max:1, step:0.1}
+    repetition_penalty = 1.08 # @param {type:"number"}
+    presence_penalty = 0.25 # @param {type:"slider", min:0, max:1, step:0.1}
+    top_k = 1 # @param {type:"integer"}
+    max_tokens = 4096 # @param {type:"integer"}
+    sampling_params = SamplingParams(temperature=temperature, top_k=top_k, presence_penalty=presence_penalty, repetition_penalty=repetition_penalty, max_tokens=max_tokens)
+    return sampling_params
+    
+def cleanDocuments(llm: LLM,
+    sampling_params: SamplingParams,
+    documents: List[Document],
+    create_files: bool = True,
+    output_folder_name: str = "cleaned_documents") -> List[Document]:
 
-    # >> Establish connection
-    URI = "localhost:19530"
-    logger.info("Starting the server at localhost:19530")
-    default_server.start()
-    connections.connect("default", uri=URI)
+    cleaned_documents = []
+    for d in documents:
+        html = d.page_content
+        prompt = create_prompt(html, llm.get_tokenizer())
+        results = llm.generate(prompt, sampling_params=sampling_params)
+        generated_text = results[0].outputs[0].text
+        cleaned_documents.append(Document(
+                page_content=generated_text,
+                metadata={"path": d.metadata["path"],
+                        "file_name": d.metadata["file_name"]}))
 
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, 
-                                                   chunk_overlap=chunk_overlap,
-                                                   separators=["\n\n"," ",".",","])
-
-    # >> Start ingestion
-    logger.info("Creating a new Milvus DB")
-    create_db(data_path, collection_name=collection_name, embedder_model=embedder_model, text_splitter=text_splitter)
-
-    collection = Collection(collection_name)
-    logger.info(f'collection: {collection.name} has {collection.num_entities} entities')
-
-    logger.info("Done")
-    return URI
+        if create_files:
+            output_path = os.path.join(output_folder_name, d.metadata['path'])
+            os.makedirs(os.path.dirname(output_path), exist_ok=True)
+            with open(output_path, "w") as file:
+                file.write(generated_text)
+    return cleaned_documents
 
 def main():
-    embeddings = HuggingFaceEmbeddings(model="jinaai/jina-embeddings-v3", model_kwargs={"device": "cuda"})
+    torch.cuda.empty_cache()
+    # model_id = "jinaai/reader-lm-1.5b"
 
-    uri = create_milvus_db(embeddings, data_path = "")
+    # device = "cuda"
+    # tokenizer = AutoTokenizer.from_pretrained(model_id)
+    # model = AutoModelForCausalLM.from_pretrained(
+    #     model_id,
+    #     quantization_config=BitsAndBytesConfig(load_in_4bit=True),
+    #     device_map=device,
+    #     trust_remote_code = True,
+    # )
+    
+    documents = getDocuments("IngegneriaScienzeInformatiche")
+    print(len(documents))
 
-    vector_store = Milvus(
-        embedding_function=embeddings,
-        connection_args={"uri": uri},
-    )
+    sampling_params = get_sampling_params()
+    llm = LLM(model='jinaai/reader-lm-1.5b', dtype='float16', max_model_len=48000, gpu_memory_utilization=0.9)
 
-    vector_store_saved = Milvus.from_documents(
-        [Document(page_content="foo!")],
-        embeddings,
-        collection_name="langchain_example",
-        connection_args={"uri": uri},
-    )
-
-    vector_store_loaded = Milvus(
-        embeddings,
-        connection_args={"uri": uri},
-        collection_name="langchain_example",
-    )
-
-    # documents = [
-    #     document_1,
-    #     document_2,
-    #     document_3,
-    #     document_4,
-    #     document_5,
-    #     document_6,
-    #     document_7,
-    #     document_8,
-    #     document_9,
-    #     document_10,
-    # ]
-    # uuids = [str(uuid4()) for _ in range(len(documents))]
-    # vector_store.add_documents(documents=documents, ids=uuids)
-
-if __name__ == "__main__":
+    cleaned_documents = cleanDocuments(llm, sampling_params, documents)
+    # clearMemory()
+    
+if __name__ == '__main__':
     main()

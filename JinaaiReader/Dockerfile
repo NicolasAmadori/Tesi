@@ -22,16 +22,17 @@ RUN apt-get update -y && \
 
 
 # Copy the requirements file into the container at /workspace
-COPY requirements_base.txt .
+COPY requirements.txt .
+
+RUN pip3 install --upgrade setuptools==69.5.1
 
 # Install dependencies from requirements.txt
-RUN pip3 install --no-cache-dir -r requirements_base.txt
+RUN pip3 install --no-cache-dir -r requirements.txt
 
-RUN pip3 install setuptools==69.5.1
 # RUN pip3 install flash_attn==2.5.8 --no-build-isolation
 
 # Milvus
-EXPOSE 19530
+# EXPOSE 19530
 
 # Back to default frontend
 ENV DEBIAN_FRONTEND=dialog
