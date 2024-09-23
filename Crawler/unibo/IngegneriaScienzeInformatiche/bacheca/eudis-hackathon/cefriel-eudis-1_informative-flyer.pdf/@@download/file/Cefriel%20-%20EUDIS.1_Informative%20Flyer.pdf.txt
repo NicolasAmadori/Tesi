@@ -1,0 +1,117 @@
+# EUDIS HACKATHON 
+
+# 3 challenge per l’innovazione 
+
+# digitale della Difesa nella UE 
+
+31 maggio - 2 giugno, Viale Sarca 226, Milano 
+
+## Perchè un Hackathon? 
+
+Un hackathon è un evento in cui i 
+
+partecipanti, di solito programmatori, 
+
+ingegneri o altri professionisti di ambito 
+
+informatico e digitale, si riuniscono per 
+
+risolvere un problema in un breve lasso di 
+
+tempo. I partecipanti vengono divisi in team e 
+
+messi di fronte a una sfida per creare una 
+
+soluzione a un problema specifico, entro il 
+
+tempo stabilito. 
+
+Soluzioni per la protezione delle 
+
+infrastrutture sottomarine, che utilizzano 
+
+ad esempio Intelligenza Artificiale (IA), 
+
+Robotica, IoT per il monitoraggio di 
+
+installazioni sottomarine come condotte, 
+
+cavi e altre strutture. 
+
+1. 
+
+Soluzioni di Cybersecurity per la Difesa 
+
+che usano ad esempio IA, Large 
+
+Language Models (LLM) per migliorare la 
+
+resilienza delle reti contro le minacce 
+
+informatiche. 
+
+2. 
+
+Soluzioni che migliorino la Situational 
+
+Awareness, che utilizzano ad esempio 
+
+Smart vision e IA per fornire informazioni 
+
+mirate che, integrando dati provenienti 
+
+da fonti differenti (sensori, satelliti, fonti 
+
+aperte, ecc.), supportino i processi 
+
+decisionali. 
+
+3. 
+
+## Per partecipare 
+
+## Perchè partecipare? 
+
+I partecipanti devono essere maggiorenni (18 
+
+anni compiuti) cittadini UE o Norvegesi. 
+
+Ci si può recare in Viale Sarca 226 a Milano, 
+
+sede di Cefriel, o collegare da remoto. 
+
+È necessario iscriversi entro il 19 Maggio 
+
+2024. 
+
+È possibile iscriversi sia come singoli 
+
+partecipanti che in team. 
+
+Sarà una opportunità per imparare, 
+
+sviluppare soluzioni nuove e vivere una 
+
+esperienza internazionale. 
+
+Vincere con la propria soluzione darà 
+
+l’opportunità di partecipare a un programma 
+
+di Mentorship a livello europeo e di ricevere 
+
+un premio Italiano. Per maggiori dettagli 
+
+consultare la pagina ufficiale .
+
+eudishackatonitaly@cefriel.com 
+
+## Le sfide proposte 
+
+Partecipa ora , iscriviti 
+
+entro il 19 maggio 
+
+Hackathon in presenza 
+
+o da remoto

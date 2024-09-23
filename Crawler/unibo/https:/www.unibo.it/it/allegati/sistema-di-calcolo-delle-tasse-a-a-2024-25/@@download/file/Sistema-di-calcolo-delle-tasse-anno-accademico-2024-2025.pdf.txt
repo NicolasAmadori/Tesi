@@ -1,0 +1,51 @@
+# Sistema di calcolo contribuzione studentesca a.a 2024/2025 
+
+Per chi è iscritto o iscritta da un numero di anni inferiore o pari alla durata normale del corso aumentata di 
+
+uno: 
+
+Valore ISEE CON numero minimo di CFU SENZA numero min imo di CFU 
+
+<= 27.000 ,00 € 0 700,00 €
+
+da 27.000 ,0 1 € a 33.000,00 € (ISEE – 23.000,00) *9% 
+
+MINIMO 100,00 €
+
+((ISEE – 13.000,00)*5%) + 700,00 €
+
+da 33.00 0,0 1 € a 45 .000,00 € (ISEE – 13.000,00) *4,5 % ((ISEE – 13.000,00)*5%) + 700,00 €
+
+da 45 .00 0,0 1 € a 55.000,00 € ((ISEE – 45 .000,00)* 4, 29 %) +1. 440 € ((ISEE – 15.000,00)* 2,67 %) + 700,00 €
+
+da 55.00 0,0 1 € a 60.000,00 € ((ISEE + 55.000,00)* 19 %) + 1.869 € ((ISEE + 15.000,00)*2,67%) + 700,00 €
+
+da 60.00 0,0 1 € a 70.000,00 € ((ISEE – 13.000,00)*6%) ((ISEE – 13.000,00)*6%) + 700,00 €
+
+> 70.00 0,0 1 € ((ISEE – 13.000,00)*7%) ((ISEE – 13.000,00)*7%) + 700,00 €
+
+Per verificare il numero minimo di CFU richiesto consultare il portale: www.unibo.it/tasse 
+
+Per chi è iscritto o iscritta da un numero di anni superiore alla durata normale del corso aumentata di uno il 
+
+calcolo agevolato come segue è possibile solo se risulta acquisito il numero minimo di CFU 
+
+Valore ISEE CON numero minimo di CFU 
+
+<= 13.000,00 € 200,00 
+
+da 13.00 0,0 1 € a 30.000,00 € ((ISEE – 13.000,00)*10,50 %
+
+MINIMO 200,00 € 
+
+Gli importi di contribuzione sono calcolati come sopra indicato fino al raggiungimento del livello massimo di 
+
+contribuzione previsto per il corso (consultare il portale: www.unibo.it/tasse )
+
+Agli importi calcolati come sopra indicato si aggiungono 157,04 € per tassa regionale (140,00 €), bollo (16,00 
+
+€) e premio assicurativo (1,04 €), importo che tutti gli studenti e le studentesse versano con la prima rata a 
+
+prescindere dall’ISEE e anche in caso di esonero totale. 
+
+Per scadenze e modalità di pagamento consultare il portale: www.unibo.it/tasse

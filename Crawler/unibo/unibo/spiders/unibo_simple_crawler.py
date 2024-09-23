@@ -97,8 +97,8 @@ class UniboSimpleCrawlerSpider(CrawlSpider):
         super().__init__(*args, **kwargs)
         
         self.sampling_params = get_sampling_params()
-        # self.llm = LLM(model='jinaai/reader-lm-1.5b', dtype='float16', max_model_len=48000, gpu_memory_utilization=0.9)
-        # self.log("LLM model instantiated successfully.")
+        self.llm = LLM(model='jinaai/reader-lm-1.5b', dtype='float16', max_model_len=48000, gpu_memory_utilization=0.9)
+        self.log("LLM model instantiated successfully.")
         
     def download_pdf_with_jina(self, response):
         full_link = self.jina_prefix + response.url
@@ -149,7 +149,11 @@ class UniboSimpleCrawlerSpider(CrawlSpider):
             if isinstance(raw_html, bytes):
                 raw_html = raw_html.decode('utf-8')
             cleaned_html = clean_html(raw_html, clean_svg=True, clean_base64=True)
-            f.write(cleaned_html)
+
+            prompt = create_prompt(cleaned_html, self.llm.get_tokenizer())
+            results = self.llm.generate(prompt, sampling_params=self.sampling_params)
+
+            f.write(results[0].outputs[0].text)
 
     # def parse_general_unibo_item_og(self, response):
     #     referer_url = response.request.headers.get('Referer', b'').decode('utf-8')

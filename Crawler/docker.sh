@@ -1,0 +1,1 @@
+docker run -v /home/amadori/Tesi/Crawler:/workspace --rm --gpus device=$CUDA_VISIBLE_DEVICES -it crawler bash
