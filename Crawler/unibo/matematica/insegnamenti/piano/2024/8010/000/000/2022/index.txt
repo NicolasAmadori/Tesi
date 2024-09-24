@@ -1,0 +1,92 @@
+### Primo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 28357 | ALGEBRA 1 - non attivo per l'anno  2024/2025 | 1 | B | MAT/02 | 8 |
+| 81853 | ANALISI MATEMATICA 1A - non attivo per l'anno  2024/2025 | 1 | A | MAT/05 | 9 |
+| 81855 | GEOMETRIA 1A - non attivo per l'anno  2024/2025 | 1 | A | MAT/03 | 9 |
+| 26338 | IDONEITA' LINGUA INGLESE B - 1 | 1 | E |  | 3 |
+| 81854 | ANALISI MATEMATICA 1B - non attivo per l'anno  2024/2025 | 2 | A | MAT/05 | 7 |
+| 28360 | FISICA MATEMATICA 1 - non attivo per l'anno  2024/2025 | 2 | B | MAT/07 | 7 |
+| 81856 | GEOMETRIA 1B - non attivo per l'anno  2024/2025 | 2 | A | MAT/03 | 7 |
+| 07276 | INFORMATICA | 2 | A | INF/01 | 8 |
+
+### Secondo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 28368 | [ALGEBRA 2](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28368&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | B | MAT/02 | 7 |
+| 28375 | [FISICA MATEMATICA 2](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28375&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | A | MAT/07 | 7 |
+| 28369 | [GEOMETRIA 2](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28369&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | B | MAT/03 | 7 |
+| 27213 | [ANALISI MATEMATICA 2](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=27213&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | E | A | MAT/05 | 13 |
+| 02023 | [CALCOLO NUMERICO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=02023&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | E | B | MAT/08 | 10 |
+| 66676 | [FISICA GENERALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=66676&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | E | A | FIS/01 | 12 |
+
+### Terzo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 81657 | [ANALISI MATEMATICA 3](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81657&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | C | MAT/05 | 7 |
+| 28382 | [FISICA MATEMATICA 3](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28382&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | B | MAT/07 | 7 |
+| 10832 | [PROBABILITA' E STATISTICA MATEMATICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=10832&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | A | MAT/06 | 9 |
+| 27994 | ATTIVITA' PROFESSIONALIZZANTE | 2 | F |  | 3 |
+| 17268 | PROVA FINALE | 2 | E |  | 3 |
+| 28377 | [GEOMETRIA 3](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28377&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | E | B | MAT/03 | 13 |
+
+#### Corsi a libera scelta dello studente (12 CFU)
+
+##### 12 CFU a libera scelta tra i corsi opzionali proposti e/o tra tutti gli esami attivati dall'Ateneo.
+
+#### Corsi opzionali - III anno - piano web (massimo 12 CFU)
+
+##### La scelta degli esami opzionali può essere anticipata al II anno. Eventuali insegnamenti oltre i 12 cfu possono essere inseriti (e validi) per la lista "Corsi a libera scelta"
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 96733 | [CURVE E SUPERFICI ALGEBRICHE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96733&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | C | MAT/03 | 6 |
+| 54777 | [GEOMETRIA PROIETTIVA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=54777&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | C | MAT/03 | 6 |
+| 00662 | [LOGICA MATEMATICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00662&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | C | MAT/01 | 6 |
+| 28436 | [PROBABILITA' E STATISTICA MATEMATICA 2](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28436&annoAccademico=2024&codiceCorso=8010&single=True&search=True)  
+Il periodo di insegnamento è dal 11 novembre 2024 al 16 dicembre 2024 | 1 | C | MAT/06 | 6 |
+| 28446 | [TOPOLOGIA ALGEBRICA 1](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28446&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 1 | C | MAT/03 | 6 |
+| 66696 | [COMPLEMENTI DI ALGEBRA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=66696&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/02 | 6 |
+| 66698 | [COMPLEMENTI DI ANALISI MATEMATICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=66698&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/05 | 6 |
+| B0316 | [ELEMENTI DI CALCOLO DELLE VARIAZIONI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B0316&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/05 | 6 |
+| 68486 | [EQUAZIONI DIFFERENZIALI ORDINARIE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=68486&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/05 | 6 |
+| 66702 | [FONDAMENTI DI ASTRONOMIA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=66702&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | FIS/05 | 6 |
+| 11933 | [INFORMATICA TEORICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=11933&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | ING-INF/05 | 6 |
+| 95662 | [INTRODUZIONE AI SISTEMI COMPLESSI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95662&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/07 | 6 |
+| 66701 | [MATEMATICA COMPUTAZIONALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=66701&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/08 | 6 |
+| 98057 | [METODI PROBABILISTICI PER LE APPLICAZIONI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=98057&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/06 | 6 |
+| 75339 | [STATISTICA MATEMATICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=75339&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/06 | 6 |
+| 28442 | [TEORIA DEI NUMERI 1](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=28442&annoAccademico=2024&codiceCorso=8010&single=True&search=True) | 2 | C | MAT/03 | 6 |

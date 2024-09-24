@@ -1,0 +1,131 @@
+September 9th 
+
+10:00-13:00 
+
+Technical, social and legal implications of Large 
+
+Language Models in GenerativeAI 
+
+Location: Auditorium DAMSlab Piazzetta P. P. Pasolini, 
+
+5/b 
+
+Moderator: Michela Milano (Unibo) 
+
+Roberto Navigli (La Sapienza): 
+
+“Minerva, the first Italian LLM family, Italian LLM benchmarking and safety: the state 
+
+of the art and what's next” 
+
+Rebekah Baglini (Aarhus) 
+
+“Cultural alignment, foundation models and democracy” 
+
+September 9th 
+
+16:00 -19:00 
+
+Intelligenza artificiale e vita quotidiana: quali opportunità 
+
+e quali rischi ci sono? 
+
+Luogo: Auditorium DAMSlab Piazzetta P. P. Pasolini, 
+
+5/b 
+
+Evento pubblico: 
+
+aperto alla cittadinanza e a tutto il corpo studentesco e 
+
+docente (in italiano) 
+
+Moderatrice: Martina Pennisi (Corriere della Sera) 
+
+Paolo Torroni (Unibo) 
+
+“L’intelligenza artificiale generativa spiegata ai cittadini” 
+
+1 tavola rotonda: Intelligenza artificiale generativa e disinformazione 
+
+Anita Lavorgna (Unibo) 
+
+“Intelligenza artificiale e deepfake: come riconoscere e difendersi dalla disinformazione nella 
+
+vita quotidiana” 
+
+Corrado Caruso (Unibo) 
+
+“Libertà e disinformazione digitale: cosa cambia con l’intelligenza artificiale?” 
+
+Federico Bomba (Sineglossa) 
+
+“Art For Debunking” 
+
+2 tavola rotonda: Intelligenza artificiale generativa: gli aspetti poco conosciuti 
+
+Roberta Calegari (Unibo) 
+
+“Intelligenza artificiale, fairness e discriminazione” 
+
+Allegra De Filippo (Unibo) 
+
+“Quanto è sostenibile l’intelligenza artificiale?” 
+
+Giulia Sudano (PeriodThinkTank) 
+
+“Genere, dati e intelligenza artificiale” September 10th 
+
+10:00-12:00 
+
+AI and the research in SSH: a simple tool or a 
+
+companion? 
+
+Location: aula B via Azzo Gardino 23, Bologna 
+
+Moderator: Laura Sartori (Unibo) 
+
+Chiara Binelli (Unibo) 
+
+“Social sciences and Machine Learning: how does explanation change?” 
+
+Etienne Ollion (Paris Polytechnique) 
+
+“The augmented social scientist” 
+
+Ilya Utekhin (Aarhus) 
+
+“News flow analytics: A data science method for eliciting censorship and showing bias” 
+
+Jan Løhmann Stephensen (Aarhus) 
+
+“Chat-Democracy: Using LLM-GenAI in activist/interventionist research designs” 
+
+September 10th 
+
+13:30-15:30 
+
+AI as an object of research: code, data, infrastructure, 
+
+and culture 
+
+Location: aula B via Azzo Gardino 23, Bologna 
+
+Moderator: Laura Sartori (Unibo) 
+
+Massimo Airoldi (Unimi) 
+
+“A machine habitus: practices, code and culture” 
+
+Janet Frances Rafner (Aarhus) 
+
+“How does GenerativeAI relate to creativity?” 
+
+Annalisa Pelizza (Unibo/Aarhus) 
+
+“AI as infrastructure? Challenges and opportunities” 
+
+Vando Borghi (Unibo) 
+
+“AI, infrastructures and digital twins: where is the missing link?”

@@ -1,0 +1,39 @@
+**Informazioni e regole generali per la compilazione del piano di studi:**
+
+[https://corsi.unibo.it/laurea/matematica/compilare-piano-di-studi](https://corsi.unibo.it/laurea/matematica/compilare-piano-di-studi)
+
+**FAQ**
+
+*   **Il piano di studi può essere modificato?**
+
+Sì, il piano di studi può essere sempre modificato nelle finestre indicate al link sopra.
+
+*   **Come influiscono gli esami opzionali sulla** **media?**
+
+Gli esami opzionali incidono sulla media allo stesso modo degli esami obbligatori (media = media voti pesata con CFU) .
+
+*   **Quanti esami si devono scegliere e quanti si possono scegliere?**
+
+Devono essere scelti 12 CFU dalla lista di esami che viene fornita nel piano didattico e altri 12 CFU relativi ad un qualunque corso nell'Ateneo (gli esami tipo "Imprenditorialità", "Information Literacy", ecc. possono essere inseriti all'interno di tale lista di esami).
+
+I 12 CFU relativi ad un qualunque corso nell'Ateneo, sono un limite dal basso. E' quindi possibile scegliere più esami e "sforare" la soglia dei 12 CFU, senza però superare i 50 CFU.
+
+Tra i 12 (o più) CFU relativi ad un qualunque corso nell'Ateneo possono essere inseriti anche dei corsi nella lista degli opzionali proposti (i corsi opzionali proposti sono ovviamente inclusi tra tutti i corsi dell'Ateneo, per definizione).
+
+*   **Tra gli esami scelti quanti si devono sostenere?**
+
+Devono essere sostenuti tutti gli esami inseriti nei 12 CFU dei corsi opzionali proposti e un numero di esami tale per arrivare a 12 CFU tra quelli scelti nell'Ateneo.
+
+Se quindi si sono scelti più di 12 CFU nella lista di corsi qualunque nell'Ateneo, non è necessario sostenerli tutti.
+
+*   **Esami da altri Corsi di Laurea: quali si possono scegliere?**
+
+Può essere scelto un qualunque altro esame all'interno dell'Ateneo quando si scelgono i 12 CFU relativi ad esami all'interno dell'Ateneo, con alcune restrizioni:
+
+1) non si possono scegliere singoli moduli di insegnamenti integrati. Gli insegnamenti vanno inseriti interamente.
+
+2) possono essere inseriti solamente insegnamenti di Lauree Triennali (non è possibile scegliere insegnamenti di livello magistrale).
+
+*   **Altri link** **utili:**
+
+https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali                                    https://corsi.unibo.it/laurea/matematica/qualita-corso/@@esami-voto-medio

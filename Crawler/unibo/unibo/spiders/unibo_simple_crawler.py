@@ -82,12 +82,17 @@ class UniboSimpleCrawlerSpider(CrawlSpider):
     name = 'unibo_simple_crawler'
     jina_prefix = "https://r.jina.ai/"
 
+    FORBIDDEN_PATH_CHARS = ["<", ">", ":", "\"", "/", "\\", "|", "?", "*"]
     allowed_domains = ['corsi.unibo.it', 'unibo.it', "r.jina.ai"]
-    start_urls = ['https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche']
+    # start_urls = ['https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche']
+    # start_urls = ['https://corsi.unibo.it/laurea/SviluppoCooperazioneInternazionale']
+    start_urls = ['https://corsi.unibo.it/laurea/matematica']
 
     rules = (
         Rule(
-            LinkExtractor(allow=(r'https://corsi\.unibo\.it/laurea/IngegneriaScienzeInformatiche.*',)),
+            # LinkExtractor(allow=(r'https://corsi\.unibo\.it/laurea/IngegneriaScienzeInformatiche.*',)),
+            # LinkExtractor(allow=(r'https://corsi\.unibo\.it/laurea/SviluppoCooperazioneInternazionale.*',)),
+            LinkExtractor(allow=(r'https://corsi\.unibo\.it/laurea/matematica.*',)),
             callback='parse_course_item',
             follow=True
         ),

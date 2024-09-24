@@ -1,0 +1,101 @@
+*   [Elenco progetti di Dipartimento](#progetti)
+*   [Descrizione dettagliata dell'iter burocratico](#iter)
+*   [Scadenze per effettuare la comunicazione di tirocinio](#comunicazione)
+*   [Scadenze per consegnare la relazione di tirocinio](#relazione)
+
+Progetti di Dipartimento
+------------------------
+
+1.  Math on line (Prof. Gimigliano);
+2.  Divulgazione della matematica (Prof.ssa Manaresi);
+3.  Comunicazione della Matematica (Prof.ssa Idà).
+4.  Partecipazione di attività UMI di promozione, divulgazione e sviluppo delle scienze matematiche (Prof. Negrini).
+5.  Software Matematico:
+    1.  Applicazioni statistiche e simulazioni (Prof. Campanino);
+    2.  Visione (Prof. Ferri);
+    3.  Superalgebre;
+    4.  Grafica al Calcolatore (Prof. Casciola);
+    5.  Elaborazione di Immagini (Prof.ssa Piccolomini).
+6.  Matematica per le scienze sociali ed economiche (Prof. Contucci).
+7.  Equazioni differenziali, geometria sub-riemanniana e applicazioni (Prof. Lanconelli).
+
+[top](#elenco)
+
+Iter Burocratico
+-----------------
+
+### 1) Comunicazione del tirocinio
+
+La comunicazione di tirocinio va effettuata entro il **15 ottobre** o il **15 marzo** di ogni anno accademico.
+
+Coloro che scelgono un **tirocinio per un progetto di Dipartimento** devono consegnare:
+
+*   la domanda di tirocinio;
+*   il programma per il tirocinio curriculare per progetti di dipartimento.
+
+Per il numero e il titolo del progetto consultare la lista precedente
+
+Coloro che intendono svolgere il tirocinio presso una scuola (Progetto n. 4) devono assicurarsi che esista una convenzionata controllando alla pagina: [Applicativo Tirocini](https://tirocini-studenti.unibo.it/tirocini/studenti/loginStudenti.htm)
+
+[Compilazione on-line della comunicazione di tirocinio](https://www.dm.unibo.it/studenti/scelta_tirocinio.php)
+
+Il modulo compilato (2 fogli: domanda di tirocinio e programma di tirocinio) va consegnato allo studente part-time all'ingresso del Laboratorio al I piano (orario di apertura: da lunedì a venerdì 8.30 - 18.30).
+
+Lo studente part-time vi deve rilasciare una ricevuta, da conservare almeno fino all'approvazione della comunicazione.
+
+### 2) Approvazione da parte della commissione
+
+L'avvenuta approvazione da parte della commissione verrà comunicata agli interessati via email (all'indirizzo istituzionale fornito dall'ateneo nome.cognome@studio.unibo.it).
+
+### 3) Ritiro del libretto-diario
+
+Dopo l'approvazione della commissione, il tirocinante deve ritirare il libretto-diario secondo le indicazioni indicategli tramite e-mail.
+
+### 4) Svolgimento del tirocinio
+
+Il periodo di svolgimento del tirocinio riportato sul libretto è solo indicativo e non vincolante.
+
+### 5) Richiesta di registrazione
+
+Una volta terminata l'attività di tirocinio, per l'approvazione occorre consegnare allo studente part-time all'ingresso del Laboratorio al I piano (orario di apertura: da lunedì a venerdì 8.30 - 18.30):
+
+*   libretto diario (compilato e firmato dal responsabile);
+*   una fotocopia del libretto diario;
+*   una breve relazione dell'attività svolta firmata dal tirocinante, controfirmata dal tutore e dal referente (per i progetti di dipartimento), dal tutore interno e dal tutore esterno (per i progetti presso enti esterni); in cui siano indicati il numero del progetto, il nominativo del tutore e del referente (per i progetti di dipartimento) o il numero - Cdl xx - e la data della convenzione, il nominativo dei tutori interno ed esterno (per i progetti presso enti esterni)
+*   ogni altra documentazione utile alla valutazione da parte della commissione tirocinio.
+
+Lo studente part-time vi deve rilasciare una ricevuta da conservare almeno fino all'approvazione della relazione.
+
+Prima di ogni appello di Laurea viene fissata una scadenza per la consegna di questo materiale.
+
+### 6) Approvazione da parte della commissione
+
+L'avvenuta approvazione da parte della commissione verrà comunicata agli interessati via email (all'indirizzo istituzionale fornito dall'ateneo nome.cognome@studio.unibo.it).
+
+Nella email verrà indicato quando passare a ritirare il libretto-diario.
+
+[Tutor CdL](https://corsi.unibo.it/laurea/matematica/Pagine/tutor-cdl.aspx)
+
+### 7) Registrazione dell'idoneità sul libretto
+
+Dopo l'approvazione della commissione, il tirocinio viene verbalizzato direttamente su Almaesami dalla Professoressa Caliceti.
+
+[top](#elenco)
+
+Comunicazione di tirocinio
+--------------------------
+
+entro il **15 Ottobre** o entro il **15 Marzo** di ogni anno accademico.
+
+[top](#elenco)
+
+Registrazione dell'attività di tirocinio
+-----------------------------------------
+
+**prima di ogni appello di laurea** viene fissata una scadenza per la consegna di questo materiale (circa un mese prima della data di laurea).
+
+Le scadenze vengono indicate alla pagina
+
+[Tutor CdL](https://corsi.unibo.it/laurea/matematica/Pagine/tutor-cdl.aspx)
+
+[top](#elenco)

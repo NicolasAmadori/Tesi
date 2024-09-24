@@ -1,0 +1,47 @@
+Dopo aver compilato la domanda d’immatricolazione ed effettuato il pagamento delle tasse, potresti trovare su [Studenti Online](https://studenti.unibo.it/) ulteriori indicazioni per validare l’identità digitale, attivare la carriera e ritirare il [badge](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-badge-per-gli-studenti-di-lauree-lauree-magistrali-a-ciclo-unico-e-lauree-magistrali).  
+Di seguito le indicazioni che potresti ricevere in base al tuo profilo.
+
+Identità digitale
+-----------------
+
+### Cosa vuol dire?
+
+Validare la tua identità digitale vuol dire associare l’account nome.cognome@studio.unibo.it a quanto hai dichiarato in fase di immatricolazione.
+
+### Cosa devo fare?
+
+La tua identità digitale sarà automaticamente validata, senza che tu debba fare nulla, in uno di questi casi:
+
+*   possiedi le credenziali [SPID](https://www.spid.gov.it/) e accedi con queste a Studenti Online almeno una volta;
+*   possiedi la carta di identità elettronica e accedi a Studenti Online tramite il percorso [Entra con CIE](https://idp.unibo.it/adfs/ls/?SAMLRequest=fVLLbsIwELz3KyLf8zKEh0WCKAgViaoIQg%2B9IMd2ilXHTrMOav%2B%2BSQBRLki%2B2JqZnZ3xZPpTKOckKpBGxyj0AuQIzQyX%2BjNG%2B3TpjtA0eZoALRQuyay2R70V37UA68wARGUb3txoqAtR7UR1kkzst%2BsYHa0tgfg%2B2JoLbaVXa5kZT1ofjPIpz%2BHAqFIZZV9TpmQDOWhaiHg3e13jefeAnEUzRmpqO29XRcnLm1gr5CvwkbM0FROdvxjlVIFAzmoRowMOwnHOIyqiaNQPwyDrUTFig2w8yPJ8yPkwH494iBs0bCiAPIkbH6AWKw2WahsjHOCeG%2FRdPEjDHomaM%2FD64fADOZvKWMOMepb6nFtdaWIoSCDtTkAsI%2B1eBHsByc4gIC9punE3b7sUOe%2FX%2FHGbf9OIBnJO%2FLFWeRmMknNBpHNctVkU1D7mti%2BSu3kHJW1F9vdu9mM6vZaPkodVT%2Fz%2FzpLL9f4nJX8%3D&RelayState=%3FspidL%3D1%26spidACS%3D0);
+*   hai già fatto parte della comunità studentesca dell’Università di Bologna, dal 2004 in avanti;
+*   hai sostenuto una prova scritta o orale, anche a distanza, presso l’Ateneo di Bologna (ad esclusione di TOLC e prove di selezioni per concorsi nazionali).
+
+**Se non rientri in una delle condizioni indicate sopra** e non puoi avere le credenziali SPID, perché sei minorenne o risiedi all’estero, contatta la Segreteria Studenti del tuo corso di studio o, se hai la residenza all’estero e hai un titolo di studio estero, la Segreteria studenti internazionale di Bologna o del Campus.
+
+Attivazione della carriera e badge
+----------------------------------
+
+### Cosa vuol dire?
+
+Attivare la carriera serve per usare i servizi, come ad esempio l’accesso alla rete WI-FI e alle risorse bibliotecarie online, e compiere azioni ben precise: prenotazione esami, compilazione del piano di studi, passaggio di corso, trasferimento ad altra università, rinuncia agli studi.  
+Dopo l’attivazione riceverai un’e-mail con le istruzioni per ottenere il badge.
+
+**La carriera deve essere attivata entro il 28 febbraio 2025.**
+
+### Cosa devo fare?
+
+La tua carriera sarà automaticamente attivata, senza che tu debba fare nulla, e riceverai l’e-mail con le istruzioni per ottenere il badge, **a meno che non rientri in uno dei seguenti profili:**
+
+*   **hai la cittadinanza di un Paese non-UE, ma possiedi un titolo di equiparazione e hai conseguito il titolo di studio in Italia:** invia per email alla [Segreteria studenti del tuo corso o di Campus](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/segreterie-studenti) la copia del permesso di soggiorno che consente l’equiparazione;
+*   **hai conseguito il titolo di studio all’estero:** leggi le [informazioni di dettaglio](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/iscriversi-corso-laurea-o-laurea-magistrale-a-ciclo-unico-con-titolo-estero). Su [Studenti Online](https://studenti.unibo.it/sol/welcome.htm) nella sezione “Bandi”, seleziona “Immatricolazione a.a. 24\_25- caricamento dei documenti degli studenti internazionali e con titolo estero” e carica i documenti di studio elencati. Prenota un appuntamento presso la [Segreteria studenti internazionali di Bologna o del tuo Campus](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/segreterie-studenti) per mostrare i documenti in originale;
+*   **hai la cittadinanza di un Paese non-UE, ma possiedi un titolo di equiparazione e hai conseguito il titolo di studio all’estero**: leggi [le informazioni di dettaglio](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/iscriversi-corso-laurea-o-laurea-magistrale-a-ciclo-unico-con-titolo-estero). Su Studenti Online, nella sezione “Bandi”, seleziona “Immatricolazione a.a. 24\_25 - caricamento dei documenti degli studenti internazionali e con titolo estero” e carica, oltre ai documenti di studio, la copia del permesso di soggiorno che consente l’equiparazione. Prenota un appuntamento presso la [Segreteria studenti internazionali di Bologna o del tuo Campus](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/segreterie-studenti) per mostrare i documenti in originale;
+*   **hai la cittadinanza di un paese non-UE, sei residente all’estero e hai conseguito il titolo di studio all’estero:** leggi le [informazioni di dettaglio.](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/iscriversi-corso-laurea-o-laurea-magistrale-a-ciclo-unico-con-titolo-estero) Su [Studenti Online](https://studenti.unibo.it/sol/welcome.htm) nella sezione “Bandi”, seleziona “Immatricolazione a.a. 24\_25 - caricamento dei documenti degli studenti internazionali e con titolo estero”, e carica i documenti di studio e la copia del visto di ingresso per studio. Al tuo arrivo in Italia prenota un appuntamento presso la [Segreteria studenti internazionali di Bologna o del tuo Campus](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/segreterie-studenti) per mostrare i documenti in originale. Il giorno dell’appuntamento riceverai un certificato di iscrizione e indicazioni utili per la richiesta del [permesso di soggiorno](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/regole-ingresso-soggiorno-in-italia/permesso-soggiorno) per motivi di studio. Successivamente dovrai inviare per email la ricevuta della richiesta del permesso di soggiorno alla [Segreteria studenti internazionali di Bologna o del tuo Campus](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/segreterie-studenti). La tua immatricolazione sarà accolta con riserva fino a quando non ti verrà consegnato il permesso di soggiorno e ne invierai una copia alla Segreteria studenti;
+*   **non hai ancora conseguito il diploma**: non appena ti diplomerai, collegati a [Studenti Online](https://studenti.unibo.it/sol/welcome.htm) e completa le informazioni sul voto. Ricorda che il titolo deve essere conseguito entro il 30 dicembre 2024, altrimenti l’immatricolazione sarà annullata.
+
+Minore età, esoneri per invalidità e riconoscimenti di carriere concluse
+-------------------------------------------------------------------------
+
+*   Se **al momento dell’immatricolazione sei ancora minorenne** compila il modulo di consenso genitoriale che trovi negli allegati e invialo, compilato e firmato dai tuoi genitori, all’indirizzo email della segreteria studenti del corso che hai scelto.
+*   Se **hai una certificazione di invalidità **civile pari o superiore al 66% o una certificazione ai sensi della legge 104/92, per avere l’esonero dalle tasse devi trasmettere il certificato di invalidità all’indirizzo email della segreteria studenti del corso di studio al quale vuoi iscriverti.
+*   Se **vuoi richiedere il riconoscimento di precedenti carriere universitarie** concluse, dopo l’immatricolazione ed entro il 28 novembre 2024 devi seguire le indicazioni pubblicate nel portale nella pagina [Abbreviazione di carriera](https://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/abbreviazione-di-carriera).

@@ -1,0 +1,141 @@
+# La mia tesi online !
+
+Se, in accordo con il tuo relatore, vuoi che il testo della tua tesi sia accessibile online puoi pubblicarlo in AlmaDL – AMS 
+
+Laurea ( https://amslaurea.unibo.it/ ). 
+
+Se scegli di non pubblicare la tesi, o di pubblicare solo i riferimenti bibliografici (autore, titolo, abstract, etc.), il fu ll text 
+
+della tesi viene trasmesso esclusivamente al Polo archivistico regionale dell'Emilia -Romagna (ParER) per la sua 
+
+conservazio ne a lungo termine. Tale scelta è irreversibile e lo staff AlmaDL non potrà più in alcun modo recuperare il 
+
+file della tesi. 
+
+# Cos’è AlmaDL – AMS Laurea? 
+
+È il deposito istituzionale dell'Università di Bologna, dove puoi pubblicare, dopo avere caricato il file in Studenti Online 
+
+- SOL, la tua tesi scegliendo il livello di accesso e una licenza d’uso per gli utenti remoti. 
+
+SOL e AMS Laurea sono applicativi diversi, ma integrati in modo automatizzato. 
+
+# Come posso pubblicare la mia tesi in AMS Tesi di Laurea? 
+
+Carica la tua tesi su Studenti Online – SOL, entro le date di scadenza indicate nel sito del tuo CdS: avrai la possibilità, 
+
+contestualmente, di dare avvio all’iter di pubblicazione online in AMS Laurea. 
+
+# Cosa si intende per scelta del livello di accesso e della licenza? 
+
+Si intende che, nel momento in cui carichi la tua tesi in SOL, devi scegliere, avendolo già concordato con il tuo relatore ,
+
+se consentire: 
+
+- Un accesso online al full text libero per tutti , subito dopo la discussione ;
+
+- Un accesso online al full text libero per tutti , solo dopo una certa data (es. se in attesa di attivazione di brevetti 
+
+o a seguito di accordi di confidenzialità con terzi ). In questo periodo di embargo la tesi è accessibile 
+
+esclusivamente all’autore e al relatore ;
+
+- Un accesso online limitato agli utenti con credenziali Unibo .
+
+# Cosa è la dichiarazione di deposito? 
+
+È un documento generato da Studenti Online – SOL, con il quale dai esplicitamente il tuo consenso alla pubblicazione 
+
+online della tua tesi . È indispensabile se vuoi ch e la tua tesi sia disponibile online. 
+
+# Come faccio ad esprimere la disponibilità a pubblicare online la mia tesi? 
+
+Devi stampare, firmare e inviare via mail, entro le date di scadenza indicate nel sito del tuo CdS , la sca nsione della 
+
+dichiarazione di deposito e di un tuo documento di identità in corso di validità , all’indirizzo della Biblioteca Centrale 
+
+"Leon Battista Alberti" - Sezione Centrale bibliotecacesena.info@unibo.it 
+
+In caso di tesi collaborative ognuno deve presentare la propria dichiarazione firmata. 
+
+Le istruzioni per scaricare la dichiarazione di deposito ti saranno inviate per e -mail dopo l’approvazione da parte del 
+
+tuo relatore. 
+
+# Quale formato deve avere il file della tesi? 
+
+Il file della tesi deve essere in formato PDF testuale, compreso il frontespizio, in base al modello fornito dal CdS e non 
+
+deve avere alcuna protezione o password. Può contenere immagini a bassa risoluzione (risoluzione consigliata 72 dpi) 
+
+e non deve super are i 30 Mb. 
+
+Per file di dimensioni superiori ai 30Mb o per avere supporto nel caricamento chiedi aiuto a: 
+
+help.studentionline@unibo.it – tel. 051 2099882. Come nomino il file? 
+
+Nomina il file in questo modo cognome_nome_tesi (es. rossi_manuela_tesi ) (la parola tesi e non il titolo della tesi). 
+
+Per le tesi collaborative ogni partecipante deve indica re il proprio cognome seguito dal cognome di tutti gli altri 
+
+studenti cognome 1_cognome 2_tesi (es. rossi_bian chi_tesi .pdf è il deposito di rossi che ha lavorato insieme a bianchi )
+
+# Posso aggiungere allegati al file principale della tesi? 
+
+È possibile rendere disponibili anche file allegati, ma solo se per il full text della tesi è stata scelta l’accessibilità da 
+
+remoto. Non è possibile dare accessibilità diverse al file della tesi e agli allegati. 
+
+Per ogni allegato scegli preferibilmente lo stesso livello di accesso di quello della tesi e una licenza concordati con il 
+
+relatore. 
+
+I file devono includere le informazioni bibliografiche presenti sul frontespizio della tesi e la dicitura “Allegato” 
+
+anticipato dal cognom e dei laureandi (nel caso gl i allegati fossero più di uno occorre numerarli: es. 
+
+Cognome1_Cognome2_Allegato1 e Cognome1_Cognome2_Allegato2….) . Nel caso di file testuali, o raccolte di 
+
+immagini, includere una pagina di indice che descriva i contenuti dell’allegato. 
+
+La denominazione de l file non deve superare i 500 caratteri. 
+
+Ciascun file .pdf alleato al lavoro di tesi non deve superare i 30Mb. 
+
+Per tesisti del CdS in Architettura: le eventuali tavole di corredo alle tesi non possono essere più di 12 (come indicato 
+
+nel Regolamento Tesi e Laboratorio di Laurea del CdS), pertanto anche gli allegati alle tesi non possono superare 
+
+questo numero. 
+
+# Come si chiude il processo di pubblicazione? 
+
+Appena il tuo relatore interviene in SOL per verificare che la tesi e il suo livello di accesso da te indicato siano corretti 
+
+procederà con l’approvazione : riceverai una mail con le indicazioni per stampare la dichiarazione indispensabile per 
+
+chiudere l’iter della pubblicazione .
+
+Devi stampare, firm are e inviare via mail, entro le date di scadenza indicate nel sito del tuo CdS , la sca nsione della 
+
+dichiarazione di deposito e la scansione di un tuo documento di identità in corso di validità , all’indirizzo della Biblioteca 
+
+Centrale "Leon Battista Albert i" - Sezione Centrale bibliotecacesena.info@unibo.it 
+
+# Contatti 
+
+Biblioteca Centrale "Leon Battista Alberti" - Sezione Centrale 
+
+Tel. 0547 338315 
+
+Mail bibliotecacesena.info@unibo.it 
+
+Tesi dei CdS Ingegneria e Scienze Informatiche: Rita Lucia Ferraro 0547 339125 
+
+Tesi del CdS di Architettura: Gianni Dall’Ara 0547 338364 
+
+Per ulteriori informazioni generali su AMS Tesi di Laurea 
+
+Tel 051 20 94318 
+
+Mail helpdesk.amslaurea@unibo.it

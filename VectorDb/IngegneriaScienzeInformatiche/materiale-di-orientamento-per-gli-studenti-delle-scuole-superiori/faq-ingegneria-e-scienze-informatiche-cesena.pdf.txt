@@ -1,0 +1,381 @@
+# FAQ Ingegneria e Scienze Informatiche - Cesena 
+
+# Come si accede al corso? 
+
+Può trovare tutte le informazioni per l’accesso al corso di laurea qui: 
+
+Iscriversi al corso Ingegneria e Scienze Informatiche - Cesena 
+
+1. TOLC -I
+
+1.1. Iscrizione al sito del CISIA ( www.cisiaonline.it )
+
+1.2. Iscrizione al TOLC -I scegliendo la data in cui si vuole sostenere il test e 
+
+pagamento dell a quota di iscrizione; 
+
+1.3. Svolgimento del test TOLC -I; 
+
+2. Iscrizione alla selezione 
+
+2.1. Registrazione su Studenti Online 
+
+2.2. Iscrizione alla selezione per il corso di studio Ingegneria e Scienze Informatiche 
+
+Cesena 
+
+2.3. Esito graduatorie 
+
+3. Immatricolazione 
+
+3.1. In caso di ammissione al corso di studio, immatricolazione sul portale Studenti 
+
+Online ( www.studenti.unibo.it ) e perfezionamento presso la segreteria studenti. 
+
+Tutte le informazioni sono disponibili al link: Iscriversi al corso 
+
+# Come posso sostenere il TOLC -I nonostante le 
+
+# limitazioni imposte dalla corrente emergenza 
+
+# sanitaria? 
+
+È possibile sostenere il test in mod alità online, direttamente da casa, il TOLC@CASA. 
+
+Per poterlo sostenere è necessario in primo luogo iscriversi al sito del CISIA e scegliere una 
+
+delle date disponibili. Il giorno della prova sarà necessario possedere una connessione di rete 
+
+stabile, un co mputer + uno smartphone o tablet, e porsi in una stanza con una sola porta di 
+
+accesso. Per maggiori informazioni visitare: 
+
+https://www.cisiaonline.it/tolccasa -cosa -fare -prima -durante -e-dopo/ 
+
+# Il TOLC -I può essere ripetuto per migliorare il 
+
+# punteggio? 
+
+È possibile sostenere più volte il TOLC -I, con il vincolo di fare il test al massimo una volta in 
+
+ciascuno dei seguenti macro -periodi: 
+
+● macro -periodo 1: dal 19 maggio al 30 giu gno; 
+
+● macro -periodo 2: dal 1° luglio al 31 luglio; 
+
+● macro -periodo 3: dal 20 agosto al 17 settembre .N.B. il precedente voto verrà perso, sarà valido solo l’ultimo punteggio ottenuto. 
+
+# Qual è la differenza tra “Ingegneria Informatica” 
+
+# (BO), “Informatica” ( BO) e “Ingegneria e Scienze 
+
+# Informatiche”? 
+
+È possibile confrontare i piani didattici e il programma dei singoli esami ai seguenti indirizzi: 
+
+● Insegnamenti: piano didattico - AA 2019/2020 — Ingegneria informatica - Laurea -
+
+Bologna 
+
+● Insegnamenti: piano didattico - AA 2019/2020 — Informatica - Laurea - Bologna 
+
+● Insegnamenti: piano didat tico - AA 2019/2020 — Ingegneria e scienze informatiche 
+
+In estrema sintesi, si può dire che i tre corsi condividono una buona parte degli argomenti, 
+
+tuttavia: 
+
+● nel corso di Ingegneria Informatica è presente un maggior numero di esami quali 
+
+“Elettronica”, “Controlli Automatici”, “Elettrotecnica”, materie affini tipiche del settore 
+
+dell’Ingegneria dell’Informazione, tese a fornire una formazione di area, importante per 
+
+la figura dell’Ingegnere, in particolare nel contesto del territorio; sono altresì fornite le 
+
+basi di analisi e fisica necessarie a tale scopo 
+
+● nel corso di Informatica è invece presente un maggior numero di esami legati 
+
+all’Informatica teorica e alla modellazione formale di sistemi, come “Logica per 
+
+l’Informatica” e “Informatica Teorica”. 
+
+● Il corso di Ingegneria e Scienze informatiche, invece, si concentra sugli aspetti più 
+
+legati al design del software applicativo e dei sistemi informatici, pur manten endo alta 
+
+l’attenzione anche sul controllo e gestione software di sistemi hardware. Al terzo anno 
+
+di corso una vasta scelta di esami opzionali consente di specializzarsi in vari ambiti, 
+
+tra cui quelli dei sistemi hardware embedded e dei dispositivi mobili degli utenti, quelli 
+
+inerenti l’intelligenza artificiale, quelli della progettazione e deployment di sistemi 
+
+complessi fino all’ambito legato alla legislazione dei sistemi informatici. 
+
+# Sono necessarie conoscenze pregresse di 
+
+# informatica? 
+
+Il corso è strutt urato in modo tale da permettere anche agli studenti senza conoscenze 
+
+pregresse in informatica di affrontare il percorso di studi. Il corso di “Programmazione” del 
+
+primo anno parte dalle basi della programmazione. Lo stesso approccio è seguito anche per 
+
+le altre materie legate alla matematica e alla fisica. Gli esami del primo anno costruiscono le 
+
+conoscenze partendo dalle basi. Cosa si studia? 
+
+ll corso forma professionisti in grado di progettare, sviluppare e gestire sistemi e applicazioni 
+
+in ambito inform atico, fornendo una cultura scientifica e ingegneristica di base e una 
+
+conoscenza approfondita delle tecniche e metodologie di progettazione e di strumenti attuali 
+
+per la realizzazione di soluzioni informatiche, che permettono l'ingresso diretto nel mondo del 
+
+lavoro. 
+
+Lo studente è guidato nel processo di apprendimento delle problematiche, dei modelli e dei 
+
+metodi che contraddistinguono la modellazione e la progettazione dei moderni sistemi di 
+
+elaborazione dell'informazione, nonché delle tecnologie più avanz ate disponibili per una loro 
+
+concreta applicazione. Il corso di laurea fornisce le competenze teorico -pratiche relative alle 
+
+principali aree dell'informatica: tecniche di progettazione e programmazione del software, dei 
+
+sistemi operativi, dei sistemi infor mativi, delle reti di calcolatori, delle infrastrutture web e delle 
+
+architetture computazionali. A queste conoscenze di base si aggiungono poi conoscenze 
+
+approfondite e professionalizzanti in specifici settori dell'informatica che possano permettergli 
+
+l'in gresso diretto nel mondo del lavoro. Il raggiungimento di questi obiettivi richiede di acquisire 
+
+preventivamente una cultura scientifica di base nonché un metodo di analisi e di studio 
+
+scientifici che permettano, allo studente prima e al laureato poi, di c ostruire autonomamente 
+
+nuove conoscenze al fine di adeguarsi all'evoluzione della disciplina e di utilizzare metodi 
+
+innovativi e attrezzature complesse. 
+
+Per dotare il laureato delle caratteristiche suddette, il corso di studi prevede: 
+
+- attività formative finalizzate ad acquisire conoscenze matematiche di base, oltre a
+
+conoscenze fondamentali sulle principali aree dell'informatica (tra le quali linguaggi di 
+
+programmazione, algoritmi, sistemi operativi, basi di dati e sistemi informativi); 
+
+- attività progett uali e di laboratorio mirate ad acquisire la conoscenza dei metodi di 
+
+programmazione; 
+
+- attività per fornire conoscenze di base della lingua inglese. 
+
+Il terzo anno consente di scegliere di approfondire tematiche di specifico interesse dello 
+
+studente, relat ive a sistemi embedded, dispositivi mobili degli utenti, applicazioni di 
+
+intelligenza artificiale, sistemi complessi a microcomponenti, diritto dell’informatica. 
+
+# È possibile trovare lavoro solo con la triennale? 
+
+Il mercato dell’informatica è da diversi ann i in espansione. Le aziende, in controtendenza 
+
+rispetto alla congiuntura economica, richiedono un numero di laureati superiore a quelli a 
+
+disposizione. I laureati triennali che non decidono di proseguire gli studi trovano facilmente 
+
+lavoro in breve tempo. Alcune informazioni statistiche sono consultabili al seguente indirizzo: 
+
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/qualita -corso 
+
+Naturalmente è g iusto sottolineare che le opportunità lavorative offerte dalla laurea triennale 
+
+e da quella magistrale sono differenti. Il ruolo e il profilo dei laureati richiesti è sempre più alto 
+
+e non comprende solo competenze tecnologiche ma anche linguistiche, di pr oject 
+
+management e di problem solving. La laurea triennale fornisce una preparazione di base ad 
+
+ampio spettro, la laurea magistrale offre un’elevata specializzazione nei principali settori 
+
+applicativi dell’informatica. Quali sono le opportunità per andare all’estero? 
+
+Vi sono varie opportunità per andare all’estero. Le principali sono i bandi “Erasmus+” e il 
+
+programma “Overseas”. Nel primo caso è possibile effettuare un periodo di studi in una delle 
+
+università aderenti (principalmente in un paese dell’Unione Europea) o un tirocinio in una 
+
+azienda in uno stato appartenente all’Unione Europea. L’Overseas permette invece un 
+
+periodo di studio all’estero in alcuni dei paesi oltreoceano, tra le università che hanno aderito 
+
+negli ultimi anni vi sono la University of California, l’Université de Montréal, la Kansai Gaidai 
+
+University, la Universidad Nacional Autonoma de Mexico. 
+
+Per maggiori dettagli si possono consultare le seguenti pagine: 
+
+Studiare all'estero 
+
+Tirocini all'estero 
+
+# Quanto bisogna studiare? 
+
+Gli esami del piano didattico prevedono un impegno quantificato attraverso il numero di CFU 
+
+(solitamente 6 o 12). Ogni credito corrisponde approssimativamente a 25 ore di studio (lezioni 
+
+in aula, esercitazioni, studio au tonomo). 
+
+Frequentare le lezioni e studiare stando al passo con gli argomenti consente di apprendere 
+
+molto più facilmente. A differenza di quanto avviene alle superiori, nessuno vi obbligherà a 
+
+seguire, a studiare, quindi è importante che autonomamente ges tiate al meglio il vostro tempo, 
+
+iniziando a studiare fin dal primo giorno. Da noi le “verifiche” (esami) sono solo alla fine del 
+
+semestre. 
+
+Restare in pari al primo anno facilita molto i due anni successivi durante i quali gli 
+
+insegnamenti costruiscono nu ove conoscenze su quelle di base acquisite negli anni 
+
+precedenti. 
+
+# C’è l’obbligo di frequenza? 
+
+Il corso non prevede obbligo di frequenza e la presenza alle lezioni non viene in alcun modo 
+
+registrata. Il materiale didattico dei diversi insegnamenti è dispon ibile online e accessibile 
+
+anche da coloro che non frequentano le lezioni. 
+
+Il corso è frequentato anche da studenti lavoratori che possono anche optare per il percorso 
+
+flessibile , della durata di 6 anni, pensato proprio per loro. 
+
+Bisogna comunque considerare che la frequenza agevola notevolmente l’apprendimento. La 
+
+spiegazione del docente migliora la comprensione, la po ssibilità di chiedere chiarimenti evita 
+
+la formazione di lacune. Inoltre, la maggior parte degli insegnamenti affianca alle lezioni 
+
+teoriche un numero consistente di ore di laboratorio durante le quali gli argomenti visti a 
+
+lezione vengono messi in pratica . Anche ai fini dell’esame, molto spesso è richiesto un 
+
+elaborato che può anche essere svolto in gruppo, per sviluppare al meglio anche le capacità 
+
+di lavorare in team. Come verranno effettuate lezioni ed esami, a causa 
+
+# del problema Covid -19? 
+
+L’Università di Bologna garantirà agli studenti di poter fruire regolarmente delle lezioni e di 
+
+poter sostenere gli esami, adottando le procedure più adatte a minimizzare il disagio degli 
+
+studenti, nel rispetto totale delle indicazioni delle diverse istitu zioni governative, nazionali e 
+
+locali. Già all’inizio della pandemia, l’Università di Bologna in una sola settimana si è 
+
+completamente riorganizzata in modo da poter erogare le lezioni, completamente in modalità 
+
+online, agli studenti a casa, effettuare esa mi e svolgere le sessioni di laurea in sicurezza in 
+
+modalità online. Nello specifico caso del nostro Corso di Laurea, anche le lezioni “in 
+
+laboratorio” sono attualmente erogate in modalità online, in forme diverse in funzione delle 
+
+esigenze: in alcuni casi gli studenti installano ed usano il software necessario sui loro PC 
+
+personali, seguiti dai docenti collegati online; in altri casi gli studenti si collegano da remoto ai 
+
+PC fisici dei laboratori della sede di Campus e li usano, sempre seguiti in collegame nto dai 
+
+docenti. 
+
+Attualmente l’Università si sta organizzando per poter eventualmente effettuare da settembre 
+
+2020 lezioni in modalità mista, con alcuni studenti in aula ed altri collegati da casa, su base 
+
+volontaria. La situazione è ancora in divenire. Co munque, l’Università di Bologna e il nostro 
+
+Corso di Laurea riusciranno a far fruire regolarmente le lezioni ai propri studenti nei modi che 
+
+saranno possibili dalle regole che vigeranno, limitando il disagio degli studenti e senza 
+
+ritardare la carriera deg li studenti stessi. 
+
+# Che linguaggi di programmazione si studiano? 
+
+Lo scopo del corso universitario è quello di formare dei professionisti in grado di realizzare 
+
+sistemi informatici complessi, affrontando le diverse fasi progettuali quali l’analisi dei requi siti, 
+
+la progettazione, lo sviluppo, il test ed il dispiegamento in produzione. In questo percorso, le 
+
+tecnologie e i linguaggi di programmazione rappresentano solo strumenti implementativi che 
+
+tra l’altro sono in continua evoluzione. Gli insegnamenti tras metteranno agli studenti i principi 
+
+fondamentali dei diversi paradigmi di programmazione, esemplificandoli poi nella pratica con 
+
+specifici linguaggi (es. per la programmazione a oggetti Java e C#). La comprensione dei 
+
+diversi paradigmi dà agli studenti la capacità di adattarsi facilmente ad eventuali nuove 
+
+tecnologie e/o linguaggi specifici utilizzati in ambito lavorativo e non visti durante gli studi. 
+
+# Vengo da fuori Cesena, esistono degli alloggi o 
+
+# delle residenze per studenti? 
+
+Esistono diverse possibilit à per gli studenti di trovare un alloggio a Cesena. 
+
+I primi riferimenti utili sono ER.GO, che gestisce lo studentato, al quale si accede in possesso 
+
+di requisiti di reddito e, dal secondo anno, anche di merito e Ser.In.Ar. che offre posti alloggio 
+
+a condiz ioni agevolate. Inoltre, sono numerose le opportunità offerte dai privati, pubblicizzate dall'Informagiovani, e 
+
+dalle bacheche dell'università. 
+
+I siti che puoi consultare: 
+
+● ER.GO 
+
+● Ser.In.Ar. 
+
+● Informagiovani di Cesena 
+
+# Dopo la triennale in Ingegneria e Scienze 
+
+# Informatiche, quali possibilità ho per la ma gistrale? 
+
+Dopo la laurea triennale, il naturale proseguimento degli studi è il corso di laurea magistrale 
+
+in Ingegneria e Scienze Informatiche con sede a Cesena. 
+
+In alterna tiva è possibile l’iscrizione ad altri corsi di studio magistrali; per alcuni di questi 
+
+l’accesso è diretto, per altri potrebbe essere necessario acquisire crediti aggiuntivi in specifici 
+
+settori (sostenendo esami integrativi). Le modalità di accesso sono consultabili sui siti dei 
+
+corsi. 
+
+In particolare, il laureato in Ingegneria e Scienze Informatiche può iscriversi al Corso di Studio 
+
+Magistrale in Artificial Intelligence, senza dover conseguire crediti aggiuntivi.

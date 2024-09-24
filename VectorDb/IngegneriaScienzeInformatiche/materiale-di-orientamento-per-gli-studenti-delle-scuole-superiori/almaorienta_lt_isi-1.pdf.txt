@@ -1,0 +1,480 @@
+## Ingegneria e Scienze Informatiche Offerta didattica del DISI 
+
+ LT Informatica 
+
+ LT Informatica per il Management 
+
+ LT Ingegneria Informatica (Bologna) 
+
+ LT Ingegneria e Scienze Informatiche (Cesena) 
+
+ LP Tecnologie dei Sistemi Informatici (Cesena) 
+
+ LM Informatica (Bologna) 
+
+ LM Ingegneria e Scienze Informatiche (Cesena )
+
+ LM Digital Transformation Management (Cesena) 
+
+ LM Ingegneria Informatica (Bologna) 
+
+ LM Artificial Intelligence (Bologna) 
+
+ECONOMIA E
+
+DIRI TTO
+
+MATE MATICA E
+
+FISICA 
+
+INFOR MATICA 
+
+ALTRE 
+
+INGEGNERIA 
+
+TIROCINI 
+
+in AZIENDA Ingegneria e Scienze 
+
+Informatiche 
+
+Informatica 
+
+Elettronica 
+
+Automazione 
+
+Telecomunicazioni 
+
+Economia 
+
+Informatica teorica 
+
+Modelli formali 
+
+Logica formale 
+
+Matematica & Fisica 
+
+Programmazione 
+
+Architettura degli elaboratori 
+
+Ingegneria del SW 
+
+Linguaggi 
+
+Sistemi operativi 
+
+Reti di Calcolatori 
+
+Database 
+
+Tecnologie web 
+
+Applicazioni 
+
+Ingegneria 
+
+Informatica 
+
+Ingegneria e Scienze Il corso 
+
+Il Corso di Studio forma professionisti in grado di progettare ,
+
+sviluppare e gestire sistemi e applicazioni in ambito 
+
+informatico, fornendo una cultura scientifica e ingegneristica di 
+
+base e una conoscenza approfondita delle tecniche e
+
+metodologie di progettazione e degli strumenti più attuali per 
+
+la realizzazione di soluzioni informatiche, che permette 
+
+l'ingresso diretto nel mondo del lavoro .
+
+Il corso ha l’obiettivo di proporre agli studenti lo studio 
+
+dell’informatica approfondendo aspetti sia di tipo 
+
+progettuale/ingegneristico che di tipo 
+
+matematico/scientifico .Cosa fa un informatico? Dalle applicazioni più “tradizionali”… 
+
+Gestionali 
+
+> Analisi e
+> progettazione
+
+E-commerce Mobile 
+
+Gestione reti 
+
+di computer 
+
+Web 
+
+Gaming …a quelle più “innovative” 
+
+Business 
+
+intelligence 
+
+Biometria 
+
+Bioinformatica Animazione 
+
+Internet of 
+
+Things 
+
+Visione 
+
+artificiale 
+
+Smart city I corsi di Informatica di ambito Ingegneria 
+
+LT Ingegneria Informatica (Bologna) 
+
+LT Ingegneria e Scienze Informatiche (Cesena) 
+
+LP Tecnologie dei Sistemi Informatici (Cesena) ECONOMIA E
+
+DIRI TTO
+
+MATE MATICA E
+
+FISICA 
+
+INFOR MATICA 
+
+ALTRE 
+
+INGEGNERIA 
+
+TIROCINI 
+
+in AZIENDA Cosa si studia nella Laurea Triennale (1) 60% 30% 
+
+> 10% 70%
+> 10%
+> 20% 40%
+> 10%
+> 40%
+> 10%
+> I
+> II
+> III
+
+Primo anno CFU 
+
+Algebra e Geometria 6
+
+Algoritmi e Strutture Dati 12 
+
+Analisi Matematica 12 
+
+Architetture degli Elaboratori 12 
+
+Lingua Inglese B1 6
+
+Programmazione 12 
+
+Cosa si studia nella Laurea Triennale (2) 
+
+Secondo anno CFU 
+
+Basi di Dati 12 
+
+Fisica 6
+
+Programmazione a Oggetti 12 
+
+Programmazione di Reti 6
+
+Sistemi Operativi 12 
+
+Matematica discreta e probabilità 6
+
+Metodi Numerici 6
+
+Terzo anno CFU 
+
+Ingegneria del Software 6
+
+Reti di Telecomunicazione 6
+
+Ricerca Operativa 6
+
+Tecnologie Web 6
+
+Esami a scelta libera 24 
+
+Tirocinio 6
+
+Prova Finale 6
+
+I tirocini in azienda e le tesi 
+
+(che possono essere realizzate 
+
+anche come progetti in 
+
+ambito aziendale o all’estero) 
+
+rappresentano un ponte verso 
+
+il mondo del lavoro Cosa si studia nella Laurea Triennale (3) 
+
+Computer graphics 
+
+Visione Artificiale 
+
+High -performance computing 
+
+Informatica e Diritto 
+
+Basi di Dati Avanzate 
+
+Programmazione di appl . data intensive 
+
+Programmazione di sistemi mobile 
+
+Sistemi Embedded e Internet -of -Things 
+
+Crittografia 
+
+Virtualizzazione e integrazione di sistemi Iscrizione al corso: il TOLC -I
+
+Quesiti Comprensione 
+
+verbale (10) 
+
+Matematica 
+
+(20) 
+
+Logica (10) 
+
+Scienze (10) 
+
+Nella prova c’è anche una 
+
+sezione di inglese che non 
+
+concorre al calcolo del 
+
+punteggio 
+
+Peso 1.25 
+
+Peso 0.5 
+
+Peso 1.0 
+
+# 244 TOLC ISCRIZIONE 
+
+## SELEZIONE IMMATRICOLAZIONE 
+
+www.studenti.unibo.it www.studenti.unibo.it 
+
+Segreteria Studenti 
+
+Via Montalti 69 - Cesena 
+
+Come iscriversi 
+
+www.cisiaonline.it Sessioni (in corso di definizione – vedi bando) 
+
+1a Sessione 
+
+50% dei posti 
+
+Soglia minima 18/50 
+
+1 preferenza 
+
+2a Sessione 
+
+50% dei posti 
+
+Nessuna soglia minima 
+
+3 preferenze 
+
+Eventuale 
+
+selezione straordinaria per 
+
+assegnazione posti residui Lo studio 
+
+Anno Accademico 
+
+Lezioni I semestre 
+
+Fine settembre - Natale 
+
+1a sessione di esami 
+
+Gennaio - Febbraio 
+
+Lezioni II semestre 
+
+Fine febbraio – inizio Giugno 
+
+2a sessione di esami 
+
+Giugno - Luglio 
+
+3a sessione di esami 
+
+Settembre 
+
+Il corso non prevede 
+
+l’ obbligo di frequenza , ma 
+
+si consiglia caldamente di 
+
+seguire tutte le lezioni Contrariamente a quanto 
+
+accade nella scuola 
+
+superiore, le verifiche 
+
+sono solo alla fine del 
+
+semestre 
+
+Rimanere in pari il primo 
+
+anno rende «la vita molto 
+
+più facile » nei successivi 
+
+due anni di corso Il corso e le prospettive… 
+
+Corso 
+
+impegnativo 
+
+Andate 
+
+all’estero! 
+
+Faticoso… 
+
+ma piace! 
+
+Si trova 
+
+lavoro? 
+
+Il 43% degli studenti 
+
+va a lavorare, il 56% 
+
+prosegue gli studi http://www.campuscesenatour.unibo.it/ www.unibo.it 
+
+## www.isi.polocesena.unibo.it 
+
+orientamento@isi.polocesena.unibo.it Il Collegio Superiore: un’istituzione di eccellenza 
+
+Un percorso formativo interdisciplinare e multisettoriale 
+
+Cos’è 
+
+Un percorso formativo interdisciplinare 
+
+e multisettoriale 
+
+A chi è rivolto 
+
+A studenti e studentesse meritevoli e 
+
+motivati che si iscrivono ad Corso di Laurea 
+
+Cosa si ottiene 
+
+Al termine del Corso Ordinario umanistico -
+
+sociale o scientifico -tecnologico (60 CFU) si 
+
+consegue il Diploma del Collegio Superiore 
+
+equiparato a Master di II livello. 
+
+Cosa offre 
+
+• un docente di alto profilo come Tutor 
+
+• lo scambio con altre scuole di eccellenza 
+
+• l’ alloggio gratuito presso la Residenza Collegio 
+
+Superiore Irnerio 
+
+• altre agevolazioni di natura economica 
+
+Per saperne di più vai su «Stand su Ammissione e opportunità» Continua la visita tra gli stand 
+
+Entra in «Stand su Ammissioni e opportunità» e scopri: 
+
+Borse di studio, 
+
+alloggi e altre 
+
+opportunità 
+
+Il supporto che puoi avere 
+
+durante il percorso universitario 
+
+e tutto quello che devi sapere 
+
+sugli alloggi , l'esonero delle 
+
+tasse e le altre agevolazioni 
+
+Servizio 
+
+Orientamento 
+
+Il servizio , a tuo fianco, per 
+
+diventare protagonista 
+
+consapevole delle tue scelte 
+
+Mobilità 
+
+internazionale per 
+
+studio e tirocinio 
+
+Un’ esperienza all’estero per 
+
+arricchire la tua carriera 
+
+universitaria E dopo Alma Orienta? Inizia il tuo percorso universitario! 
+
+1. Trova il corso che ti interessa 
+
+Su www.unibo.it/corsi trovi il sito del corso in cui sono raccolte le informazioni che ti servono 
+
+2. Leggi come iscriverti 
+
+Sul sito del corso vai su «Iscriversi » per leggere il bando/avviso di ammissione e le altre informazioni 
+
+3. Scopri le borse di studio, le agevolazioni e i servizi 
+
+Vai su www.unibo.it e naviga la sezione «Servizi e Opportunità» 
+
+4. Stay tuned on Instagram.com/unibo 
+
+Seguici sul nostro canale di Ateneo per non perdere le ultime novità Buona navigazione! 
+
+# Fine presentazione

@@ -1,0 +1,101 @@
+Corso di laurea in Ingegneria e Scienze Informatiche 
+
+– Università di Bologna, Sede di Cesena –
+
+# Indicazioni per la stesura delle relazioni di 
+
+# tirocinio curricolare 
+
+1. Scopo 
+
+La relazione di tirocinio ha l’obiettivo di illustrare il contesto in cui è stato effettuato il 
+
+tirocinio e le sue finalità, elencare le attività svolte e valutare complessivamente 
+
+l’esperienza in termini dei contenuti appresi. 
+
+Al termine del tirocinio la relazione deve essere inserita in applicativo tirocini online 
+
+(assieme al registro presenze correttamente compila to, timbrato e firmato) cosicché il 
+
+tutor didattico la possa visionare e possa esprimere il proprio parere; successivamente 
+
+verrà valutata dalla Commissione di Tirocinio. 
+
+2. Struttura 
+
+Complessivamente, la relazione deve indicativamente occupare almeno 6 pagine. Il 
+
+frontespizio deve riportare: 
+
+• i nominativi del tirocinante, del tutor didattico e del tutor aziendale (solo in caso di 
+
+tirocinio esterno); 
+
+• il nome dell’azienda o del laboratorio in cui si sono svolte le attività; 
+
+• un titolo che riassuma la specifica finalità del tirocinio; 
+
+• il periodo esatto di svolgimento delle attività (data inizio e data fine, consistenti con 
+
+quelle indicate nel libretto -diario). 
+
+Per il contenuto della relazione si suggerisce indicativamente la seguente 
+
+organizzazione in sezioni: 
+
+1. Introduzione . In questa sezione il tirocinante introduce il contesto aziendale o 
+
+di laboratorio in cui ha lavorato e spiega l’obiettivo del tirocinio. 
+
+2. Tecnologie . In questa sezione il tirocinante elenca e commenta brevemente le 
+
+tecnologie utilizzate (linguaggi, piattaforme, sistemi operativi, ecc.). 
+
+3. Attività . Questa sezione, eventualmente frazionata in sottosezioni, è quella 
+
+centrale e più corposa dell’elaborato e deve illustrare (dal punto di vista tecnico, non 
+
+necessariamente cronologico ) le attività svolte durante il tirocinio. A eccezione di 
+
+eventuali esempi, non deve includere il codice sviluppato; per descrivere algoritmi si 
+
+usino piuttosto pseudo -codice e/o diagrammi di vario tipo. Per lavori di tipo progettuale 
+
+è utile includere una sintetica documentazione formale di progetto. 4. Conclusioni . In questa parte lo studente trae le conclusioni del lavoro svolto, 
+
+valutando pregi e difetti dell’esperienza e, più specificamente, riassumendo quanto 
+
+appreso. 
+
+5. Bibliografia . Questa sezione, opzi onale, include i riferimenti a manuali, testi e 
+
+articoli scientifici eventualmente consultati durante il lavoro, ordinati per cognome del 
+
+primo autore. 
+
+Un’illustrazione ben fatta può svolgere un ruolo fondamentale nell'esposizione di un 
+
+concetto comples so. Le eventuali figure riportate nel testo dovranno essere centrate e 
+
+ben leggibili. Le figure devono essere numerate progressivamente; sotto ogni figura 
+
+deve comparire, accanto al numero della figura, una breve spiegazione che renda il più 
+
+possibile la f igura comprensibile indipendentemente dalla lettura del testo. Ogni figura 
+
+deve essere citata nel testo; la figura dovrà essere posizionata il più vicino possibile alla 
+
+citazione relativa (possibilmente sulla stessa pagina). 
+
+3. Forma 
+
+Anche uno studente di materie scientifiche deve essere in grado di esprimersi in modo 
+
+preciso, corretto e sintetico. La relazione deve quindi essere scritta in buon italiano e 
+
+priva di errori ortografici e grammaticali. Inoltre, non si tratta di un “diario ” né di un 
+
+carteggio tra amici ma di una relazione ufficiale: pertanto deve essere opportunamente 
+
+formattata e rilegata o puntata.

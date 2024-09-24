@@ -1,0 +1,57 @@
+I servizi offerti, i laboratori, le strutture sono tutte presso il Dipartimento di Matematica con sede in Piazza di Porta San Donato 5, Bologna.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+LE AULE
+-------
+
+Le aule sono tutte dotate di sistema WIFI gratuito d’Ateneo, videoproiettore e possono avere differenti attrezzature e capienza.
+
+[Descrizione completa.](https://matematica.unibo.it/it/dipartimento/sedi-e-spazi/aule)
+
+BIBLIOTECA E SALE STUDIO
+------------------------
+
+La biblioteca si trova presso il Dipartimento di Matematica, Piazza di Porta San Donato, 5.[http://search.unibo.it/CMSUniboWeb/UniboMappe/Default.aspx?kml=/CMSUniboWeb/rubrica.ashx?StrID=10](http://search.unibo.it/CMSUniboWeb/UniboMappe/Default.aspx?kml=/CMSUniboWeb/rubrica.ashx?StrID=10 "Apre in nuova finestra")
+
+**Al piano terra** **la  sala studio** dispone di 80 posti e di due postazioni per la consultazione delle risorse bibliografiche in rete, alle quali si accede con le [Credenziali d'Ateneo.](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/credenziali-istituzionali-e-accesso-ai-servizi-online/credenziali-istituzionali) In sala studio è attiva la rete [ALMAWIFI](https://www.unibo.it/it/servizi-e-opportunita/studio-e-non-solo/wi-fi/almawifi).
+
+**Il locale adiacente (Front Office)** funge da punto di accoglienza ed orientamento: due computer sono a disposizione per la ricerca di libri e altre risorse informative in rete. Al personale presente si compilano le richieste di consultazione e di prestito del materiale bibliografico; sono disponibili a scaffale aperto i testi di supporto agli esami e le novità editoriali. E' possibile fare fotocopie, nel rispetto della normativa sul diritto d'autore, tramite scheda a pagamento.
+
+**Apertura: da lunedì a venerdì dalle ore 9 alle ore 18**.  
+Variazioni di orario per il mese di agosto e festività natalizie vengono comunicate in tempo utile sul sito della Biblioteca. ([http://www.matematica.unibo.it/it/biblioteca](http://www.matematica.unibo.it/it/biblioteca))
+
+**La Sala Riviste** (20 posti) si trova al 4° piano ed è accessibile solo per l'utenza autorizzata.
+
+La  **sezione storica** della Biblioteca, dedicata a **Ettore Bortolotti** e di notevole interesse per la storia della matematica e per la storia dell'architettura, custodisce rare edizioni antiche. Per saperne di più si veda la pagina della biblioteca al link [https://bimfi.sba.unibo.it/](https://bimfi.sba.unibo.it/)  
+La richiesta di consultazione di queste opere va inoltrata direttamente a [Serena Marchionni](mailto:serena.marchionni@unibo.it) con almeno un giorno di anticipo.
+
+**Piano terra - Sala Studio con postazioni informatiche**
+
+Sala studio ad accesso controllato a disposizione degli studenti del corso di laurea in matematica.
+
+La sala dispone di 20 posti e 8 postazioni GNU/Linux Debian.
+
+Per accedere alle postazioni si usano le [Credenziali di Ateneo](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/credenziali-istituzionali-e-accesso-ai-servizi-online/credenziali-istituzionali).
+
+I LABORATORI
+-------------
+
+Laboratorio Docenti
+
+**I piano interno**
+
+Laboratorio informatico riservato al personale del dipartimento, ai visitatori e alle persone espressamente autorizzate dal direttore.
+
+Sono presenti tre postazioni Windows e tre postazioni GNU/Linux Debian.
+
+Per accedere alle postazioni si usano le [Credenziali di Ateneo](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/credenziali-istituzionali-e-accesso-ai-servizi-online/credenziali-istituzionali).
+
+**Laboratorio studenti**
+
+**I piano**
+
+Laboratorio informatico ad accesso controllato a disposizione degli studenti del corso di laurea in matematica.
+
+Il laboratorio ha 48 postazioni GNU/Linux Debian
+
+Per accedere alle postazioni si usano le [Credenziali di Ateneo](http://www.matematica.unibo.it/it/risorse/link/dsa).

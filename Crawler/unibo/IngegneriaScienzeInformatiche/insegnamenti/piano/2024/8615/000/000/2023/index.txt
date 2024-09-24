@@ -1,0 +1,116 @@
+### Primo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 00013 | [ANALISI MATEMATICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00013&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | MAT/05 | 12 |
+| 26338 | IDONEITA' LINGUA INGLESE B - 1 | 1 | E |  | 6 |
+| 00819 | [PROGRAMMAZIONE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00819&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 12 |
+| 58414 | [ALGEBRA E GEOMETRIA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=58414&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | A | MAT/02 | 6 |
+| 11929 | [ALGORITMI E STRUTTURE DATI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=11929&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | A | INF/01 | 12 |
+| 69731 | [ARCHITETTURE DEGLI ELABORATORI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=69731&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | B | ING-INF/05 | 12 |
+
+### Secondo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 77776 | [MATEMATICA DISCRETA E PROBABILITÀ](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=77776&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | C | MAT/02 | 6 |
+| 70219 | [PROGRAMMAZIONE AD OGGETTI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=70219&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | B | ING-INF/05 | 12 |
+| 08574 | [SISTEMI OPERATIVI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=08574&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 12 |
+| 10906 | [BASI DI DATI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=10906&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | B | ING-INF/05 | 12 |
+| 00405 | [FISICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00405&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | A | FIS/01 | 6 |
+| B2561 | [METODI NUMERICI PER L'INTELLIGENZA ARTIFICIALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B2561&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | C | MAT/08 | 6 |
+| 70226 | [PROGRAMMAZIONE DI RETI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=70226&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | A | INF/01 | 6 |
+
+### Terzo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 09032 | [INGEGNERIA DEL SOFTWARE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=09032&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 70218 | [RETI DI TELECOMUNICAZIONE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=70218&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | B | ING-INF/03 | 6 |
+| 00884 | [RICERCA OPERATIVA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00884&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | MAT/09 | 6 |
+| 41731 | [TECNOLOGIE WEB](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=41731&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | A | INF/01 | 6 |
+| 15349 | TIROCINIO | 1 | F |  | 6 |
+
+#### Attività formative per la scelta guidata (12 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 70090 | [COMPUTER GRAPHICS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=70090&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | C | MAT/08 | 6 |
+| 77780 | [SISTEMI EMBEDDED E INTERNET-OF-THINGS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=77780&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | C | ING-INF/05 | 6 |
+| 84339 | [BASI DI DATI AVANZATE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=84339&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | C | ING-INF/05 | 6 |
+| 70227 | INFORMATICA E DIRITTO | 2 | C | IUS/20 | 6 |
+| 72796 | [PROGRAMMAZIONE DI APPLICAZIONI DATA INTENSIVE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=72796&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | C | ING-INF/05 | 6 |
+| 72787 | PROGRAMMAZIONE DI SISTEMI MOBILE | 2 | C | INF/01 | 6 |
+| 17634 | [VISIONE ARTIFICIALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=17634&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | C | ING-INF/05 | 6 |
+
+#### Esami a libera scelta dello studente: (12 - 24 CFU)
+
+##### Lo studente può scegliere fra gli esami sottoelencati, gli esami della scelta guidata sopraindicati e gli insegnamenti presenti nell'offerta formativa di Ateneo.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 72778 | [HIGH-PERFORMANCE COMPUTING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=72778&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 1 | D | INF/01 | 6 |
+| 14015 | [CRITTOGRAFIA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=14015&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | D | INF/01 | 6 |
+| 96642 | [VIRTUALIZZAZIONE E INTEGRAZIONE DI SISTEMI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96642&annoAccademico=2024&codiceCorso=8615&single=True&search=True) | 2 | D | INF/01 | 6 |
+
+#### Prova finale (6 CFU)
+
+##### Lo studente deve scegliere uno dei seguenti gruppi:
+
+##### Gruppo A (massimo 6 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 17268 | PROVA FINALE | 2 | E |  | 6 |
+
+##### Gruppo B (massimo 6 CFU)
+
+##### Lo studente deve scegliere la Prova finale e un'altra attività tra quelle elencate nel gruppo:
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua ingle

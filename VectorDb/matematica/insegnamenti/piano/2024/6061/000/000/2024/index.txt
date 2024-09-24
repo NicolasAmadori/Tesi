@@ -1,0 +1,147 @@
+### Primo Anno di Corso
+
+#### Attività formative obbligatorie (60 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 81853 | [ANALISI MATEMATICA 1A](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81853&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 1 | A | MAT/05 | 9 |
+| B5521 | [ARITMETICA E GRUPPI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B5521&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 1 | A | MAT/02 | 7 |
+| B5526 | [GEOMETRIA E ALGEBRA LINEARE 1](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B5526&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 1 | A | MAT/03 | 9 |
+| 26337 | IDONEITA' LINGUA INGLESE B - 2 | 1 | E |  | 6 |
+| 81854 | [ANALISI MATEMATICA 1B](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81854&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 2 | A | MAT/05 | 6 |
+| B5528 | [GEOMETRIA E ALGEBRA LINEARE 2](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B5528&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 2 | A | MAT/03 | 6 |
+| B5533 | [I PRINCIPI DEL MOTO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B5533&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 2 | A | MAT/07 | 9 |
+| 07276 | [INFORMATICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=07276&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 2 | A | INF/01 | 8 |
+
+### Secondo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| B5550 | ANALISI MATEMATICA 2A | 1 | A | MAT/05 | 9 |
+| B5522 | ANELLI E CAMPI | 1 | B | MAT/02 | 6 |
+| B5561 | MATEMATICA NUMERICA 1 | 1 | B | MAT/08 | 8 |
+| B5551 | ANALISI MATEMATICA 2B | 2 | B | MAT/05 | 8 |
+| 01379 | MECCANICA RAZIONALE | 2 | B | MAT/07 | 9 |
+| 01065 | TOPOLOGIA | 2 | A | MAT/03 | 8 |
+| 66676 | FISICA GENERALE | E | A | FIS/01 | 12 |
+
+### Terzo Anno di Corso
+
+#### Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| B5538 | PROBABILITA' 1 | 1 | B | MAT/06 | 8 |
+| B5531 | VARIETA' DIFFERENZIABILI | 1 | B | MAT/03 | 9 |
+| 17268 | PROVA FINALE | 2 | E |  | 3 |
+
+#### Competenze utili per l'inserimento nel mondo del lavoro (4 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 27994 | ATTIVITA' PROFESSIONALIZZANTE | 1 | F |  | 4 |
+| 82287 | TIROCINIO | 2 | F |  | 4 |
+
+#### Esami a libera scelta (12 CFU)
+
+##### 12 CFU a libera scelta tra i corsi opzionali proposti nella lista "Scelta corsi opzionali" e/o tra tutti gli esami attivati dall'Ateneo. Maggiori informazioni nella pagina "Compilare il piano di studi" nel sito web del corso di laurea.
+
+##### Percorso (24 CFU)
+
+##### Il terzo anno è caratterizzato dalla possibilità di personalizzare il percorso. Lo studente deve scegliere fra due percorsi in rapporto ai suoi interessi e alle sue aspirazioni culturali e professionali: percorso teorico o percorso modellistico applicativo. In entrambi i percorsi sono presenti attività di indirizzo e insegnamenti liberi, nell'ambito della matematica.
+
+##### Percorso Modellistico Applicativo (massimo 24 CFU)
+
+##### Il percorso è caratterizzato da una lista di insegnamenti modellistici. Lo studente deve scegliere 1 fra i 3 insegnamenti integrati proposti che corrispondono ad approfondimenti nell'ambito delle discipline: analisi numerica, fisica matematica e probabilità. Il percorso si completa con la scelta di due esami opzionali da individuare fra quelli della lista "Scelta corsi opzionali".
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| B6216 | ISTITUZIONI DI ANALISI NUMERICA E PROBABILITA' | 1 | C |  |  |
+| B6217  MATEMATICA NUMERICA 2 | 1 | C | MAT/08 | 6 |
+| B6218  PROBABILITA' 2 | 2 | C | MAT/06 | 6 |
+| B6221 | ISTITUZIONI DI FISICA MATEMATICA E PROBABILITA' | 1 | C |  |  |
+| B6220  MECCANICA ANALITICA | 1 | C | MAT/07 | 6 |
+| B6218  PROBABILITA' 2 | 2 | C | MAT/06 | 6 |
+| B6219 | ISTITUZIONI DI ANALISI NUMERICA E FISICA MATEMATICA | 2 | C |  |  |
+| B6217  MATEMATICA NUMERICA 2 | 2 | C | MAT/08 | 6 |
+| B6220  MECCANICA ANALITICA | 1 | C | MAT/07 | 6 |
+
+##### Percorso Teorico (massimo 24 CFU)
+
+##### Il percorso è caratterizzato da due insegnamenti obbligatori: Analisi Matematica e un insegnamento integrato di Algebra e Geometria. Il percorso si completa con la scelta di un esame opzionale da individuare fra quelli della lista "Scelta corsi opzionali".
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 81657 | ANALISI MATEMATICA 3 | 1 | C | MAT/05 | 6 |
+| B5721 | ISTITUZIONI DI ALGEBRA E GEOMETRIA | 1 | C |  |  |
+| B5742  ALGEBRE | 1 | C | MAT/02 | 6 |
+| B5743  GEOMETRIA COMPLESSA | 2 | C | MAT/03 | 6 |
+
+#### Scelta corsi opzionali
+
+##### Gruppo di insegnamenti proposti dal corso di laurea per integrare le competenze acquisite con contenuti più avanzati. Gli studenti devono individuare nella lista gli insegnamenti come indicato nel percorso scelto (teorico o modellistico applicativo). Inoltre tale lista può essere utilizzata anche per individuare gli "Esami a libera scelta".
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 17/02/2025 - 30/05/2025 E: 16/09/2024 - 30/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| B5524 | ALGEBRE | 1 | C | MAT/02 | 6 |
+| 81657 | ANALISI MATEMATICA 3 | 1 | C | MAT/05 | 6 |
+| B0316 | ELEMENTI DI CALCOLO DELLE VARIAZIONI | 1 | C | MAT/05 | 6 |
+| B5549 | GEOMETRIA ALGEBRICA 1 | 1 | C | MAT/03 | 6 |
+| 00662 | LOGICA MATEMATICA | 1 | C | MAT/01 | 6 |
+| B5562 | MATEMATICA NUMERICA 2 | 1 | C | MAT/08 | 6 |
+| 00686 | MECCANICA ANALITICA | 1 | C | MAT/07 | 6 |
+| 00884 | RICERCA OPERATIVA | 1 | C | MAT/09 | 6 |
+| 04310 | COMPLEMENTI DI ANALISI MATEMATICA | 2 | C | MAT/05 | 6 |
+| 04132 | ELEMENTI DI ANALISI FUNZIONALE | 2 | C | MAT/05 | 6 |
+| 68486 | EQUAZIONI DIFFERENZIALI ORDINARIE | 2 | C | MAT/05 | 6 |
+| B5535 | FONDAMENTI MATEMATICI DELLA MECCANICA QUANTISTICA | 2 | C | MAT/07 | 6 |
+| 96728 | GEOMETRIA COMPLEXXA | 2 | C | MAT/03 | 6 |
+| 54777 | GEOMETRIA PROIETTIVA | 2 | C | MAT/03 | 6 |
+| 95662 | INTRODUCTION TO MACHINE LEARNING | 2 | C | MAT/06 | 6 |
+| B5537 | [INTRODUZIONE AI SISTEMI COMPLESSI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B5537&annoAccademico=2024&codiceCorso=6061&single=True&search=True) | 2 | C | MAT/07 | 6 |
+| 97333 | INTRODUZIONE AL CALCOLO SCIENTIFICO | 2 | C | MAT/08 | 6 |
+| 12569 | [MATEMATICA COMPUTAZIONALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=12

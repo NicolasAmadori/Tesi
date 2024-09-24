@@ -1,0 +1,6 @@
+Ecco un po' di materiale informativo che può esserti utile per conoscere il corso.
+
+*   [slide di presentazione](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/almaorienta_lt_isi-1.pdf);
+*   [Ingegneria e Scienze Informatiche e Tecnologie dei Sistemi Informatici a confronto](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/intro_2021_lt_lp.pdf);
+*   [risposte alle domande più frequenti](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/faq-ingegneria-e-scienze-informatiche-cesena.pdf);
+*   [ulteriori approfondimenti](https://www.tes.com/lessons/Xa6rOhhJTl3hlA/ingegneria-e-scienze-informatiche).

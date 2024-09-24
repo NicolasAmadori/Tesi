@@ -1,0 +1,553 @@
+> 1
+
+# LINEE GUIDA PER LA STESURA 
+
+# DELL’ELABORATO FINALE 
+
+# Corso di Laurea in 
+
+# Sviluppo e Cooperazione Internazionale 2
+
+Sommario 
+
+1. Introduzione ..................................................................................................................................... 3
+
+2. La struttura dell’elaborato ............................................................................................................... 5
+
+3. Norme tipografiche .......................................................................................................................... 8
+
+4. Come inserire le citazioni ................................................................................................................ 9
+
+5. Come impostare la bibliografia ..................................................................................................... 11 3
+
+# 1. Introduzione 
+
+Lo scopo di questa breve guida è fornire ai laureandi le linee guida per la stesura dell’elaborato finale 
+
+incluse le principali norme redazionali e di citazione per poter scrivere la propria tesi di laurea. Si 
+
+tratta, tuttavia, di suggerimenti e indicazioni che restano validi anche in numerosi altri ambiti 
+
+scientifici. 
+
+La prima decisione da prendere riguarda chiaramente l'argomento della tesi . E' bene sceglierne uno 
+
+che interessi sia il laureando che il relatore (dopotutto entrambe dovranno lavorarci per qualche tempo). 
+
+Il passo successivo è quello di cercare libri, articoli, siti web e leggere, leggere, leggere .
+
+Se non si ha ancora un’idea precisa di cosa studiare, il consiglio è quello di iniziare a sfogliare libri e 
+
+riviste fino a trovare un articolo o un capitolo che attiri l’attenzione. 
+
+Si può iniziare dalla consultazione di opere generali riguardanti la disciplina in cui ci si intende 
+
+laureare (per questo, si può chiedere un consiglio al docente di riferimento). Queste prime letture 
+
+devono essere finalizzate a: 
+
+- restringere l'argomento entro limiti che permettano di trattarlo nell'arco di tempo che si 
+
+intende dedicare alla stesura della tesi; 
+
+- compilare una prima bibliografia di b as e sull'oggetto del lavoro (tracciando i lavori citati 
+
+nelle opere consultate). 
+
+Tuttavia, è importante tenere presente che l’elaborato finale NON deve essere la semplice ripetizione 
+
+di nozioni acquisite durante le lezioni. Al contrario, deve costituire un approfondimento di un 
+
+argomento trattato nell’insegnamento oppure sviluppare un tema nuovo. 
+
+Quando si avrà un'idea più precisa di ciò che si vuole studiare, sarà molto utile pensare a un titolo .
+
+Potrebbe non essere quello definitivo, ma aiuterà ugualmente a comunicare agli altri, e a rendere più 
+
+chiaro a se stessi, ciò che si vuole scrivere. Si suggerisce di pensare a un titolo breve che dia conto dell' 
+
+“idea forte”, del “nocciolo” del lavoro (il titolo in buona sostanza deve essere un “faro” che aiuti a non 
+
+perdere di vista l'obiettivo finale e a non “andare fuori tema”); nel sottotitolo invece si potrà dare 
+
+un'indicazione più esaustiva e strutturata dei contenuti. 
+
+Una volta compilata la bibliografia iniziale si inizierà la vera e propria ricerca bibliografica . In primo 
+
+luogo si consulteranno i testi citati nelle opere di consultazione e, attraverso la bibliografia in essi 
+
+contenuta, si evidenzieranno altri testi da consultare seguendo un processo “a cascata”. 
+
+Successivamente attraverso l'utilizzo dei cataloghi elettronici delle biblioteche si amplierà 
+
+ulteriormente la ricerca (in questo senso potrebbe essere utile consultare, oltre al catalogo Unibo i
+
+cataloghi di altre Università o biblioteche cittadine. Oltre ai volumi accreditati, è spesso importante la 4
+
+consultazione di riviste scientifiche e rapporti di ricerca pubblicati possibilmente da enti e
+
+organizzazioni riconosciute. A tal proposito ci si può recare personalmente nelle biblioteche oppure 
+
+accedere alle risorse elettroniche (è preferibile connettersi attraverso la rete di Ateneo in modo da avere 
+
+accesso a riviste e risorse altrimenti non accessibili). Si consiglia anche l’utilizzo dei motori di ricerca 
+
+(in particolare SCHOLAR oppure JSTOR ) attraverso l’utilizzo di parole chiave. 
+
+Wikipedia non è sempre una fonte attendibile, dato che chiunque può modificare i contenuti e non 
+
+sempre il “referaggio” è tempestivo e puntuale. Le informazioni presentate, inoltre, sono spesso tratte 
+
+da monografie e riviste scientifiche già date alle stampe quindi...consultate quelle! 
+
+Prima di procedere con la lettura dell’articolo, si consiglia di fare una prima scrematura dei lavori 
+
+concentrandosi sulla lettura degli abstract in modo da determinare se l’articolo in questione è di 
+
+interesse oppure no. 
+
+Potrebbe essere utile costruire una scheda bibliografica con l'elencazione dei testi consultati e da 
+
+consultare. Per esempio in un foglio Excel si potrebbe costruire una tabella a più colonne con 
+
+indicazione dell'autore, del titolo dell'opera, della biblioteca in cui è conservata e della sua collocazione 
+
+(con in comandi del programma si potrà così ordinare i testi in ordine alfabetico per autore – per 
+
+compilare la bibliografia da riportare nella tesi - o per biblioteca - in modo tale da organizzare 
+
+efficientemente gli spostamenti dall'una all'altra). Potrà essere inoltre conveniente aggiungere anche 
+
+una colonna ulteriore in cui segnalare citazioni e concetti importanti trovati nei testi consultati. 
+
+Parallelamente alla ricerca bibliografica si costruirà una scaletta o indice provvisorio (una sorta di 
+
+“progenitore” dell'indice definitivo) indicando per ogni paragrafo la bibliografia di riferimento sul 
+
+tema. 
+
+Esempio: 
+
+Scaletta degli argomenti. 
+
+Capitolo 1: breve descrizione del contenuto. Eventuale suddivisione in paragrafi. Riferimenti: 
+
+libro A; articolo B; …. 
+
+Capitolo 2: breve descrizione del contenuto. Eventuale suddivisione in paragrafi. Riferimenti: 
+
+libro C; articolo D;…. 
+
+Capitolo 3: breve descrizione del contenuto. Eventuale suddivisione in paragrafi. Riferimenti: 
+
+libro D; articolo E;….  
+
+> E’
+
+consigliabile iniziare a pensare all’indice sin dai primi passi della ricerca bibliografica perché aiuta a 
+
+ordinare e organizzare le idee e il lavoro successivo. E’ buona prassi condividere con il docente di 
+
+riferimento l’indice in modo da concordare l’impostazione del lavoro. 5
+
+# 2. La struttura dell’elaborato 
+
+Si consiglia di strutturare il saggio nel modo seguente: 
+
+1. ABSTRACT 
+
+2. INTRODUZIONE 
+
+3. CORPO (composta solitamente da tre capitoli titolati in maniera opportuna a seconda del contenuto) 
+
+4. CONCLUSIONI 
+
+5. BIBLIOGRAFIA 
+
+6. (Eventuale APPENDICE) 
+
+2.1 Abstract 
+
+E’ la estrema sintesi dei contenuti, degli obiettivi e dei principali risultati riportati nel saggio (massimo 
+
+2000 caratteri). 
+
+Verrà inserito nell’apposito spazio durante l’operazione di upload della tesi completa e non va inserito 
+
+anche all’interno dell’elaborato stesso (file pdf). Anche se appare per prima, è l’ULTIMA COSA che 
+
+va scritta sintetizzando sia l’introduzione sia le conclusioni.. 
+
+2.2 Introduzione 
+
+Contiene le motivazioni della ricerca, le assunzioni di base, gli obiettivi e una breve descrizione della 
+
+metodologia da utilizzare. A differenza dell’abstract, NON è una sintesi dei contenuti più importanti e 
+
+non considera i risultati della ricerca. Piuttosto, fa richiamo a risultati di ricerca precedenti presenti in 
+
+letteratura. Nello specifico, l’introduzione risponde alle seguenti domande: 
+
+- Qual è esattamente l’argomento di interesse? 
+
+- Qual è il contesto storico e geografico di riferimento? 
+
+- Quali sono gli obiettivi dell’elaborato? 
+
+- Con quale approccio teorico e con quali strumenti si affronterà la ricerca? 
+
+- Quali sono le condizioni sotto le quali l’approccio proposto è valido? 
+
+L’introduzione si chiude con la descrizione di come è organizzato il saggio. Ad es.: “Nel capitolo 2 
+
+verrà illustrato l’approccio teorico noto come Prevalence theory ; nel paragrafo 3 verranno discusse le 
+
+applicazioni di tale alla realtà italiana…”. 
+
+2.3 Corpo principale 
+
+E’ composto solitamente da 3 o 4 capitoli titolati in maniera opportuna a seconda del contenuto. 
+
+Contiene lo sviluppo dell’elaborato unitamente alle considerazioni e le interpretazioni relative 6
+
+all’argomento trattato. 
+
+Si faccia attenzione al fatto che un elaborato non deve essere una banale sequenza di citazioni o di dati. 
+
+I contenuti devono avere un filo logico e tendere verso gli obiettivi specificati nell’introduzione. 
+
+Inoltre, la finalità dell’elaborato non deve essere quella di contenere più cose possibili ma di presentare 
+
+solo quelle informazioni che risultino rilevanti per raggiungere gli obiettivi posti nell’introduzione. Si 
+
+ricordi che la stesura di un saggio è frutto di un processo di selezione e organizzazione dell’informazione 
+
+oltre che di rielaborazione dei contenuti. 
+
+2.3.1 Tabelle, grafici e figure 
+
+Sono un importante sostegno per leggere meglio e in modo più sintetico i contenuti. Ogni 
+
+tabella/grafico/figura va numerato/a in maniera progressiva e deve riportare una specifica didascalia che 
+
+ne riassume in maniera chiara e inequivocabile il contenuto. Ad esempio: 
+
+All’interno del testo si citano grafici/tabelle/figure facendo uso della numerazione progressiva adottata 
+
+(ad esempio: “in figura 1.1 si mostra che”). Se si fa fatica a sintetizzate un grafico/tabella/figura con 
+
+una opportuna didascalia, è altamente probabile che il contenuto non sia strettamente necessario 
+
+allo sviluppo dell’elaborato. In tal caso, si consiglia di procedere a una modifica, una sintesi o alla 
+
+esclusione del grafico/tabella/figura .
+
+Testo e grafici/figure/tabelle sono due parti complementari: il testo deve essere comprensibile anche 
+
+senza ricorrere alle tabelle, figure e grafici, e quest’ultimi devono poter essere letti anche senza leggere 
+
+il testo. Ovviamente, se si decide di inserire una tabella, un grafico o una figura è importante 
+
+commentarli nel testo (fornendone così una chiave di lettura). 
+
+Nei grafici e figure, limitare al massimo l’uso di “effetti speciali” quali, ad esempio, l’effetto 
+
+tridimensionale, ombreggiature o un testo colorato. In linea generale, grafici e figure troppo elaborati o 
+
+con un contenuto di informazioni eccessivo rendono illeggibili i risultati. Meglio inserire due o più 
+
+grafici/figure semplici piuttosto che uno troppo complesso. Inoltre, limitare al massimo l’uso dei colori: 
+
+spesso i documenti vengono stampati in bianco e nero il che rende illeggibili i grafici basati su diversi 
+
+colori. 7
+
+Evitare tabelle contenenti una gran mole di cifre. Ogni tabella deve essere letta senza fatica mostrando 
+
+una sintesi dei risultati ottenuti. 
+
+2.4 Conclusioni 
+
+Questa sezione contiene in maniera sintetica ed efficace i risultati. Si evidenziano le risposte che la 
+
+ricerca ha fornito ai quesiti iniziali, i limiti dell’elaborato e si forniscono eventuali direttrici verso cui 
+
+muoversi per approfondire i temi trattati. 
+
+2.5 Bibliografia 
+
+Alla fine del saggio, prima di eventuali appendici, va riportata la bibliografia completa (in ordine 
+
+alfabetico per cognome del primo autore e, nel caso ci siano più articoli di uno stesso autore, inserendoli 
+
+in ordine temporale). 
+
+Molto importante è la seguente regola: tutto ciò che viene citato nel testo deve essere reperibile in 
+
+bibliografia e tutto ciò che è in bibliografia deve essere citato nel testo (eventualmente anche come fonte 
+
+di dati). Fare dunque molta attenzione a controllare che ogni citazione nel testo abbia un corrispettivo 
+
+nella bibliografia ed evitare di infarcire la bibliografia con articoli e libri non citati nel testo. 
+
+Si rimanda alla sezione 5 per le regole su come impostare la bibliografia. 
+
+2.6 Appendice 
+
+È una sezione opzionale contente approfondimenti e materiali su specifici aspetti trattati nell’elaborato. 
+
+La scelta di inserire del materiale in appendice è guidata dalle seguenti motivazioni: 
+
+- quando non si è completamente certi che il lettore conosca un argomento presente nel testo, si 
+
+inseriscono delle spiegazioni supplementari (definizioni, formule, suggerimenti) su concetti 
+
+trattati nel saggio. 
+
+- quando si ritiene utile fornire degli argomenti o dei dati di approfondimento su uno o più aspetti 
+
+trattati nel caso in cui l’inserimento di queste informazioni supplementari avrebbero appesantito 
+
+troppo il testo. 
+
+2.7 Alcune considerazioni di carattere generale 
+
+La forma ha la sua importanza. La lettura di libri e articoli sull’argomento prescelto fornisce anche 
+
+preziosi esempi sullo stile da utilizzare nel saggio. Tuttavia, è bene evitare frasi troppo lunghe (una frase 
+
+non dovrebbe superare le due righe di stampa) e fare attenzione agli errori ortografici e sintattici (il 
+
+correttore di Word può essere utile ma non basta). Evitare errori di formattazione banali come i doppi 
+
+spazi e, soprattutto la posizione della virgola: rispettare la sequenza parola_virgola_spazio_parola. 
+
+Questa sequenza è valida per tutti gli altri segni di punteggiatura tranne l’apostrofo che invece non 8
+
+prevede lo spazio subito dopo. L’ideale sarebbe far leggere il saggio ad altre persone per avere un 
+
+feedback. 
+
+# 3. Norme tipografiche 
+
+2.1 Impostare la pagina 
+
+Il formato del foglio è A4 con orientamento verticale; nel caso la pagina fosse interamente occupata 
+
+da una tabella con molte colonne, si consiglia di orientare la pagina orizzontalmente. 
+
+Margini: a destra 2 cm, a sinistra 3 cm, superiore 2 cm, inferiore 2. 
+
+Non si deve dimenticare di impostare il numero di pagina a piè di pagina, in posizione centrale. 
+
+L’inserimento del numero di nota nel testo va fatto alla fine della frase, dopo il punto .
+
+Unica eccezione è la citazione esatta di un periodo all’interno di una frase. In questo caso il numero 
+
+della nota per il rimando bibliografico deve essere messo subito dopo la citazione. 
+
+Ogni nota deve essere conclusa dal punto, sempre e senza eccezioni. 
+
+2.2 Impostare il paragrafo 
+
+L'allineamento del paragrafo da impostare è “ Giustificato ”. 
+
+L'interlinea adottata è “ 1,5 ”. 
+
+Va inoltre impostato il rientro della prima linea del paragrafo alla misura di 1 cm. 
+
+2.3 Impostare il carattere 
+
+Tipo del carattere: Times New Roman .
+
+Stile del carattere: Normale .
+
+Dimensione del carattere: 12 nel testo e 10 nelle note .
+
+2.4 Impostare l'indice 
+
+Qui di seguito si fornisce un esempio di indice da inserire prima del testo della tesi. 
+
+Indice 
+
+Introduzione numero pagina 9
+
+Capitolo 1: Titolo capitolo 1 numero pagina 
+
+1.1 Titolo paragrafo 1.1 numero pagina 
+
+1.2 Titolo sotto-paragrafo 1.2. numero pagina 
+
+…
+
+Capitolo 2: Titolo capitolo 2 numero pagina 
+
+…
+
+Conclusioni numero pagina 
+
+Bibliografia numero pagina 
+
+# 4. Come inserire le citazioni 
+
+Risulta estremamente importante citare adeguatamente tutte le fonti . Non è un problema riportare 
+
+cose già scritte da altri a patto che si citi sempre la provenienza. Tutto ciò che viene letto e poi utilizzato 
+
+nella stesura del saggio deve essere esplicitamente citato. È bene tenere sin dalla prima lettura un 
+
+archivio dei testi consultati in modo da poterli poi eventualmente inserire nella bibliografia. 
+
+Lo stile tipico di citazione prevede la specificazione tra parentesi del cognome degli autori e dell’anno 
+
+di edizione: 
+
+“tenderebbero in media, a essere più abili, ambiziosi, aggressivi e intraprendenti rispetto a coloro 
+
+i quali sono rimasti (o sono tornati) nel loro posto d’origine (Chiswick, 1999). 
+
+oppure, 
+
+“Piore (1979) parla di “ribellione della seconda generazione” per identificare la risposta al 
+
+mancato adeguamento dei figli a quelli che sono stati gli standard lavorativi, umili e precari, 
+
+dei loro genitori” 
+
+Se un paragrafo segue in modo abbastanza fedele l’esposizione di un’opera si può esordire dicendo: 
+
+“In questo paragrafo illustreremo l’importanza delle euristiche decisionali secondo l’approccio 
+
+di Gigerenzer et al. (2000)”. 10 
+
+Come appare in quest’ultimo esempio, quando gli autori sono più di due si indica solo il primo seguito 
+
+da “et al.”. 
+
+“In Italia, le principali regioni di destinazione al Nord (in ordine di attrattività) sono Emilia-
+
+Romagna, Lombardia, Trentino e Piemonte. Al Centro, diminuiscono i flussi verso Toscana e 
+
+Lazio, nelle Marche cresce molto la mobilità sia in entrata sia in uscita, ma con saldi fortemente 
+
+negativi (ANVUR, 2016; 2018; Cersosimo et al., 2016a; Cersosimo et al., 2018; Ferrara e 
+
+Nisticò, 2018).” 
+
+Nel caso in cui si citi un saggio parola per parola, la parte citata va inserita tra virgolette e 
+
+preferibilmente va indicato anche il numero di pagina. Ad esempio: 
+
+“davvero importante in molti paesi come evidenziato in diverse testimonianze: “Abbiamo dato 
+
+alla Francia pittori come Paul Cézanne il cui vero cognome era Cesana, statisti come Léon 
+
+Gambetta che restituì l’orgoglio al suo paese dopo la sconfitta di Sedan o scrittori come Emile 
+
+Zola […].Abbiamo dato all’Argentina patrioti quali Manuel Belgrano […]. E poi scrittori 
+
+come Ernesto Sabato, grandi musicisti come Astor Piazzola” (Stella, 2003, pag. 8).” 
+
+Bisogna citare sempre la fonte dei dati, anche se reperiti sul web. Ad esempio 
+
+(Fonte: OCSE, 2003) 
+
+É lecito riprodurre sia integralmente che parzialmente una tabella o una figura presa da un libro o da un 
+
+articolo. Tuttavia, va sempre citato l’autore in calce alla tabella o al grafico. Se si eseguono delle 
+
+elaborazioni proprie (aggregazioni, somme, quozienti, approssimazioni, ecc.) a partire da tabelle 
+
+pubblicate, bisognerà specificarlo in calce alla tabella. Ad esempio, 
+
+“Proprie elaborazioni su Bonifazi (2007)” 
+
+É importante non far passare per elaborazioni proprie ciò che è stato fatto da altri. 
+
+Un modo alternativo di inserire le citazioni intra-testo è quello di specificare la fonte (archivistica, 
+
+bibliografica, etc.) in una nota a più pagina. Le note a più pagina possono essere utili anche inserire 
+
+informazioni aggiuntive che potrebbero “appesantire” il testo principale; 11 
+
+# 5. Come impostare la bibliografia 
+
+Nella letteratura vi sono diversi standard per la compilazione della bibliografia. Solitamente, ogni casa 
+
+editrice ha le proprie regole. Inoltre, diversi ambiti disciplinari potrebbero seguire standard diversi. E’ 
+
+buona norma concordare con il docente lo standard da seguire. Ad ogni modo, riportiamo di seguito 
+
+alcuni esempi di compilazione che, in mancanza di altre indicazioni, possono essere usati come 
+
+riferimento. 
+
+Libro (monografia) 
+
+Ariès P., 1994, Padri e figli nell’Europa medievale e moderna , Laterza, Bari. 
+
+Braudel F, 1986, Civiltà e imperi del Mediterraneo nell'età di Filippo II , vol. I, , Einaudi, Torino, 
+
+pp. 67-83. 
+
+Articolo su rivista scientifica (riportando volume, numero, numeri di pagina). 
+
+Vaupel J.W., K.G. Manton, E. Stallard, 1979, “The Impact of Heterogeneity in Individual 
+
+Fraility on the Dynamics of Mortality”, Demography , 16(3): 439-454. 
+
+Light D. W. 2004, “From migrant enclaves to mainstream: Reconceptualising informal 
+
+economic behavior”. Theory and Society , 33: 705–37. 
+
+Articolo in un volume collettaneo (curatela) 
+
+Trussell J., J. Menken, A.J. Coale, 1982, “A General Model for Analyzing the Effect of 
+
+Nuptiality on Fertility”, in L.T Ruzicka (A cura di), Nuptiality and Fertility , Ordina 
+
+Editions, Liège, p. 7-27. 
+
+Ravid B., 1987, The religious, economic and social background and context of the establishment 
+
+of the Ghetto of Venice , in G. Cozzi (A cura di), Gli ebrei a Venezia dal XIV al XVIII secolo. 
+
+Atti del convegno internazionale di studi, Venezia, Fondazione Giorgio Cini, 5-10 giugno 
+
+1983 , Edizioni di Comunità, Milano, pp. 211-259. 
+
+Da sito internet 
+
+Trademark Italia e Sociometrica, 2007, Dove vanno in vacanza gli italiani 2007 ,
+
+http://www.trademarkitalia.com/ricerche.cfm?IdNews=2990 
+
+Articolo in un quotidiano 
+
+Delombre P." Nouvelle profession de foi financière", Le temps , 22 giugno 1920, p. 6. 
+
+Film o documentari 
+
+Welles Orson, Citizen Kane (Quarto potere), USA, 1941. 12 
+
+Quando lo stesso autore è citato più volte nello stesso anno, si aggiunge solitamente una lettera, partendo 
+
+da a e b e così via, sia nei richiami nel testo sia nella bibliografia alla fine (ad es. Ariès, 1994a; Ariès, 
+
+1994b). 
+
+Se non si è letto direttamente un testo non va citata, ma si può citare in maniera indirettaa (ad es. 
+
+“secondo le teorie di Leibenstein (citato in Micheli, 1991)”). 
+
+Se le fonti principali su cui si basa la tesi sono normative giuridiche si può redigere una bibliografia 
+
+separata seguendo queste indicazioni: 
+
+- leggi. Esempio: legge n. 24 del 24 gennaio 1979 
+
+- decreti legge e decreti legislativi. Esempio: decreto legge (o decreto legislativo) n. 835 del 19 
+
+dicembre 1984 
+
+- fonti comunitarie. Esempio: regolamento n.1012, del 23 maggio 1993)

@@ -1,0 +1,128 @@
+1.  [Complementi di Analisi Matematica](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#66698) ([prof. V. Martino](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#123))
+2.  [Complementi di Algebra](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#54776) (prof.ssa M. Morigi)
+3.  [Curve e superifici](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#Curve96733) (prof.ssa A. Grassi)
+4.  [Geometria Proiettiva](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#Geom54777) (proff. A. Gimigliano, A. Grassi, M. Idà)
+5.  [Logica Matematica](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#00662) (prof. P. Plazzi)
+6.  [Statistica Matematica](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#75339) (prof. M.Campanino)
+7.  [Teoria dei Numeri 1](https://corsi.unibo.it/laurea/matematica/guida-alla-scelta-dei-corsi-opzionali#28442) (prof.ssa M. Barnabei)
+
+**_****COMPLEMENTI DI ANALISI MATEMATICA_** (prof. V. Martino)**_
+
+_Quali materie devo conoscere per frequentare questo corso?_  
+Analisi Matematica 1A, Analisi Matematica 1B e Analisi Matematica 2.
+
+_Perché è interessante studiare gli argomenti del corso? Che applicazioni ci sono ad altre parti della matematica?._
+
+L’obiettivo del corso è quello di completare la formazione di analisi di base degli studenti del corso di Laurea in Matematica. La prima parte del corso è dedicata alle Serie di Fourier. L'analisi di Fourier, sviluppata inizialmente per fornire una spiegazione al fenomeno della propagazione del calore, ha poi trovato applicazione negli ambiti più disparati: dalla tomografia in medicina, alla cristallografia, dalla radioastronomia fino alla riproduzione e sintesi del suono.  
+La seconda parte del corso è dedicata all’integrale di superficie, al teorema della divergenza e all’integrazione delle forme differenziali su varietà, con o senza bordo. Il calcolo delle forme differenziali su varietà ha le sue origini nelle varie forme che assume il teorema di integrazione per parti nel caso di più variabili: il teorema della divergenza di Gauss e il teorema di Stokes. Questi ultimi teoremi sono strumenti indispensabili per capire una parte significativa della fisica classica da un punto di vista matematico e per affrontare i primi problemi che emergono nello studio delle equazioni alle derivate parziali.
+
+_Chiave di apprendimento:_
+
+_Dato un segnale f (funzione periodica) lo studente saprà calcolare la sua serie di Fourier e saprà stabilire se questa converge a f puntualmente, uniformemente, o in media quadratica. Lo studente saprà anche utilizzare le serie di Fourier per risolvere alcuni problemi di equazioni alle derivate parziali in due variabili, come il problema di Dirichlet per il Laplaciano sul disco unitario e il problema di Cauchy Dirichlet per l'equazione del calore. Successivamente studieremo questi problemi in più variabili, utilizzando il teorema della divergenza. Lo studente imparerà a calcolare integrali superficiali, necessari per esempio per calcolare potenziali newtoniani, o semplicemente per calcolare le aree di oggetti geometrici come la sfera nello spazio euclideo n-dimensionale._
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Torna su_
+
+**_COMPLEMENTI DI ALGEBRA_** (prof. M. Morigi)**_
+
+_Quali materie devo conoscere per frequentare questo corso?_  
+Algebra 1 e Algebra 2.
+
+_Perché è interessante studiare gli argomenti del corso? Che applicazioni ci sono ad altre parti della matematica?._
+
+La teoria di Galois è estremamente elegante e dimostra risultati profondi utilizzando tecniche algebriche che spaziano in svariati settori (combinatoria, teoria dei gruppi e dei campi).Si applica in particolare alla risoluzione di equazioni polinomiali tramite radicali. La teoria dei moduli permette di vedere da un punto di vista più generale concetti già noti di algebra lineare e fornisce strumenti utili per la teoria della rappresentazione.
+
+_Chiave di apprendimento:_
+
+_Conoscenza del gruppo di Galois di un'estensione di campi e della corrispondenza di Galois. Conoscenza dei moduli finitamente generati su alcune classi di anelli. in particolare anelli noetheriani e domini euclidei._
+
+_Quegli argomenti mi interessano davvero! Come fare per approfondire questi argomenti? Cosa studiare per farlo?._  
+Lo studio dell'Algebra è fondamentale per comprendere la geometria algebrica, insieme al corso Geometria Proiettiva, con cui è collegato.  Il corso consiste di presentazione teoriche insieme a molti esempi ed applicazioni. In particolare presenteremo collegamenti con algebra, geometria, topologia, analisi, risultati recenti e problemi aperti.
+
+_Torna su_
+
+_GEOMETRIA PROIETTIVA (proff. A. Gimigliano, A. Grassi, M. Idà)_**
+
+_Quali materie devo conoscere per frequentare questo corso?_  
+Geometria 1A, Geometria 1B, Algebra1, Algebra 2.
+
+_Perché è interessante studiare gli argomenti del corso? Che applicazioni ci sono ad altre parti della matematica?_
+
+La conoscenza della geometria proiettiva consente di capire meglio e più a fondo la geometria degli spazi affini; permette di avere modelli interessanti per la topologia; è uno dei primi passi per studiare geometria algebrica, insieme al corso Curve e Superfici, con cui è collegato. Inoltre la geometria proiettiva ha applicazioni in computer vision.
+
+_Chiave di apprendimento:_
+
+_Una prima conoscenza degli spazi proiettivi, delle curve algebriche piane e delle curve e superfici algebriche dello spazio proiettivo 3-dimensionale._
+
+_Torna su_
+
+_LOGICA MATEMATICA (prof. P. Plazzi)**_
+
+_Quali materie devo conoscere per frequentare questo corso?_  
+Non c'è nessun prerequisito specifico, se non la matematica studiata alle scuole superiori, ma bisogna avere esperienza di dimostrazioni in Algebra (calcolo letterale) e geometria.
+
+_Perché è interessante studiare gli argomenti del corso? Che applicazioni ci sono ad altre parti della matematica?_  
+La logica matematica è importante per comprendere l'esigenza di dimostrazioni corrette in matematica e analizzarle (perché alcune dimostrazioni sembrano corrette e non lo sono?) . Il ragionamento matematico è quello alla base del funzionamento dei calcolatori, e quindi ci sono molte connessioni e applicazioni in àmbito informatico.
+
+_Chiave di apprendimento:_
+
+_La capacità di impostare ed esporre chiaramente dimostrazioni e soprattutto di analizzarne la struttura e le motivazioni._
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+**_STATISTICA MATEMATICA_** (prof. M. Campanino)**_
+
+_Quali materie devo conoscere per frequentare questo corso?_  
+Analisi Matematica, Algebra Lineare, Probabilità
+
+_Perché è interessante studiare gli argomenti del corso? Che applicazioni ci sono ad altre parti della matematica?_  
+Permette di conoscere uno degli importanti campi di applicazione della matematica.
+
+_Chiave di apprendimento:_
+
+_Risolvero equazioni diofantee e congruenze, trovare terne pitagoriche, applicare metodi geometrici o gruppali a situazioni aritmetiche._
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+**_TEORIA DEI NUMERI 1_** (prof. M. Barnabei)**_
+
+_Quali materie devo conoscere per frequentare questo corso?_  
+Algebra I
+
+_Perché è interessante studiare gli argomenti del corso? Che applicazioni ci sono ad altre parti della matematica?_  
+A detta di Gauss, la Teoria dei Numeri è la regina della Matematica. I problemi che propone possono essere semplici nell'enunciato, ma estremamente complessi e stimolanti nelle risposte.
+
+_Chiave di apprendimento:_
+
+_Risolvere equazioni diofantee e congruenze, trovare terne pitagoriche, applicare metodi geometrici o gruppali a situazioni aritmetiche._
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Chiave di apprendimento:_
+
+_Torna su_

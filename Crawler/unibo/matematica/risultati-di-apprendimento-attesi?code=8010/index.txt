@@ -1,0 +1,79 @@
+8010 - Matematica
+
+**CONOSCENZA E CAPACITÀ DI COMPRENSIONE:**
+
+AREA DI APPRENDIMENTO: AMBITO TEORICO  
+Il laureato:  
+\- conosce le basi dell’algebra, in particolare le strutture algebriche fondamentali;  
+\- conosce le basi dell’analisi matematica (calcolo differenziale e integrale per le funzioni di una o più variabili reali) e alcuni strumenti di analisi avanzata (trasformata di Fourier, spazi di Hilbert e di Banach);  
+\- conosce le basi dell’algebra lineare, della geometria analitica elementare, della topologia, della geometria differenziale delle curve e delle superficie dello spazio, della teoria delle funzioni di una variabile complessa.
+
+AREA DI APPRENDIMENTO: AMBITO MODELLISTICO-APPLICATIVO  
+Il laureato:  
+\- conosce i fondamenti sul moto dei sistemi meccanici e i metodi più generali della meccanica classica;  
+\- sa risolvere problemi di moto libero e vincolato;  
+\- conosce il nucleo di base dei problemi fondamentali del Calcolo Scientifico;  
+\- possiede le basi della teoria della probabilità e della statistica matematica.
+
+AREA DI APPRENDIMENTO: AMBITO FISICO - INFORMATICO  
+Il laureato:  
+\- ha le conoscenze di base dell’informatica e dei linguaggi di programmazione;  
+\- conosce le nozioni di misura in fisica classica e le modalità di presentazione dei risultati sperimentali;  
+\- conosce i principali programmi per l’elaborazione di testi matematici;  
+\- conosce i fondamenti della termodinamica classica e dell’elettromagnetismo.
+
+**CAPACITÀ DI APPLICARE CONOSCENZA E COMPRENSIONE:**
+
+AREA DI APPRENDIMENTO: AMBITO TEORICO  
+Il laureato:  
+\- ha padronanza del linguaggio e del ragionamento matematico;  
+\- ha sviluppato capacità di analisi e di sintesi che gli permettono di applicare le conoscenze matematiche acquisite alle altre discipline;  
+\- sa formalizzare matematicamente e risolvere semplici problemi posti dalle scienze applicate;  
+\- possiede autonomia di giudizio per verificare la correttezza della formalizzazione matematica di semplici problemi;  
+\- possiede abilità di apprendimento e un elevato standard di conoscenza e competenza, che gli permettono l’accesso alle lezioni di ambito teorico dei corsi di laurea di secondo livello.
+
+AREA DI APPRENDIMENTO: AMBITO MODELLISTICO-APPLICATIVO  
+Il laureato:  
+\- sa utilizzare le competenze acquisite per costruire i modelli matematici necessari per impostare e risolvere semplici problemi provenienti dalle scienze applicate, anche attraverso l’utilizzo del calcolatore;  
+\- sa raccogliere e interpretare rilevanti dati scientifici;  
+\- sa presentare argomentazioni e materiali scientifici;  
+\- ha autonomia di giudizio e spirito critico in relazione alle soluzioni analitiche dei problemi meccanici;  
+\- possiede abilità di apprendimento e un elevato standard di conoscenza e competenza, che gli permettono l’accesso alle lezioni di ambito modellistico-applicativo dei corsi di laurea di secondo livello;  
+\- sa analizzare i principali metodi numerici al calcolatore utilizzando le conoscenze acquisite per progettare autonomamente algoritmi e strutture dati;  
+\- sa lavorare autonomamente e inserirsi in gruppi di lavoro.
+
+AREA DI APPRENDIMENTO: AMBITO FISICO - INFORMATICO  
+Il laureato:  
+\- sa progettare autonomamente algoritmi e strutture dati;  
+\- sa utilizzare software libero per il calcolo simbolico e scientifico;  
+\- sa lavorare autonomamente e inserirsi in gruppi di lavoro formati da laureati di varie discipline tecnico-scientifiche;  
+\- sa risolvere problemi semplici connessi con gli ambiti della fisica e dell’informatica;  
+\- sa analizzare informazioni relative alle diverse fenomenologie della termodinamica e ai fenomeni elettromagnetici.
+
+**AUTONOMIA DI GIUDIZIO (MAKING JUDGEMENTS)**
+
+Il laureato in Matematica:  
+\- possiede autonomia di giudizio in riferimento a soluzioni matematiche per affrontare un problema;  
+\- possiede spirito critico e abilità generiche nel contesto della matematica, applicabili in molti contesti;  
+\- ha la capacità di raccogliere ed interpretare rilevanti dati scientifici;  
+\- possiede capacità di analisi e di sintesi (in senso generale);  
+\- è capace di raccogliere e analizzare informazioni da fonti diverse.  
+Il metodo logico-deduttivo, comune a tutti gli insegnamenti matematici, la critica delle motivazioni e l'analisi dei vari modelli delle scienze teoriche e applicate, fanno solidamente acquisire al laureato in Matematica tutte le capacita' sopraelencate.  
+Le attività di esercitazione e di laboratorio offrono allo studente le occasioni per sviluppare in modo autonomo le proprie capacità decisionali e di giudizio.
+
+**ABILITÀ COMUNICATIVE (COMMUNICATION SKILLS)**
+
+Il laureato in Matematica:  
+\- sa presentare materiali e argomentazioni scientifiche, in lingua italiana, oralmente o per iscritto, in modo chiaro e comprensibile;  
+\- è capace di usare una lingua dell'Unione Europea, in aggiunta all'italiano, nell'ambito delle attività e dei rapporti professionali;  
+\- è capace di lavorare in modo autonomo, ma anche di inserirsi in un gruppo di lavoro;  
+\- è capace di inserirsi prontamente negli ambienti di lavoro.  
+Le sopraelencate abilità sono conseguite attraverso un insegnamento interattivo: lo studente di Matematica verifica costantemente le proprie conoscenze, lavorando in modo autonomo o in collaborazione nell'ambito di piccoli gruppi di lavoro, su semplici problemi nuovi proposti durante le esercitazioni, sia frontali che di laboratorio.  
+Per il raggiungimento di tali abilità sono previste ampie modalità di verifica, discussione di elaborati scritti anche mediante l'ausilio di strumenti multimediali e presentazioni al computer, seminari su specifiche tematiche. La prova finale inoltre offre allo studente un'ulteriore opportunità di approfondimento e di verifica delle capacità di analisi, elaborazione e comunicazione del lavoro svolto.
+
+**CAPACITÀ DI APPRENDIMENTO (LEARNING SKILLS)**
+
+Il laureato in Matematica:  
+\- possiede abilità di apprendimento e un elevato standard di conoscenza e competenza, tale da permettere l'accesso alle lezioni o ai programmi dei corsi di laurea del secondo ciclo;  
+\- possiede adeguate capacità di sviluppo e approfondimento di ulteriori competenze con riferimento all'area Matematica e ai moderni strumenti informatici e del calcolo scientifico.  
+Ad ogni studente vengono offerti gli strumenti per sviluppare una capacità di apprendiemento sufficiente ad intraprendere studi di livello superiore (laurea magistrale, master). Durante il corso di studio la suddivisione delle ore di lavoro complessive, che attribuisce un forte rilievo a quelle dedicate allo studio personale, offre allo studente la possibilità di verificare e migiliorare continuamente la propria capacità di apprendimento. Ad un analogo obiettivo mira il rigore metodologico degli insegnamenti, rivolto allo svilppo di quei ragionamenti logici che, a seguito di precise ipotesi, portano alla conseguente dimostrazione di una tesi.

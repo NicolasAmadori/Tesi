@@ -1,0 +1,90 @@
+Sviluppo e Cooperazione Internazionale
+
+### Primo Anno di Corso
+
+#### 1) Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 10/02/2025 - 30/05/2025 4: 07/04/2025 - 24/05/2025 A: 16/09/2024 - 24/05/2025 E: 15/09/2024 - 30/05/2025 P: 16/09/2024 - 17/12/2024 S: 10/02/2025 - 24/05/2025  | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 82186 | [INTRODUZIONE ALLA POLITICA INTERNAZIONALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=82186&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | A | SPS/04 | 10 |
+| 00534 | [ISTITUZIONI DI DIRITTO PUBBLICO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00534&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | A | IUS/09 | 10 |
+| 82187 | [SOCIETA' ED ECONOMIA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=82187&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | B | SPS/07 | 10 |
+| 00256 | [ECONOMIA POLITICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00256&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | B | SECS-P/01 | 10 |
+| 78214 | [L'AFRICA NELLA STORIA POLITICA INTERNAZIONALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=78214&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | A | SPS/13 | 10 |
+| B3241 | [LINGUA INGLESE (12 CFU)](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=B3241&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | A | A | L-LIN/12 | 12 |
+
+### Secondo Anno di Corso
+
+#### 1) Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 10/02/2025 - 30/05/2025 4: 07/04/2025 - 24/05/2025 A: 16/09/2024 - 24/05/2025 E: 15/09/2024 - 30/05/2025 P: 16/09/2024 - 17/12/2024 S: 10/02/2025 - 24/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 11483 | [ECONOMIA DELLO SVILUPPO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=11483&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | A | SECS-P/01 | 6 |
+| 30588 | [ELEMENTI DI STATISTICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=30588&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | A | SECS-S/01 | 7 |
+| 95722 | [GEOGRAFIA DELL'AMBIENTE E DELLO SVILUPPO SOSTENIBILE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95722&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | B | M-GGR/02 | 6 |
+| 08540 | [SOCIOLOGIA DELLO SVILUPPO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=08540&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | B | SPS/09 | 10 |
+| 95723 | [SOCIOLOGIA DEL TERRITORIO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95723&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | B | SPS/10 | 6 |
+| 00915 | [STATISTICA ECONOMICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00915&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | B | SECS-S/03 | 9 |
+
+#### 2) Un insegnamento a scelta tra: (10 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 10/02/2025 - 30/05/2025 4: 07/04/2025 - 24/05/2025 A: 16/09/2024 - 24/05/2025 E: 15/09/2024 - 30/05/2025 P: 16/09/2024 - 17/12/2024 S: 10/02/2025 - 24/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 57802 | [DIRITTO DELL'UNIONE EUROPEA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=57802&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | C | IUS/14 | 10 |
+| 00230 | [DIRITTO INTERNAZIONALE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00230&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | C | IUS/13 | 10 |
+| 72378 | ECONOMIA DEL LAVORO C.I. | 2 | C |  |  |
+|  | 79000  [ECONOMIA DEL LAVORO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=79000&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 |  | SECS-P/01 | 5 |
+|  | 30600  [LABORATORIO DI ECONOMIA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=30600&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | C | SECS-P/01 | 5 |
+| 07173 | [ECONOMIA DELL'AMBIENTE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=07173&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | C | SECS-P/01 | 10 |
+
+#### 3) Un laboratorio a scelta tra: (4 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 10/02/2025 - 30/05/2025 4: 07/04/2025 - 24/05/2025 A: 16/09/2024 - 24/05/2025 E: 15/09/2024 - 30/05/2025 P: 16/09/2024 - 17/12/2024 S: 10/02/2025 - 24/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 79036 | LABORATORIO: ANALISI TERRITORIALE | 2 | F |  | 4 |
+| 79035 | [LABORATORIO: ECONOMIA DELLO SVILUPPO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=79035&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | F |  | 4 |
+| 84673 | [LABORATORY: GEOPOLITICS, FINANCE FOR INTERNATIONAL COOPERATION AND INSTRUMENTS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=84673&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | F |  | 4 |
+| 97256 | [LABORATORY: INTERNATIONAL ORGANISATIONS AND THE GOVERNANCE OF DEVELOPMENT](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=97256&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2 | F |  | 4 |
+| 91188 | [LABORATORI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=91188&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 2,1,4,2,1,1,1,1,2,2,1,2,2,2,2,2,2,2,1,1,1,1,1,1 | F |  | 4 |
+
+### Terzo Anno di Corso
+
+#### 1) Attività formative obbligatorie
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 16/09/2024 - 20/12/2024 2: 10/02/2025 - 30/05/2025 4: 07/04/2025 - 24/05/2025 A: 16/09/2024 - 24/05/2025 E: 15/09/2024 - 30/05/2025 P: 16/09/2024 - 17/12/2024 S: 10/02/2025 - 24/05/2025 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 00211 | [DEMOGRAFIA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=00211&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | B | SECS-S/04 | 9 |
+| 03568 | [POLITICA ECONOMICA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=03568&annoAccademico=2024&codiceCorso=8890&single=True&search=True) | 1 | B | SECS-P/02 | 7 |
+| 17268 | PROVA FINALE | 1 | E |  | 6 |
+
+#### 2) Un insegnamento a sc

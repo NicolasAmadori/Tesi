@@ -1,0 +1,44 @@
+![Image 1](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/collaborazione-tra-aziende-e-i-corsi-di-laurea-in-ingegneria-e-scienze-informatiche/@@eod.tiles.richtext/9c82cdbe11e948c1ac8e684274fbffe9/@@images/e19bc94f-431d-4a25-94c9-9be35366cdf9.jpeg)
+
+### ****Collaborazione con docenti e gruppi di ricerca****
+
+### Partecipazione congiunta a progetti di ricerca/innovazione
+
+La collaborazione è tra l’azienda e i ricercatori. Le parti concordano di partecipare congiuntamente a bandi di ricerca/innovazione a livello locale, regionale o internazionale.
+
+*   **Modalità di contatto:** l’azienda può contattare direttamente il ricercatore che ritiene detenga le competenze necessarie oppure contattare il [referente del Dipartimento](http://www.informatica.unibo.it/it/Dipartimento/unita-organizzativa-sede-di-cesena) che indicherà il ricercatore più indicato per la specifica area di competenza.
+
+### Attività in convenzione
+
+La collaborazione è tra l’azienda e i ricercatori. L’azienda affida al ricercatore lo svolgimento di una attività tipicamente con finalità di innovazione o di formazione. Le convenzioni hanno carattere oneroso.
+
+*   **Modalità di contatto:** l’azienda può contattare direttamente il ricercatore che ritiene detenga le competenze necessarie oppure contattare il [referente del Dipartimento](http://www.informatica.unibo.it/it/Dipartimento/unita-organizzativa-sede-di-cesena) che indicherà il ricercatore più indicato per la specifica area di competenza.
+
+### **Collaborazione con studenti**
+
+Per quanto riguarda le modalità di collaborazione con gli studenti occorre ricordare che il percorso formativo in Ingegneria e Scienze Informatiche è organizzato in due fasi successive:
+
+*   **Corso di Laurea Triennale:** vi accedono gli studenti con diploma di scuola superiore, ha durata triennale e fornisce una formazione universitaria di base nella quale vengono acquisite le principali competenze tecnologiche e competenze di base in ambito di progettazione e analisi (al seguente [link](https://corsi.unibo.it/Laurea/IngegneriaScienzeInformatiche/Pagine/PianiDidattici.aspx) è riportato l’elenco dei corsi seguiti dagli studenti). Attualmente il numero di studenti che ogni anno si iscrive a suddetto corso è di circa 200.
+*   **Corso di Laurea Magistrale:** vi accedono gli studenti che hanno completato il Corso di Laurea Triennale, ha durata biennale e permette agli studenti di specializzarsi nei vari settori dell’informatica e dell’Ingegneria Informatica acquisendo maggiori competenze tecniche, di progettazione e di analisi (al seguente [link](https://corsi.unibo.it/Magistrale/IngegneriaScienzeInformatiche/Pagine/PianiDidattici.aspx) è riportato l’elenco dei corsi seguiti dagli studenti).
+
+**Tirocinio curriculare**
+
+Tutti gli studenti iscritti alla Laurea Triennale devono svolgere un periodo pari a 150 ore in Azienda.
+
+[Come richiedere l'attivazione di un tirocinio curriculare](https://corsi.unibo.it/Laurea/IngegneriaScienzeInformatiche/Pagine/tirocinio-curriculare-sti.aspx)
+
+*   **Profilo degli studenti:** tipicamente gli studenti svolgono il tirocinio nel terzo anno di studi quando hanno già seguito la maggior parte dei corsi. Questa rappresenta per molti la prima esperienza in azienda; di conseguenza nella maggior parte dei casi lo studente è dotato di una limitata autonomia di lavoro pur possedendo sufficienti competenze tecniche.
+*   **Attività da svolgere:** il tirocinante è tenuto a svolgere attività legate all’ambito informatico, tipicamente attività di programmazione, ma non è vi sono vincoli di progettualità e di consequenzialità tra le attività svolte. E’ possibile svolgere il tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte 
+*   **Modalità di contatto:** l’azienda deve pubblicare un titolo di tirocinio a cui gli studenti rispondono. E’ prevista una fase conoscitiva prima della mutua accettazione del tirocinio. Per poter pubblicare un tirocinio l’azienda deve attivare una convenzione gratuita con l’Ateneo a fini assicurativi. Le procedure di registrazione e pubblicazione possono essere svolte on-line al seguente [indirizzo](http://www.unibo.it/it/campus-cesena/studiare-a-cesena/tirocini/area-aziende-enti-convenzioni). La segreteria didattica del CdL è a disposizione per supportare le aziende (Tel. 0547 338 801).
+
+### Tesi triennale in Azienda
+
+Gli studenti possono, a loro discrezione, svolgere la propria tesi di Laurea in azienda. La durata di questa attività è di circa 3 mesi. Il numero di studenti che svolgono tesi triennali in azienda è elevato e vi è quindi una buona probabilità che si trovino candidati per il tema proposto.
+
+*   **Profilo degli studenti:** gli studenti che si affacciano alla tesi triennale hanno in media 21-23 anni e hanno completato il loro percorso di studio triennale e hanno già svolto il tirocinio curricolare in azienda. E’ possibile svolgere suddetto tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte ore.
+*   **Attività da svolgere:** la tesi di Laurea presuppone lo svolgimento di un vero e proprio progetto che contempli sia una parte di analisi e progettazione, sia una parte di implementazione, rispetto al tirocinio curricolare le attività svolte devono quindi essere legate tra di loro. E’ possibile svolgere il tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte ore.
+*   **Modalità di contatto:** l’azienda può proporre un titolo di Laurea contattando direttamente un docente con competenze correlate all’ambito del progetto che si vuole svolgere, oppure contattando il Coordinatore del corso di Laurea indicato nella [Scheda](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/index.html) che indicherà il docente più indicato per la specifica area di competenza. Come per i tirocini curriculari è necessario che l’azienda sottoscriva una convenzione non onerosa con l’Ateneo a fini assicurativi.
+
+### Pubblicazione di offerte di lavoro
+
+Il servizio di [Job Placement](https://jobplacement.unibo.it/it) consente di inserire offerte di lavoro e consultare i CV dei laureati.

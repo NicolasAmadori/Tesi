@@ -1,0 +1,25 @@
+Gestione e aggiornamento dei contenuti
+--------------------------------------
+
+L’aggiornamento del sito è a cura di una **redazione web del corso**.
+
+_Nota:_ Questo sito è stato realizzato sulla piattaforma Open Source Plone.
+
+La progettazione e lo sviluppo sono a cura del Settore Portale d'Ateneo – Artec e del Settore tecnologie web - Cesia.
+
+### Immagini
+
+Dove non diversamente esplicitato le immagini fanno parte della banca dati immagini di Ateneo presidiata da Settore Comunicazione di Ateneo.
+
+Accessibilità
+-------------
+
+Un sito è accessibile quando permette di accedere facilmente ai contenuti e ai servizi che offre, indipendentemente dalle disabilità psicofisiche, dalle dotazioni tecniche di cui dispone l'utente e dal contesto in cui opera.
+
+Questo sito è stato realizzato secondo le disposizioni normative vigenti in tema di accessibilità dei siti web e con la tecnica del Responsive Web Design per la consultazione anche da dispositivi mobili.
+
+[Dichiarazione di accessibilità](https://form.agid.gov.it/view/38808e7f-ca0f-4c6f-bc78-485abab746bd/)
+
+### Segnalazioni sull'accessibilità
+
+Nonostante le verifiche, non è sempre possibile garantire la completa accessibilità del sito. Vi preghiamo di segnalarci difficoltà riscontrate nell'accesso alle informazioni e ai servizi scrivendo a [accessibile@unibo.it](mailto:accessibile@unibo.it).

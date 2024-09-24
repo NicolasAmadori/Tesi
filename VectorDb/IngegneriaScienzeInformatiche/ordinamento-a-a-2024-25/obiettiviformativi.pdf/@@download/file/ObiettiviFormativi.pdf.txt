@@ -1,0 +1,463 @@
+> 16/11/23, 07:17
+> 1/19
+
+# Corso di laurea in Ingegneria e Scienze Informatiche 
+
+# L'impianto dell'Ordinamento Didattico a.a. 24/25 
+
+# OBIETTIVI FORMATIVI 
+
+# Il corso di studio in breve 
+
+Il Corso di Studio Triennale in Ingegneria e Scienze Informatiche (Interclasse L-8 – Ingegneria dell'Informazione e L-31 – Scienze e Tecnologie Informatiche), con sede a Cesena, forma professionisti in grado di progettare, sviluppare e gestire sistemi e applicazioni in ambito informatico, fornendo una cultura scientifica e ingegneristica di base, nonché una conoscenza approfondita di tecniche, metodologie e strumenti più attuali per la realizzazione di soluzioni informatiche. Le conoscenze e le abilità apprese permettono l'ingresso diretto nel mondo del lavoro e forniscono una solida base per l'eventuale proseguimento degli studi verso una Laurea Magistrale. Il Corso di Studio nasce dalla fusione dei corsi di studio in Scienze e Tecnologie Informatiche e in Ingegneria Informatica di Cesena con l'obiettivo di offrire agli studenti una nuova opportunità formativa per immaginare, progettare e realizzare sistemi informatici di nuova generazione 
+
+> -----------------------------------------------------------------------------------------------------------------------------------------------
+
+# A4.a [RAD] Obiettivi formativi specifici del Corso e descrizione del percorso formativo 
+
+Il raggiungimento degli obiettivi qualificanti specificati dal decreto sulle classi è ottenuto attraverso un percorso didattico finalizzato alla formazione di laureati contraddistinti sia da una solida preparazione teorica, tecnologica e metodologica, sia da peculiari competenze operative derivanti da mirate attività progettuali, di gruppo o individuali, che costituiscono parte integrante dell'iter formativo. A questo scopo lo studente è guidato nel processo di apprendimento delle problematiche, dei modelli di riferimento e dei metodi che contraddistinguono la modellazione e la progettazione dei moderni sistemi di elaborazione dell'informazione, nonché delle tecnologie più avanzate disponibili per una loro concreta applicazione. 
+
+Particolare enfasi è rivolta all'inquadramento organico dei principi fondazionali, all'esemplificazione degli approcci metodologici, alla presentazione di ambienti e strumenti che supportano, in una visione sistemistica, la progettazione di software, di sistemi operativi, sistemi informativi, reti di calcolatori, infrastrutture web, architetture computazionali e infrastrutture virtuali dispiegati in cloud. 
+
+Le competenze specifiche nel settore sono integrate da solide basi fisico-matematiche e da conoscenze interdisciplinari riguardanti altri ambiti caratterizzanti. Completa la formazione del laureato la conoscenza della lingua inglese a livello B2. Possono essere previste sia l'acquisizione delle quattro abilità linguistiche (lettura, scrittura, ascolto, e dialogo) sia la frequenza vincolata delle lezioni, secondo criteri che verranno specificati in itinere dal corso di studi, in coerenza alle prescrizioni degli Organi accademici. 
+
+Complessivamente, il corso di laurea fornisce le competenze teorico-pratiche relative alle principali aree dell'informatica. Rappresentano specifici obiettivi formativi l'apprendimento dei principi dell'ingegneria del software, delle tecniche di programmazione e di progettazione dei sistemi informatici, la conoscenza delle principali tecnologie hardware e software, dei sistemi operativi, dei sistemi di rete e dei sistemi web. A queste conoscenze di base si aggiungono poi conoscenze professionalizzanti in specifici settori dell'informatica che possano permettere al laureato l'ingresso diretto nel mondo del lavoro, tra i quali i sistemi mobile, i sistemi embedded e IoT, le tecniche di virtualizzazione e le tecniche di machine learning per applicazioni di AI. 
+
+Il raggiungimento di questi obiettivi richiede di acquisire preventivamente una cultura scientifica di base nonché un metodo di analisi e di studio scientifici che permettano, allo studente prima e al laureato poi, di costruire autonomamente nuove conoscenze al fine di adeguarsi all'evoluzione della disciplina e di utilizzare metodi innovativi e attrezzature complesse. 16/11/23, 07:17 
+
+> 2/19
+
+Il laureato possiede: 
+
+- un ampio spettro di conoscenze e competenze nei vari settori dell'informatica mirate al loro utilizzo nella progettazione, sviluppo e gestione di reti e sistemi informatici, indipendentemente dallo specifico dominio applicativo; 
+
+- adeguata padronanza degli strumenti matematici necessari per la modellazione formale, l'analisi, la valutazione, la progettazione e la realizzazione di sistemi; 
+
+- capacità di assimilare con un certo grado di autonomia alcuni temi d'avanguardia nel proprio campo di studi; 
+
+- capacità di ideare e sostenere argomentazioni sia nell'ambito del lavoro di gruppo, sia nell'ambito del lavoro individuale; 
+
+- capacità di raccogliere ed interpretare i dati sperimentali al fine di valutare l'efficacia e l'efficienza di sistemi informatici; 
+
+- capacità di utilizzare efficacemente, in forma scritta e orale, la lingua inglese, in aggiunta all'italiano, sia nell'ambito specifico di competenza sia per lo scambio di informazioni generali; 
+
+- capacità di effettuare ricerche bibliografiche anche avvalendosi di banche dati e di reti informatiche; 
+
+- competenze necessarie per intraprendere studi successivi con un alto grado di autonomia. 
+
+Per dotare il laureato delle caratteristiche suddette, il corso di studi prevede: 
+
+- attività formative finalizzate ad acquisire conoscenze matematiche di base, oltre a conoscenze fondamentali sulle principali aree dell'informatica (tra le quali linguaggi di programmazione, algoritmi, sistemi operativi, basi di dati e sistemi informativi, reti di calcolatori, sistemi web, tecniche di virtualizzazione, tecniche di machine learning per applicazioni di AI, ingegneria del software); 
+
+- attività progettuali e di laboratorio mirate ad acquisire la conoscenza dei metodi di progettazione e programmazione; 
+
+- attività per fornire conoscenze di base della lingua inglese. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# A4.b.1 [RAD] Conoscenza e comprensione, e Capacità di applicare conoscenza e comprensione: Sintesi 
+
+Conoscenza e comprensione 
+
+Le conoscenze e le capacità di comprensione che il laureato possiede si articolano nelle tre aree di apprendimento: fondamenti matematici e fisici, analisi e progettazione del software e, infine, amministrazione di sistemi informatici. 
+
+Il laureato: 
+
+- conosce i fondamentali principi e strumenti di analisi matematica, geometria e algebra lineare, probabilità e statistica; 
+
+- conosce i principi dei metodi numerici alla base delle tecniche di intelligenza artificiale, data analisys e ottimizzazione. 
+
+Il laureato: 
+
+- conosce i principali linguaggi di programmazione, imperativi e ad oggetti, nei diversi scenari applicativi; 
+
+- conosce le tecniche di progettazione e di analisi delle prestazioni di algoritmi; 
+
+- conosce i principi dell'ingegneria del software ed i principi, gli strumenti e le tecniche per l'analisi, progettazione e programmazione di applicazioni informatiche; 
+
+- conosce le architetture dei calcolatori, i sistemi operativi, le reti di calcolatori ed i loro protocolli, i sistemi web e le relative tecniche di programmazione; 
+
+- conosce i principali paradigmi di programmazione per architetture hardware moderne; 
+
+- conosce le basi di dati relazionali e NoSQL; 
+
+- conosce i requisiti minimi di sicurezza di un sistema informatico; 
+
+- conosce le principali piattaforme mobile, i sistemi embedded e IoT; 
+
+- conosce le tecniche di virtualizzazione ed il modello a microservizi per gli applicativi in cloud; 
+
+- conosce le basilari tecniche di intelligenza artificiale e di analisi dei dati; 
+
+- conosce le tecniche di base dell'elaborazione d'immagini; 16/11/23, 07:17 
+
+> 3/19
+
+- conosce le principali problematiche giuridiche connesse alla realizzazione di sistemi informatici, anche quelle inerenti l'intelligenza artificiale; 
+
+- conosce le basi dei principali servizi di directory ed i principali meccanismi e protocolli necessari per garantire i requisiti minimi di sicurezza di un sistema informatico. 
+
+Le conoscenze sopraelencate sono conseguite tramite la partecipazione alle lezioni frontali, alle esercitazioni e ai laboratori, tramite lo studio personale guidato e quello indipendente, a progetti svolti in gruppo o singolarmente, tramite la riflessione critica sui testi proposti per lo studio individuale, sollecitata dalle attività in aula, come previsto dalle attività formative. 
+
+La verifica del raggiungimento dei risultati di apprendimento avviene principalmente attraverso elaborati, esami scritti e/o colloqui. 
+
+Capacità di applicare conoscenza e comprensione 
+
+Il laureato: 
+
+- è in grado di utilizzare gli strumenti matematici applicandoli agli scenari di altre discipline; 
+
+Il laureato: 
+
+- è in grado di programmare usando i principali linguaggi di programmazione imperativi e orientati agli oggetti utilizzati nei diversi scenari applicativi; 
+
+- è in grado di risolvere un problema attraverso la progettazione di un algoritmo e la successiva codifica in un linguaggio di programmazione; 
+
+- è in grado di sfruttare le principali tecniche di programmazione per realizzare applicazioni in ambito web, reti di calcolatori, sistemi mobile, sistemi embedded, computer graphics, elaborazione di immagini, data analytics e machine learning, realizzando e utilizzando basi di dati relazionali e NoSql, operando su architetture avanzate, hardware e software, complesse e distribuite, monolitiche o a microservizi; 
+
+- è in grado di utilizzare linguaggi standard di modellazione dei requisiti per la progettazione di sistemi software, come previsto dalle buone pratiche di project management, e di realizzare processi di ingegneria del software orientati all'agilità. 
+
+Il laureato: 
+
+- è in grado di installare, configurare e manutenere infrastrutture informatiche composte da più server (fisici e virtuali); 
+
+- è in grado di progettare e gestire infrastrutture di rete, progettandone politiche di sicurezza di base; 
+
+- è in grado di configurare e gestire siti e applicazioni web, e basi di dati di media complessità; 
+
+- è in grado di individuare ed utilizzare i meccanismi ed i protocolli necessari per garantire un livello minimo di sicurezza delle applicazioni e dei sistemi informatici. 
+
+Il raggiungimento delle capacità sopraelencate avviene tramite la partecipazione alle lezioni frontali, alle esercitazioni e ai laboratori, tramite lo studio personale guidato e quello indipendente, a progetti svolti in gruppo o singolarmente, tramite la riflessione critica sui testi proposti per lo studio individuale, sollecitata dalle attività in aula. 
+
+Le verifiche del sufficiente raggiungimento di tali capacità (tramite progetti software e discussione degli stessi, esami scritti e/o orali, relazioni, esercitazioni, laboratori) prevedono lo svolgimento di specifici compiti in cui lo studente dimostra la padronanza di strumenti, metodologie e autonomia critica. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# A4.b.2 Conoscenza e comprensione, e Capacità di applicare conoscenza ecomprensione: Dettaglio 
+
+Area di apprendimento: fondamenti matematici e fisici 
+
+Conoscenza e comprensione 16/11/23, 07:17 
+
+> 4/19
+
+Il laureato: 
+
+- conosce i principi della geometria e dell'algebra lineare; 
+
+- conosce il calcolo differenziale ed integrale e i fondamenti del calcolo delle probabilità e della statistica matematica; 
+
+- conosce i principi del calcolo numerico, come l'errore, l'interpolazione, l'integrazione numerica; 
+
+- conosce i metodi numerici alla base delle tecniche di intelligenza artificiale; 
+
+- conosce i principi della fisica di base e della meccanica. 
+
+Le conoscenze sopraelencate sono conseguite tramite la partecipazione alle lezioni frontali, alle esercitazioni e ai laboratori, lo studio personale guidato e quello indipendente, previste dalle attività formative attivate in particolare nell'ambito dei settori disciplinari MAT/02, MAT/05, MAT/08 e FIS/01. 
+
+La verifica del raggiungimento dei risultati di apprendimento avviene attraverso elaborati scritti e/o colloqui. 
+
+Capacità di applicare conoscenza e comprensione 
+
+Il laureato: 
+
+- è in grado di utilizzare gli strumenti matematici per lo studio di altre discipline; 
+
+- è in grado di comprendere i concetti di probabilità e statistica per lo studio di altre discipline; 
+
+- è in grado di eseguire applicazioni del calcolo differenziale e integrale per funzioni di una variabile; 
+
+- è in grado di risolvere sistemi lineari; 
+
+- è in grado di risolvere semplici problemi di calcolo numerico e scientifico. 
+
+Le verifiche del sufficiente raggiungimento di tali capacità (tramite esami scritti e/o orali, relazioni, esercitazioni, laboratori) prevedono lo svolgimento di specifici compiti in cui lo studente dimostra la padronanza di strumenti, metodologie e autonomia critica. 
+
+Area di apprendimento: analisi e progettazione del software 
+
+Conoscenza e comprensione 
+
+Il laureato: 
+
+- conosce i principi, gli strumenti e le tecniche per l'analisi, progettazione e programmazione di applicazioni informatiche; 
+
+- conosce i principi dell'ingegneria del software e i rudimenti delle tecniche di controllo versione abilitanti i processi di sviluppo agili; 
+
+- conosce le architetture dei calcolatori e i sistemi operativi; 
+
+- conosce i principi, la struttura, le tecniche di analisi dei linguaggi di programmazione, sia imperativi che orientati ad oggetti; 
+
+- conosce le tecniche di progettazione e di analisi delle prestazioni di algoritmi; 
+
+- conosce le tecniche di progettazione di basi di dati, sia relazionali, sia NoSQL; 
+
+- conosce le tecniche di programmazione in ambito web e reti; 
+
+- conosce i principi, gli algoritmi e le tecniche crittografiche di base; 
+
+- conosce i requisiti minimi di sicurezza di un sistema informatico; 
+
+- conosce le tecniche di virtualizzazione, il modello a microservizi, il modello Infrastructure as Code (IaC), le basi delle metodologie devops; 
+
+- conosce i principali paradigmi di programmazione per architetture hardware moderne; 
+
+- conosce i principi delle moderne tecniche di intelligenza artificiale e dei sottostanti algoritmi di ottimizzazione; 
+
+- conosce le tecniche di base dell'elaborazione d'immagini e del riconoscimento di oggetti in immagini e video;  
+
+> -
+
+comprende le principali problematiche giuridiche connesse alla realizzazione di sistemi informatici, anche di Artificial Intelligence, dai requisiti produttivi alla responsabilità, dalle regole in materia di utilizzo dei dati alla tutela brevettuale del software. 
+
+Le conoscenze sopraelencate sono conseguite tramite la partecipazione alle lezioni frontali, alle 16/11/23, 07:17 
+
+> 5/19
+
+esercitazioni e ai laboratori, tramite lo studio personale guidato e quello indipendente, a progetti svolti in gruppo o singolarmente, come previsto dalle attività formative attivate in particolare nell'ambito dei settori disciplinari INF/01 e ING-INF/05. 
+
+La verifica del raggiungimento dei risultati di apprendimento avviene principalmente attraverso elaborati scritti e/o colloqui. 
+
+Capacità di applicare conoscenza e comprensione 
+
+Il laureato:  
+
+> -
+
+è in grado di risolvere un problema attraverso la progettazione di un algoritmo e la successiva codifica in un linguaggio di programmazione;  
+
+> -
+
+è in grado di programmare in linguaggi di programmazione imperativi (come il C e l'Assembly Language) e orientati agli oggetti (come Java, C++, C# e Python);  
+
+> -
+
+è in grado di discernere tra problemi computazionali risolvibili velocemente, non risolvibili velocemente o non risolvibili affatto;  
+
+> -
+
+è in grado di sfruttare le principali tecniche di programmazione per realizzare applicazioni in ambito web, reti di calcolatori, sistemi mobile, sistemi embedded e machine learning;  
+
+> -
+
+conosce i principi dell'accessibilità del Web ed è in grado di progettare applicazioni Web accessibili;  
+
+> -
+
+è in grado di utilizzare la conoscenza dei sistemi operativi e dei principi della programmazione concorrente per lo sviluppo di applicazioni strutturate in termini di processi cooperanti;  
+
+> -
+
+è in grado di applicare la conoscenza degli aspetti organizzativi e progettuali dei sistemi informativi per realizzare, interrogare e gestire basi di dati di media complessità, sia relazionali, sia non relazionali;  
+
+> -
+
+è in grado di utilizzare linguaggi standard di modellazione dei requisiti per la progettazione di sistemi software, come previsto dalle buone pratiche di project management;  
+
+> -
+
+è in grado di applicare tecniche di controllo versione per realizzare processi di ingegneria del software orientati all'agilità;  
+
+> -
+
+è in grado di individuare ed utilizzare i meccanismi ed i protocolli necessari per garantire un livello minimo di sicurezza della applicazioni;  
+
+> -
+
+è in grado di progettare e sviluppare applicazioni a microservizi (container) dispiegandole su infrastrutture virtuali create via software (modello IaC);  
+
+> -
+
+è capace di utilizzare alcune tecniche di machine learning e analisi dei dati per sviluppare, valutare e integrare modelli predittivi e generativi in applicazioni di Artificial Intelligence;  
+
+> -
+
+è in grado utilizzare elaborare le immagini e di individuare oggetti in immagini e video sia con metodi tradizionali che applicando reti neurali già addestrate;  
+
+> -
+
+è in grado di comprendere e prevedere, a livello pratico, le principali implicazioni giuridiche della propria attività (gestione dei dati personali, protezione delle proprie creazioni, responsabilità e gestione delle licenze). 
+
+Il raggiungimento delle capacità sopraelencate avviene, nell'ambito delle attività caratterizzanti, tramite la riflessione critica sui testi proposti per lo studio individuale, sollecitata dalle attività in aula, dallo svolgimento di esercitazioni, di attività di laboratorio e dallo svolgimento di progetti individuali e/o di gruppo. 
+
+Le verifiche del sufficiente raggiungimento di tali capacità (tramite progetti software, esami scritti e/o orali, relazioni, esercitazioni, laboratori) prevedono lo svolgimento di specifici compiti in cui lo studente dimostra la padronanza di strumenti, metodologie e autonomia critica. 
+
+Area di apprendimento: amministrazione di sistemi informatici 
+
+Conoscenza e comprensione 
+
+Il laureato:  
+
+> -
+
+conosce l'architettura di base di un calcolatore e delle sue periferiche;  
+
+> -
+
+conosce la logica digitale, i principali circuiti combinatori e sequenziali e i fondamenti del controllo automatico di sistemi;  
+
+> -
+
+conosce ed utilizza i principali sistemi operativi (proprietari ed open source); 16/11/23, 07:17  
+
+> 6/19
+> -
+
+conosce i principi di funzionamento delle reti di calcolatori, i protocolli di comunicazione (incluso TCP/IP), e l'architettura di internet;  
+
+> -
+
+conosce il modello relazionale dei dati, i principali costrutti del linguaggio SQL ed il modello dati NoSQL;  
+
+> -
+
+conosce i principi di gestione e di ottimizzazione di un DBMS;  
+
+> -
+
+conosce le tecnologie più importanti utilizzate in ambito World Wide Web;  
+
+> -
+
+conosce i principali meccanismi crittografici ed i principali protocolli necessari per garantire i requisiti minimi di sicurezza di un sistema informatico;  
+
+> -
+
+conosce le tecniche di virtualizzazione, il modello di applicazioni a microservizi ed il modello Infrastructure as Code, e le basi delle metodologie devops;  
+
+> -
+
+conosce le basi dei principali servizi di directory, in particolare Microsoft Active Directory e Samba. 
+
+Le conoscenze sopraelencate sono conseguite tramite la partecipazione alle lezioni frontali, alle esercitazioni e ai laboratori, lo studio personale guidato e quello indipendente, previste dalle attività formative attivate in particolare nell'ambito dei settori disciplinari INF/01 e ING-INF/05. 
+
+La verifica del raggiungimento dei risultati di apprendimento avviene principalmente attraverso elaborati scritti e/o colloqui. 
+
+Capacità di applicare conoscenza e comprensione 
+
+Il laureato:  
+
+> -
+
+è in grado di installare e configurare sistemi di calcolo e relative periferiche;  
+
+> -
+
+è in grado di installare, configurare e manutenere infrastrutture informatiche composte da più server (fisici e virtuali);  
+
+> -
+
+è in grado di installare, programmare e amministrare un sistema operativo;  
+
+> -
+
+è in grado di progettare e gestire infrastrutture di rete progettandone politiche di sicurezza di base, sistemi di controllo del traffico e sistemi ad elevato livello di sicurezza;  
+
+> -
+
+è in grado di configurare, amministrare e ottimizzare basi di dati, sia relazionali, sia non relazionali;  
+
+> -
+
+è in grado di configurare e gestire siti e applicazioni web;  
+
+> -
+
+è in grado di individuare ed utilizzare i meccanismi ed i protocolli necessari per garantire un livello minimo di sicurezza dei sistemi informatici.  
+
+> -
+
+è in grado di gestire piattaforme di virtualizzazione per piccoli cluster on-premise;  
+
+> -
+
+è in grado di configurare e gestire infrastrutture virtuali in cloud secondo l'approccio Infrastructure as Code (IaC).  
+
+> -
+
+è in grado di concorrere ad utilizzare di servizi di directory per piccole organizzazioni, basati su Microsoft Active Directory;  
+
+> -
+
+è capace di valutare il rapporto costo/benefici derivante dall'integrazione di componenti, apparati e sistemi innovativi nel contesto delle applicazioni informatiche. 
+
+Il raggiungimento delle capacità sopraelencate avviene, nell'ambito delle attività caratterizzanti, tramite la riflessione critica sui testi proposti per lo studio individuale, sollecitata dalle attività in aula, dallo svolgimento di esercitazioni, di attività di laboratorio e dallo svolgimento di progetti individuali e/o di gruppo. 
+
+Le verifiche del sufficiente raggiungimento di tali capacità (tramite esami scritti e/o orali, relazioni, esercitazioni) prevedono lo svolgimento di specifici compiti in cui lo studente dimostra la padronanza di strumenti, metodologie e autonomia critica. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# A4.c [RAD] Autonomia di giudizio 
+
+Il laureato:  
+
+> -
+
+ha capacità di discernimento/giudizio/valutazione delle tecnologie informatiche innovative di medio e lungo termine;  
+
+> -
+
+ha capacità di analisi e di sintesi (in senso generale);  
+
+> -
+
+possiede abilità logico deduttive generiche non legate direttamente al contesto informatico (capacità di ragionamento); 
+
+- è capace di identificare, formulare e risolvere problematiche correlate alla progettazione, alla gestione, all'adeguamento delle funzionalità di sistemi e applicazioni informatiche; 16/11/23, 07:17 
+
+> 7/19
+
+- è capace di espletare il collaudo, condurre prove sperimentali, valutare le prestazioni delle infrastrutture hardware/software di sistemi informatici, e di stabilirne il grado di conformità alle specifiche di progetto interpretando i risultati ottenuti; 
+
+- è capace di focalizzare i contributi essenziali di relazioni tecniche presentate o redatte da interlocutori, e di estrapolare da essi gli aspetti qualificanti ed innovativi; 
+
+- è capace di comprendere articoli pubblicati nella letteratura tecnico/scientifica; 
+
+- è capace di reperire e consultare, anche via web, le principali fonti bibliografiche, le proposte di standardizzazione emergenti a livello nazionale o internazionale, la normativa riguardante la certificazione di prodotti e sistemi di interesse industriale. 
+
+Al raggiungimento dei risultati sopra elencati contribuiscono le attività di esercitazione e di laboratorio, nonché gli elaborati personali e i progetti di gruppo, e la prova finale, che offrono allo studente le occasioni per sviluppare in modo autonomo le proprie capacità decisionali e di giudizio. Esse permettono di acquisire la capacità di reperire e vagliare fonti di informazione, dati, letterature. La verifica dell'acquisizione dell'autonomia di giudizio avviene tramite la valutazione finale dei singoli insegnamenti, in particolare di quelli che prevedono un'attività progettuale. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# A4.c [RAD] Abilità comunicative 
+
+Il laureato: 
+
+- possiede abilità nella comunicazione, in forma orale e scritta, informazioni, idee, problemi e soluzioni di tipo scientifico;  
+
+> -
+
+sa presentare materiali e argomentazioni, in forma orale e scritta, nella propria lingua ed in inglese nell'ambito delle attività e dei rapporti professionali; 
+
+- è in grado di interagire con altre persone e di condurre attività in collaborazione; 
+
+- possiede una buona predisposizione al lavoro di gruppo. 
+
+Le abilità comunicative sono sviluppate in occasione delle attività formative caratterizzanti che prevedono la preparazione di relazioni orali e documenti scritti, la partecipazione a gruppi di lavoro nei progetti, l'esposizione orale dei medesimi e le relative prove di verifica. L'acquisizione delle abilità sopraelencate è prevista inoltre tramite la redazione della prova finale e la discussione della medesima. 
+
+Per tali abilità sono previste ampie modalità di verifica, colloqui, discussione dei progetti, anche mediante l'ausilio di strumenti multimediali e presentazioni al computer. 
+
+La lingua inglese di livello B2 viene appresa tramite attività formative in e-learning. 
+
+Potranno essere previste sia l'acquisizione delle quattro abilità linguistiche (lettura, scrittura, ascolto, e dialogo) sia la frequenza vincolata delle lezioni, secondo criteri che verranno specificati in itinere dal corso di studi, in coerenza alle prescrizioni degli Organi accademici. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# A4.c [RAD] Capacità di apprendimento 
+
+Il laureato: 
+
+- ha propensione all'aggiornamento costante sugli strumenti informatici disponibili; 
+
+- è capace di mantenersi aggiornato su metodi, tecniche e strumenti orientati all'analisi dei requisiti, alla modellazione e progettazione, al collaudo e messa a punto, all'ottimizzazione delle prestazioni di sistemi e applicazioni informatiche;  
+
+> -
+
+è in grado di lavorare autonomamente, di seguire l'evoluzione delle tecnologie informatiche, e di identificare nuove necessità di informazione e formazione; 
+
+- è capace di intraprendere studi più avanzati in ogni settore dell'informatica e dell'ingegneria informatica con un elevato grado di autonomia. 16/11/23, 07:17 
+
+> 8/19
+
+Le capacità di apprendimento sono conseguite nel percorso di studio nel suo complesso, con riguardo in particolare allo studio individuale previsto, alla preparazione di progetti individuali e all'attività svolta per la preparazione della prova finale. 
+
+La capacità di apprendimento viene accertata attraverso forme di verifica continua durante le attività formative, valutando altresì la capacità di rispettare le scadenze, richiedendo la presentazione di dati reperiti autonomamente, mediante l'attività di tutorato nello svolgimento di progetti e mediante la valutazione della capacità di autoapprendimento maturata durante la preparazione della prova finale.

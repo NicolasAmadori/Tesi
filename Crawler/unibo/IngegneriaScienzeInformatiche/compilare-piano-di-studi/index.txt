@@ -1,0 +1,58 @@
+Che cos'è il piano di studi
+--------------------------
+
+Il piano di studi è l'insieme di tutti gli esami che lo studente deve sostenere per potersi laureare. Alcuni esami sono obbligatori, mentre altri sono a scelta dello studente.
+
+Lo studente può sostenere soltanto gli esami già presenti nel proprio piano di studi.
+
+Possono presentare il [piano di studi via web](https://studenti.unibo.it/ "studenti on line") gli studenti regolarmente iscritti all'anno accademico in corso e fuori corso; gli studenti:  
+\- del PERCORSO LUNGO/FLESSIBILE  
+\- appartenenti a CORSI DI LAUREA DISATTIVATI  
+\- che riscontrano problemi di carattere informatico  
+\- che intendono scegliere insegnamenti attivati presso Corsi di Studio a NUMERO PROGRAMMATO  
+possono compilare il modulo che sarà inserito in "Allegato" e inviarlo via e-mail alla Segreteria Studenti dalla casella di posta istituzionale all'indirizzo [segcesena@unibo.it](mailto:segcesena@unibo.it).
+
+Periodi di presentazione del piano di studi
+-------------------------------------------
+
+**Sono previste nell'A.A. 2024/2025 due aperture di piani web.**
+
+Primo periodo: **7 ottobre 2024 – 10 novembre 2024**  
+Secondo periodo: **10 febbraio 2025 - 7 marzo 2025**
+
+**Nel periodo di apertura dei piani web lo studente potrà compilare e modificare il proprio piano di studi senza limitazioni.**
+
+Anche se il piano di studi viene presentato, potrà essere recuperato, modificato e presentato nuovamente entro la scadenza.  
+Pertanto tutti i piani compilati prima della data di inizio così come quelli inoltrati o modificati dopo la data di scadenza non saranno ritenuti validi.
+
+**Attenzione! Dopo aver effettuato le scelte lo studente deve cliccare sul pulsante "Salva" affinché il proprio piano di studi possa essere correttamente presentato**.
+
+E' fortemente consigliato stampare dal web il piano di studi compilato.
+
+**Accesso a StudentiOnLine**
+
+La compilazione e la presentazione del proprio piano di studi avviene accedendo al servizio [Studenti Online](http://www.studenti.unibo.it/ "Apre nuova finestra") con le proprie credenziali d’Ateneo. Il Servizio è attivo solo nei periodi in cui è consentita la presentazione.
+
+Chi deve presentare il piano di studi
+-------------------------------------
+
+**S**tudenti iscritti al terzo anno IN CORSO**:
+
+*   è obbligatorio effettuare la scelta di **12 cfu tra gli insegnamenti opzionali di seguito elencati:**
+
+<table><tbody><tr><td><p><b>Codice</b></p></td><td><p><b>Denominazione insegnamento<b></b></b></p></td><td><p><b>CF<b>U</b></b></p></td></tr><tr><td><p><b>70090</b></p></td><td><p><strong><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/385075">COMPUTER GRAPHICS</a></strong></p></td><td><p><b><b>6</b></b></p></td></tr><tr><td><p><b>84339</b></p></td><td><p><strong><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/421625">BASI DI DATI AVANZATE</a></strong></p></td><td><p><b><b>6</b></b></p></td></tr><tr><td><p><b>70227</b></p></td><td><b><a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/378230">INFORMATICA E DIRITTO</a></b></td><td><p><b>6</b></p></td></tr><tr><td><p><b>77780</b></p></td><td><strong><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/400396">SISTEMI EMBEDDED E INTERNET OF THINGS</a></strong></td><td><p><b>6</b></p></td></tr><tr><td><p><b>72787</b></p></td><td><strong><a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/385090">PROGRAMMAZIONE DI SISTEMI MOBILE</a></strong></td><td><p><b>6</b></p></td></tr><tr><td><p><b>72796</b></p></td><td><b><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/385100">PROGRAMMAZIONE DI APPL. DATA INTENSIVE</a></b></td><td><p><b>6</b></p></td></tr><tr><td><p><b>17634</b></p></td><td><strong><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/421624">VISIONE ARTIFICIALE</a></strong></td><td><p><b>6</b></p></td></tr></tbody></table>
+
+*   **e 12 cfu a libera scelta tra gli insegnamenti opzionali sopraelencati, tutti gli insegnamenti attivi in Ateneo e quelli riportati di seguito:**
+
+<table><tbody><tr><td><p><b>Codice</b></p></td><td><p><b>Denominazione insegnamento</b></p></td><td><p><b>CFU</b></p></td></tr><tr><td><p><b>14015<br></b></p></td><td><p><b><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/447103">CRITTOGRAFIA</a></b></p></td><td><p><b>6<br></b></p></td></tr><tr><td><p><b>72778</b></p></td><td><strong><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/385080">HIGH-PERFORMANCE COMPUTING</a></strong><br /><b></b></td><td><p><b>6</b></p></td></tr><tr><td><p><b>96642</b></p></td><td><strong><a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/469640">VIRTUALIZZAZIONE E INTEGRAZIONE DEI SISTEMI</a></strong></td><td><p><b>6</b></p></td></tr></tbody></table>
+
+****Prova finale****
+
+Inoltre è obbligatorio, per poter chiudere correttamente il piano di studi, scegliere fin da ora come si vorrà svolgere la prova finale.  
+La prova finale è così regolata:
+
+\- GRUPPO A: PROVA FINALE 6 cfu
+
+\- GRUPPO B: PROVA FINALE 3 cfu + un’altra attività da massimo 3 cfu fra Preparazione prova finale all’estero o Tirocinio all'estero in preparazione della prova finale o Tirocinio in preparazione della prova finale.
+
+Questa scelta non è vincolante e potrà essere cambiata in qualsiasi momento, anche con una comunicazione dall’email istituzionale alla segreteria studenti [segcesena@unibo.it](mailto:segcesena@unibo.it), prima di intraprendere la preparazione alla prova finale.
