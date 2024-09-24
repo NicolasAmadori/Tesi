@@ -53,11 +53,11 @@ def create_db(data_path: str,
     docs = text_splitter.split_documents(documents)
     logger.info(f"Splitted documents from {len(documents)} to {len(docs)}")
     
-    logger.info("Embedding data and creating DB at localhost:19530")
+    logger.info("Embedding data and creating DB at 0.0.0.0:19530")
     _ = Milvus.from_documents(
         docs,
         embedder_model,
-        connection_args={"host": "127.0.0.1", "port": "19530"},
+        connection_args={"host": "0.0.0.0", "port": "19530"},
         collection_name=collection_name
     )
     logger.info("Completed with success")
@@ -73,11 +73,11 @@ def main():
 
     # >> Establish connection
     try:
-        connections.connect("default", host="127.0.0.1", port="19530")
+        connections.connect("default", host="0.0.0.0", port="19530")
     except:
-        logger.info("Starting the server at 127.0.0.1")
+        logger.info("Starting the server at 0.0.0.0")
         default_server.start()
-        connections.connect("default", host="127.0.0.1", port="19530")
+        connections.connect("default", host="0.0.0.0", port="19530")
 
     # >> Load Model
     logger.info("Loading encoder model")

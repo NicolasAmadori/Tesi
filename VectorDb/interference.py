@@ -16,17 +16,20 @@ def main():
 
     vector_store = Milvus(
         embedding_function=embedder,
-        connection_args={"host": "127.0.0.1", "port": "19530"},
+        connection_args={"host": "0.0.0.0", "port": "19530"},
         collection_name="UniboIngScInf"
     )
-        
-    # # Ottieni l'elenco delle collezioni
-    # collections = vector_store.list_collections()
-    # logger.info(f"Collections presenti: {collections}")
+    
+    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": 4, "param": {"ef":30}})
 
-    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": 4})
-    response = retriever.invoke("Tirocinio", filter={"source": "Unibo.it"}, ef=30)
-    logger.info(response)
+    while True:
+        try:
+            question = input("Input: ")
+        
+            response = retriever.invoke(question, filter={"source": "Unibo.it"})
+            logger.info(response)
+        except Exception as e:
+            logger.info(e)
 
 if __name__ == "__main__":
     main()
