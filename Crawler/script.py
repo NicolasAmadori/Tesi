@@ -22,6 +22,3 @@ def convert_html_to_txt(root_folder):
                 os.remove(html_file_path)
 
                 print(f'Convertito: {html_file_path} -> {txt_file_path}')
-
-convert_html_to_txt("unibo/SviluppoCooperazioneInternazionale")
-convert_html_to_txt("unibo/IngegneriaScienzeInformatiche")
