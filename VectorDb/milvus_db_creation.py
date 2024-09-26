@@ -1,7 +1,6 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader
 from langchain_community.vectorstores import Milvus
-from langchain_community.document_loaders import TextLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.schema import Document
 from langchain_experimental.text_splitter import SemanticChunker
@@ -11,11 +10,10 @@ from pymilvus import connections, utility, Collection, FieldSchema, CollectionSc
 
 import glob
 import os
-from tqdm import tqdm
 import json
-import argparse
 
 from transformers import AutoModel
+import pandas as pd
 
 import logging
 logging.basicConfig(
@@ -23,83 +21,100 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def create_db(data_path: str, 
-              collection_name : str,
-              embedder_model,
-              text_splitter : RecursiveCharacterTextSplitter):
-    try:
-        utility.drop_collection(collection_name)
-        logger.info("Dropped previous data")
-    except:
-        pass
-    
-    logger.info("Starting data ingestion")
-
-    documents = []
-    for root, dirs, files in os.walk(data_path):
-        for file in files:
+def readDocuments(folder_name, strings_to_remove):
+    #Read files, remove faq questions and create documents
+    collection_documents = []
+    for root, dirs, files in os.walk(folder_name):#Iterate directories
+        for file in files:#Iterate directory files
             file_path = os.path.join(root, file)
             with open(file_path, 'r') as f:
                 data = f.read()
-
+                for string in strings_to_remove:
+                    data = data.replace(string,"")
+                
                 metadata = {
-                    "source": "Unibo.it",
-                    "user": "root",
+                    "source": f"corsi.unibo.it/laurea/{folder_name}",
                     "file_name": file_path
                 }
-                documents.append(Document(page_content=data, metadata=metadata))
+                
+                collection_documents.append(Document(page_content=data, metadata=metadata))
+    return collection_documents
 
-    logger.info("Creating chunks")
-    docs = text_splitter.split_documents(documents)
-    logger.info(f"Splitted documents from {len(documents)} to {len(docs)}")
+def addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port):
+    logger.info("Creating chunks and uploading documents to db")
+    for collection_name, collection_documents in documents:
+        splitted_documents = text_splitter.split_documents(collection_documents)
+        logger.info(f"{collection_name} -> from {len(collection_documents)} to {len(splitted_documents)} documents")
+
+        _ = Milvus.from_documents(
+            splitted_documents,
+            embedding_model,
+            connection_args={"host": host, "port": port},
+            collection_name=collection_name,
+            drop_old=True
+        )
+
+def create_db(folders_collection_pairs,
+              embedding_model,
+              text_splitter : RecursiveCharacterTextSplitter,
+              host = "0.0.0.0",
+              port= "19530"):
+    logger.info("Starting data ingestion")
+
+    documents = [] #List of pair (collection_name, collection_documents)
+    for folder_name, collection_name, collection_faqs_link in folders_collection_pairs:
+        faqs_questions = pd.read_csv(collection_faqs_link)["domanda"].tolist() #Get the list of FAQ questions
+
+        collection_documents = readDocuments(folder_name, faqs_questions) #Read documents and remove faqs questions from the data
+        documents.append((collection_name, collection_documents))
     
-    logger.info("Embedding data and creating DB at 0.0.0.0:19530")
-    _ = Milvus.from_documents(
-        docs,
-        embedder_model,
-        connection_args={"host": "0.0.0.0", "port": "19530"},
-        collection_name=collection_name
-    )
+    addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port)
     logger.info("Completed with success")
 
 def main():
-    data_path = "IngegneriaScienzeInformatiche"
-    collection_name = "UniboIngScInf"
+    #(folder_name, collection_name, collection_faqs)
+    collection_triplets = [
+        ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
+        ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
+        ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv")]
+    collection_triplets = collection_triplets[0:1]
+    EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
+    CHUNK_SIZE = 256 #Default: 256
+    CHUNK_OVERLAP = 50 #Default: 100
 
-    add_to_existing_collection = False #Default: False
-    embedder_model_name = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
-    chunk_size = 128 #Default: 256
-    chunk_overlap = 50 #Default: 100
+    HOST = "0.0.0.0"
+    PORT = "19530"
 
     # >> Establish connection
     try:
-        connections.connect("default", host="0.0.0.0", port="19530")
+        connections.connect("default", host=HOST, port=PORT)
     except:
-        logger.info("Starting the server at 0.0.0.0")
+        logger.info(f"Starting the server at {HOST}:{PORT}")
         default_server.start()
-        connections.connect("default", host="0.0.0.0", port="19530")
+        connections.connect("default", host=HOST, port=PORT)
 
     # >> Load Model
     logger.info("Loading encoder model")
-    embedder = HuggingFaceEmbeddings(model_name=embedder_model_name,
+    embedding_model = None
+    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME,
                                      model_kwargs={"device": "cuda"})
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, 
-                                                   chunk_overlap=chunk_overlap,
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, 
+                                                   chunk_overlap=CHUNK_OVERLAP,
                                                    separators=["\n\n"," ",".",","])
-
+    
     # >> Start ingestion
-    logger.info("Creating a new Milvus DB")
-    create_db(data_path, collection_name=collection_name, embedder_model=embedder, text_splitter=text_splitter)
+    logger.info("Uploading documents to Milvus DB")
+    create_db(collection_triplets, embedding_model=embedding_model, text_splitter=text_splitter, host=HOST, port=PORT)
 
-    logger.info("Checking if the collection was created")
+    logger.info("Checking if collections were created")
+    for _, collection_name, _ in collection_triplets:
+        if utility.has_collection(collection_name):
+            collection = Collection(collection_name)
+            logger.info(f'Collection: {collection.name} has {collection.num_entities} entities')
+        else:
+            logger.error(f"Collection {collection_name} was not created")
 
-    if utility.has_collection(collection_name):
-        collection = Collection(collection_name)
-        logger.info(f'Collection: {collection.name} has {collection.num_entities} entities')
-    else:
-        logger.error(f"Collection {collection_name} was not created")
-
-    logger.info("Done")
+    logger.info("Everything done")
 
 if __name__ == "__main__":
     main()
