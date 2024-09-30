@@ -21,6 +21,18 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+class Delimiter:
+    def __init__(self, start, end):
+        self.start = start
+        self.end = end
+
+class ModelPromptTemplate:
+    def __init__(self, system_start, system_end, user_start, user_end, assistant_start, assistant_end, text_start=None):
+        self.user_delimiter = Delimiter(user_start, user_end)
+        self.assistant_delimiter = Delimiter(assistant_start, assistant_end)
+        self.system_delimiter = Delimiter(system_start, system_end)
+        self.text_start = text_start
+
 def get_hugging_face_model(model_id, hf_token, return_full_text = False):
     tokenizer = AutoTokenizer.from_pretrained(model_id, token = hf_token)
     model = AutoModelForCausalLM.from_pretrained(
@@ -55,12 +67,18 @@ def get_db_retriever(embedding_model, collection_name, host="0.0.0.0", port="195
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
-def get_rag_chain(llm_model, retriever):
-    # Define the prompt template for generating AI responses
-    PROMPT_TEMPLATE = """
-    Human: You are an AI assistant, and provides answers to questions by using fact based and statistical information when possible.
+def get_rag_chain(llm_model, prompt_template, retriever):
+    SYSTEM_MESSAGE = """
+    You are an AI assistant, and provides answers to questions by using fact based and statistical information when possible.
     Use the following pieces of information to provide a concise answer to the question enclosed in <question> tags.
     If you don't know the answer, just say that you don't know, don't try to make up an answer.
+    """
+
+    USER_MESSAGE = """
+    Use the given context to generate an answer for the given question.
+    IMPORTANT: Generate the answer strictly in italian.
+    IMPORTANT: Use only the informations you can find in the given context.
+
     <context>
     {context}
     </context>
@@ -70,15 +88,24 @@ def get_rag_chain(llm_model, retriever):
     </question>
 
     The response should be specific and use statistics or numbers when possible.
+    """
 
-    Assistant:"""
+    final_prompt_template = ""
+    if prompt_template.text_start:
+        final_prompt_template += prompt_template.text_start
 
-    # Create a PromptTemplate instance with the defined template and input variables
+    if prompt_template.system_start and prompt_template.system_end:
+        final_prompt_template+= f"{prompt_template.system_start}{SYSTEM_MESSAGE}{prompt_template.system_end}"
+        final_prompt_template+= f"{prompt_template.user_start}{USER_MESSAGE}{prompt_template.user_end}"
+    else:
+        final_prompt_template+= f"{prompt_template.user_start}{SYSTEM_MESSAGE}\n\n{USER_MESSAGE}{prompt_template.user_end}"
+    
+    final_prompt_template+= f"{prompt_template.assistant_start}"
+
     prompt = PromptTemplate(
-        template=PROMPT_TEMPLATE, input_variables=["context", "question"]
+        template=final_prompt_template, input_variables=["context", "question"]
     )
 
-    # Define the RAG (Retrieval-Augmented Generation) chain for AI response generation
     rag_chain = (
         {"context": retriever | format_docs, "question": RunnablePassthrough()}
         | prompt
@@ -96,7 +123,7 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
         logger.info(f"{index+1}/{n_rows}")
         domanda = row["domanda"]
         risposta_gold = row["risposta"]
-        risposta_generata = rag_chain.invoke(question)
+        risposta_generata = rag_chain.invoke(domanda)
 
         output_df.loc[index] = [domanda, risposta_gold, risposta_generata]
     
@@ -106,11 +133,11 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
     os.makedirs(output_path, exist_ok=True)
     output_df.to_csv(complete_path, index=False)
    
-def generate_answers(embedding_model_name, collection_tuples, model_names_list, hf_token):
+def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_token):
     embedding_model = HuggingFaceEmbeddings(model_name=embedding_model_name,
         model_kwargs={"device": "cuda"})
 
-    for model_name in model_names_list:
+    for model_name, model_prompt_template in models_dict.items():
         logger.info(f"Starting answers generation using: {model_name}")
 
         llm = get_hugging_face_model(model_id=model_name, hf_token = hf_token) #Download model
@@ -120,7 +147,7 @@ def generate_answers(embedding_model_name, collection_tuples, model_names_list, 
             
             #Create rag_chain
             retriever = get_db_retriever(embedding_model, collection_name)
-            rag_chain = get_rag_chain(llm, retriever)
+            rag_chain = get_rag_chain(llm, prompt_template, retriever)
 
             faq_dataframe = pd.read_csv(faq_link)
             generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"output/{model_name}")
@@ -134,36 +161,79 @@ def main():
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
         ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
-        ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
-        ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv")]
-
-    TESTING_MODEL_NAMES = ["microsoft/Phi-3.5-mini-instruct",
-        # "meta-llama/Meta-Llama-3.1-8B-Instruct",
-        # "mistralai/Mistral-7B-v0.3"
+        # ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
+        # ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv")
         ]
 
-    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_NAMES, HF_TOKEN)
+    phi3_5_prompt_template = ModelPromptTemplate(
+        system_start="<|system|>\n",
+        system_end="<|end|>\n",
+        user_start="<|user|>\n",
+        user_end="<|end|>\n",
+        assistant_start="<|assistant|>\n",
+        assistant_end="<|end|>\n")
 
-    # embedder_model_name = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
-    # embedder = HuggingFaceEmbeddings(model_name=embedder_model_name,
-    #                                  model_kwargs={"device": "cuda"})
+    llama3_1_prompt_template = ModelPromptTemplate(
+        system_start="<|start_header_id|>system<|end_header_id|>\n\n",
+        system_end="<|eot_id|>",
+        user_start="<|start_header_id|>user<|end_header_id|>\n\n",
+        user_end="<|eot_id|>",
+        assistant_start="<|start_header_id|>assistant<|end_header_id|>\n\n",
+        assistant_end="<|eot_id|>",
+        text_start="<|begin_of_text|>")
 
-    # vector_store = Milvus(
-    #     embedding_function=embedder,
-    #     connection_args={"host": "0.0.0.0", "port": "19530"},
-    #     collection_name="UniboIngScInf"
-    # )
+    mistral0_3_prompt_template = ModelPromptTemplate(
+        system_start="",
+        system_end="",
+        user_start="",
+        user_end="",
+        assistant_start="",
+        assistant_end="")
     
-    # retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": 4, "param": {"ef":30}})
+    TESTING_MODEL_DICT = {
+        "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
+        "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
+    }
 
-    # while True:
-    #     try:
-    #         question = input("Input: ")
-        
-    #         response = retriever.invoke(question)
-    #         logger.info(response)
-    #     except Exception as e:
-    #         logger.info(e)
+    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN)
+
+def debug():
+    #Testing parameters
+    HF_TOKEN = "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"
+    LLM_MODEL_NAME = "microsoft/Phi-3.5-mini-instruct"
+    PHI3_5_PROMPT_TEMPLATE = ModelPromptTemplate(
+        system_start="<|system|>\n",
+        system_end="<|end|>\n",
+        user_start="<|user|>\n",
+        user_end="<|end|>\n",
+        assistant_start="<|assistant|>\n",
+        assistant_end="<|end|>\n")
+    EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
+    COLLECTION_NAME = "UniboIngScInf"
+
+    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME,
+        model_kwargs={"device": "cuda"})
+
+    llm = get_hugging_face_model(model_id=LLM_MODEL_NAME, hf_token = HF_TOKEN) #Download model
+
+    retriever = get_db_retriever(embedding_model, COLLECTION_NAME)
+    rag_chain = get_rag_chain(llm, PHI3_5_PROMPT_TEMPLATE, retriever)
+
+    while True:
+        try:
+            question = input("Input: ")
+            
+            # response = rag_chain.invoke(question)
+            response = retriever.invoke(question)
+            logging.info(response)
+        except Exception as e:
+            logging.error(f"Error in debug loop: {str(e)}", exc_info=True)
+            print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    main()
+    DEBUGGING = True
+    if not DEBUGGING:
+        main()
+    else:
+        debug()

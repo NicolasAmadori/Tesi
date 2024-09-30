@@ -80,8 +80,8 @@ def main():
         ]
     
     EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
-    CHUNK_SIZE = 256 #Default: 256
-    CHUNK_OVERLAP = 50 #Default: 100
+    CHUNK_SIZE = 512 #Default: 256
+    CHUNK_OVERLAP = 200 #Default: 100
     HOST = "0.0.0.0"
     PORT = "19530"
 
