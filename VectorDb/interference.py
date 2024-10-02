@@ -1,13 +1,11 @@
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Milvus
-from langchain_core.documents import Document
 import pandas as pd
 
 import torch
 import os
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, pipeline
 from langchain_huggingface import HuggingFacePipeline
-from typing import List, Tuple, Dict
 
 #RAG Chain
 from langchain_core.runnables import RunnablePassthrough
@@ -33,6 +31,7 @@ class ModelPromptTemplate:
         self.system_delimiter = Delimiter(system_start, system_end)
         self.text_delimiter = Delimiter(text_start, text_end) if text_start != "" or text_end != "" else None
 
+@torch.no_grad()
 def get_hugging_face_model(model_id, hf_token, return_full_text = False):
     tokenizer = AutoTokenizer.from_pretrained(model_id, token = hf_token)
     model = AutoModelForCausalLM.from_pretrained(
@@ -49,8 +48,9 @@ def get_hugging_face_model(model_id, hf_token, return_full_text = False):
                     tokenizer=tokenizer,
                     max_new_tokens=1024,
                     top_k=50,
-                    temperature=0.1,
-                    return_full_text = return_full_text)
+                    temperature=0.2,
+                    return_full_text = return_full_text,
+                    do_sample = True)
     llm = HuggingFacePipeline(pipeline=pipe,
                             pipeline_kwargs={"return_full_text": return_full_text}) # <----- IMPORTANT !!!
     return llm
@@ -118,12 +118,9 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
     n_rows = faq_dataframe.shape[0]
     logger.info(f"Generating answers for the collection: {collection_name} ({n_rows} rows)")
 
-    for index, row in faq_dataframe.iterrows(): #Itera ogni riga del csv
+    for index, (domanda, risposta_gold) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["risposta"]), 1):
         logger.info(f"{index+1}/{n_rows}")
-        domanda = row["domanda"]
-        risposta_gold = row["risposta"]
         risposta_generata = rag_chain.invoke(domanda)
-
         output_df.loc[index] = [domanda, risposta_gold, risposta_generata]
     
     #Create the output csv file
@@ -192,8 +189,8 @@ def main():
         text_end="[/INST]")
     
     TESTING_MODEL_DICT = {
-        # "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
-        # "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
+        "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
         "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 

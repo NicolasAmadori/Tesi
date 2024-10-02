@@ -7,12 +7,10 @@ from langchain_experimental.text_splitter import SemanticChunker
 
 from milvus import default_server
 from pymilvus import connections, utility, Collection, FieldSchema, CollectionSchema, DataType
+import torch
 
-import glob
 import os
-import json
 
-from transformers import AutoModel
 import pandas as pd
 
 import logging
@@ -24,7 +22,7 @@ logger = logging.getLogger(__name__)
 def readDocuments(folder_name, strings_to_remove):
     #Read files, remove faq questions and create documents
     collection_documents = []
-    for root, dirs, files in os.walk(folder_name):#Iterate directories
+    for root, _, files in os.walk(folder_name):#Iterate directories
         for file in files:#Iterate directory files
             file_path = os.path.join(root, file)
             with open(file_path, 'r') as f:
@@ -40,6 +38,7 @@ def readDocuments(folder_name, strings_to_remove):
                 collection_documents.append(Document(page_content=data, metadata=metadata))
     return collection_documents
 
+@torch.no_grad()
 def addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port):
     logger.info("Creating chunks and uploading documents to db")
     for collection_name, collection_documents in documents:
@@ -76,7 +75,7 @@ def main():
     collection_triplets = [
         # ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
         ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
-        # ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv")
+        ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
         ]
     
     EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
@@ -105,7 +104,8 @@ def main():
     # >> Start ingestion
     logger.info("Uploading documents to Milvus DB")
     create_db(collection_triplets, embedding_model=embedding_model, text_splitter=text_splitter, host=HOST, port=PORT)
-
+    torch.cuda.empty_cache()
+    
     logger.info("Checking if collections were created")
     for _, collection_name, _ in collection_triplets:
         if utility.has_collection(collection_name):
