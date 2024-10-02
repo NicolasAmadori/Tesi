@@ -119,7 +119,7 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
     logger.info(f"Generating answers for the collection: {collection_name} ({n_rows} rows)")
 
     for index, (domanda, risposta_gold) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["risposta"]), 1):
-        logger.info(f"{index+1}/{n_rows}")
+        logger.info(f"{index}/{n_rows}")
         risposta_generata = rag_chain.invoke(domanda)
         output_df.loc[index] = [domanda, risposta_gold, risposta_generata]
     
@@ -156,7 +156,7 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        # ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
+        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
         ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
         # ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv")
         ]

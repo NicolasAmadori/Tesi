@@ -19,6 +19,10 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+def chunker(data, chunk_size):
+    for i in range(0, len(data), chunk_size):
+        yield data[i:i + chunk_size]
+
 def readDocuments(folder_name, strings_to_remove):
     #Read files, remove faq questions and create documents
     collection_documents = []
@@ -45,13 +49,14 @@ def addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, 
         splitted_documents = text_splitter.split_documents(collection_documents)
         logger.info(f"{collection_name} -> from {len(collection_documents)} to {len(splitted_documents)} documents")
 
-        _ = Milvus.from_documents(
-            splitted_documents,
-            embedding_model,
-            connection_args={"host": host, "port": port},
-            collection_name=collection_name,
-            drop_old=True
-        )
+        for chunk in chunker(splitted_documents, 64):
+            _ = Milvus.from_documents(
+                chunk,
+                embedding_model,
+                connection_args={"host": host, "port": port},
+                collection_name=collection_name,
+                drop_old=True
+            )
 
 def create_db(folders_collection_pairs,
               embedding_model,
@@ -73,9 +78,9 @@ def create_db(folders_collection_pairs,
 def main():
     #(folder_name, collection_name, collection_faqs)
     collection_triplets = [
-        # ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
-        # ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
-        ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
+        ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
+        ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
+        # ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
         ]
     
     EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"

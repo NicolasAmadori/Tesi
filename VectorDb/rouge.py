@@ -31,6 +31,7 @@ def main():
     dataframes_list = read_csvs(CSV_FOLDER_NAME)
 
     for folder, file_name, df in dataframes_list:
+        logger.info(os.path.join(folder, file_name))
         df = addRougeToDf(rouge, df, REFERENCE_COLUMN_NAME, PREDICTION_COLUMN_NAME)
 
         file_name = file_name.replace(".csv", "_rouge.csv")
