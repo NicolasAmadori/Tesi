@@ -74,7 +74,7 @@ def main():
     #(folder_name, collection_name, collection_faqs)
     collection_triplets = [
         # ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
-        ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
+        # ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
         ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
         ]
     
@@ -110,7 +110,7 @@ def main():
     for _, collection_name, _ in collection_triplets:
         if utility.has_collection(collection_name):
             collection = Collection(collection_name)
-            logger.info(f'Collection: {collection.name} has {collection.num_entities} entities')
+            logger.info(f'Collection: {collection.name} has been created.')
         else:
             logger.error(f"Collection {collection_name} was not created")
 
