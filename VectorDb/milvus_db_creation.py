@@ -23,7 +23,7 @@ def chunker(data, chunk_size):
     for i in range(0, len(data), chunk_size):
         yield data[i:i + chunk_size]
 
-def readDocuments(folder_name, strings_to_remove):
+def readDocuments(folder_name, strings_to_remove = []):
     #Read files, remove faq questions and create documents
     collection_documents = []
     for root, _, files in os.walk(folder_name):#Iterate directories
@@ -44,12 +44,13 @@ def readDocuments(folder_name, strings_to_remove):
 
 @torch.no_grad()
 def addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port):
+    DOCUMENT_CHUNK_SIZE = 256
     logger.info("Creating chunks and uploading documents to db")
     for collection_name, collection_documents in documents:
         splitted_documents = text_splitter.split_documents(collection_documents)
         logger.info(f"{collection_name} -> from {len(collection_documents)} to {len(splitted_documents)} documents")
 
-        for chunk in chunker(splitted_documents, 64):
+        for chunk in chunker(splitted_documents, DOCUMENT_CHUNK_SIZE):
             _ = Milvus.from_documents(
                 chunk,
                 embedding_model,
@@ -71,6 +72,8 @@ def create_db(folders_collection_pairs,
 
         collection_documents = readDocuments(folder_name, faqs_questions) #Read documents and remove faqs questions from the data
         documents.append((collection_name, collection_documents))
+    logger.info(len(documents[0]))
+    return
     
     addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port)
     logger.info("Completed with success")
@@ -78,9 +81,9 @@ def create_db(folders_collection_pairs,
 def main():
     #(folder_name, collection_name, collection_faqs)
     collection_triplets = [
-        ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
-        ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
-        # ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
+        ("Crawl/IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
+        # ("Crawl/SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
+        # ("Crawl/matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
         ]
     
     EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
