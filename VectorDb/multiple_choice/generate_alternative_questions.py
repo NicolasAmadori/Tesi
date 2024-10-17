@@ -309,7 +309,7 @@ def debug():
     # Gli elefanti hanno anche grandi zanne d'avorio, che sono in realtà denti incisivi allungati e possono essere usate per scavare o difendersi. Le loro gambe sono forti e robuste, sostenendo il peso del loro enorme corpo, e i piedi hanno ampi cuscinetti che aiutano a distribuire il peso e a camminare silenziosamente nonostante la loro mole.
     # Esistono due specie principali di elefanti: l'elefante africano, che è generalmente più grande e ha orecchie più ampie, e l'elefante asiatico, che è leggermente più piccolo e ha orecchie più piccole. Gli elefanti vivono in gruppi sociali matriarcali, guidati dalla femmina più anziana, e sono animali molto intelligenti e sociali, noti per le loro forti connessioni familiari e per la loro capacità di provare emozioni come la gioia e il lutto."""
 
-    OUTPUT_FOLDER_NAME = "multiple_choice_questions"
+    OUTPUT_FOLDER_NAME = "output"
     file_name = f"questions.csv"
     complete_path = os.path.join(OUTPUT_FOLDER_NAME, file_name)
     os.makedirs(OUTPUT_FOLDER_NAME, exist_ok=True)
