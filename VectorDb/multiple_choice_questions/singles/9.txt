@@ -1,0 +1,22 @@
+IngegneriaScienzeInformatiche/il-corso/index.txt
+[
+    {
+        "course_name}?": "Correct answer\ncorrect_answer = f",
+        "argomenti.": "Incorrect answers\nincorrect_answer_1 = f",
+        "studenti.": "ncorrect_answer_2 = f",
+        "apprendimento.": "ncorrect_answer_3 = f",
+        "specializzazione.": "Create JSON response\nresponse = {",
+        "question": "question",
+        "correct_answer": "correct_answer",
+        "incorrect_answer_1": "incorrect_answer_1",
+        "incorrect_answer_2": "incorrect_answer_2",
+        "incorrect_answer_3": "incorrect_answer_3"
+    },
+    {
+        "question": "Qual è l'organizzazione del corso di Ingegneria Scienze Informatiche?",
+        "correct_answer": "A. Il corso è organizzato secondo l'ordine cronologico degli argomenti.",
+        "incorrect_answer_1": "B. Il corso è organizzato in base alle competenze degli studenti.",
+        "incorrect_answer_2": "C. Il corso è organizzato in base alle fasi del processo di apprendimento.",
+        "incorrect_answer_3": "D. Il corso è organizzato in base alle aree di specializzazione."
+    }
+]

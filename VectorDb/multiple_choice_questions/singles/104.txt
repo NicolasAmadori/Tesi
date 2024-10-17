@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/@@archivio-eventi/index.txt
+{
+    "question": "Qual è l'obiettivo dell'evento \"Obiettivo Tesi senza stress\"?",
+    "correct_answer": "A. Enseñar alle studenti la tecnica di scrittura e organizzazione della tesi.",
+    "incorrect_answer_1": "B. Promuovere la ricerca di nuovi topic per tesi.",
+    "incorrect_answer_2": "C. Fornire informazioni sull'organizzazione della tesi.",
+    "incorrect_answer_3": "D. Enseñar alle studenti come scrivere correttamente la tesi."
+}

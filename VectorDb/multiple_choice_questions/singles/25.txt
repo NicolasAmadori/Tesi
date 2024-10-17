@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/utilizzo-del-marchio-di-ateneo-nella-prova-finale/index.txt
+{
+    "question": "Qual è il nuovo regolamento per l'uso del Marchio dell'Ateneo?",
+    "correct_answer": "A. Il nuovo regolamento consente di inserire il marchio sulla copertina e sul frontespizio della prova finale.",
+    "incorrect_answer_1": "B. Il nuovo regolamento consente di inserire il marchio sull'interno della prova finale.",
+    "incorrect_answer_2": "C. Il nuovo regolamento consente di inserire il marchio su qualsiasi parte della prova finale.",
+    "incorrect_answer_3": "D. Il nuovo regolamento consente di inserire il marchio su un'altra struttura della prova finale."
+}

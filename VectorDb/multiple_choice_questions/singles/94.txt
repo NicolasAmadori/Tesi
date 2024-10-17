@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/vuoi-iscriverti-all-universita-ma-lavori-oppure-sei-un-atleta-le-agevolazioni-per-far-bene-tutto/index.txt
+{
+    "question": "Vuoi iscriverti all’università ma lavori oppure sei un atleta: le agevolazioni per far bene tutto sono...",
+    "correct_answer": "A. Le agevolazioni per far bene tutto sono disponibili per gli studenti che si iscrivano all’università ma lavori o sono atleti.",
+    "incorrect_answer_1": "B. Le agevolazioni per far bene tutto sono disponibili per gli studenti che si iscrivano all’università ma lavori.",
+    "incorrect_answer_2": "C. Le agevolazioni per far bene tutto sono disponibili per gli studenti che sono atleti.",
+    "incorrect_answer_3": "D. Le agevolazioni per far bene tutto sono disponibili per gli studenti che hanno ricevuto una borsa di studio."
+}

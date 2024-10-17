@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/iscriversi-ad-anni-successivi-al-primo/index.txt
+{
+    "question": "Qual è il periodo in cui devi pagare la prima rata o monorata delle tasse?",
+    "correct_answer": "A. Dal 25 luglio",
+    "incorrect_answer_1": "B. Nel periodo in cui si svolgono le verifiche",
+    "incorrect_answer_2": "C. Nel periodo in cui si svolgono le laurea",
+    "incorrect_answer_3": "D. Nel periodo in cui si svolgono le verifiche di ammissione"
+}

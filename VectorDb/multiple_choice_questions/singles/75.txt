@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/completa-procedura-immatricolazione/index.txt
+{
+    "question": "Qual è l'obiettivo della validazione della identità digitale?",
+    "correct_answer": "A. Associare l’account nome.cognome@studio.unibo.it a quanto hai dichiarato in fase di immatricolazione.",
+    "incorrect_answer_1": "B. Confermare la validità del tuo accesso a Studenti Online.",
+    "incorrect_answer_2": "C. Confermare la validità della tua identità digitale.",
+    "incorrect_answer_3": "D. Confermare la validità del tuo accesso alle risorse bibliotecarie online."
+}

@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/studiare/index.txt
+{
+    "question": "Qual è l'obiettivo principale del corso di laurea in Ingegneria Scienze Informatiche?",
+    "correct_answer": "A. Fornire alle studenti le competenze necessarie per lavorare nel campo dell'ingegneria informatica.",
+    "incorrect_answer_1": "B. Fornire alle studenti la conoscenza di tutti i concetti di informatica.",
+    "incorrect_answer_2": "C. Fornire alle studenti la capacità di lavorare con tecnologia.",
+    "incorrect_answer_3": "D. Fornire alle studenti la capacità di scrivere tesi in informatica."
+}

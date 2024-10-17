@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/sistema-bibliotecario-di-ateneo-informazioni-e-supporto-da-studente-a-studente-tramite-livechat-su-teams/index.txt
+{
+    "question": "Qual è il principale objetivo del servizio Sistema Bibliotecario di Ateneo - Informazioni e supporto da studente a studente tramite LiveChat su Teams?",
+    "correct_answer": "A. Aiutar gli studenti nella ricerca di informazioni e materiale utile per la preparazione degli esami e la stesura della tesi.",
+    "incorrect_answer_1": "B. Promuovere la ricerca di informazioni su internet.",
+    "incorrect_answer_2": "C. Fornire supporto tecnico agli studenti.",
+    "incorrect_answer_3": "D. Organizzare le lezioni degli studenti."
+}

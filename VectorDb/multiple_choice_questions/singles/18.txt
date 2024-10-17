@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/esplora-il-corso/index.txt
+{
+    "question": "Qual è l'obiettivo del corso di Ingegneria Scienze Informatiche?",
+    "correct_answer": "A. Fornire una cultura scientifica e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e degli strumenti più attuali per la realizzazione di soluzioni informatiche.",
+    "incorrect_answer_1": "B. Studiare l'informatica sia dal punto di vista matematico/scientifico, sia da quello progettuale/ingegneristico.",
+    "incorrect_answer_2": "C. Conoscerere le metodologie di progettazione e le tecnologie informatiche più attuali per la realizzazione di soluzioni informatiche.",
+    "incorrect_answer_3": "D. Il continuo aggiornamento dei contenuti dei corsi, il corpo docente giovane e attento alle tendenze più innovative."
+}

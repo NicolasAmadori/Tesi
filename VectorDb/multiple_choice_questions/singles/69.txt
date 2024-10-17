@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/prospettive/index.txt
+{
+    "question": "Qual è la principale funzione di un Analista, Progettista e Programmatore di Software?",
+    "correct_answer": "A. Analizzare, progettare e sviluppare nuove applicazioni informatiche e/o evolvere applicazioni software esistenti.",
+    "incorrect_answer_1": "B. Sviluppare applicazioni che operano su architetture complesse.",
+    "incorrect_answer_2": "C. Progettare sistemi informativi e database di media complessità.",
+    "incorrect_answer_3": "D. Sviluppare applicazioni basate sulle tecnologie e i linguaggi legati al mondo web."
+}

@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/qualita-corso/@@esami-voto-medio/index.txt
+{
+    "question": "Qual è il corso in cifre del laurea in Ingegneria e scienze informatiche?",
+    "correct_answer": "A. Il Corso in cifre del laurea in Ingegneria e scienze informatiche descrivere le basi di conoscenza e le competenze tecniche necessarie per svolgere lavori di ricerca e progettazione in campo informatico.",
+    "incorrect_answer_1": "B. Il Corso in cifre del laurea in Ingegneria e scienze informatiche fornisce una formazione generale in matematica, fisica e ingegneria.",
+    "incorrect_answer_2": "C. Il Corso in cifre del laurea in Ingegneria e scienze informatiche richiede la conoscenza di linguaggi di programmazione.",
+    "incorrect_answer_3": "D. Il Corso in cifre del laurea in Ingegneria e scienze informatiche aiuta a sviluppare competenze di leadership."
+}

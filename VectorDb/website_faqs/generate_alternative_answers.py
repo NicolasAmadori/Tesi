@@ -6,6 +6,7 @@ import torch
 import os
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, pipeline
 from langchain_huggingface import HuggingFacePipeline
+import json_repair
 
 #RAG Chain
 from langchain_core.runnables import RunnablePassthrough
@@ -56,7 +57,7 @@ def get_hugging_face_model(model_id, hf_token, return_full_text = False):
     tokenizer = AutoTokenizer.from_pretrained(model_id, token = hf_token)
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
-        quantization_config=BitsAndBytesConfig(load_in_4bit=True),
+        # quantization_config=BitsAndBytesConfig(load_in_4bit=True),
         device_map="cuda",
         trust_remote_code = True, #Added for Phi-3-mini-128k
         token = hf_token,
@@ -75,26 +76,27 @@ def get_hugging_face_model(model_id, hf_token, return_full_text = False):
                             pipeline_kwargs={"return_full_text": return_full_text}) # <----- IMPORTANT !!!
     return llm
 
-def get_db_retriever(embedding_model, collection_name, host="0.0.0.0", port="19530", search_type="mmr", k=4):
-    vector_store = Milvus(
-        embedding_function=embedding_model,
-        connection_args={"host": host, "port": port},
-        collection_name=collection_name
-    )
+def get_rag_chain(llm_model, prompt_template):
+    SYSTEM_MESSAGE = """You are an AI assistant tasked with generating incorrect answers to questions based on the given context. 
+    Your goal is to create two **plausible yet false answers** that subtly misinterpret the context or alter details in a way that seems credible but is ultimately incorrect when compared to the accurate information. 
 
-    return vector_store.as_retriever(search_type=search_type, search_kwargs={"k": k})
+    IMPORTANT: 
+    - The false answers should be **misleading** but not absurd, making them **reasonable enough to confuse the reader**.
+    - Derive these incorrect answers **only from the provided context** by subtly changing facts, figures, or interpretations.
+    - If statistics or numerical data appear in the context, use them but **modify values** in a realistic way to craft the false answers.
+    - The answers must be strictly written in **Italian**.
 
-def get_rag_chain(llm_model, prompt_template, retriever):
-    SYSTEM_MESSAGE = """You are an AI assistant, and your role is to generate incorrect answers to questions.
-    When asked, generate two plausible but false answers based on the given context.
-    The false answers should be sensible enough to seem correct at first glance but must be incorrect when compared with the accurate information.
-    Use the context provided to generate the two answers, ensuring that them are misleading but not absurd.
-    IMPORTANT: you have to generate the answers strictly in italian."""
+    Return your output in a structured JSON format as specified below.
 
-    USER_MESSAGE = """Use the given context to generate an answer for the question.
-    IMPORTANT: Generate two false but plausible answers that are incorrect but reasonable enough to confuse the reader, strictly in Italian
-    IMPORTANT: Use only the information you can find in the given context to craft answers, and derive the two incorrect answers by slightly altering or misinterpreting the context in subtle ways.
-    IMPORTANT: If statistics or numbers are present in the context and are useful for the answer, try to include them in the answers (with different values or interpretations).
+    """
+
+    USER_MESSAGE = """Based on the provided context, generate two false but plausible answers to the following question. 
+    IMPORTANT: 
+    - Both answers must be **incorrect** but seem **believable** at first glance.
+    - Only use the information found in the context to **slightly alter** or misinterpret it.
+    - If the context includes numbers or statistics, try to incorporate these by modifying or interpreting them differently.
+    - STRICTLY return the output in the format of a JSON object, with two properties: `false_answer_1` and `false_answer_2`.
+    - Answers should be written strictly in **Italian**.
 
     <context>
     {context}
@@ -107,6 +109,13 @@ def get_rag_chain(llm_model, prompt_template, retriever):
     <correct_answer>
     {correct_answer}
     </correct_answer>
+
+    Expected JSON format:
+
+    {{
+        "false_answer_1": "Your first misleading but plausible answer here.",
+        "false_answer_2": "Your second misleading but plausible answer here."
+    }}
     """
 
     final_prompt_template = ""
@@ -160,14 +169,11 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
     for model_name, model_prompt_template in models_dict.items():
         logger.info(f"Starting answers generation using: {model_name}")
 
-        llm = get_hugging_face_model(model_id=model_name, hf_token = hf_token) #Download model
+        llm = get_hugging_face_model(model_id=model_name, hf_token = hf_token)
 
-        #Generate answers for all the collections
         for collection_name, faq_link in collection_tuples:
             
-            #Create rag_chain
-            retriever = get_db_retriever(embedding_model, collection_name, k=k)
-            rag_chain = get_rag_chain(llm, model_prompt_template, retriever)
+            rag_chain = get_rag_chain(llm, model_prompt_template)
 
             faq_dataframe = pd.read_csv(faq_link)
             generate_collection_false_answers(collection_name, faq_dataframe, rag_chain, output_path=f"output/{model_name}")
@@ -222,39 +228,67 @@ def main():
 def debug():
     #Testing parameters
     HF_TOKEN = "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"
-    EMBEDDING_MODEL_NAME = "BAAI/bge-m3" #Default: "jinaai/jina-embeddings-v3"
-    COLLECTION_NAME = "UniboIngScInf"
     FOLDER_NAME = "IngegneriaScienzeInformatiche"
     FAQ_LINK = "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"
     LLM_MODEL_NAME = "google/gemma-7b-it"
     GEMMA7B_PROMPT_TEMPLATE = ModelPromptTemplate(
         user_start="<start_of_turn>user\n",
-        user_end="<end_of_turn>",
-        assistant_start="<start_of_turn>model",
-        assistant_end="<end_of_turn>",
+        user_end="<end_of_turn>\n",
+        assistant_start="<start_of_turn>model\n",
+        assistant_end="<end_of_turn>\n",
         text_start="<bos>",
         text_end="")
 
-    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME,
-        model_kwargs={"device": "cuda"})
-
     llm = get_hugging_face_model(model_id=LLM_MODEL_NAME, hf_token = HF_TOKEN) #Download model
 
-    retriever = get_db_retriever(embedding_model, COLLECTION_NAME, k=8)
-    rag_chain = get_rag_chain(llm, GEMMA7B_PROMPT_TEMPLATE, retriever)
+    rag_chain = get_rag_chain(llm, GEMMA7B_PROMPT_TEMPLATE)
 
     documents = readDocuments(FOLDER_NAME)
     faq_dataframe = pd.read_csv(FAQ_LINK)
 
     for index, (domanda, risposta, origine) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["risposta"], faq_dataframe["origine"]), 1):
-        if index > 1:
+        if index > 100000:
             break
+        logger.info(f"{index} -> {origine}")
+        # d = getDocument(documents, origine)
 
-        d = getDocument(documents, origine)
+        # response = rag_chain.invoke({
+        #     "context": d.page_content,
+        #     "question": domanda,
+        #     "correct_answer": risposta
+        # })
+        # logger.info(response)
 
-        response = rag_chain.invoke(context=d.page_content, question=domanda, correct_answer=risposta)
-        logger.info(response) 
+    #Domanda test
+    context = """
+    L'elefante è un mammifero di grandi dimensioni, noto per la sua maestosità e forza. È caratterizzato da un corpo massiccio coperto da una pelle spessa e grigiastra, grandi orecchie a forma di ventaglio e una lunga proboscide, che è un'estensione del naso e del labbro superiore. Questa proboscide è molto versatile e viene utilizzata per molte funzioni, come raccogliere cibo, bere acqua e comunicare.
+    Gli elefanti hanno anche grandi zanne d'avorio, che sono in realtà denti incisivi allungati e possono essere usate per scavare o difendersi. Le loro gambe sono forti e robuste, sostenendo il peso del loro enorme corpo, e i piedi hanno ampi cuscinetti che aiutano a distribuire il peso e a camminare silenziosamente nonostante la loro mole.
+    Esistono due specie principali di elefanti: l'elefante africano, che è generalmente più grande e ha orecchie più ampie, e l'elefante asiatico, che è leggermente più piccolo e ha orecchie più piccole. Gli elefanti vivono in gruppi sociali matriarcali, guidati dalla femmina più anziana, e sono animali molto intelligenti e sociali, noti per le loro forti connessioni familiari e per la loro capacità di provare emozioni come la gioia e il lutto."""
 
+    domanda = "Quante specie principali di elefanti esistono?"
+    risposta = "Esistono due specie principali di elefanti."
+    d = Document(page_content=context)
+
+    #Prima FAQ
+    faq_index = 32
+    domanda, risposta, origine = faq_dataframe["domanda"].tolist()[faq_index], faq_dataframe["risposta"].tolist()[faq_index], faq_dataframe["origine"].tolist()[faq_index]
+    d = getDocument(documents, origine)
+    logger.info(domanda)
+    logger.info(risposta)
+    logger.info(d.metadata)
+
+    while True:
+        input("Premi invio per generare")
+        response = rag_chain.invoke({
+            "context": d.page_content,
+            "question": domanda,
+            "correct_answer": risposta
+        })
+        
+        parsed_json = json_repair.loads(response)
+        logger.info(f"Original -> {response}")
+        logger.info(f"Parsed JSON -> {parsed_json}")
+    
     # try:
     #     response = rag_chain.invoke(domanda, risposta)
     #     logger.info(response)         

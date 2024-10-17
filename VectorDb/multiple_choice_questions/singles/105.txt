@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/festivita-pasquali-chiusura-campus-via-dell-universita-50/index.txt
+{
+    "question": "Qual è la data in cui la sede del Campus di Cesena sarà chiusa per le festività Pasquali?",
+    "correct_answer": "A. Il 25 marzo 2024",
+    "incorrect_answer_1": "B. Il 29 marzo 2024",
+    "incorrect_answer_2": "C. Il 01 aprile 2024",
+    "incorrect_answer_3": "D. Il 02 aprile 2024"
+}

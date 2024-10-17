@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/programma-di-formazione-per-24-studenti-con-un-percorso-in-ambito-ict/index.txt
+{
+    "question": "Qual è l'obiettivo del programma annuale di formazione Seeds for the Future?",
+    "correct_answer": "A. Fornire un'occasione per la formazione di 24 studenti italiani con un percorso focalizzato su tecnologia e innovazione.",
+    "incorrect_answer_1": "B. Promuovere la ricerca universitaria in Italia.",
+    "incorrect_answer_2": "C. Crea nuovi laureati in tecnologia e innovazione.",
+    "incorrect_answer_3": "D. Fornire un'occasione per ottenere un master universitario in tecnologia e innovazione."
+}

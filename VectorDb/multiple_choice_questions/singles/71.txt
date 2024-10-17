@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/borse-di-studio-tesi-estero/index.txt
+{
+    "question": "Qual è il periodo massimo di validità del soggiorno all'estero?",
+    "correct_answer": "A. Sei mesi",
+    "incorrect_answer_1": "B. Nove mesi",
+    "incorrect_answer_2": "C. Otto mesi",
+    "incorrect_answer_3": "D. Diez mesi"
+}

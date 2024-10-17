@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/prova-finale/index.txt
+{
+    "question": "Qual è la validità della domanda di laurea?",
+    "correct_answer": "A. La domanda di laurea è valida per un solo anno accademico.",
+    "incorrect_answer_1": "B. La domanda di laurea è valida per due anni accademici.",
+    "incorrect_answer_2": "C. La domanda di laurea è valida per tre anni accademici.",
+    "incorrect_answer_3": "D. La domanda di laurea è valida per quattro anni accademici."
+}

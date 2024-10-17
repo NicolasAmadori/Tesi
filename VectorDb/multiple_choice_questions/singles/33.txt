@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/risultati-di-apprendimento-attesi/index.txt
+{
+    "question": "Qual è la principale finalità del corso di conoscenza e comprensione?",
+    "correct_answer": "A. Conoscere e applicare correttamente le basi di dati relazionali e NoSQL.",
+    "incorrect_answer_1": "B. Sapere utilizzare linguaggi di programmazione imperativi e orientati agli oggetti.",
+    "incorrect_answer_2": "C. Sapere eseguire progetti di design e implementazione di software.",
+    "incorrect_answer_3": "D. Sapere eseguire lavori di ricerca in campo informatica."
+}

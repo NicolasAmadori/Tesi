@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/ordinamento-a-a-2024-25/index.txt
+{
+    "question": "Qual è l'obiettivo principale del nuovo ordinamento didattico del corso di laurea in Ingegneria e scienze informatiche?",
+    "correct_answer": "A. La conservazione della struttura del corso",
+    "incorrect_answer_1": "B. Potenziare le competenze in certi ambiti emergenti",
+    "incorrect_answer_2": "C. Sviluppare competenze trasversali per lavorare in team",
+    "incorrect_answer_3": "D. Trasformare l’insegnamento al primo anno di Inglese da B1 a B2"
+}

@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/almaorienta_lt_isi-1.pdf.txt
+{
+    "question": "Qual è l'obiettivo del corso di Ingegneria e Scienze Informatiche?",
+    "correct_answer": "A. Proporre agli studenti lo studio dell’informatica approfondendo aspetti sia di tipo progettuale/ingegneristico che di tipo matematico/scientifico.",
+    "incorrect_answer_1": "B. Proporre agli studenti la conoscenza di basi di informatica.",
+    "incorrect_answer_2": "C. Proporre agli studenti la conoscenza di sistemi operativi.",
+    "incorrect_answer_3": "D. Proporre agli studenti la conoscenza di linguaggi di programmazione."
+}

@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/incontro-outgoing-bando-erasmus-studio-2024-2025-venerdi-12-gennaio-ore-13-00/index.txt
+{
+    "question": "Qual è l'obiettivo principale del corso di Ingegneria e Scienze Informatiche?",
+    "correct_answer": "A. Fornire un'istruzione di livello universitario in Ingegneria e Scienze Informatiche.",
+    "incorrect_answer_1": "B. Promuovere la ricerca universitaria.",
+    "incorrect_answer_2": "C. Fornire un'istruzione di livello superiore.",
+    "incorrect_answer_3": "D. Promuovere la formazione professionale."
+}

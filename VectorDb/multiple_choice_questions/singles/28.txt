@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/tirocini-curriculari/index.txt
+{
+    "question": "Qual è la durata del tirocinio curriculare?",
+    "correct_answer": "A. La durata del tirocinio curriculare è pari a 25 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso.",
+    "incorrect_answer_1": "B. La durata del tirocinio curriculare è pari a 20 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso.",
+    "incorrect_answer_2": "C. La durata del tirocinio curriculare è pari a 30 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso.",
+    "incorrect_answer_3": "D. La durata del tirocinio curriculare è pari a 15 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso."
+}

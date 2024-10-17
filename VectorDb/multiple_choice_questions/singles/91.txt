@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie_b_start_int=24/index.txt
+{
+    "question": "Qual è il tema del primo Hackathon europeo promosso da EUDIS?",
+    "correct_answer": "A. L’innovazione digitale per la difesa",
+    "incorrect_answer_1": "B. La tecnologia nella ricerca universitaria",
+    "incorrect_answer_2": "C. La sicurezza informatica",
+    "incorrect_answer_3": "D. La storia della tecnologia universitaria"
+}

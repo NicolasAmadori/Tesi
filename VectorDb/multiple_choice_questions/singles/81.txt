@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/compilare-piano-di-studi/index.txt
+{
+    "question": "Qual è l'obbligatorio per poter chiudere correttamente il piano di studi?",
+    "correct_answer": "A. Scegliere fin da ora come si vorrà svolgere la prova finale.",
+    "incorrect_answer_1": "B. Presentare il piano di studi correttamente.",
+    "incorrect_answer_2": "C. Compilare il modulo del piano di studi.",
+    "incorrect_answer_3": "D. Confermare la validità del piano di studi."
+}

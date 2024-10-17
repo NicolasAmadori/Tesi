@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2023/index.txt
+{
+    "question": "Qual è il periodo in cui si tengono le lezioni di un insegnamento di questo corso?",
+    "correct_answer": "A. 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025",
+    "incorrect_answer_1": "B. Il periodo in cui si tengono le lezioni del corso precedente.",
+    "incorrect_answer_2": "C. Il periodo in cui si tengono le lezioni del corso successivo.",
+    "incorrect_answer_3": "D. Il periodo in cui si tengono le lezioni di un corso diverso."
+}

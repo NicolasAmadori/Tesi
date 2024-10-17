@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/contatti/index.txt
+{
+    "question": "Qual è il servizio che aiuta gli studenti con disabilità o con DSA?",
+    "correct_answer": "A. Servizio per gli Studenti con Disabilità o con DSA",
+    "incorrect_answer_1": "B. Tutor di orientamento",
+    "incorrect_answer_2": "C. Ufficio didattico",
+    "incorrect_answer_3": "D. Ufficio contribuzioni studentesche"
+}

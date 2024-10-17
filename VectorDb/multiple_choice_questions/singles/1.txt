@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/index.txt
+{
+    "question": "Qual è il tipo di accesso numero programmato per questo corso?",
+    "correct_answer": "A. TOLC-I",
+    "incorrect_answer_1": "B. TOLC-II",
+    "incorrect_answer_2": "C. Open Access",
+    "incorrect_answer_3": "D. Open Source"
+}

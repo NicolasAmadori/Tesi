@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie/index.txt
+{
+    "question": "Qual è il prossimo evento universitario descritto nel testo?",
+    "correct_answer": "A. La chiusura estiva del Campus di Cesena",
+    "incorrect_answer_1": "B. Il programma Dual Career Status \"Studente-Atleta\"",
+    "incorrect_answer_2": "C. Il corso sulle competenze trasversali",
+    "incorrect_answer_3": "D. Il Start-up creation lab"
+}

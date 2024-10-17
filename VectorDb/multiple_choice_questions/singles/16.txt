@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/il-progetto-ingegneria-e-scienze-informatiche/index.txt
+{
+    "question": "Qual è la possibilità di iniziare un percorso di specializzazione verso tematiche di specifico interesse dello studente in questo corso?",
+    "correct_answer": "A. Ampia scelta di corsi complementari in numerosi ambiti.",
+    "incorrect_answer_1": "B. Limitata scelta di corsi complementari in pochi ambiti.",
+    "incorrect_answer_2": "C. Scelta di corsi complementari limitata ad alcuni ambiti.",
+    "incorrect_answer_3": "D. Scelta di corsi complementari molto amplia, ma non applicabili al corso."
+}

@@ -1,0 +1,23 @@
+IngegneriaScienzeInformatiche/orario-lezioni/matricole-classe-a-a-a-2022-2023_completo.pdf/@@download/file/Matricole%20Classe%20A%20-%20A.A.%202022.2023_completo.pdf.txt
+[
+    {
+        "context": "Matricole CLASSE A - A.A. 2022/2023 \n\n..."
+    },
+    [
+        "context"
+    ],
+    {
+        "question": "question",
+        "correct_answer": "correct_answer",
+        "incorrect_answer_1": "incorrect_answer_1",
+        "incorrect_answer_2": "incorrect_answer_2",
+        "incorrect_answer_3": "incorrect_answer_3"
+    },
+    {
+        "question": "Qual è il numero di studenti in questa classe?",
+        "correct_answer": "A. 42",
+        "incorrect_answer_1": "B. Il numero di studenti è superiore a 100.",
+        "incorrect_answer_2": "C. Il numero di studenti è inferiore a 50.",
+        "incorrect_answer_3": "D. Il numero di studenti è vicino a 200."
+    }
+]

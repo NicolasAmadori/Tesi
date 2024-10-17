@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/opportunita/index.txt
+{
+    "question": "Qual è il servizio universitario che fornisce informazioni sull'organizzazione degli eventi organizzati dalla università?",
+    "correct_answer": "A. La sezione eventi del sito web della università.",
+    "incorrect_answer_1": "B. Il calendario online della università.",
+    "incorrect_answer_2": "C. Il servizio \"Eventi\" della università.",
+    "incorrect_answer_3": "D. Il servizio \"Eventi studenteschi\" della università."
+}

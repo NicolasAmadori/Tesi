@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/borse-di-studio-per-preparazione-o-approfondimento-della-tesi-finale-all-estero/index.txt
+{
+    "question": "Qual è la scadenza della borsa di studio per la preparazione o approfondimento della tesi finale all'estero?",
+    "correct_answer": "A. Ore 13 del 13 marzo 2024.",
+    "incorrect_answer_1": "B. Ore 13 del 14 marzo 2024.",
+    "incorrect_answer_2": "C. Ore 13 del 15 marzo 2024.",
+    "incorrect_answer_3": "D. Ore 13 del 16 marzo 2024."
+}

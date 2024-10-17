@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/prova-finale/3863eb3bacdc4e2aab7f78754e0bd326/@@download/file/Linee%20guida%20tesi%208615.pdf.txt
+{
+    "question": "Qual è il requisito principale per complete la relazione finale del corso?",
+    "correct_answer": "A. Deve essere frutto di approfondimento di un lavoro individuale.",
+    "incorrect_answer_1": "B. Deve essere descritto in modo approfondito un tema.",
+    "incorrect_answer_2": "C. Deve sviluppare il tema di approfondimento in modo articolato e il più possibile completo.",
+    "incorrect_answer_3": "D. Deve includere una parte di analisi e una parte di progettazione in cui vengano evidenziate tecnologie, linguaggi, architetture."
+}

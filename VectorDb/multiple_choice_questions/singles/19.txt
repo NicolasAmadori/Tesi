@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/rappresentanti-studenti/index.txt
+{
+    "question": "Qual è il presidente del corso di studio in Ingegneria e scienze informatiche?",
+    "correct_answer": "A. Non è possibile estrarre dal contesto.",
+    "incorrect_answer_1": "B. Il presidente del corso è un'altra persona.",
+    "incorrect_answer_2": "C. Il presidente del corso è un docente.",
+    "incorrect_answer_3": "D. Il presidente del corso è un studente."
+}

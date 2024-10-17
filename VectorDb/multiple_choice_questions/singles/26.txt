@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/openday/index.txt
+{
+    "question": "Qual è l'evento che è stato recentemente aperto?",
+    "correct_answer": "A. Il corso di laurea in Ingegneria e Scienze Informatiche e del Corso di laurea a orientamento professionale in Tecnologie dei Sistemi Informatici",
+    "incorrect_answer_1": "B. Il corso di laurea in Ingegneria e Scienze Informatiche",
+    "incorrect_answer_2": "C. Il corso di laurea a orientamento professionale in Tecnologie dei Sistemi Informatici",
+    "incorrect_answer_3": "D. Il corso di laurea in Scienze Informatiche"
+}

@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2022/index.txt
+{
+    "question": "Qual è il periodo in cui si tengono le lezioni di alcuni corsi del secondo anno?",
+    "correct_answer": "E. 18/09/2024 - 10/06/2025",
+    "incorrect_answer_1": "A. 18/09/2024 - 18/12/2024",
+    "incorrect_answer_2": "B. 17/02/2025 - 10/06/2025",
+    "incorrect_answer_3": "C. 18/09/2024 - 10/06/2025 e 17/02/2025 - 10/06/2025"
+}

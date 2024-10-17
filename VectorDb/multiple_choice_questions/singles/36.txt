@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/come-assolvere-ofa/index.txt
+{
+    "question": "Qual è l'obiettivo della verifica delle conoscenze per il corso di laurea in Ingegneria Scienze Informatiche?",
+    "correct_answer": "A. Verificare che il candidato non abbia carenze significative in particolari discipline per cui è richiesta un'adeguata preparazione per affrontare con profitto il Corso.",
+    "incorrect_answer_1": "B. Verificare che il candidato abbia raggiunto un livello di conoscenza equivalente a quello di un laurea.",
+    "incorrect_answer_2": "C. Verificare che il candidato abbia raggiunto un livello di conoscenza superiore a quello di un laurea.",
+    "incorrect_answer_3": "D. Verificare che il candidato abbia raggiunto un livello di conoscenza inferiore a quello di un laurea."
+}

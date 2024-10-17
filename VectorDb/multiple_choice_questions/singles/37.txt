@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/obiettivi/index.txt
+{
+    "question": "Qual è l'obiettivo principale di questo corso di laurea?",
+    "correct_answer": "A. L'apprendimento dei principi dell'ingegneria del software",
+    "incorrect_answer_1": "B. La conoscenza delle principali tecnologie hardware e software",
+    "incorrect_answer_2": "C. La conoscenza delle basi di dati e sistemi informativi",
+    "incorrect_answer_3": "D. La conoscenza della lingua inglese"
+}

@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/ordinamento-a-a-2024-25/obiettiviformativi.pdf/@@download/file/ObiettiviFormativi.pdf.txt
+{
+    "question": "Il laureato è in grado di eseguire correttamente...",
+    "correct_answer": "A. Il laureato è in grado di eseguire correttamente la progettazione di un algoritmo e la successiva codifica in un linguaggio di programmazione.",
+    "incorrect_answer_1": "B. Il laureato è in grado di eseguire correttamente la programmazione di un'applicazione web.",
+    "incorrect_answer_2": "C. Il laureato è in grado di eseguire correttamente la configurazione di un sistema operativo.",
+    "incorrect_answer_3": "D. Il laureato è in grado di eseguire correttamente la gestione di un database."
+}

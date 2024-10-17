@@ -1,0 +1,22 @@
+IngegneriaScienzeInformatiche/collaborazione-tra-aziende-e-i-corsi-di-laurea-in-ingegneria-e-scienze-informatiche/istruzioni-per-la-pubblicazione-di-offerte-di-lavoro-tirocini-tesi-rev-1-4.pdf/@@download/file/Istruzioni%20per%20la%20Pubblicazione%20di%20Offerte%20di%20Lavoro-Tirocini-Tesi%20-%20Rev.1.4.pdf.txt
+{
+    "context": {
+        "Qual è il valore di 1 CFU in ore?": "Correct Answer\ncorrect_answer =",
+        "25": "Incorrect Answers\nincorrect_answer_1 =",
+        "50": "ncorrect_answer_2 =",
+        "75": "ncorrect_answer_3 =",
+        "100": "Return the JSON response\nresponse = {",
+        "question": "question",
+        "correct_answer": "correct_answer",
+        "incorrect_answer_1": "incorrect_answer_1",
+        "incorrect_answer_2": "incorrect_answer_2",
+        "incorrect_answer_3": "incorrect_answer_3"
+    },
+    "Output": {
+        "question": "Qual è il valore di 1 CFU in ore?",
+        "correct_answer": "A. 25",
+        "incorrect_answer_1": "B. 50",
+        "incorrect_answer_2": "C. 75",
+        "incorrect_answer_3": "D. 100"
+    }
+}

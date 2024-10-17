@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/rss.xml
+{
+    "question": "Qual è il corso online per la preparazione all'idoneità linguistica?",
+    "correct_answer": "A. Percorso online per la preparazione all'idoneità linguistica",
+    "incorrect_answer_1": "B. Masterclass \"Generative AI for everyday life and academic research\"",
+    "incorrect_answer_2": "C. Corso di lingue straniere (Francese, Inglese, Spagnolo e Tedesco)",
+    "incorrect_answer_3": "D. Il corso di laurea in Ingegneria Scienze Informatiche"
+}

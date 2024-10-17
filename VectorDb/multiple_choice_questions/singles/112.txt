@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie_b_start_int=12/index.txt
+{
+    "question": "Qual è l'obiettivo generale della pubblicazione degli articoli sull'idoneità linguistica?",
+    "correct_answer": "A. Informasci gli studenti sull'idoneità linguistica.",
+    "incorrect_answer_1": "B. Stabilisci le norme per la valutazione dell'idoneità linguistica.",
+    "incorrect_answer_2": "C. Crea un sistema di valutazione dell'idoneità linguistica.",
+    "incorrect_answer_3": "D. Promuovere la ricerca sull'idoneità linguistica."
+}

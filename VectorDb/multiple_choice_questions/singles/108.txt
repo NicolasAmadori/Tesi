@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/career-talks-trova-la-tua-strada/index.txt
+{
+    "question": "Qual è l'obiettivo principale del evento Career Talks - Trova la tua strada?",
+    "correct_answer": "A. Allargare le tue prospettive di carriera.",
+    "incorrect_answer_1": "B. Orientare personalmente gli studenti.",
+    "incorrect_answer_2": "C. Promuovere la passione personale.",
+    "incorrect_answer_3": "D. Fornire informazioni sull'organizzazione del corso."
+}

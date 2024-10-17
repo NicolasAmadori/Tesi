@@ -1,0 +1,20 @@
+IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/index.txt
+[
+    {
+        "context": "Ecco un po' di materiale informativo che può esserti utile per conoscere il corso.\n\n*   [slide di presentazione](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/almaorienta_lt_isi-1.pdf);\n*   [Ingegneria e Scienze Informatiche e Tecnologie dei Sistemi Informatici a confronto](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/intro_2021_lt_lp.pdf);\n*   [risposte alle domande più frequenti](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/faq-ingegneria-e-scienze-informatiche-cesena.pdf);\n*   [ulteriori approfondimenti](https://www.tes.com/lessons/Xa6rOhhJTl3hlA/ingegneria-e-scienze-informatiche)"
+    },
+    {
+        "question": "question",
+        "correct_answer": "correct_answer",
+        "incorrect_answer_1": "incorrect_answer_1",
+        "incorrect_answer_2": "incorrect_answer_2",
+        "incorrect_answer_3": "incorrect_answer_3"
+    },
+    {
+        "question": "Qual è l'obiettivo principale del corso di Ingegneria Scienze Informatiche?",
+        "correct_answer": "A. Sapere le basi di programmazione per sviluppare software",
+        "incorrect_answer_1": "B. Sapere la storia della tecnologia informatica",
+        "incorrect_answer_2": "C. Sapere come costruire website",
+        "incorrect_answer_3": "D. Sapere sull'organizzazione di eventi informatici"
+    }
+]

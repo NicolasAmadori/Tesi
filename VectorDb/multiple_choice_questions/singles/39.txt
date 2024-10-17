@@ -1,0 +1,17 @@
+IngegneriaScienzeInformatiche/redazione-tesi-voto-finale/frontespizioltisi.pdf/@@download/file/FrontespizioLTISI.pdf.txt
+[
+    {
+        "question": "question",
+        "correct_answer": "correct_answer",
+        "incorrect_answer_1": "incorrect_answer_1",
+        "incorrect_answer_2": "incorrect_answer_2",
+        "incorrect_answer_3": "incorrect_answer_3"
+    },
+    {
+        "question": "Qual è il titolo del lavoro di laurea descritto nel testo?",
+        "correct_answer": "A. Il titolo del lavoro di laurea è descritto nel testo.",
+        "incorrect_answer_1": "B. Il titolo del lavoro di laurea non è descritto nel testo.",
+        "incorrect_answer_2": "C. Il titolo del lavoro di laurea è un'altra cosa.",
+        "incorrect_answer_3": "D. Il titolo del lavoro di laurea è un titolo di laurea diverso."
+    }
+]

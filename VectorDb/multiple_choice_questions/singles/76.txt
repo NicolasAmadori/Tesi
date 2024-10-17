@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/tutor-del-corso/index.txt
+{
+    "question": "Qual è la principale funzione del tutor nel corso di studio?",
+    "correct_answer": "A. La funzione di interfaccia tra gli studenti e il corso",
+    "incorrect_answer_1": "B. La funzione di supporto personalizzato all'apprendimento",
+    "incorrect_answer_2": "C. La funzione di segnalazione di richieste logistiche",
+    "incorrect_answer_3": "D. La funzione di accesso al corso"
+}

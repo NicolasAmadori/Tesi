@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/calendario-didattico-1/index.txt
+{
+    "question": "Qual è la durata del secondo periodo di esami del corso?",
+    "correct_answer": "A. Dal 03/06/2024 all'inizio delle lezioni dell'a. a.\\xa02024/25 (settembre 2024)",
+    "incorrect_answer_1": "B. Dal 11/06/2024 all'inizio delle lezioni dell'a. a.\\xa02025/26 (settembre 2025)",
+    "incorrect_answer_2": "C. Dal 03/06/2024 al 10/06/2025",
+    "incorrect_answer_3": "D. Dal 19/12/2024 al 14/02/2025"
+}

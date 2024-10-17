@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/novita-tolc-2024-25/index.txt
+{
+    "question": "Qual è la natura della sezione \"Novità TOLC 2024/25\" del sito web dell'Università di Bologna?",
+    "correct_answer": "A. La sezione \"Novità TOLC 2024/25\" contiene informazioni sull'apertura delle iscrizioni al corso di laurea in Ingegneria e scienze informatiche.",
+    "incorrect_answer_1": "B. La sezione \"Novità TOLC 2024/25\" contiene informazioni sull'organizzazione degli esami.",
+    "incorrect_answer_2": "C. La sezione \"Novità TOLC 2024/25\" contiene informazioni sull'organizzazione del piano di studio.",
+    "incorrect_answer_3": "D. La sezione \"Novità TOLC 2024/25\" contiene informazioni sull'organizzazione degli eventi universitari."
+}

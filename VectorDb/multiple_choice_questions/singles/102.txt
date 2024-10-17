@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/far-parte-dell-alma-mater/index.txt
+{
+    "question": "Qual è il nome del corso di laurea in Ingegneria e scienze informatiche?",
+    "correct_answer": "A. Laurea in IngegneriaScienzeInformatiche",
+    "incorrect_answer_1": "B. Laurea in Scienze Informatiche",
+    "incorrect_answer_2": "C. Laurea in Ingegneria Industriale",
+    "incorrect_answer_3": "D. Laurea in Scienze Applicate"
+}

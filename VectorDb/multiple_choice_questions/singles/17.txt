@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/il-progetto-ingegneria-e-scienze-informatiche/ingegneria-e-sc-informatiche.pdf/@@download/file/Ingegneria%20e%20Sc%20informatiche.pdf.txt
+{
+    "question": "Qual è l'obiettivo principale di questo corso di laurea in Ingegneria e Scienze Informatiche?",
+    "correct_answer": "A. Fornire una cultura scientifica e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e di strumenti attuali per la realizzazione di soluzioni informatiche.",
+    "incorrect_answer_1": "B. Preparare laureati all’ingresso diretto nel mondo del lavoro.",
+    "incorrect_answer_2": "C. Fornire conoscenze approfondite e professionalizzanti in specifici settori dell’informatica.",
+    "incorrect_answer_3": "D. Fornire conoscenze matematiche di base e sulle principali aree dell’informatica."
+}

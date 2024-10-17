@@ -1,0 +1,26 @@
+IngegneriaScienzeInformatiche/bacheca/index.txt
+[
+    [
+        "Alma Mater Fest 2024",
+        "Bando Tesi Estero DISI Autunno 2024",
+        "Integra il tuo percorso universitario con le competenze trasversali",
+        "Contributi per le spese di affitto",
+        "Bando per il riconoscimento dello status",
+        "Studente-Atleta",
+        "Conciliare lavoro e studio"
+    ],
+    {
+        "question": "question",
+        "correct_answer": "correct_answer",
+        "incorrect_answer_1": "incorrect_answer_1",
+        "incorrect_answer_2": "incorrect_answer_2",
+        "incorrect_answer_3": "incorrect_answer_3"
+    },
+    {
+        "question": "Qual è il nome del corso di laurea in cui è inserito il testo?",
+        "correct_answer": "A. Ingegneria Scienze Informatiche",
+        "incorrect_answer_1": "B. Scienze Informatiche",
+        "incorrect_answer_2": "C. Ingegneria del Software",
+        "incorrect_answer_3": "D. Ingegneria dei Sistemi"
+    }
+]

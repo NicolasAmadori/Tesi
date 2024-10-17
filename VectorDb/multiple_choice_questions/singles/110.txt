@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/partecipa-agli-eventi-del-servizio-per-studentesse-e-studenti-con-dsa/index.txt
+{
+    "question": "Qual è l'obiettivo principale del corso di Ingegneria Scienze Informatiche?",
+    "correct_answer": "A. Fornire un'istruzione superiore in Ingegneria Scienze Informatiche",
+    "incorrect_answer_1": "B. Fornire un'istruzione superiore in Scienze Informatiche",
+    "incorrect_answer_2": "C. Fornire un'istruzione superiore in Scienze Applicative",
+    "incorrect_answer_3": "D. Fornire un'istruzione superiore in Tecnologie dell'Informazione"
+}

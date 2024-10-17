@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/iscriversi-all-universita-dai-testi-di-ammissione-alle-strategie-di-studio/index.txt
+{
+    "question": "Qual è il tema principale delle giornate dell’Orientamento?",
+    "correct_answer": "A. Laurearsi non serve a niente",
+    "incorrect_answer_1": "B. Come si studia all’università?",
+    "incorrect_answer_2": "C. Casa lontano da casa: le esperienze di chi vive fuori sede",
+    "incorrect_answer_3": "D. Test di ammissione: come prepararsi e cosa fare se non si supera"
+}

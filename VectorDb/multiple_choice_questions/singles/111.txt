@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/bacheca/collegio-superiore-online-il-bando-di-ammissione-ai-corsi/index.txt
+{
+    "question": "Qual è la scadenza del bando di ammissione ai corsi del Collegio Superiore di Ingegneria e Scienze Informatiche?",
+    "correct_answer": "A. 14 giugno",
+    "incorrect_answer_1": "B. 14 luglio",
+    "incorrect_answer_2": "C. 14 agosto",
+    "incorrect_answer_3": "D. 14 settembre"
+}

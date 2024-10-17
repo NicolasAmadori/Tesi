@@ -1,0 +1,8 @@
+IngegneriaScienzeInformatiche/frequenza-delle-lezioni/index.txt
+{
+    "question": "Qual è l'importanza della frequenza delle lezioni in questo corso?",
+    "correct_answer": "A. La frequenza delle lezioni è obbligatoria per ottenere la laurea.",
+    "incorrect_answer_1": "B. La frequenza delle lezioni aiuta a realizzare l'apprendimento in modo più efficiente.",
+    "incorrect_answer_2": "C. La frequenza delle lezioni aiuta a mantenere il ritmo degli esami.",
+    "incorrect_answer_3": "D. La frequenza delle lezioni aiuta a ottenere un'apprendimento più completo."
+}
