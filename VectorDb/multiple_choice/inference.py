@@ -185,9 +185,9 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche.csv"),
-        # ("UniboSviCoop", ""),
-        # ("UniboMat", "")
+        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
+        #("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
+        #("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/matematica/matematica.csv")
         ]
 
     phi3_5_prompt_template = ModelPromptTemplate(
