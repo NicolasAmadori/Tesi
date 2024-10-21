@@ -91,13 +91,13 @@ def get_rag_chain(llm_model, prompt_template, retriever):
     SYSTEM_MESSAGE = """You are an AI assistant and provide answers to questions using fact-based and statistical information when possible.
     Use the following pieces of information to provide a concise answer to the question enclosed in <question> tags.
     If you don't know the answer, just say that you don't know, and don't try to make up an answer.
-    For multiple-choice questions, respond strictly with one of the options: A, B, C, or D, based on the given context.
+    For multiple-choice questions, respond strictly with one of the given options: A, B, C, or D, based on the given context.
     IMPORTANT: Do not provide any explanations or additional text."""
 
     USER_MESSAGE = """Use the given context to generate an answer for the given multiple-choice question.
     IMPORTANT: Generate the answer strictly in Italian.
-    IMPORTANT: Use only the information you can find in the given context.
-    IMPORTANT: Respond with only one option: A, B, C, or D, based on the context.
+    IMPORTANT: Use only the information you can find in the given context to pick the correct answer.
+    IMPORTANT: Respond with only one of the 4 given options, including the letter and the text of the correct response based on the text.
     IMPORTANT: Do not include any explanations or additional text in your response.
     IMPORTANT: If statistics or numbers are present in the context and are useful for the answer, try to include them.
 
@@ -147,7 +147,9 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
         randomized_answers, new_correct = randomize_answers([corretta, errata_1, errata_2, errata_3])
         query = domanda + "\n\n" + '\n'.join(randomized_answers)
         risposta_generata = rag_chain.invoke(query)
-        output_df.loc[index] = [domanda, new_correct, risposta_generata, new_correct[0].lstrip().lower() == risposta_generata[0].lstrip().lower()]
+        new_correct = new_correct.lstrip()
+        risposta_generata = risposta_generata.lstrip()
+        output_df.loc[index] = [domanda, new_correct, risposta_generata, new_correct.lower()[0] == risposta_generata.lower()[0]]
         logger.info(f"{domanda} -> {new_correct} -> {risposta_generata}")
     
     #Create the output csv file
@@ -183,7 +185,7 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/output/questions.csv"),
+        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche.csv"),
         # ("UniboSviCoop", ""),
         # ("UniboMat", "")
         ]
@@ -213,9 +215,9 @@ def main():
     )
     
     TESTING_MODEL_DICT = {
-         "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
+        # "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
         # "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
-       # "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
+        "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 
     generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=4)

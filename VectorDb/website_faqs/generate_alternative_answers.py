@@ -220,7 +220,7 @@ def main():
         text_end="")
     
     TESTING_MODEL_DICT = {
-        "google/gemma-7b-it":GEMMA7B_PROMPT_TEMPLATE
+        "google/gemma-2-9b-it":GEMMA7B_PROMPT_TEMPLATE
     }
 
     generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=8)
@@ -230,7 +230,7 @@ def debug():
     HF_TOKEN = "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"
     FOLDER_NAME = "IngegneriaScienzeInformatiche"
     FAQ_LINK = "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"
-    LLM_MODEL_NAME = "google/gemma-7b-it"
+    LLM_MODEL_NAME = "google/gemma-2-9b-it"
     GEMMA7B_PROMPT_TEMPLATE = ModelPromptTemplate(
         user_start="<start_of_turn>user\n",
         user_end="<end_of_turn>\n",
