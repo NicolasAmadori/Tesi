@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/muoversi-in-citta-agevolazioni-e-sostenibilita-per-la-comunita-unibo/index.txt
-{
-    "question": "Qual è l'obiettivo principale del programma 'Muoversi in città: agevolazioni e sostenibilità per la comunità Unibo'?",
-    "correct_answer": "A. Promuovere la sostenibilità della mobilità universitaria.",
-    "incorrect_answer_1": "B. Riducere il tempo di percorrenza per gli studenti.",
-    "incorrect_answer_2": "C. Offrire nuove opportunità di lavoro agli studenti.",
-    "incorrect_answer_3": "D. Promuovere la integrazione della società."
-}

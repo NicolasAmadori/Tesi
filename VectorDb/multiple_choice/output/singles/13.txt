@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/cosa-dicono-i-nostri-studenti/index.txt
-{
-    "question": "Qual è il modo migliore per studiare l'informatica secondo le opinioni degli studenti?",
-    "correct_answer": "A. Unendo la teoria alla pratica.",
-    "incorrect_answer_1": "B. Conseguire un eventuale corso magistrale.",
-    "incorrect_answer_2": "C. Ottenere una buona base per intraprendere un percorso lavorativo.",
-    "incorrect_answer_3": "D. Studiare l'informatica come si fa nel resto d'Europa."
-}

@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/orario-lezioni/index.txt
-{
-    "question": "Qual è l'anno in cui si svolgeranno le lezioni del corso di Ingegneria e scienze informatiche?",
-    "correct_answer": "A. Il 2024/2025",
-    "incorrect_answer_1": "B. Il 2023/2024",
-    "incorrect_answer_2": "C. Il 2022/2023",
-    "incorrect_answer_3": "D. Il 2021/2022"
-}

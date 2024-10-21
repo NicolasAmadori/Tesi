@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/aule-laboratori-biblioteche/index.txt
-{
-    "question": "Qual è il servizio principale offerto dalla biblioteca della Sezione di Ingegneria Biomedica, Elettronica e Telecomunicazioni di Cesena?",
-    "correct_answer": "A. I servizi rivolti principalmente agli utenti istituzionali",
-    "incorrect_answer_1": "B. I servizi rivolti agli utenti studenti",
-    "incorrect_answer_2": "C. I servizi rivolti agli utenti ricercatori",
-    "incorrect_answer_3": "D. I servizi rivolti agli utenti tecnici"
-}

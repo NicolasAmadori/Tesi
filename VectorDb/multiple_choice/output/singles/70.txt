@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita/index.txt
-{
-    "question": "Qual è l'obiettivo principale del sito web del corso?",
-    "correct_answer": "A. Presentazione del corso",
-    "incorrect_answer_1": "B. Accessibilità del sito",
-    "incorrect_answer_2": "C. Ragionamento del corso",
-    "incorrect_answer_3": "D. Fornire informazioni sull'accessibilità del sito"
-}

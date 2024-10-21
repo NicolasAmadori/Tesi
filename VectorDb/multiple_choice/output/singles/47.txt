@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/prova-finale/3863eb3bacdc4e2aab7f78754e0bd326.txt
-{
-    "question": "Qual è il requisito principale per complete la relazione finale del corso?",
-    "correct_answer": "A. Deve essere frutto di approfondimento di un lavoro individuale.",
-    "incorrect_answer_1": "B. Deve essere completato entro la scadenza dei requisiti richiesti per la laurea.",
-    "incorrect_answer_2": "C. Deve includere una parte di analisi e una parte di progettazione.",
-    "incorrect_answer_3": "D. Deve sviluppare il tema di approfondimento in modo articolato e completo."
-}

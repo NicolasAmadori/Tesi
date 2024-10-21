@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tirocini-curriculari/regolamento-tirocini-2020-2.pdf/@@download/file/Regolamento%20tirocini%202020%20(2).pdf.txt
-{
-    "question": "Il presente regolamento contiene quali delle seguenti disposizioni?",
-    "correct_answer": "A. Le disposizioni generali per l’organizzazione e lo svolgimento dei tirocini curriculari promossi dall’Alma Mater Studiorum - Università di Bologna.",
-    "incorrect_answer_1": "B. Le norme di sicurezza e igiene nei luoghi di lavoro.",
-    "incorrect_answer_2": "C. Le linee guida per la redazione dei regolamenti di corso di studio.",
-    "incorrect_answer_3": "D. Le norme sulla formazione e sull’organizzazione degli uffici."
-}

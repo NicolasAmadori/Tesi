@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie_b_start_int=48/index.txt
-{
-    "question": "Qual è la scadenza della Call for StartUp?",
-    "correct_answer": "A. 8 febbraio 2024",
-    "incorrect_answer_1": "B. 8 febbraio 2023",
-    "incorrect_answer_2": "C. 31 gennaio 2024",
-    "incorrect_answer_3": "D. Il 27 o 28 febbraio 2024"
-}

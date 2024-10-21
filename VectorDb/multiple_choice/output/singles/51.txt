@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/prova-finale/istruzioni-ita.pdf/@@download/file/Istruzioni-ITA.pdf.txt
-{
-    "question": "Qual è il formato del file della tesi?",
-    "correct_answer": "A. PDF testuale, con frontespizio, in base al modello fornito dal CdS",
-    "incorrect_answer_1": "B. PDF testuale, con frontespizio, in base al modello fornito dal CdS, ma con protezione o password",
-    "incorrect_answer_2": "C. PDF testuale, con frontespizio, in base al modello fornito dal CdS, con immagini a bassa risoluzione",
-    "incorrect_answer_3": "D. PDF testuale, con frontespizio, in base al modello fornito dal CdS, con dimensioni superiori ai 30Mb"
-}

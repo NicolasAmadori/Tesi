@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/insegnamenti/piano/2024/8615/000/000/2024/index.txt
-{
-    "question": "Qual è l'obiettivo principale degli esami a libera scelta dello studente?",
-    "correct_answer": "D. A scelta dello studente",
-    "incorrect_answer_1": "A. Di base",
-    "incorrect_answer_2": "C. Affini o integrative",
-    "incorrect_answer_3": "E. Prova finale e conoscenza della lingua inglese"
-}

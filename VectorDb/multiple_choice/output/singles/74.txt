@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/formazione-obbligatoria-su-sicurezza-e-salute/index.txt
-{
-    "question": "Qual è l'obbligatorio percorso formativo sulla salute e sicurezza nei luoghi di lavoro previsti dal Decreto Legislativo 81/2008?",
-    "correct_answer": "A. La formazione generale (Modulo 1) svolta presso l’Ateneo di Bologna o altro ente",
-    "incorrect_answer_1": "B. La formazione specifica (Moduli 2, 3, 4) svolta presso l’Ateneo di Bologna",
-    "incorrect_answer_2": "C. La formazione specifica (Moduli 2, 3, 4) svolta presso altri enti, scuole e organizzazioni",
-    "incorrect_answer_3": "D. La formazione generale (Modulo 1) svolta presso un'altra università"
-}

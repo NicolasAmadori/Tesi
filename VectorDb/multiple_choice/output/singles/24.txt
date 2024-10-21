@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/ordinamento-a-a-2024-25/figureprofessionali.pdf/@@download/file/FigureProfessionali.pdf.txt
-{
-    "question": "Qual è la principale funzione del corso di laurea in Ingegneria e Scienze Informatiche?",
-    "correct_answer": "A. Progettare, sviluppare e gestire sistemi e applicazioni in ambito informatico",
-    "incorrect_answer_1": "B. Sviluppare applicazioni web",
-    "incorrect_answer_2": "C. Amministrare sistemi operativi",
-    "incorrect_answer_3": "D. Progettare sistemi embedded"
-}

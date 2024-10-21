@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/l-universita-e-per-tutte-le-persone/index.txt
-{
-    "question": "Qual è l'obiettivo principale delle Giornate dell’Orientamento?",
-    "correct_answer": "A. Presentare le persone e i servizi a supporto.",
-    "incorrect_answer_1": "B. Valorizzare e rispettare le diversità.",
-    "incorrect_answer_2": "C. Enseñar la cultura della diversità.",
-    "incorrect_answer_3": "D. Studiare a prescindere dalla situazione economica."
-}

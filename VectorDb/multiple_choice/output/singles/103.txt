@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/la-biblioteca-ha-bisogno-di-te/index.txt
-{
-    "question": "Qual è l'obiettivo della biblioteca della facoltà di Ingegneria e scienze informatiche?",
-    "correct_answer": "A. Organizzare incontri formativi.",
-    "incorrect_answer_1": "B. Promuovere la ricerca universitaria.",
-    "incorrect_answer_2": "C. Crea nuovi contenuti digitali.",
-    "incorrect_answer_3": "D. Fornire accesso alle opere digitali."
-}

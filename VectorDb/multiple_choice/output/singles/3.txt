@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/collaborazione-tra-aziende-e-i-corsi-di-laurea-in-ingegneria-e-scienze-informatiche/index.txt
-{
-    "question": "Qual è la durata del tirocinio curriculare?",
-    "correct_answer": "A. 150 ore",
-    "incorrect_answer_1": "B. 3 mesi",
-    "incorrect_answer_2": "C. 6 mesi",
-    "incorrect_answer_3": "D. 9 mesi"
-}

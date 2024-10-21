@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tirocini-curriculari/schema-riassuntivo-ingegneria-e-scienze-informatiche.pdf/@@download/file/Schema%20riassuntivo%20Ingegneria%20e%20scienze%20informatiche.pdf.txt
-{
-    "question": "Qual è l’obiettivo principale di questo corso di tirocinio?",
-    "correct_answer": "A. Approvare il tirocinio per tesi.",
-    "incorrect_answer_1": "B. Confermare la validità dell’offerta formativa.",
-    "incorrect_answer_2": "C. Caricare il programma di tirocinio.",
-    "incorrect_answer_3": "D. Inserire il registro presenze."
-}

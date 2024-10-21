@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/contatti_order=alphabetic/index.txt
-{
-    "question": "Qual è l'indirizzo della sede del corso in Cesena?",
-    "correct_answer": "A. Via Montalti 69, 47521 Cesena (FC)",
-    "incorrect_answer_1": "B. Via Zamboni 33 - 40126 Bologna BO",
-    "incorrect_answer_2": "C. Palazzo Urbinati - Via Montalti 69, 47521 Cesena (FC)",
-    "incorrect_answer_3": "D. Indirizzo non presente nel testo"
-}

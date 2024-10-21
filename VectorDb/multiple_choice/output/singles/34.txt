@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/faq/index.txt
-{
-    "question": "Qual è il titolo di studio rilasciato al termine di un corso di studio in Ingegneria e Scienze Informatiche?",
-    "correct_answer": "A. Dottore in Ingegneria e Scienze Informatiche",
-    "incorrect_answer_1": "B. Dottore in Scienze Informatiche",
-    "incorrect_answer_2": "C. Dottore in Ingegneria",
-    "incorrect_answer_3": "D. Dottore in Scienze e Tecnologie Informatiche"
-}

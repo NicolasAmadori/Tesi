@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/coordinatore-consiglio/index.txt
-{
-    "question": "Qual è la principale funzione del Coordinatore del Corso?",
-    "correct_answer": "A. La gestione degli indirizzi del Consiglio.",
-    "incorrect_answer_1": "B. La gestione dei rapporti con i Dipartimenti.",
-    "incorrect_answer_2": "C. La formulanza di proposte in tema di organizzazione della didattica.",
-    "incorrect_answer_3": "D. La previsione dei calendari e delle commissioni degli esami di laurea."
-}

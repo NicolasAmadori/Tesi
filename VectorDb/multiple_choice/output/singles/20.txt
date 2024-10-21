@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/commissioni/index.txt
-{
-    "question": "Qual è il compito della Commissione di gestione Assicurazione di Qualità del Corso?",
-    "correct_answer": "A. Verificare l'attuazione delle azioni di miglioramento, monitorare l'andamento delle carriere degli studenti, condividerne i risultati con il Consiglio di Corso.",
-    "incorrect_answer_1": "B. Organizzare le lezioni e strutturare l'orario delle lezioni.",
-    "incorrect_answer_2": "C. Valutare le richieste di passaggi e trasferimenti al Corso di studio.",
-    "incorrect_answer_3": "D. Approvare le domande di tirocinio sia curriculare interno ed esterno."
-}

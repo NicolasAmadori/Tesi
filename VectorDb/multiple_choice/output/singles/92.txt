@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/chiusura-sede-per-festivita_2024/index.txt
-{
-    "question": "Qual è la data in cui la sede del Campus di Cesena sarà chiusa per la Festa della Liberazione?",
-    "correct_answer": "A. Giovedì 25 aprile e venerdì 26 aprile",
-    "incorrect_answer_1": "B. Giovedì 24 aprile e venerdì 25 aprile",
-    "incorrect_answer_2": "C. Giovedì 26 aprile e venerdì 27 aprile",
-    "incorrect_answer_3": "D. Mercoledì 1 maggio"
-}

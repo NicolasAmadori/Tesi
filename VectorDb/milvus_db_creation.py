@@ -31,8 +31,8 @@ def readDocuments(folder_name, strings_to_remove = []):
             file_path = os.path.join(root, file)
             with open(file_path, 'r') as f:
                 data = f.read()
-                for string in strings_to_remove:
-                    data = data.replace(string,"")
+                # for string in strings_to_remove:
+                #     data = data.replace(string,"")
                 
                 metadata = {
                     "source": f"corsi.unibo.it/laurea/{folder_name}",
@@ -50,13 +50,15 @@ def addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, 
         splitted_documents = text_splitter.split_documents(collection_documents)
         logger.info(f"{collection_name} -> from {len(collection_documents)} to {len(splitted_documents)} documents")
 
+        total = 0
         for chunk in chunker(splitted_documents, DOCUMENT_CHUNK_SIZE):
+            total += DOCUMENT_CHUNK_SIZE
+            logger.info(f"{total}")
             _ = Milvus.from_documents(
                 chunk,
                 embedding_model,
                 connection_args={"host": host, "port": port},
-                collection_name=collection_name,
-                drop_old=True
+                collection_name=collection_name
             )
 
 def create_db(folders_collection_pairs,
@@ -72,8 +74,7 @@ def create_db(folders_collection_pairs,
 
         collection_documents = readDocuments(folder_name, faqs_questions) #Read documents and remove faqs questions from the data
         documents.append((collection_name, collection_documents))
-    logger.info(len(documents[0]))
-    return
+        logger.info(f"{collection_name} -> {len(collection_documents)}")
     
     addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port)
     logger.info("Completed with success")

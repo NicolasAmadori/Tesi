@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/segreterie-e-uffici/index.txt
-{
-    "question": "Qual è il principale compito della segreteria studentesca in questo contesto?",
-    "correct_answer": "A. La gestione delle carriere degli studenti iscritti al corso.",
-    "incorrect_answer_1": "B. Il rilascio di certificati e duplicati.",
-    "incorrect_answer_2": "C. Il controllo delle tasse universitarie.",
-    "incorrect_answer_3": "D. La domanda di ammissione all'esame di laurea."
-}

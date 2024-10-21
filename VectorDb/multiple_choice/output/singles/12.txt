@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/richiesta-riconoscimento-attivita-lavorativa-o-extra-universitaria-in-sostituzione-del-tirocinio/index.txt
-{
-    "question": "Qual è la normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio?",
-    "correct_answer": "A. La normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio è descritta nel testo del presente documento.",
-    "incorrect_answer_1": "B. La normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio è disponibile su un sito web dedicato.",
-    "incorrect_answer_2": "C. La normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio è disponibile su un'app del'università.",
-    "incorrect_answer_3": "D. La normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio è disponibile su un foglio di lavoro."
-}

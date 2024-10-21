@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/materiale-di-orientamento-per-gli-studenti-delle-scuole-superiori/intro_2021_lt_lp.pdf.txt
-{
-    "question": "Qual è il corso di laurea triennale che utilizza la base matematica?",
-    "correct_answer": "A. Ingegneria e Scienze",
-    "incorrect_answer_1": "B. Informatiche",
-    "incorrect_answer_2": "C. Matematica",
-    "incorrect_answer_3": "D. Fisica"
-}

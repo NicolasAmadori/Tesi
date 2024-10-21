@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/cla-centro-linguistico-di-ateneo-sono-aperte-le-iscrizioni-ai-corsi-di-lingue-straniere-francese-inglese-spagnolo-e-tedesco-che-prevedono-quota-di-iscrizione/index.txt
-{
-    "question": "Qual è l'obiettivo principale dei corsi di lingue straniere con quota di iscrizione?",
-    "correct_answer": "A. Per aiutare gli studenti a imparare nuove lingue.",
-    "incorrect_answer_1": "B. Per aiutare gli studenti a ottenere la laurea.",
-    "incorrect_answer_2": "C. Per aiutare gli studenti a lavorare in lingue esteri.",
-    "incorrect_answer_3": "D. Per aiutare gli studenti a ottenere un lavoro dopo la laurea."
-}

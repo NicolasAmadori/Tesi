@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/calcolo-del-voto-di-laurea/index.txt
-{
-    "question": "Qual è la media di laurea in Ingegneria e scienze informatiche?",
-    "correct_answer": "A. La media in trentesimi viene riportata in cento decimi.",
-    "incorrect_answer_1": "B. La media in trentesimi viene riportata in media ponderata.",
-    "incorrect_answer_2": "C. La media in trentesimi viene riportata in media assoluta.",
-    "incorrect_answer_3": "D. La media in trentesimi viene riportata in media con il valore massimo."
-}

@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/docenti/index.txt
-{
-    "question": "Qual è il nome del docente inserito nel testo?",
-    "correct_answer": "A. Il nome inserito non è presente nell'elenco.",
-    "incorrect_answer_1": "B. Andrea Amidei.",
-    "incorrect_answer_2": "C. Marco Antonio Boschetti.",
-    "incorrect_answer_3": "D. Giovanni Delnevo."
-}

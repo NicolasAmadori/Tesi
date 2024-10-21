@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/premi-di-studio-unibo-for-refugees/index.txt
-{
-    "question": "Qual è il corso di laurea in Ingegneria e scienze informatiche sull'Università di Bologna?",
-    "correct_answer": "A. Laurea in Ingegneria e scienze informatiche",
-    "incorrect_answer_1": "B. Laurea in Scienze informatiche",
-    "incorrect_answer_2": "C. Laurea in Ingegneria industriale",
-    "incorrect_answer_3": "D. Laurea in Scienze della computazione"
-}

@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/iscriversi-al-corso/index.txt
-{
-    "question": "Qual è il periodo in cui si possono iscrivere alla selezione della II selezione del TOLC-I?",
-    "correct_answer": "A. Dal 02/05/2024 al 15/07/2023 ore 13:00.",
-    "incorrect_answer_1": "B. Dal 01/01/2023 al 29 aprile 2024.",
-    "incorrect_answer_2": "C. Dal 04/03/2024 al 30/04/2024 ore 13:00.",
-    "incorrect_answer_3": "D. Dal 01/01/2023 al 12 luglio 2024."
-}

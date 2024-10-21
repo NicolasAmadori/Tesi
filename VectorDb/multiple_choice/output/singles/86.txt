@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tirocini-curriculari-in-scuole-e-organizzazioni-no-profit/tutorial_stipulaconvenzioni.pdf/@@download/file/Tutorial_StipulaConvenzioni.pdf.txt
-{
-    "question": "Qual è l'obiettivo della pagina di accesso al portale per la stipula della convenzione?",
-    "correct_answer": "A. Svolgere l’attività di tirocinio nella propria scuola.",
-    "incorrect_answer_1": "B. Confermare la correttezza dei dati inseriti.",
-    "incorrect_answer_2": "C. Inserire il codice fiscale.",
-    "incorrect_answer_3": "D. Accessare il proprio account una volta completato l’accreditamento."
-}

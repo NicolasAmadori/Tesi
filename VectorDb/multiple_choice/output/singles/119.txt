@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/chiusura-estiva-campus-di-cesena2024/index.txt
-{
-    "question": "Qual è la chiusura estiva del Campus di Cesena?",
-    "correct_answer": "A. Dal 10 al 18 agosto 2024.",
-    "incorrect_answer_1": "B. Dal 12 al 16 agosto 2024.",
-    "incorrect_answer_2": "C. Dal 14 al 18 agosto 2024.",
-    "incorrect_answer_3": "D. Dal 10 al 16 agosto 2024."
-}

@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/il-corso/8615_regolamento-didattico-a-a-2024_2025.pdf.txt
-{
-    "question": "Qual è l'obiettivo principale del corso di laurea in Ingegneria e Scienze Informatiche?",
-    "correct_answer": "A. Demonstrar la capacità di applicare e comunicare le conoscenze acquisite nel Corso di Studio stesso.",
-    "incorrect_answer_1": "B. Conferire la laurea ad un candidato che non abbia raggiunto le condizioni di ammissione.",
-    "incorrect_answer_2": "C. Conferire la laurea ad un candidato che non ha raggiunto la quota di ammissione.",
-    "incorrect_answer_3": "D. Conferire la laurea ad un candidato che non ha raggiunto la quota di ammissione e non ha raggiunto le condizioni di ammissione."
-}

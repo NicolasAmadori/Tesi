@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tolc-cos-e-e-come-si-svolge/index.txt
-{
-    "question": "Qual è la validità del TOLC per iscriversi al Corso di Ingegneria?",
-    "correct_answer": "A. Il TOLC in presenza (TOLC@UNI) svolti nel 2024 sono validi.",
-    "incorrect_answer_1": "B. Il TOLC in presenza (TOLC@UNI) svolti nel 2023 sono validi.",
-    "incorrect_answer_2": "C. Il TOLC@casa svolti nel 2023 sono validi.",
-    "incorrect_answer_3": "D. Il TOLC@casa svolti nel 2024 sono validi."
-}

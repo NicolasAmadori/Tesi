@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/conciliare-studio-e-lavoro/index.txt
-{
-    "question": "Qual è l'obiettivo della misura di sostegno per studenti lavoratori?",
-    "correct_answer": "A. Garantire un percorso universitario di qualità che possa armonizzarsi con le tue esigenze lavorative.",
-    "incorrect_answer_1": "B. Garantire un percorso universitario più compatibile con i tuoi impegni di lavoro.",
-    "incorrect_answer_2": "C. Garantire un percorso universitario più qualificato.",
-    "incorrect_answer_3": "D. Garantire un percorso universitario più libero."
-}

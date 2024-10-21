@@ -14,6 +14,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 #Logging
 import logging
+import random
 logging.basicConfig(
     format="%(asctime)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO
 )
@@ -26,12 +27,11 @@ class Delimiter:
 
 class ModelPromptTemplate:
     def __init__(self, system_start="", system_end="", user_start="", user_end="", assistant_start="", assistant_end="", text_start="", text_end=""):
-        self.user_delimiter = Delimiter(user_start, user_end) if user_start != "" or user_end != "" else None
-        self.assistant_delimiter = Delimiter(assistant_start, assistant_end) if assistant_start != "" or assistant_end != "" else None
-        self.system_delimiter = Delimiter(system_start, system_end) if system_start != "" or system_end != "" else None
-        self.text_delimiter = Delimiter(text_start, text_end) if text_start != "" or text_end != "" else None
+        self.user_delimiter = Delimiter(user_start, user_end)
+        self.assistant_delimiter = Delimiter(assistant_start, assistant_end)
+        self.system_delimiter = Delimiter(system_start, system_end)
+        self.text_delimiter = Delimiter(text_start, text_end)
 
-import random
 def randomize_answers(answers):
     if len(answers) != 4:
         raise ValueError("The input must contain exactly 4 answers.")
@@ -39,11 +39,15 @@ def randomize_answers(answers):
     letters = ['A', 'B', 'C', 'D']
     random.shuffle(answers)  # Shuffle the letters randomly
     
+    correct = None
     randomized_answers = []
-    for letter, answer in zip(letters, answers):
-        randomized_answers.append(f"{letter}. {answer[3:]}")
+    for letter, original_answer in zip(letters, answers):
+        new_answer = f"{letter}. {original_answer[3:]}"
+        if original_answer.startswith("A. "):
+            correct = new_answer
+        randomized_answers.append(new_answer)
 
-    return randomized_answers
+    return randomized_answers, correct
 
 @torch.no_grad()
 def get_hugging_face_model(model_id, hf_token, return_full_text = False):
@@ -79,6 +83,8 @@ def get_db_retriever(embedding_model, collection_name, host="0.0.0.0", port="195
     return vector_store.as_retriever(search_type=search_type, search_kwargs={"k": k})
 
 def format_docs(docs):
+    for doc in docs:
+        logger.info(doc.metadata["file_name"])
     return "\n\n".join(doc.page_content for doc in docs)
 
 def get_rag_chain(llm_model, prompt_template, retriever):
@@ -102,39 +108,27 @@ def get_rag_chain(llm_model, prompt_template, retriever):
     <question>
     {question}
     </question>
-
-    <options>
-    {option_a}
-    {option_b}
-    {option_c}
-    {option_d}
-    </options>
     """
 
-    final_prompt_template = ""
-    if prompt_template.text_delimiter:
-        final_prompt_template += prompt_template.text_delimiter.start
+    final_prompt_template = prompt_template.text_delimiter.start
 
-    if prompt_template.system_delimiter:
+    if prompt_template.system_delimiter.start != "" or prompt_template.system_delimiter.end != "":
         final_prompt_template+= f"{prompt_template.system_delimiter.start}{SYSTEM_MESSAGE}{prompt_template.system_delimiter.end}"
         final_prompt_template+= f"{prompt_template.user_delimiter.start}{USER_MESSAGE}{prompt_template.user_delimiter.end}"
     else:
         final_prompt_template+= f"{prompt_template.user_delimiter.start}{SYSTEM_MESSAGE}\n\n{USER_MESSAGE}{prompt_template.user_delimiter.end}"
     
     final_prompt_template+= f"{prompt_template.assistant_delimiter.start}"
+    final_prompt_template+= "The letter of the correct answer is: "
     
     prompt = PromptTemplate(
-        template=final_prompt_template, input_variables=["context", "question", "option_a", "option_b", "option_c", "option_d"]
+        template=final_prompt_template, input_variables=["context", "question"]
     )
 
     rag_chain = (
         {
             "context": retriever | format_docs,
-            "question": RunnablePassthrough(),
-            "option_a": RunnablePassthrough(),
-            "option_b": RunnablePassthrough(),
-            "option_c": RunnablePassthrough(),
-            "option_d": RunnablePassthrough()
+            "question": RunnablePassthrough()
         }
         | prompt
         | llm_model
@@ -143,16 +137,18 @@ def get_rag_chain(llm_model, prompt_template, retriever):
     return rag_chain
 
 def generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path):
-    output_df = pd.DataFrame(columns=['domanda', 'risposta_gold', 'risposta'])
+    output_df = pd.DataFrame(columns=['domanda', 'risposta_gold', 'risposta', 'se_corretta'])
     n_rows = faq_dataframe.shape[0]
     logger.info(f"Generating answers for the collection: {collection_name} ({n_rows} rows)")
 
-    for index, (domanda, risposta_gold, errata_1, errata_2, errata_3) in enumerate(zip(faq_dataframe["question"], faq_dataframe["correct_answer"], faq_dataframe["incorrect_answer_1"], faq_dataframe["incorrect_answer_2"], faq_dataframe["incorrect_answer_3"]), 1):
+    for index, (domanda, corretta, errata_1, errata_2, errata_3) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["corretta"], faq_dataframe["errata_1"], faq_dataframe["errata_2"], faq_dataframe["errata_3"]), 1):
         logger.info(f"{index}/{n_rows}")
 
-        randomized_answers = randomize_answers([risposta_gold, errata_1, errata_2, errata_3])
-        risposta_generata = rag_chain.invoke(domanda, randomized_answers)
-        output_df.loc[index] = [domanda, risposta_gold, risposta_generata]
+        randomized_answers, new_correct = randomize_answers([corretta, errata_1, errata_2, errata_3])
+        query = domanda + "\n\n" + '\n'.join(randomized_answers)
+        risposta_generata = rag_chain.invoke(query)
+        output_df.loc[index] = [domanda, new_correct, risposta_generata, new_correct[0].lstrip().lower() == risposta_generata[0].lstrip().lower()]
+        logger.info(f"{domanda} -> {new_correct} -> {risposta_generata}")
     
     #Create the output csv file
     file_name = f"{collection_name}.csv"
@@ -177,7 +173,7 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
             rag_chain = get_rag_chain(llm, model_prompt_template, retriever)
 
             faq_dataframe = pd.read_csv(faq_link)
-            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"output/{model_name}")
+            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"answers/{model_name}")
         
         torch.cuda.empty_cache()
 
@@ -187,7 +183,7 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        ("UniboIngScInf", ""),
+        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/output/questions.csv"),
         # ("UniboSviCoop", ""),
         # ("UniboMat", "")
         ]
@@ -211,15 +207,18 @@ def main():
 
     mistral0_3_prompt_template = ModelPromptTemplate(
         text_start="<s>[INST]",
-        text_end="[/INST]")
+        text_end="[/INST]",
+        user_start="\n\n",
+        system_start = "\n\n"
+    )
     
     TESTING_MODEL_DICT = {
-        "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
+         "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
         # "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
-        # "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
+       # "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 
-    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=8)
+    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=4)
 
 def debug():
     #Testing parameters
@@ -228,35 +227,36 @@ def debug():
     COLLECTION_NAME = "UniboIngScInf"
     LLM_MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
     mistral0_3_prompt_template = ModelPromptTemplate(
-        system_start="",
-        system_end="",
-        user_start="",
-        user_end="",
-        assistant_start="",
-        assistant_end="",
         text_start="<s>[INST]",
-        text_end="[/INST]")
+        text_end="[/INST]",
+        user_start="\n\n",
+        system_start = "\n\n"
+    )
 
     embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME,
         model_kwargs={"device": "cuda"})
 
     llm = get_hugging_face_model(model_id=LLM_MODEL_NAME, hf_token = HF_TOKEN) #Download model
 
-    retriever = get_db_retriever(embedding_model, COLLECTION_NAME, k=8)
+    retriever = get_db_retriever(embedding_model, COLLECTION_NAME, k=4)
     rag_chain = get_rag_chain(llm, mistral0_3_prompt_template, retriever)
+
+    question= "Qual è la durata del tirocinio curriculare?"
+    option_a= "A. 150 ore"
+    option_b= "B. 3 mesi"
+    option_c= "C. 6 mesi"
+    option_d= "D. 9 mesi"
 
     while True:
         try:
-            question = input("Input: ")
-            
-            response = rag_chain.invoke(question)
-            logger.info(response)          
+            input("Premi per generare")
+            response = rag_chain.invoke(f"{question}\n\n{option_a}\n{option_b}\n{option_c}\n{option_d}")
+            logger.info(response)
         except Exception as e:
             logger.error(f"Error in debug loop: {str(e)}", exc_info=True)
-            print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    DEBUGGING = True
+    DEBUGGING = False
     if not DEBUGGING:
         main()
     else:

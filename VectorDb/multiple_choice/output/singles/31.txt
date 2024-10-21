@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tirocini-curriculari/manuale-tirocinanti_2022.pdf/@@download/file/Manuale%20Tirocinanti_2022.pdf.txt
-{
-    "question": "Qual è l'obiettivo principale del tirocinio curriculare?",
-    "correct_answer": "A. Acquisire competenze professionalizzanti attraverso l'esecuzione di attività pratiche.",
-    "incorrect_answer_1": "B. Completare la formazione teorico - pratica.",
-    "incorrect_answer_2": "C. Orientare e favorire le scelte professionali.",
-    "incorrect_answer_3": "D. Promuovere la conoscenza diretta del mondo del lavoro."
-}

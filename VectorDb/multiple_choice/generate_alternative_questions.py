@@ -8,6 +8,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from langchain_huggingface import HuggingFacePipeline
 import json_repair
 import json
+import gc
 
 #RAG Chain
 from langchain_core.runnables import RunnablePassthrough
@@ -21,6 +22,12 @@ logging.basicConfig(
     format="%(asctime)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO
 )
 logger = logging.getLogger(__name__)
+
+def log_memory_usage(step):
+    if torch.cuda.is_available():
+        memory_allocated = torch.cuda.memory_allocated() / 1024**2
+        memory_reserved = torch.cuda.memory_reserved() / 1024**2
+        logger.info(f"Step {step}: CUDA Memory Allocated: {memory_allocated:.2f} MB, Reserved: {memory_reserved:.2f} MB")
 
 class Delimiter:
     def __init__(self, start, end):
@@ -58,7 +65,7 @@ def get_hugging_face_model(model_id, hf_token, return_full_text = False):
     tokenizer = AutoTokenizer.from_pretrained(model_id, token = hf_token)
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
-        # quantization_config=BitsAndBytesConfig(load_in_4bit=True),
+        quantization_config=BitsAndBytesConfig(load_in_4bit=True),
         device_map="cuda",
         trust_remote_code = True, #Added for Phi-3-mini-128k
         token = hf_token,
@@ -75,9 +82,9 @@ def get_hugging_face_model(model_id, hf_token, return_full_text = False):
                     do_sample = True)
     llm = HuggingFacePipeline(pipeline=pipe,
                             pipeline_kwargs={"return_full_text": return_full_text}) # <----- IMPORTANT !!!
-    return llm
+    return tokenizer, llm
 
-def get_rag_chain(llm_model, prompt_template):
+def get_generation_chain(llm_model, prompt_template):
     SYSTEM_MESSAGE = """
     You are an AI assistant specialized in generating questions and multiple-choice answers based on provided context about university courses.
     Your task is to create engaging, thought-provoking questions and a set of answer choices that effectively test understanding of the material.
@@ -214,11 +221,11 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
     for model_name, model_prompt_template in models_dict.items():
         logger.info(f"Starting answers generation using: {model_name}")
 
-        llm = get_hugging_face_model(model_id=model_name, hf_token = hf_token)
+        tokenizer, llm = get_hugging_face_model(model_id=model_name, hf_token = hf_token)
 
         for collection_name, faq_link in collection_tuples:
             
-            rag_chain = get_rag_chain(llm, model_prompt_template)
+            rag_chain = get_generation_chain(llm, model_prompt_template)
 
             faq_dataframe = pd.read_csv(faq_link)
             generate_collection_false_answers(collection_name, faq_dataframe, rag_chain, output_path=f"output/{model_name}")
@@ -270,9 +277,12 @@ def main():
 
     generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=8)
 
+@torch.no_grad()
 def get_valid_response(rag_chain, context, retry_limit=3):
     for _ in range(retry_limit):
         response = rag_chain.invoke({"context": context})
+        gc.collect()
+        torch.cuda.empty_cache()
         try:
             parsed_json = json_repair.loads(response)
             
@@ -285,10 +295,19 @@ def get_valid_response(rag_chain, context, retry_limit=3):
     logger.warning(f"Failed to get valid response after {retry_limit} attempts.")
     return None
 
+def chunk_text(text, tokenizer, max_tokens=1000, overlap=200):
+    tokens = tokenizer.encode(text)
+    chunks = []
+    for i in range(0, len(tokens), max_tokens - overlap):
+        chunk = tokens[i:i + max_tokens]
+        chunks.append(tokenizer.decode(chunk))
+    return chunks
+
+@torch.no_grad()
 def debug():
     #Testing parameters
     HF_TOKEN = "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"
-    FOLDER_NAME = "IngegneriaScienzeInformatiche"
+    FOLDER_NAME = "matematica"
     LLM_MODEL_NAME = "google/gemma-7b-it"
     GEMMA7B_PROMPT_TEMPLATE = ModelPromptTemplate(
         user_start="<start_of_turn>user\n",
@@ -298,50 +317,54 @@ def debug():
         text_start="<bos>",
         text_end="")
 
-    llm = get_hugging_face_model(model_id=LLM_MODEL_NAME, hf_token = HF_TOKEN) #Download model
+    tokenizer, llm = get_hugging_face_model(model_id=LLM_MODEL_NAME, hf_token = HF_TOKEN) #Download model
 
-    rag_chain = get_rag_chain(llm, GEMMA7B_PROMPT_TEMPLATE)
+    rag_chain = get_generation_chain(llm, GEMMA7B_PROMPT_TEMPLATE)
 
-    documents = readDocuments(FOLDER_NAME)
+    documents = readDocuments("../" + FOLDER_NAME)
     logger.info(len(documents))
     # context = """
     # L'elefante è un mammifero di grandi dimensioni, noto per la sua maestosità e forza. È caratterizzato da un corpo massiccio coperto da una pelle spessa e grigiastra, grandi orecchie a forma di ventaglio e una lunga proboscide, che è un'estensione del naso e del labbro superiore. Questa proboscide è molto versatile e viene utilizzata per molte funzioni, come raccogliere cibo, bere acqua e comunicare.
     # Gli elefanti hanno anche grandi zanne d'avorio, che sono in realtà denti incisivi allungati e possono essere usate per scavare o difendersi. Le loro gambe sono forti e robuste, sostenendo il peso del loro enorme corpo, e i piedi hanno ampi cuscinetti che aiutano a distribuire il peso e a camminare silenziosamente nonostante la loro mole.
     # Esistono due specie principali di elefanti: l'elefante africano, che è generalmente più grande e ha orecchie più ampie, e l'elefante asiatico, che è leggermente più piccolo e ha orecchie più piccole. Gli elefanti vivono in gruppi sociali matriarcali, guidati dalla femmina più anziana, e sono animali molto intelligenti e sociali, noti per le loro forti connessioni familiari e per la loro capacità di provare emozioni come la gioia e il lutto."""
 
-    OUTPUT_FOLDER_NAME = "output"
-    file_name = f"questions.csv"
-    complete_path = os.path.join(OUTPUT_FOLDER_NAME, file_name)
-    os.makedirs(OUTPUT_FOLDER_NAME, exist_ok=True)
+    OUTPUT_FOLDER_NAME = "questions"
+    file_name = f"{FOLDER_NAME}.csv"
+    complete_path = os.path.join(OUTPUT_FOLDER_NAME, FOLDER_NAME, file_name)
+    os.makedirs(os.path.join(OUTPUT_FOLDER_NAME, FOLDER_NAME), exist_ok=True)
     output_df = pd.DataFrame(columns=['sorgente', 'domanda', 'corretta', 'errata_1', 'errata_2', 'errata_3'])
-    for i, d in enumerate(documents):
-        logger.info(d.metadata["file_name"])
-        parsed_json = get_valid_response(rag_chain, d.page_content, retry_limit=20)
-        
-        if parsed_json:
-            output_df.loc[i] = [
-                d.metadata["file_name"],
-                parsed_json["question"],
-                parsed_json["correct_answer"],
-                parsed_json["incorrect_answer_1"],
-                parsed_json["incorrect_answer_2"],
-                parsed_json["incorrect_answer_3"]
-            ]
-        else:
-            output_df.loc[i] = [
-                str(i) + "_" + d.metadata["file_name"],
-                "vuoto",
-                "vuoto",
-                "vuoto",
-                "vuoto",
-                "vuoto"
-            ]
-            logger.error(f"Failed to retrieve valid data for document {d.metadata['file_name']}")
+    for i, document in enumerate(documents):
+        logger.info(document.metadata["file_name"])
+        chunks = chunk_text(document.page_content, tokenizer)
+        for j, chunk in enumerate(chunks):
+            log_memory_usage("")
+            parsed_json = get_valid_response(rag_chain, document.page_content, retry_limit=5)
+            
+            if parsed_json:
+                output_df.loc[i] = [
+                    document.metadata["file_name"],
+                    parsed_json["question"],
+                    parsed_json["correct_answer"],
+                    parsed_json["incorrect_answer_1"],
+                    parsed_json["incorrect_answer_2"],
+                    parsed_json["incorrect_answer_3"]
+                ]
+            else:
+                output_df.loc[i] = [
+                    str(i) + "_" + document.metadata["file_name"],
+                    "vuoto",
+                    "vuoto",
+                    "vuoto",
+                    "vuoto",
+                    "vuoto"
+                ]
+                logger.error(f"Failed to retrieve valid data for document {document.metadata['file_name']}")
     output_df.to_csv(complete_path, index=False)
 
 if __name__ == "__main__":
     DEBUGGING = True
-    if not DEBUGGING:
-        main()
-    else:
-        debug()
+    with torch.no_grad():
+        if not DEBUGGING:
+            main()
+        else:
+            debug()

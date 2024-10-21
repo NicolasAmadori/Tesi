@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/eudis-hackathon/cefriel-eudis-1_informative-flyer.pdf/@@download/file/Cefriel%20-%20EUDIS.1_Informative%20Flyer.pdf.txt
-{
-    "question": "Qual è l'obiettivo principale di un hackathon?",
-    "correct_answer": "A. Crea una soluzione per la protezione delle infrastrutture sottomarine.",
-    "incorrect_answer_1": "B. Migliorare la Situational Awareness.",
-    "incorrect_answer_2": "C. Promuovere la resilienza delle reti contro le minacce informatiche.",
-    "incorrect_answer_3": "D. Gioca giochi di programmazione."
-}

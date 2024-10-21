@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/come-ridurre-i-costi-usare-i-servizi-e-vivere-al-meglio-mentre-studi/index.txt
-{
-    "question": "Qual è il principale servizio pensato per supportare gli studenti durante il percorso universitario?",
-    "correct_answer": "A. La mia e-mail Studenti",
-    "incorrect_answer_1": "B. La mia e-mail Personale",
-    "incorrect_answer_2": "C. Il mio portale",
-    "incorrect_answer_3": "D. Il servizio online"
-}

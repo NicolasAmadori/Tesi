@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/giustificativo-per-il-datore-di-lavoro/index.txt
-{
-    "question": "Qual è il purpose del modulo \"Giustificativo per il datore di lavoro\"?",
-    "correct_answer": "A. Per certificare l'assenza lavorativa in caso di partecipazione alle lezioni o prove d'esame.",
-    "incorrect_answer_1": "B. Per certificare la presenza lavorativa in caso di partecipazione alle lezioni o prove d'esame.",
-    "incorrect_answer_2": "C. Per certificare la presenza di un'altra persona in sostituzione del docente.",
-    "incorrect_answer_3": "D. Per certificare la presenza di un'altra persona in sostituzione del datore di lavoro."
-}

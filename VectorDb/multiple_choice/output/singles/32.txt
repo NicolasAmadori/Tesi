@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tirocini-curriculari/linee-guida-relazione-finale-di-tirocinio-ingegneria-e-scienze-informatiche_.pdf/@@download/file/Linee%20guida%20relazione%20finale%20di%20tirocinio%20Ingegneria%20e%20scienze%20informatiche_.pdf.txt
-{
-    "question": "Qual è lo scopo della relazione di tirocinio in questo corso?",
-    "correct_answer": "A. Illustrare il contesto in cui è stato effettuato il tirocinio e elencare le attività svolte.",
-    "incorrect_answer_1": "B. Descrivere l'esperienza del tutor didattico.",
-    "incorrect_answer_2": "C. Valutare complessivamente l’esperienza in termini dei contenuti appresi.",
-    "incorrect_answer_3": "D. Inserire la relazione di tirocinio in applicativo tirocini online."
-}

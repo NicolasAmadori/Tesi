@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/tirocini-curriculari-in-scuole-e-organizzazioni-no-profit/index.txt
-{
-    "question": "Qual è l'obiettivo principale di questo corso di tirocinio?",
-    "correct_answer": "A. Dare la possibilità agli studenti di svolgere attività e progetti di tirocinio curriculare in scuole e enti/strutture pubbliche.",
-    "incorrect_answer_1": "B. Promuovere la ricerca universitaria.",
-    "incorrect_answer_2": "C. Svolgere attività di ricerca con il supporto di docenti universitari.",
-    "incorrect_answer_3": "D. Promuovere la creazione di nuovi contenuti didattici."
-}

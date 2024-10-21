@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/iscriversi/index.txt
-{
-    "question": "Qual è il corso di laurea in informatica all'Università di Bologna?",
-    "correct_answer": "A. Ingegneria Scienze Informatiche",
-    "incorrect_answer_1": "B. Scienze Informatiche",
-    "incorrect_answer_2": "C. Ingegneria del Software",
-    "incorrect_answer_3": "D. Scienze Applicative"
-}

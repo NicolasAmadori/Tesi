@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/redazione-tesi-voto-finale/index.txt
-{
-    "question": "Qual è il processo per ottenere la laurea in Ingegneria Scienze Informatiche?",
-    "correct_answer": "A. Adhere strictamente alle linee guida per la redazione della tesi in Lingua Italiana.",
-    "incorrect_answer_1": "B. Demonstrar la capacità di costruire una bibliografia di base sull'argomento, sintetizzarla e rielaborarla in forma saggistica.",
-    "incorrect_answer_2": "C. Confermar la conformità dell'elaborato alle norme redazionali.",
-    "incorrect_answer_3": "D. La valutazione della commissione è espressa in eurodecimi (110)."
-}

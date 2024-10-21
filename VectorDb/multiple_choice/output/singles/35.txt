@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/calcolo-della-media-di-laurea-per-laureandi-con-carriera-pregressa-seconda-laurea-rinuncia-decadenza/index.txt
-{
-    "question": "Qual è il nuovo calcolo della media di laurea per laureandi con carriera pregressa?",
-    "correct_answer": "A. Il calcolo della media di laurea per laureandi con carriera pregressa viene modificato a partire dalla prima sessione di laurea dell’Anno Accademico 2015/2016 (Luglio 2016).",
-    "incorrect_answer_1": "B. Il calcolo della media di laurea per laureandi con carriera pregressa rimane immutato.",
-    "incorrect_answer_2": "C. Il calcolo della media di laurea per laureandi con carriera pregressa viene applicato anche alle lauree, rinunce e decadenze.",
-    "incorrect_answer_3": "D. Il calcolo della media di laurea per laureandi con carriera pregressa viene applicato alle laurea, rinunce e decadenze, ma non alle singole attività formative conseguite nell’ambito dello stesso corso di studio in cui si consegue il titolo finale."
-}

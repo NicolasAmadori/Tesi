@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/prova-finale/d0e98ad49c724132b17d9327808c96fe/@@download/file/il-diritto-autore-sulla-tesi-di-laurea.pdf.txt
-{
-    "question": "Qual è il proprietario dei diritti d’autore sulla tesi di laurea?",
-    "correct_answer": "A. Il laureando.",
-    "incorrect_answer_1": "B. Il docente.",
-    "incorrect_answer_2": "C. Il presidente dell’Ateneo.",
-    "incorrect_answer_3": "D. Il libero arbitrio."
-}

@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/servizi-di-orientamento/index.txt
-{
-    "question": "Qual è il servizio di tutorato del corso di studio?",
-    "correct_answer": "A. Il servizio di tutorato del corso di studio aiuta gli studenti nella scelta del corso e in ogni fase del percorso formativo.",
-    "incorrect_answer_1": "B. Il servizio di tutorato del corso di studio aiuta gli studenti con la compilazione del piano di studi.",
-    "incorrect_answer_2": "C. Il servizio di tutorato del corso di studio aiuta gli studenti con gli esami.",
-    "incorrect_answer_3": "D. Il servizio di tutorato del corso di studio aiuta gli studenti con la scelta del corso di laurea."
-}

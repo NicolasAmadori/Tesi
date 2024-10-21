@@ -1,8 +1,0 @@
-IngegneriaScienzeInformatiche/bacheca/@@archivio-notizie_b_start_int=36/index.txt
-{
-    "question": "Qual è il corso online per la preparazione all'idoneità linguistica?",
-    "correct_answer": "A. Autoapprendimento assistito da tutor linguistici",
-    "incorrect_answer_1": "B. Corso di lingue con pagamento di una quota di iscrizione",
-    "incorrect_answer_2": "C. Corso di lingue con quota di iscrizione per Studenti, laureati, dipendenti e utenti esterni",
-    "incorrect_answer_3": "D. Corso di lingue con pagamento di una quota di iscrizione per laureati"
-}
