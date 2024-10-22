@@ -20,7 +20,7 @@ def main():
     CSV_FOLDER_NAME = "answers"
     dataframes_list = read_csvs(CSV_FOLDER_NAME)
     for root, file, df in dataframes_list:
-        if file == "UniboIngScInf.csv":
+        if file == "UniboSviCoop.csv":
             model_name = root.split("/")[-1]
             logger.info(f"Evaluating {model_name} results")
 
@@ -29,7 +29,7 @@ def main():
             totale = len(booleani)
             true_count = sum(booleani)
             percentuale_true = (true_count / totale) * 100 if totale > 0 else 0
-            logger.info(f"Percentuale di risposte corrette: {percentuale_true:.2f}%")
+            logger.info(f"Quantità di risposte corrette: {true_count}/{totale} ({percentuale_true:.2f}%)")
 
             # for index, row in df.iterrows():
             #     risposta_gold = row['risposta_gold']

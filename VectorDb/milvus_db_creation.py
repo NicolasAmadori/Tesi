@@ -79,11 +79,20 @@ def create_db(folders_collection_pairs,
     addCollectionDocumentsToDB(documents, text_splitter, embedding_model, host, port)
     logger.info("Completed with success")
 
+def reset(collection_name):
+    # Ensure the collection exists
+    if utility.has_collection(collection_name):
+        collection = Collection(name=collection_name)
+        collection.drop()
+        print(f"Collection '{collection_name}' has been deleted.")
+    else:
+        print(f"Collection '{collection_name}' does not exist.")
+
 def main():
     #(folder_name, collection_name, collection_faqs)
     collection_triplets = [
-        ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
-        # ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
+        # ("IngegneriaScienzeInformatiche", "UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_ING_TRI.csv"),
+        ("SviluppoCooperazioneInternazionale", "UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_COOP_TRI.csv"),
         # ("matematica", "UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/FAQ/FAQ_MAT_TRI.csv"),
         ]
     
@@ -110,6 +119,8 @@ def main():
                                                    chunk_overlap=CHUNK_OVERLAP,
                                                    separators=["\n\n"," ",".",","])
     
+    for _, collection_name, _ in collection_triplets:
+        reset(collection_name)
     # >> Start ingestion
     logger.info("Uploading documents to Milvus DB")
     create_db(collection_triplets, embedding_model=embedding_model, text_splitter=text_splitter, host=HOST, port=PORT)

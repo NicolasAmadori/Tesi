@@ -83,8 +83,8 @@ def get_db_retriever(embedding_model, collection_name, host="0.0.0.0", port="195
     return vector_store.as_retriever(search_type=search_type, search_kwargs={"k": k})
 
 def format_docs(docs):
-    for doc in docs:
-        logger.info(doc.metadata["file_name"])
+    # for doc in docs:
+    #     logger.info(doc.metadata["file_name"])
     return "\n\n".join(doc.page_content for doc in docs)
 
 def get_rag_chain(llm_model, prompt_template, retriever):
@@ -141,21 +141,26 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
     n_rows = faq_dataframe.shape[0]
     logger.info(f"Generating answers for the collection: {collection_name} ({n_rows} rows)")
 
+    file_name = f"{collection_name}.csv"
+    complete_path = os.path.join(output_path, file_name)
+    os.makedirs(output_path, exist_ok=True)
+
     for index, (domanda, corretta, errata_1, errata_2, errata_3) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["corretta"], faq_dataframe["errata_1"], faq_dataframe["errata_2"], faq_dataframe["errata_3"]), 1):
         logger.info(f"{index}/{n_rows}")
 
         randomized_answers, new_correct = randomize_answers([corretta, errata_1, errata_2, errata_3])
         query = domanda + "\n\n" + '\n'.join(randomized_answers)
         risposta_generata = rag_chain.invoke(query)
+
         new_correct = new_correct.lstrip()
         risposta_generata = risposta_generata.lstrip()
         output_df.loc[index] = [domanda, new_correct, risposta_generata, new_correct.lower()[0] == risposta_generata.lower()[0]]
         logger.info(f"{domanda} -> {new_correct} -> {risposta_generata}")
+        if index % 10 == 0:
+            logger.info(f"Salvato il csv")
+            output_df.to_csv(complete_path, index=False)#Intermidiate savings
     
-    #Create the output csv file
-    file_name = f"{collection_name}.csv"
-    complete_path = os.path.join(output_path, file_name)
-    os.makedirs(output_path, exist_ok=True)
+    #Save the output csv file
     output_df.to_csv(complete_path, index=False)
    
 def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_token, k=4):
@@ -174,8 +179,8 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
             retriever = get_db_retriever(embedding_model, collection_name, k=k)
             rag_chain = get_rag_chain(llm, model_prompt_template, retriever)
 
-            faq_dataframe = pd.read_csv(faq_link)
-            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"answers/{model_name}")
+            faq_dataframe = pd.read_csv(faq_link)[40:200]
+            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"answers_with_rag/{model_name}")
         
         torch.cuda.empty_cache()
 
@@ -185,8 +190,8 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
-        #("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
+        # ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
+        ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
         #("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/matematica/matematica.csv")
         ]
 
@@ -216,8 +221,8 @@ def main():
     
     TESTING_MODEL_DICT = {
         # "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
-        # "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
-        "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
+        "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
+        # "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 
     generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=4)
