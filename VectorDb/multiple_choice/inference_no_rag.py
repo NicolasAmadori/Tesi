@@ -41,8 +41,8 @@ def randomize_answers(answers):
     
     correct = None
     randomized_answers = []
-    for letter, original_answer in zip(letters, answers):
-        new_answer = f"{letter}. {original_answer[3:]}"
+    for new_letter, original_answer in zip(letters, answers):
+        new_answer = f"{new_letter}. {original_answer[3:]}"
         if original_answer.startswith("A. "):
             correct = new_answer
         randomized_answers.append(new_answer)
@@ -73,37 +73,16 @@ def get_hugging_face_model(model_id, hf_token, return_full_text = False):
                             pipeline_kwargs={"return_full_text": return_full_text}) # <----- IMPORTANT !!!
     return llm
 
-def get_db_retriever(embedding_model, collection_name, host="0.0.0.0", port="19530", search_type="mmr", k=4):
-    vector_store = Milvus(
-        embedding_function=embedding_model,
-        connection_args={"host": host, "port": port},
-        collection_name=collection_name
-    )
-
-    return vector_store.as_retriever(search_type=search_type, search_kwargs={"k": k})
-
-def format_docs(docs):
-    # for doc in docs:
-    #     logger.info(doc.metadata["file_name"])
-    return "\n\n".join(doc.page_content for doc in docs)
-
-def get_rag_chain(llm_model, prompt_template, retriever):
-    SYSTEM_MESSAGE = """You are an AI assistant and provide answers to questions using fact-based and statistical information when possible.
-    Use the following pieces of information to provide a concise answer to the question enclosed in <question> tags.
-    If you don't know the answer, just say that you don't know, and don't try to make up an answer.
-    For multiple-choice questions, respond strictly with one of the given options: A, B, C, or D, based on the given context.
+def get_chain(llm_model, prompt_template):
+    SYSTEM_MESSAGE = """You are an AI assistant and provide answers to questions.
+    Return the correct answer to the question enclosed in <question> tags.
+    For multiple-choice questions, respond strictly with one of the given options: A, B, C, or D.
     IMPORTANT: Do not provide any explanations or additional text."""
 
-    USER_MESSAGE = """Use the given context to generate an answer for the given multiple-choice question.
+    USER_MESSAGE = """Generate an answer for the given multiple-choice question.
     IMPORTANT: Generate the answer strictly in Italian.
-    IMPORTANT: Use only the information you can find in the given context to pick the correct answer.
-    IMPORTANT: Respond with only one of the 4 given options, including the letter and the text of the correct response based on the text.
+    IMPORTANT: Respond with only one of the 4 given options, including the letter and the text of the correct answer.
     IMPORTANT: Do not include any explanations or additional text in your response.
-    IMPORTANT: If statistics or numbers are present in the context and are useful for the answer, try to include them.
-
-    <context>
-    {context}
-    </context>
 
     <question>
     {question}
@@ -125,52 +104,41 @@ def get_rag_chain(llm_model, prompt_template, retriever):
         template=final_prompt_template, input_variables=["context", "question"]
     )
 
-    rag_chain = (
+    chain = (
         {
-            "context": retriever | format_docs,
             "question": RunnablePassthrough()
         }
         | prompt
         | llm_model
         | StrOutputParser()
     )
-    return rag_chain
+    return chain
 
-def generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path):
-    output_df = None
-    already_generated_answer_number = 1
+def generate_collection_answers(collection_name, faq_dataframe, chain, output_path):
+    output_df = pd.DataFrame(columns=['domanda', 'risposta_gold', 'risposta', 'se_corretta'])
+    n_rows = faq_dataframe.shape[0]
+    logger.info(f"Generating answers for the collection: {collection_name} ({n_rows} rows)")
+
     file_name = f"{collection_name}.csv"
     complete_path = os.path.join(output_path, file_name)
-    original_faq_length = len(faq_dataframe)
-    file_exists = os.path.isfile(complete_path)
-    if file_exists:
-        output_df = pd.read_csv(complete_path) #Load the previous csv
-        already_generated_answer_number = len(output_df)
-        faq_dataframe = faq_dataframe[already_generated_answer_number:] #Remove already answered questions from the faq dataframe
-        logger.info(f"CSV delle risposte già presente, con {already_generated_answer_number} risposte. Da {original_faq_length} a {len(faq_dataframe)} domande rimanenti")
-    else:
-        os.makedirs(output_path, exist_ok=True) #Create the path
-        output_df = pd.DataFrame(columns=['domanda', 'risposta_gold', 'risposta', 'se_corretta']) #Initialize the new answer dataframe
-        logger.info(f"CSV delle risposte NON presente.")
+    os.makedirs(output_path, exist_ok=True)
 
-    logger.info(f"Generating answers for the collection: {collection_name} ({original_faq_length} rows)")
+    for index, (domanda, corretta, errata_1, errata_2, errata_3) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["corretta"], faq_dataframe["errata_1"], faq_dataframe["errata_2"], faq_dataframe["errata_3"]), 1):
+        logger.info(f"{index}/{n_rows}")
 
-    for index, (domanda, corretta, errata_1, errata_2, errata_3) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["corretta"], faq_dataframe["errata_1"], faq_dataframe["errata_2"], faq_dataframe["errata_3"]), start=already_generated_answer_number):
-        logger.info(f"{index}/{original_faq_length}")
-
-        #Prepara la domanda e genera la risposta
         randomized_answers, new_correct = randomize_answers([corretta, errata_1, errata_2, errata_3])
         query = domanda + "\n\n" + '\n'.join(randomized_answers)
-        risposta_generata = rag_chain.invoke(query)
+        risposta_generata = chain.invoke(query)
 
-        #Confronta risposta corretta e risposta generata e aggiungi la riga sul dataframe
         new_correct = new_correct.lstrip()
         risposta_generata = risposta_generata.lstrip()
         output_df.loc[index] = [domanda, new_correct, risposta_generata, new_correct.lower()[0] == risposta_generata.lower()[0]]
-        logger.info(f"{new_correct.lower()[0] == risposta_generata.lower()[0]}")
-
+        logger.info(f"{domanda} -> {new_correct} -> {risposta_generata}")
         if index % 10 == 0:
-            output_df.to_csv(complete_path, index=False)
+            logger.info(f"Salvato il csv")
+            output_df.to_csv(complete_path, index=False)#Intermidiate savings
+    
+    #Save the output csv file
     output_df.to_csv(complete_path, index=False)
    
 def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_token, k=4):
@@ -185,12 +153,11 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
         #Generate answers for all the collections
         for collection_name, faq_link in collection_tuples:
             
-            #Create rag_chain
-            retriever = get_db_retriever(embedding_model, collection_name, k=k)
-            rag_chain = get_rag_chain(llm, model_prompt_template, retriever)
+            #Create chain
+            chain = get_chain(llm, model_prompt_template)
 
-            faq_dataframe = pd.read_csv(faq_link)[40:200]
-            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"multiple_choice/answers_with_rag/k_{k}/{model_name}")
+            faq_dataframe = pd.read_csv(faq_link)
+            generate_collection_answers(collection_name, faq_dataframe, chain, output_path=f"answers_without_rag/{model_name}")
         
         torch.cuda.empty_cache()
 
@@ -200,8 +167,8 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        # ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
-        # ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
+        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
+        ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
         ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/matematica/matematica.csv")
         ]
 
@@ -230,12 +197,12 @@ def main():
     )
     
     TESTING_MODEL_DICT = {
-        "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
-        "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
+        # "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
+        # "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
         "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 
-    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=25)
+    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=4)
 
 def debug():
     #Testing parameters
@@ -255,8 +222,7 @@ def debug():
 
     llm = get_hugging_face_model(model_id=LLM_MODEL_NAME, hf_token = HF_TOKEN) #Download model
 
-    retriever = get_db_retriever(embedding_model, COLLECTION_NAME, k=4)
-    rag_chain = get_rag_chain(llm, mistral0_3_prompt_template, retriever)
+    chain = get_chain(llm, mistral0_3_prompt_template)
 
     question= "Qual è la durata del tirocinio curriculare?"
     option_a= "A. 150 ore"
@@ -267,7 +233,7 @@ def debug():
     while True:
         try:
             input("Premi per generare")
-            response = rag_chain.invoke(f"{question}\n\n{option_a}\n{option_b}\n{option_c}\n{option_d}")
+            response = chain.invoke(f"{question}\n\n{option_a}\n{option_b}\n{option_c}\n{option_d}")
             logger.info(response)
         except Exception as e:
             logger.error(f"Error in debug loop: {str(e)}", exc_info=True)
