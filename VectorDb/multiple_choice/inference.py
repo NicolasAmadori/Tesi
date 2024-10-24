@@ -189,7 +189,7 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
             retriever = get_db_retriever(embedding_model, collection_name, k=k)
             rag_chain = get_rag_chain(llm, model_prompt_template, retriever)
 
-            faq_dataframe = pd.read_csv(faq_link)[40:200]
+            faq_dataframe = pd.read_csv(faq_link)
             generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"multiple_choice/answers_with_rag/k_{k}/{model_name}")
         
         torch.cuda.empty_cache()
@@ -200,8 +200,8 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-        # ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
-        # ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
+#        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
+        #  ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
         ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/matematica/matematica.csv")
         ]
 
@@ -235,7 +235,12 @@ def main():
         "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 
+    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=4)
+    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=8)
+    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=15)
+    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=20)
     generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=25)
+    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=30)
 
 def debug():
     #Testing parameters

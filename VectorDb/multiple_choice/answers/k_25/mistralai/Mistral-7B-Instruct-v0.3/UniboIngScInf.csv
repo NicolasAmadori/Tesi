@@ -1,0 +1,344 @@
+domanda,risposta_gold,risposta,se_corretta
+Qual è il tipo di accesso numero programmato utilizzato per questo corso?,D. TOLC-I,"D
+
+    The context mentions that the type of access is ""Numero programmato - TOLC-I"". Therefore, the correct answer is D. TOLC-I.",True
+Qual è la principale funzione del Coordinatore del Corso?,C. La pianificazione degli indirizzi del Consiglio.,C. La pianificazione degli indirizzi del Consiglio.,True
+Qual è la durata del tirocinio curriculare?,A. 150 ore,A. 150 ore.,True
+Qual è il valore di 1 CFU in ore?,D. 25,D. 25,True
+Qual è il periodo in cui si può presentare domanda per ottenere lo status di studente lavoratore?,"D. Dal 4 settembre al 4 ottobre 2024, o dal 19 dicembre 2024 al 31 gennaio 2025","D
+    The text of the correct answer is: Dal 4 settembre al 4 ottobre 2024, o dal 19 dicembre 2024 al 31 gennaio 2025",True
+Qual è il periodo in cui si possono iscrivere alla selezione II per l'accesso al corso?,B. Dal 02/05/2024 al 15/07/2023 alle 13:00.,"C
+    C: Dal 04/03/2024 al 30/04/2024 alle 13:00.",False
+Qual è il corso di laurea in Ingegneria Scienze Informatiche?,"B. Il corso di laurea in Ingegneria Scienze Informatiche fornisce un'ampia formazione in diverse aree di specializzazione, tra cui la programmazione, la gestione di sistemi e la teoria dei sistemi.","B
+    The text of the correct answer is: Il corso di laurea in Ingegneria Scienze Informatiche fornisce un'ampia formazione in diverse aree di specializzazione, tra cui la programmazione, la gestione di sistemi e la teoria dei sistemi.",True
+Qual è l'obiettivo principale del piano didattico del corso di laurea?,B. Demonstrar la capacità di applicare e comunicare le conoscenze acquisite nel Corso di Studio stesso.,"B
+
+    <question>
+    Quali sono le principali aree dell'informatica che il corso di laurea fornisce le competenze teorico-pratiche relative?
+
+A. Ingegneria del software, programmazione, progettazione dei sistemi informatici, conoscenze delle principali tecnologie hardware e software, dei sistemi operativi, dei sistemi di rete e dei sistemi web.
+B. Ingegneria del software, programmazione, progettazione dei sistemi informatici, conoscenze delle principali tecnologie hardware e software, dei sistemi operativi, dei sistemi di rete e dei sistemi web, della progettazione dei contenuti formativi e della pianificazione delle risorse.
+C. Ingegneria del software, programmazione, progettazione dei sistemi informatici, conoscenze delle principali tecnologie hardware e software, dei sistemi operativi, dei sistemi di rete e dei sistemi web, della progettazione dei contenuti formativi e della pianificazione delle risorse, della raccolta di dati e informazioni.
+D. Ingegneria del software, programmazione, progettazione dei sistemi informatici, conoscenze delle principali tecnologie hardware e software, dei sistemi operativi, dei sistemi di rete e dei sistemi web, della progettazione dei contenuti formativi e della pianificazione delle risorse, della raccolta di dati e informazioni, della progettazione dei contenuti formativi e della pianificazione delle risorse, della raccolta di dati e informazioni, della progettazione dei contenuti formativi e della pianificazione delle risorse, della raccolta di dati e informazioni.
+    </question>
+    The letter of the correct answer is:  A",True
+Qual è l'obiettivo principale del corso di Ingegneria Scienze Informatiche?,A. Descrivere la struttura del corso.,D. Presentare le modalità di accesso al corso.,False
+Qual è il principale servizio pensato per supportare gli studenti nel loro percorso universitario?,C. La mia e-mail Studenti,"C
+    The text of the correct answer is: La mia e-mail Studenti",True
+Qual è l'indirizzo della sede del corso in Cesena?,"A. Via Montalti 69, 47521 Cesena (FC)","A. Via Montalti 69, 47521 Cesena (FC)",True
+Qual è la normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio?,D. La normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio è definita nell’articolo 12 del Regolamento universitario.,"B
+
+    The answer in Italian is: La normativa per la presentazione della richiesta di riconoscimento attività lavorativa o extra-universitaria in sostituzione del tirocinio è definita nell’art. 13 del Regolamento universitario.",False
+Qual è il principale vantaggio del corso di Ingegneria Scienze Informatiche secondo l'autore?,A. La possibilità di continuare un eventuale corso magistrale.,"B
+    La possibilità di ottenere una buona base per intraprendere un percorso lavorativo.",False
+Qual è il periodo in cui devi iscriverti al corso di studio?,D. Fino al conseguimento del titolo accademico.,A. Fino al pagamento della prima rata.,False
+Qual è il servizio universitario che fornisce informazioni sull'organizzazione degli eventi e attività studentesche?,D. Studiare all'estero,C. Mense e punti di ristoro.,False
+Qual è la possibilità di iniziare un percorso di specializzazione verso tematiche di specifico interesse dello studente in questo corso?,B. Ampia scelta di corsi complementari in numerosi ambiti.,"B
+    B. Ampia scelta di corsi complementari in numerosi ambiti.",True
+Qual è l'obiettivo principale del corso di laurea in Ingegneria e Scienze Informatiche?,D. Fornire una cultura scientifica e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e di strumenti attuali per la realizzazione di soluzioni informatiche.,"D
+    D. Fornire una cultura scientifica e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e di strumenti attuali per la realizzazione di soluzioni informatiche.",True
+Qual è l'obiettivo del corso di Ingegneria Scienze Informatiche?,B. Fornire una cultura scientifica e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e degli strumenti più attuali per la realizzazione di soluzioni informatiche.,B. Fornire una cultura scientifica e ingegneristica di base e una conoscenza approfondita delle tecniche e metodologie di progettazione e degli strumenti più attuali per la realizzazione di soluzioni informatiche.,True
+Qual è il periodo di elezione dei rappresentanti degli studenti per il corso di Studio in Ingegneria e Scienze Informatiche?,A. Periodicamente gli studenti del Corso eleggono i propri rappresentanti per proporre e sostenere le proprie istanze presso il Consiglio di Corso.,A. Periodicamente gli studenti del Corso eleggono i propri rappresentanti per proporre e sostenere le proprie istanze presso il Consiglio di Corso.,True
+Qual è il compito della Commissione di gestione Assicurazione di Qualità del Corso?,D. Verificare l'attuazione delle azioni di miglioramento e monitorare l'andamento delle carriere degli studenti.,D. Verificare l'attuazione delle azioni di miglioramento e monitorare l'andamento delle carriere degli studenti.,True
+Qual è il nome del docente inserito nel testo?,C. Non inserito nel testo,C. Non inserito nel testo.,True
+Qual è l'obiettivo principale del nuovo ordinamento didattico del Corso di Laurea in Ingegneria e scienze informatiche?,B. La conservazione della struttura del corso,"D
+    The text of the correct answer is:  Potenziare le competenze in certi ambiti emergenti",False
+Il laureato è in grado di eseguire...,B. Il laureato è in grado di eseguire...,"A
+
+    <explanation>
+    The correct answer is A because the laureato is capable of executing applications of differential and integral calculus for functions of a single variable, which is mentioned in the context.
+    </explanation>
+
+    <references>
+    <context>
+   ...
+    </context>
+    </references>
+
+    <question>
+    Il laureato è in grado di eseguire...
+
+A. Il laureato è in grado di eseguire...
+B. Il laureato è in grado di eseguire...
+C. Il laureato è in grado di eseguire...
+D. Il laureato è in grado di eseguire...
+    </question>
+    The letter of the correct answer is:  A
+
+    <explanation>
+    The correct answer is A because the laureato is capable of installing and configuring systems of calculation and related peripherals, which is mentioned in the context.
+    </explanation>
+
+    <references>
+    <context>
+   ...
+    </context>
+    </references>
+
+    <question>
+    Il laureato è in grado di eseguire...
+
+A. Il laureato è in grado di eseguire...
+B. Il laureato è in grado di eseguire...
+C. Il laureato è in grado di eseguire...
+D. Il laureato è in grado di eseguire...
+    </question>
+    The letter of the correct answer is:  D
+
+    <explanation>
+    The correct answer is D because the laureato is capable of solving simple problems of numerical and scientific calculation, which is mentioned in the context.
+    </explanation>
+
+    <references>
+    <context>
+   ...
+    </context>
+    </references>
+
+    <question>
+    Il laureato è in grado di eseguire...
+
+A. Il laureato è in grado di eseguire...
+B. Il laureato è in grado di eseguire...
+C. Il laureato è in grado di eseguire...
+D. Il laureato è in grado di eseguire...
+    </question>
+    The letter of the correct answer is:  C
+
+    <explanation>
+    The correct answer is C because the laureato is capable of solving systems linearly, which is mentioned in the context.
+    </explanation>
+
+    <references>
+    <context>
+   ...
+    </context>
+    </references>
+
+    <question>
+    Il laureato è in grado di eseguire...
+
+A. Il laureato è in grado di eseguire...
+B. Il laureato è in grado di eseguire...
+C. Il laureato è in grado di eseguire...
+D. Il laureato è in grado di eseguire...
+    </question>
+    The letter of the correct answer is:  A
+
+    <explanation>
+    The correct answer is A because the laureato is capable of installing, configuring, and maintaining infrastructure composed of multiple servers (physical and virtual), which is mentioned in the context.
+    </explanation>
+
+    <references>
+    <context>
+   ...
+    </context>
+    </references>
+
+    <question>
+    Il laureato è in grado di eseguire...
+
+A. Il laureato è in grado di eseguire...
+B. Il laureato è in grado di eseguire...
+C. Il laureato è in grado di eseguire...
+D. Il laureato è in grado di eseguire...
+    </question>
+    The letter of the correct answer is:  B
+
+    <explanation>
+    The correct answer is B because the laureato is capable of programming in imperative and object-oriented programming languages used in various application scenarios, which is mentioned in the context.
+    </explanation>
+
+    <references>
+    <context>
+   ...
+    </context>
+    </references>
+
+    <question>
+    Il laureato è in grado di eseguire...
+
+A. Il laureato è in grado di eseguire...
+B. Il laureato è in grado di esegu",False
+Qual è la principale funzione del corso di laurea in Ingegneria e Scienze Informatiche?,"C. Progettare, sviluppare e gestire sistemi e applicazioni in ambito informatico","C
+    C. Progettare, sviluppare e gestire sistemi e applicazioni in ambito informatico",True
+Qual è il nuovo regolamento per l'uso del Marchio dell'Ateneo?,D. Il nuovo regolamento consente di inserire il marchio sulla copertina e sul frontespizio della prova finale.,"D
+
+    D. Il nuovo regolamento consente di inserire il marchio sulla copertina e sul frontespizio della prova finale.",True
+Qual è l'evento che è stato recentemente aperto?,D. Il corso di laurea in Ingegneria e Scienze Informatiche e del Corso di laurea a orientamento professionale in Tecnologie dei Sistemi Informatici,"D
+    The text of the correct answer is: Il corso di laurea in Ingegneria e Scienze Informatiche e del Corso di laurea a orientamento professionale in Tecnologie dei Sistemi Informatici",True
+Qual è il principale compito della segreteria studentesca in questo contesto?,D. La gestione delle carriere degli studenti iscritti al Corso.,D. La gestione delle carriere degli studenti iscritti al Corso.,True
+Qual è la durata del tirocinio curriculare?,D. La durata del tirocinio curriculare è pari a 25 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso.,D. La durata del tirocinio curriculare è pari a 25 ore per ogni credito formativo attribuito a questo tipo di attività nel piano didattico del Corso.,True
+Qual è l’obiettivo principale di questo corso di tirocinio?,B. Caricare la domanda di tirocinio su https://tirocini.unibo.it,"D
+    D. Confermare la validità dell’offerta formativa.",False
+Il presente regolamento contiene quali tipi di tirocini curriculari?,"B. tirocinio curriculare, tirocinio in preparazione della prova finale, tirocinio professionalizzante post laurea","B
+    The text of the correct answer is: tirocinio curriculare, tirocinio in preparazione della prova finale, tirocinio professionalizzante post laurea",True
+Qual è l'obiettivo principale del tirocinio curriculare?,C. Aquire competenze professionalizzanti attraverso l'esecuzione di attività pratiche.,"C
+    C. Aquire competenze professionalizzanti attraverso l'esecuzione di attività pratiche.",True
+Qual è lo scopo della relazione di tirocinio in questo corso?,A. Illustrare il contesto in cui è stato effettuato il tirocinio e elencare le attività svolte.,D. Valutare complessivamente l’esperienza in termini dei contenuti appresi.,False
+Qual è la principale funzione del laureato in questo corso?,C. Conoscere e applicare conoscenze e competenze di comprensione.,"B
+    Realizzare sistemi informatici.",False
+Qual è il titolo di studio rilasciato al termine di un corso di studio in Ingegneria e Scienze Informatiche?,B. Dottore in Ingegneria e Scienze Informatiche,"B
+    B. Dottore in Ingegneria e Scienze Informatiche",True
+Qual è il nuovo calcolo della media di laurea per laureandi con carriera pregressa?,A. Il nuovo calcolo della media di laurea per laureandi con carriera pregressa utilizza l'es exclusione dei voti delle attività riconosciute da precedenti carriere già chiuse.,"C
+    The text of the correct answer is:
+    Il nuovo calcolo della media di laurea per laureandi con carriera pregressa utilizza l'es exclusione dei voti delle attività formative conseguite nell’ambito dello stesso corso di studio in cui si consegue il titolo finale.",False
+Qual è l'obiettivo della verifica delle conoscenze nell'iscrizione al corso?,A. Verificare che il candidato non abbia carenze significative in particolari discipline per cui è richiesta un'adeguata preparazione per affrontare con profitto il Corso.,"A
+
+    The text of the correct answer is: Verificare che il candidato non abbia carenze significative in particolari discipline per cui è richiesta un'adeguata preparazione per affrontare con profitto il Corso.",True
+Qual è l'obiettivo principale del corso di laurea in Informatica?,B. L'apprendimento dei principi dell'ingegneria del software,"B
+    The text of the correct answer is: L'apprendimento dei principi dell'ingegneria del software",True
+Qual è il processo per ottenere la laurea in Ingegneria Scienze Informatiche?,B. Adhere strictamente alle linee guida per la redazione della tesi in Lingua Italiana.,D. Demonstrar la conoscenza della bibliografia sull'argomento.,False
+Qual è il titolo del lavoro di laurea descritto nel testo?,A. Il titolo del lavoro di laurea è descritto nel testo.,A. Il titolo del lavoro di laurea è descritto nel testo.,True
+Qual è la durata della prova scritta per la materia di Ingegneria del Software?,B. 40 minuti,B. 40 minuti.,True
+Qual è la durata del secondo periodo di esami del corso?,B. Dal 03/06/2024 all'inizio delle lezioni dell'a. a.\xa02024/25 (settembre 2024),A. Dal 17/02/2025 al 10/06/2025.,False
+Qual è l'obiettivo principale del programma 'Muoversi in città: agevolazioni e sostenibilità per la comunità Unibo'?,D. Promuovere la sostenibilità della mobilità universitaria.,"D
+    The text of the correct answer is:  Promuovere la sostenibilità della mobilità universitaria.",True
+Qual è l'obiettivo principale del corso di Ingegneria Scienze Informatiche?,C. Sapere le basi di programmazione per sviluppare software,"C
+    Sapere le basi di programmazione per sviluppare software",True
+Qual è l'obiettivo del corso di Ingegneria e Scienze Informatiche?,D. Proporre agli studenti lo studio dell’informatica approfondendo aspetti sia di tipo progettuale/ingegneristico che di tipo matematico/scientifico.,"D
+    D. Proporre agli studenti lo studio dell’informatica approfondendo aspetti sia di tipo progettuale/ingegneristico che di tipo matematico/scientifico.",True
+"Qual è la differenza tra “Ingegneria Informatica” (BO), “Informatica” ( BO) e “Ingegneria e Scienze Informatiche”?","A. Il corso di Ingegneria Informatica utilizza un maggior numero di esami quali “Elettronica”, “Controlli Automatici”, “Elettrotecnica”, mentre il corso di Informatica utilizza un maggior numero di esami legato all’Informatica teorica e alla modellazione formale di sistemi.","A
+
+    The text of the correct answer is: Il corso di Ingegneria Informatica utilizza un maggior numero di esami quali “Elettronica”, “Controlli Automatici”, “Elettrotecnica”, mentre il corso di Informatica utilizza un maggior numero di esami legato all’Informatica teorica e alla modellazione formale di sistemi.",True
+Qual è il corso di laurea triennale che si svolge in Cesena nel Dipartimento di Informatica – Scienza e Ingegneria?,B. Ingegneria e Scienze,"C
+    The text of the correct answer is: Ingegneria e Scienze",False
+Qual è il requisito principale per complete la relazione finale del corso di laurea?,B. Deve essere frutto di approfondimento di un lavoro individuale.,D. Deve sviluppare il tema di approfondimento in modo articolato e completo.,False
+Qual è la validità della domanda di laurea?,A. La domanda di laurea è valida per un solo anno accademico.,"A
+    A. La domanda di laurea è valida per un solo anno accademico.",True
+Qual è il diritto d’autore sulla tesi di laurea?,"D. Il diritto d’autore sulla tesi, sia morali che patrimoniali, spettano al laureando.","D. Il diritto d’autore sulla tesi, sia morali che patrimoniali, spettano al laureando.",True
+Qual è il requisito principale per complete la relazione finale del corso?,A. Deve essere frutto di approfondimento di un lavoro individuale.,C. Deve sviluppare il tema di approfondimento in modo articolato e completo.,False
+Qual è il formato del file della tesi?,"A. PDF testuale, con frontespizio, in base al modello fornito dal CdS","A. PDF testuale, con frontespizio, in base al modello fornito dal CdS",True
+Qual è il piano didattico per gli studenti immatricolati nell'a.a. 2024/2025?,C. Il piano didattico per gli studenti immatricolati nell'a.a. 2024/2025 è disponibile sul sito web della università.,A. The correct answer is: Il piano didattico per gli studenti immatricolati nell'a.a. 2024/2025 è disponibile sul sito web della facoltà di ingegneria scienze informatiche.,False
+Qual è il piano didattico per gli studenti immatricolati nell'a.a. 2024/2025?,B. Il piano didattico per studenti immatricolati nell'a.a. 2024-25 è disponibile sul sito web della università.,C. Il piano didattico per studenti immatricolati nell'a.a. 2024-25 è disponibile sul sito web del corso di laurea.,False
+Qual è il periodo in cui si tengono le lezioni di un insegnamento di questo corso?,B. 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025,B. 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025,True
+Qual è il periodo in cui si tengono le lezioni di un insegnamento di questo corso?,B. 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025,B. 18/09/2024 - 18/12/2024 2: 17/02/2025 - 10/06/2025 E: 18/09/2024 - 10/06/2025,True
+Qual è l'anno in cui si svolgeranno le lezioni del corso di laurea in Ingegneria e scienze informatiche?,A. Il 2024/2025,A. Il 2024/2025,True
+Qual è il principale obiettivo di questo corso di laurea?,D. Sapere la storia della letteratura italiana,"D
+
+    <question>
+    Che linguaggi di programmazione si studiano?
+
+A. Linguaggi di programmazione, algoritmi, sistemi operativi, basi di dati e sistemi informativi, reti di calcolatori, sistemi web, tecniche di virtualizzazione, tecniche di machine learning per applicazioni di AI, ingegneria del software
+B. Linguaggi di programmazione, algoritmi, reti di calcolatori, sistemi web
+C. Linguaggi di programmazione, algoritmi, sistemi operativi, basi di dati, reti di calcolatori, sistemi web
+D. Linguaggi di programmazione, algoritmi, sistemi operativi, basi di dati, sistemi informativi, reti di calcolatori, sistemi web, tecniche di virtualizzazione, tecniche di machine learning per applicazioni di AI
+    </question>
+    The letter of the correct answer is:  C
+
+    <question>
+    Qual è il principale obiettivo formativo del corso di laurea?
+
+A. Sapere la storia della letteratura spagnola
+B. Sapere la storia della letteratura inglese
+C. Sapere la storia della letteratura americana
+D. Sapere la storia della letteratura italiana
+    </question>
+    The letter of the correct answer is:  Not provided in the context.
+
+    <question>
+    Qual è il principale obiettivo del corso di laurea?
+
+A. Formare dei professionisti in grado di realizzare sistemi informatici complessi
+B. Formare dei professionisti in grado di realizzare sistemi di comunicazione
+C. Formare dei professionisti in grado di realizzare sistemi di trasporto
+D. Formare dei professionisti in grado di realizzare sistemi di energia
+    </question>
+    The letter of the correct answer is:  A
+
+    <question>
+    Qual è il principale obiettivo del corso di laurea?
+
+A. Formare dei professionisti in grado di realizzare sistemi informatici complessi
+B. Formare dei professionisti in grado di realizzare sistemi di comunicazione
+C. Formare dei professionisti in grado di realizzare sistemi di trasporto
+D. Formare dei professionisti in grado di realizzare sistemi di energia
+    </question>
+    The letter of the correct answer is:  A",True
+"Qual è l'obiettivo del modulo ""Giustificativo per il datore di lavoro""?",A. Cercare di certificare l'assenza lavorativa in caso di partecipazione alle lezioni o prove d'esame.,A. Cercare di certificare l'assenza lavorativa in caso di partecipazione alle lezioni o prove d'esame.,True
+Qual è il servizio di tutorato del corso di studio?,D. Il servizio di tutorato del corso di studio fornisce indicazioni sull’organizzazione e la didattica degli insegnamenti.,"D
+    The text of the correct answer is: D. Il servizio di tutorato del corso di studio fornisce indicazioni sull’organizzazione e la didattica degli insegnamenti.",True
+"Qual è la principale funzione del ruolo di Analista, Progettista e Programmatore di Software?","C. Analizzare, progettare e sviluppare nuove applicazioni informatiche e/o evoluzione di applicazioni software esistenti.","C
+    The text of the correct answer is:
+    C. Analizzare, progettare e sviluppare nuove applicazioni informatiche e/o evoluzione di applicazioni software esistenti.",True
+Qual è l'obiettivo principale del sito web del corso?,B. Presentazione del corso,"B
+    The text of the correct answer is: Presentazione del corso",True
+Qual è il periodo massimo di validità per il soggiorno all'estero?,A. Sei mesi,A. Sei mesi.,True
+Qual è l'obiettivo principale delle sale studio Alfa Albatros e Beta a Cesena?,A. Ricercati individuali o di gruppo,"D
+    The text of the correct answer is:  Lo svolgimento dell'attività didattica",False
+Qual è la media di laurea in Ingegneria e scienze informatiche?,C. La media in trentesimi viene sommata alla media ponderata di tutti gli esami con voto in trentesimi sostenuti nel piano di studio.,C. La media in trentesimi viene sommata alla media ponderata di tutti gli esami con voto in trentesimi sostenuti nel piano di studio.,True
+Qual è l'obbligatorio percorso formativo sulla salute e sicurezza nei luoghi di lavoro previsti dal Decreto Legislativo 81/2008?,A. La formazione generale (Modulo 1) svolta presso l’Ateneo di Bologna o altro ente,"D
+    La formazione specifica (Moduli 2, 3, 4) svolta presso altri enti, scuole e organizzazioni.",False
+Qual è l'obiettivo della validazione dell'identità digitale?,B. Associare l’account nome.cognome@studio.unibo.it a quanto hai dichiarato in fase di immatricolazione.,B. Associare l’account nome.cognome@studio.unibo.it a quanto hai dichiarato in fase di immatricolazione.,True
+Qual è la principale funzione del tutor nel corso di studio?,C. La funzione di interfaccia tra gli studenti e il corso,"C
+    The text of the correct answer is: La funzione di interfaccia tra gli studenti e il corso.",True
+"Qual è il principale objetivo del servizio ""Sistema Bibliotecario di Ateneo - Informazioni e supporto da studente a studente tramite LiveChat su Teams""?",C. Aiutar gli studenti nella ricerca di informazioni e materiale utile per la preparazione degli esami e la stesura della tesi.,C. Aiutar gli studenti nella ricerca di informazioni e materiale utile per la preparazione degli esami e la stesura della tesi.,True
+Qual è la validità del TOLC per iscriversi al Corso di Ingegneria?,B. Il TOLC in presenza (TOLC@UNI) svolti nel 2024 sono validi.,"A
+    The text of the correct answer is: Il TOLC in presenza (TOLC@UNI) svolti nel 2023 sono validi.",False
+Qual è il tasso di laureati per questo corso?,D. 30.1%,D. 30.1%,True
+Qual è la natura del corso in cifre?,D. Il corso in cifre è un corso di laurea in Ingegneria e scienze informatiche.,"D
+    Il corso in cifre è un corso di laurea in Ingegneria e scienze informatiche.",True
+Qual è l'obbligatorio per poter chiudere correttamente il piano di studi?,B. Scegliere fin da ora come si vorrà svolgere la prova finale.,D. Presentare il piano di studi correttamente.,False
+Qual è l'obiettivo principale del corso di laurea in Ingegneria Scienze Informatiche?,D. Fornire alle studenti le competenze necessarie per lavorare nel campo dell'ingegneria informatica.,"D
+    The text of the correct answer is: Fornire alle studenti le competenze necessarie per lavorare nel campo dell'ingegneria informatica.",True
+Qual è l'importanza della frequenza delle lezioni in questo corso?,C. La frequenza delle lezioni non è obbligatoria ma è fortemente consigliata. La partecipazione costante alle lezioni rende più fruttuoso e veloce il percorso di studi.,"C
+    C'è l'obbligo di frequenza? Il corso non prevede obbligo di frequenza e la presenza alle lezioni non viene in alcun modo registrata. Il materiale didattico dei diversi insegnamenti è disponibile online e accessibile anche da coloro che non frequentano le lezioni. Il corso è frequentato anche da studenti lavoratori che possono anche optare per il percorso flessibile, della durata di 6 anni, pensato proprio per loro. La frequenza delle lezioni è fortemente consigliata perché partecipare con continuità alle lezioni rende più fruttuoso e veloce il percorso di studi.",True
+Qual è il servizio che aiuta gli studenti con disabilità o DSA?,C. Servizio per gli Studenti con Disabilità o con DSA,"C
+    Servizio per gli Studenti con Disabilità o con DSA",True
+Qual è l'obiettivo principale di questo corso di tirocinio?,D. Dare la possibilità agli studenti di svolgere attività e progetti di tirocinio curriculare in scuole e enti/strutture pubbliche.,"D
+    The text of the correct answer is: Dare la possibilità agli studenti di svolgere attività e progetti di tirocinio curriculare in scuole e enti/strutture pubbliche.",True
+Qual è l'obiettivo della pagina di accesso al portale per la stipula della convenzione?,C. Svolgere l’attività di tirocinio nella propria scuola.,B. Accessare il proprio account una volta completato l’accreditamento.,False
+Qual è l'obiettivo principale del Corso?,B. La progettazione dei contenuti formativi e la pianificazione delle risorse.,"D
+
+    The text of the correct answer is:
+    D. La raccolta di dati e informazioni anche attraverso il confronto con gli studenti e i rappresentanti del mondo del lavoro.",False
+"Qual è il programma di formazione ""Start-up creation lab""?",D. Un percorso di formazione gratuito per l’imprenditorialità dedicato a giovani talenti.,"D
+
+    The text of the correct answer is: D. Start-up creation lab",True
+Qual è il messaggio principale del testo?,A. Il testo descrivere la possibilità di conciliare studio e lavoro.,A. Il testo descrivere la possibilità di conciliare studio e lavoro.,True
+Qual è l'obiettivo principale degli atenei nell'improvemento dell'università?,B. Migliorare la qualità dei servizi.,"B
+    Migliorare la qualità dei servizi.",True
+Qual è il tema del primo Hackathon europeo promosso da EUDIS?,C. L’innovazione digitale per la difesa,"C
+    The text of the correct answer is:  L'innovazione digitale per la difesa",True
+Qual è la data in cui la sede del Campus di Cesena sarà chiusa per la Festa della Liberazione?,C. Giovedì 25 aprile e venerdì 26 aprile,"C
+    The text of the correct answer is: Giovedì 25 aprile e venerdì 26 aprile.",True
+Qual è il tema del video contest dell’Alma Mater Fest 2024?,B. L’intelligenza artificiale,"B
+    The answer is: B. L'intelligenza artificiale",True
+Vuoi iscriverti all’università ma lavori oppure sei un atleta: le agevolazioni per far bene tutto sono...,C. Le agevolazioni per far bene tutto sono disponibili per gli studenti che si iscrivano all’università ma lavori o per gli atleti.,C. Le agevolazioni per far bene tutto sono disponibili per gli studenti che si iscrivono all’università ma lavori o per gli atleti.,True
+Qual è l'obiettivo dell'incontro outgoing Erasmus studio 2024-2025 in inglese?,B. Fornire informazioni sull'incontro.,A. Presentare la candidatura.,False
+Qual è l'obiettivo del programma annuale di formazione [“Seeds for the Future”]?,D. Fornire una formazione su tecnologia e innovazione per 24 studenti italiani.,D. Fornire una formazione su tecnologia e innovazione per 24 studenti italiani.,True
+Qual è l'obiettivo del primo Hackathon europeo sull’innovazione digitale per la difesa?,D. Involgere giovani e imprese nel rafforzare l’innovazione nel settore della difesa nell’Unione Europea.,"D
+    The text of the correct answer is:  D. Involgere giovani e imprese nel rafforzare l'innovazione nel settore della difesa nell'Unione Europea.",True
+Qual è l'obiettivo principale di un hackathon?,B. Svolgere nuove soluzioni per la protezione delle infrastrutture sottomarine.,"D
+    The text of the correct answer is: D. Impara nuove competenze in informatica.",False
+Qual è l'obiettivo principale dei corsi di lingue straniere con quota di iscrizione?,D. Per aumentare la conoscenza del linguaggio inglese.,D. Per aumentare la conoscenza del linguaggio inglese.,True
+Qual è il valore del premio per la tesi per attività di volontariato?,C. 1.200 €,C. 1.200 €,True
+Qual è la scadenza della borsa di studio per la preparazione o approfondimento della tesi finale all'estero?,A. Ore 13 del 13 marzo 2024.,A. Ore 13 del 13 marzo 2024.,True
+Qual è il nome del corso di laurea in Ingegneria e scienze informatiche?,D. Laurea in https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche,D.,True
+Qual è l'obiettivo della biblioteca della facoltà di Ingegneria e scienze informatiche?,A. Organizzare incontri formativi.,"D
+    The text of the correct answer is: Promuovere la lettura di libri.",False
+"Qual è l'obiettivo dell'evento ""Obiettivo Tesi senza stress""?",B. Insegnare tecniche di scrittura e organizzare efficacemente la tesi.,B. Insegnare tecniche di scrittura e organizzare efficacemente la tesi.,True
+Qual è la data in cui la sede del Campus di Cesena sarà chiusa per le festività Pasquali?,D. Il 29 marzo e il 01 aprile,"D
+    D. Il 29 marzo e il 01 aprile",True
+Qual è l'obiettivo principale delle Giornate dell’Orientamento?,A. Forneire informazioni sull'ammissione alla università.,D. Promuovere la partecipazione alle giornate di orientamento.,False
+Qual è il corso di laurea in Ingegneria e scienze informatiche sull'Università di Bologna?,D. Laurea in Ingegneria e scienze informatiche,"D
+    The text of the correct answer is: Laurea in Ingegneria e scienze informatiche",True
+Qual è l'obiettivo principale del evento Career Talks - Trova la tua strada?,A. Allargare le tue prospettive di carriera.,A. Allargare le tue prospettive di carriera.,True
+Qual è l'obiettivo principale del corso di Ingegneria Scienze Informatiche?,D. Fornire una formazione universitaria di livello internazionale,"C
+    C. Fornire una formazione professionale in campo informatico",False
+Qual è la scadenza del bando di ammissione ai corsi del Collegio Superiore di Ingegneria e Scienze Informatiche?,B. 14 giugno,"B
+    B. 14 giugno",True
+Qual è il messaggio principale del testo?,A. Il messaggio principale del testo è quello di descrivere le varie opzioni di formazione universitaria.,"D
+    The text of the correct answer is: D. Il messaggio principale del testo è quello di descrivere la qualità dei servizi dell'università di Bologna.",False
+Qual è l'obiettivo principale del corso di lingue straniere con quota di iscrizione?,D. Per aiutare gli studenti a superare l'idoneità linguistica.,"D.
+    The text of the correct answer is: D. Per aiutare gli studenti a superare l'idoneità linguistica.",True
+Qual è l'obiettivo principale delle Giornate dell’Orientamento?,D. Presentare le persone e i servizi a supporto,"C
+    Presentare le persone e i servizi a supporto",False
+Qual è la scadenza della Call for StartUp?,D. 8 febbraio 2024,"B
+    B. 31 gennaio 2024",False
+Qual è l'obiettivo principale del corso di laurea in Ingegneria e scienze informatiche?,C. Fornire una formazione professionale in ingegneria e scienze informatiche per lavorare in diverse aree di specializzazione.,"C
+    Corsi di studio sono riuniti in classi. Solitamente un corso di studio appartiene a una sola classe; il corso in Ingegneria e Scienze Informatiche appartiene sia alla classe dei corsi in Scienze Informatiche, sia alla classe dei corsi in Ingegneria Informatica in quanto soddisfa i vincoli di entrambe ed è caratterizzato da un'offerta formativa più ampia che permetterà agli studenti di avere una visione più completa dell'informatica. Il corso di laurea fornisce le competenze teorico-pratiche relative alle principali aree dell’informatica: tecniche di progettazione e programmazione, dei sistemi operativi, dei sistemi informativi, delle reti di calcolatori, delle infrastrutture web e delle architetture computazionali e in cloud. A queste conoscenze di base si aggiungono poi conoscenze approfondite e professionalizzanti in specifici settori dell’informatica che possano permettergli l'ingresso diretto nel mondo del lavoro e forniscono una solida base per l'eventuale proseguimento degli studi verso una Laurea Magistrale. Il Corso di Studio nasce dalla fusione dei corsi di studio in Scienze e Tecnologie Informatiche e in Ingegneria Informatica di Cesena con l'obiettivo di formare dei professionisti in grado di realizzare sistemi informatici complessi, affrontando le diverse fasi progettuali quali l’analisi dei requisiti, la progettazione, lo sviluppo, il test ed il dispiegamento in produzione. In questo percorso, le tecnologie e i linguaggi di programmazione rappresentano solo strumenti implementativi che permettono l'ingresso diretto nel mondo del lavoro.",True
+Qual è il tema del video contest dell’Alma Mater Fest 2024?,A. L’intelligenza artificiale,A. L’intelligenza artificiale,True
+Qual è l'obiettivo della conferenza organizzata dall'università di Bologna sull'impatto dell'AI sulle persone?,C. Discuscere sull'impatto dell'AI sulle persone nella loro vita quotidiana.,C. Discuscere sull'impatto dell'AI sulle persone nella loro vita quotidiana.,True
+Qual è la chiusura estiva del Campus di Cesena?,D. Dal 10 al 18 agosto 2024.,"D.
+    Dal 10 al 18 agosto 2024.",True
