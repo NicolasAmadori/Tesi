@@ -20,6 +20,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+errorCounter = 0
+lastNumber = 0
+
 class Delimiter:
     def __init__(self, start, end):
         self.start = start
@@ -79,10 +82,11 @@ def get_db_retriever(embedding_model, collection_name, host="0.0.0.0", port="195
         connection_args={"host": host, "port": port},
         collection_name=collection_name
     )
-
-    return vector_store.as_retriever(search_type=search_type, search_kwargs={"k": k})
+    
+    return vector_store.as_retriever(search_type=search_type, search_kwargs={"k": k, "fetch_k":40})
 
 def format_docs(docs):
+    logger.info(f"Numero di documenti passati al modello: {len(docs)}")
     # for doc in docs:
     #     logger.info(doc.metadata["file_name"])
     return "\n\n".join(doc.page_content for doc in docs)
@@ -155,21 +159,34 @@ def generate_collection_answers(collection_name, faq_dataframe, rag_chain, outpu
 
     logger.info(f"Generating answers for the collection: {collection_name} ({original_faq_length} rows)")
 
+    global errorCounter
+    global lastNumber
+
     for index, (domanda, corretta, errata_1, errata_2, errata_3) in enumerate(zip(faq_dataframe["domanda"], faq_dataframe["corretta"], faq_dataframe["errata_1"], faq_dataframe["errata_2"], faq_dataframe["errata_3"]), start=already_generated_answer_number):
         logger.info(f"{index}/{original_faq_length}")
+        if lastNumber != index:
+            errorCounter = 0
+            lastNumber = index
+        elif lastNumber == index and errorCounter >= 3:
+            logger.info(f"Domanda nr {index} saltata perchè ha dato errore 3 volte di fila")
+            continue #Se una domanda ha dato errore 10 volte di fila, allora la salto e passo a quella dopo
 
         #Prepara la domanda e genera la risposta
         randomized_answers, new_correct = randomize_answers([corretta, errata_1, errata_2, errata_3])
         query = domanda + "\n\n" + '\n'.join(randomized_answers)
-        risposta_generata = rag_chain.invoke(query)
+        risposta_generata = ""
+        while risposta_generata == "":
+            risposta_generata = rag_chain.invoke(query)
+            torch.cuda.empty_cache()
 
         #Confronta risposta corretta e risposta generata e aggiungi la riga sul dataframe
         new_correct = new_correct.lstrip()
         risposta_generata = risposta_generata.lstrip()
         output_df.loc[index] = [domanda, new_correct, risposta_generata, new_correct.lower()[0] == risposta_generata.lower()[0]]
         logger.info(f"{new_correct.lower()[0] == risposta_generata.lower()[0]}")
-
-        if index % 10 == 0:
+        
+        output_df.to_csv(complete_path, index=False)
+        if index % 5 == 0:
             output_df.to_csv(complete_path, index=False)
     output_df.to_csv(complete_path, index=False)
    
@@ -190,7 +207,7 @@ def generate_answers(embedding_model_name, collection_tuples, models_dict, hf_to
             rag_chain = get_rag_chain(llm, model_prompt_template, retriever)
 
             faq_dataframe = pd.read_csv(faq_link)
-            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"multiple_choice/answers_with_rag/k_{k}/{model_name}")
+            generate_collection_answers(collection_name, faq_dataframe, rag_chain, output_path=f"multiple_choice/answers/k_{k}/{model_name}")
         
         torch.cuda.empty_cache()
 
@@ -200,9 +217,9 @@ def main():
 
     #(collection_name, collection_faqs)
     COLLECTION_TUPLES = [
-#        ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
-        #  ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
-        ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/matematica/matematica.csv")
+        # ("UniboIngScInf", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/IngegneriaScienzeInformatiche/IngegneriaScienzeInformatiche.csv"),
+        ("UniboSviCoop", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/SviluppoCooperazioneInternazionale/SviluppoCooperazioneInternazionale.csv"),
+        # ("UniboMat", "https://raw.githubusercontent.com/NicolasAmadori/Tesi/refs/heads/main/VectorDb/multiple_choice/questions/matematica/matematica.csv")
         ]
 
     phi3_5_prompt_template = ModelPromptTemplate(
@@ -231,15 +248,11 @@ def main():
     
     TESTING_MODEL_DICT = {
         "microsoft/Phi-3.5-mini-instruct":phi3_5_prompt_template,
-        "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
-        "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
+        # "meta-llama/Meta-Llama-3.1-8B-Instruct":llama3_1_prompt_template,
+        # "mistralai/Mistral-7B-Instruct-v0.3":mistral0_3_prompt_template
     }
 
-    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=4)
-    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=8)
-    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=15)
-    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=20)
-    generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=25)
+    # generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=25)
     generate_answers(EMBEDDING_MODEL_NAME, COLLECTION_TUPLES, TESTING_MODEL_DICT, HF_TOKEN, k=30)
 
 def debug():
@@ -277,9 +290,33 @@ def debug():
         except Exception as e:
             logger.error(f"Error in debug loop: {str(e)}", exc_info=True)
 
+def error_loop():
+    global errorCounter
+    while True:
+        try:
+            # Prova a eseguire il programma
+            main()
+            logger.info("Programma completato senza errori di memoria.")
+            break  # Esce dal ciclo se l'esecuzione ha successo
+        except torch.cuda.OutOfMemoryError:
+            errorCounter+=1
+            logger.info(f"errorCounter di {lastNumber}: {errorCounter}")
+            logger.error("1. Errore di memoria CUDA, svuotamento della cache e riavvio...")
+            torch.cuda.empty_cache()  # Svuota la cache CUDA
+        except RuntimeError as e:
+            if 'out of memory' in str(e):  # Verifica se l'errore è legato alla memoria CUDA
+                errorCounter+=1
+                logger.info(f"errorCounter di {lastNumber}: {errorCounter}")
+                logger.error("2. Errore di memoria CUDA, svuotamento della cache e riavvio...")
+                torch.cuda.empty_cache()  # Svuota la cache CUDA
+            else:
+                # Rilancia l'eccezione se è di un altro tipo
+                raise e
+
 if __name__ == "__main__":
-    DEBUGGING = False
-    if not DEBUGGING:
-        main()
-    else:
-        debug()
+    # DEBUGGING = False
+    # if not DEBUGGING:
+    #     main()
+    # else:
+    #     debug()
+    error_loop()

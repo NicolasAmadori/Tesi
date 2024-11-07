@@ -28,7 +28,7 @@ def print_tree(tree, level=0):
         print_tree(tree[key], level + 1)
 
 def main():
-    CSV_FOLDER_NAME = "multiple_choice/answers_with_rag"
+    CSV_FOLDER_NAME = "multiple_choice/answers"
     dataframes_list = read_csvs(CSV_FOLDER_NAME)
 
     tree = {}
